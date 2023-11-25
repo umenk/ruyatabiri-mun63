@@ -1,0 +1,117 @@
+
+title = "mockuphaven"
+baseurl = "https://mockuphaven.netlify.app"
+MetaDataFormat = "yaml"
+themesDir = "themes"
+theme = "mundanem"
+enableRobotsTXT = true
+summaryLength = 20
+rssLimit = 30
+buildFuture = true
+
+# uglyurls = true
+# paginate = 6
+# buildFuture = true
+# Shortname disqus, silahkan sesuaikan
+# DisqusShortname = "carakabaru"
+# Untuk Google Analytic, silahkan sesuikan
+# googleAnalytics = "UA-XXXX" 
+# Untuk deskripsi tag meta di homepage
+# description = "ok"
+
+[outputs]
+    page = ["HTML"]
+    home = ["HTML", "RSS"]
+    section = ["HTML"]
+    taxonomyTerm = ["HTML"]
+    taxonomy = ["HTML", "RSS"]
+  [outputFormats.RSS]
+    mediatype = "application/rss"
+    baseName = "rss"
+
+[frontmatter]
+    date = ["publishDate", "date", ":default"]
+
+[Params]
+   hold = "/img/placeholder.svg"
+   logo = "/logo.png"
+   description = "Fuel your creativity and streamline your workflow with Get Mockup"
+   copyright = "Copyright 2023 [mockuphaven.netlify.app](https://mockuphaven.netlify.app)"
+
+[permalinks]
+  "post" = "/:filename"
+
+# disableKinds = ["taxonomy", "taxonomyTerm"]
+# disableKinds = ["tags", "term"]
+[Taxonomies]
+    tag = "categories"
+    category = "tags"
+
+[related]
+  includeNewer = true
+  threshold = 80
+  toLower = false
+
+  [[related.indices]]
+    name = "categories"
+    weight = 100
+
+  [[related.indices]]
+    name = "tags"
+    weight = 100
+
+  [[related.indices]]
+    name = "date"
+    weight = 10
+
+[markup]
+  defaultMarkdownHandler = "goldmark"
+#  [markup.asciidocExt]
+#    backend = "html5"
+#    extensions = []
+#    failureLevel = "fatal"
+#    noHeaderOrFooter = true
+#    preserveTOC = false
+#    safeMode = "unsafe"
+#    sectionNumbers = false
+#    trace = false
+#    verbose = false
+#    workingFolderCurrent = false
+#    [markup.asciidocExt.attributes]
+#  [markup.blackFriday]
+#    angledQuotes = false
+#    footnoteAnchorPrefix = ""
+#    footnoteReturnLinkContents = ""
+#    fractions = true
+#    hrefTargetBlank = false
+#    latexDashes = true
+#    nofollowLinks = false
+#    noreferrerLinks = false
+#    plainIDAnchors = true
+#    skipHTML = false
+#    smartDashes = true
+#    smartypants = true
+#    smartypantsQuotesNBSP = false
+#    taskLists = true
+  [markup.tableOfContents]
+    endLevel = 2
+    ordered = false
+    startLevel = 2
+  [markup.goldmark.renderer]
+    unsafe = true
+    enableInlineShortcodes = true
+
+# Biodata Author
+[author]
+    name = "Gabrilugo"
+    homepage = "/"
+    image = "/img/logo.svg"
+
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+[minify]
+    [minify.tdewolff.html]
+      keepQuotes = true 
