@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Kurusu kayisi"
-date: "2023-04-08"
+description: "Ekstra gün kurusu kayisi"
+date: "2023-05-25"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://cdn.shopify.com/s/files/1/0050/6478/6008/products/2373_480x480.png?v=1584563483"
+- "https://www.akcabaharat.com/Uploads/UrunResimleri/buyuk/kayisi-kurusu-kayisi-kuru-jumbo-250-gr-49c03.jpg"
 featuredImage: "https://www.dogalkasa.com/Uploads/UrunResimleri/buyuk/sari-kayisi-kurusu---500-gr-5088.jpg"
-featured_image: "https://www.akcabaharat.com/Uploads/UrunResimleri/buyuk/kayisi-kurusu-kayisi-kuru-jumbo-250-gr-49c03.jpg"
-image: "https://www.akcabaharat.com/Uploads/UrunResimleri/buyuk/kayisi-kurusu-kayisi-kuru-jumbo-250-gr-49c03.jpg"
+featured_image: "http://dogangida.com/images/gun-kurusu-kayisi_73a47.jpg"
+image: "http://dogangida.com/images/gun-kurusu-kayisi_73a47.jpg"
 ---
 
 If you are looking for GÜN KURUSU KAYISI 500 GR you've came to the right page. We have 9 Images about GÜN KURUSU KAYISI 500 GR like EKSTRA GÜN KURUSU KAYISI, KAYISI and also PEYMAN SUN-DRIED APRICOTS / GUN KURUSU KAYISI 12X150 GR – Dara Food. Read more:

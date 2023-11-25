@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Hamarat pelo&#039;nun aklina bayramda sevmedi̇ği̇ akrabalarini göreceği̇"
-date: "2023-06-06"
+description: "Irmak&#039;in akrabalarini toplamaya geldim😂"
+date: "2023-11-09"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/h_BFZG0Vf1s/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHOBYACgAqKAgwIABABGE8gTyhlMA8=&amp;rs=AOn4CLBbTy-LWqEc0Sw2DidaRPa4NryhYw"
-featuredImage: "https://i.ytimg.com/vi/h_BFZG0Vf1s/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHOBYACgAqKAgwIABABGE8gTyhlMA8=&amp;rs=AOn4CLBbTy-LWqEc0Sw2DidaRPa4NryhYw"
-featured_image: "https://i.ytimg.com/vi/HYLCwcE-Dgc/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYRSBHKGUwDw==&amp;rs=AOn4CLC_ulBvmvqa2cf2uT56Qfk3FCYaDA"
-image: "https://i.ytimg.com/vi/h_BFZG0Vf1s/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHOBYACgAqKAgwIABABGE8gTyhlMA8=&amp;rs=AOn4CLBbTy-LWqEc0Sw2DidaRPa4NryhYw"
+- "https://i.ytimg.com/vi/HYLCwcE-Dgc/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYRSBHKGUwDw==&amp;rs=AOn4CLC_ulBvmvqa2cf2uT56Qfk3FCYaDA"
+featuredImage: "https://pbs.twimg.com/media/Fcyada8X0AANSFu.jpg"
+featured_image: "https://i.ytimg.com/vi/h_BFZG0Vf1s/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHOBYACgAqKAgwIABABGE8gTyhlMA8=&amp;rs=AOn4CLBbTy-LWqEc0Sw2DidaRPa4NryhYw"
+image: "https://i.ytimg.com/vi/d3QSRDT_zRk/maxresdefault.jpg"
 ---
 
 If you are looking for Kareena Kapoor Khan's tweet - "Ekta Kapoor to co-produce Rajesh you've came to the right web. We have 9 Pics about Kareena Kapoor Khan's tweet - "Ekta Kapoor to co-produce Rajesh like YÜCEER: "ÖĞRETMENLER ATAMA BEKLERKEN BAKAN AKRABALARINI MEB'E İŞE, Kareena Kapoor Khan's tweet - "Ekta Kapoor to co-produce Rajesh and also maraşta deprem den akrabalarini kaybedenler. - YouTube. Read more:

@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Türkiye diyanet vakfı kapıkule&#039;de gurbetçilere su ve lokum ikram etti"
-date: "2023-02-07"
+description: "Lokum :: lokumlar :: lokum şöleni (special)"
+date: "2023-04-29"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://galeri14.uludagsozluk.com/863/taliban-in-zaferini-lokum-dagitarak-kutlayan-turk_2176827.jpg"
-featuredImage: "https://i.hbrcdn.com/haber/2020/07/20/turkiye-diyanet-vakfindan-kapikule-de-gurbetc-13435385_amp.jpg"
-featured_image: "http://www.enformakvakum.com/wp-content/uploads/2018/08/LOKUM-GİRİŞ.jpg"
-image: "http://www.enformakvakum.com/wp-content/uploads/2018/08/LOKUM-GİRİŞ.jpg"
+- "https://i4.hurimg.com/i/hurriyet/75/750x422/60e554994e3fe00e84c14091.jpg"
+featuredImage: "https://i4.hurimg.com/i/hurriyet/75/750x422/60e554994e3fe00e84c14091.jpg"
+featured_image: "https://galeri14.uludagsozluk.com/863/taliban-in-zaferini-lokum-dagitarak-kutlayan-turk_2176827.jpg"
+image: "https://img3.aksam.com.tr/fotogaleri/galeri/2021/07/07/0707202116256455348283f9e7.jpg"
 ---
 
 If you are searching about Türkiye Diyanet Vakfı Kapıkule'de gurbetçilere su ve lokum ikram etti you've visit to the right page. We have 9 Images about Türkiye Diyanet Vakfı Kapıkule'de gurbetçilere su ve lokum ikram etti like Türkiye Diyanet Vakfından Kapıkule'de gurbetçilere su ve lokum ikramı, Türkiye Diyanet Vakfı gurbetçilere su ve lokum ikram etti - Haber and also Türkiye Diyanet Vakfı gurbetçilere su ve lokum ikram etti - Haber. Read more:

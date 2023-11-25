@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Kurt saldirisina uğradim!"
-date: "2023-02-10"
+description: "Kurt saldirisina uğradim"
+date: "2023-05-15"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.hbrcdn.com/haber/2021/04/18/pancar-toplarken-kurt-saldirisina-ugradi-14073806_amp.jpg"
-featuredImage: "https://i.ytimg.com/vi/f7eCsQJoRBw/maxresdefault.jpg"
-featured_image: "https://i.ytimg.com/vi/WbTXNCcmr10/maxresdefault.jpg"
-image: "https://i.ytimg.com/vi/fvVw2Ki9jC0/maxresdefault.jpg"
+- "https://i.ytimg.com/vi/f7eCsQJoRBw/maxresdefault.jpg"
+featuredImage: "https://i.ytimg.com/vi/8na-NmDCmK8/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEIgWihyMA8=&amp;rs=AOn4CLBKJJ16bEfktMRwR3_XaqZ9SW8kOw"
+featured_image: "https://i.ytimg.com/vi/9my1hDM5P94/maxresdefault.jpg"
+image: "https://i.ytimg.com/vi/9my1hDM5P94/maxresdefault.jpg"
 ---
 
 If you are looking for KURT SALDIRISINA UĞRADIM! - ERZURUM #2 - YouTube you've visit to the right place. We have 9 Pictures about KURT SALDIRISINA UĞRADIM! - ERZURUM #2 - YouTube like KURT SALDIRISINA UĞRADIM - BAHÇESİNDE KURT BESLİYOR! @cumadilsiz - YouTube, ERZURUM DA KURT SALDIRISINA UĞRADIM (2.BÖLÜM) - YouTube and also KURT SALDIRISINA UĞRADIM! RANCH SIMULATOR YENİ GÜNCELLEME RANCH. Here you go:

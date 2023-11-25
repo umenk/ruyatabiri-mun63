@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Yaşlı kadın evinin çatısı yanarken gözyaşlarına boğuldu"
-date: "2023-05-29"
+description: "Rüyada eşiyle cinsel i̇lişkiye girmek nedir"
+date: "2023-02-19"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://www.okuhaber.com/wp-content/uploads/2022/05/adetliyken-iliskiye-girmek-regl-iken-iliskiye-girmek-3.jpg"
-featuredImage: "https://www.okuhaber.com/wp-content/uploads/2022/05/adetliyken-iliskiye-girmek-regl-iken-iliskiye-girmek-3.jpg"
-featured_image: "https://www.ruyadakadingormek.gen.tr/images/ruyada-yasli-kadin-gormek.jpg"
+- "http://ruyalardunyasi.com/wp-content/uploads/2021/04/13.jpg"
+featuredImage: "http://ruyalardunyasi.com/wp-content/uploads/2021/04/13.jpg"
+featured_image: "https://www.okuhaber.com/wp-content/uploads/2022/05/adetliyken-iliskiye-girmek-regl-iken-iliskiye-girmek-3.jpg"
 image: "https://cdn.kadin.com/images/posts/7/8/6/ruyada-cinsel-iliskiye-girmek-ne-anlama-gelir-1561554225.jpg"
 ---
 

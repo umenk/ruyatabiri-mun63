@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Sevgilisinin eski erkek arkadaşını instagram&#039;da tuzak kurup, bıçakladı"
-date: "2023-02-07"
+description: "Eski erkek arkadaşını bıçaklayıp, i̇kinci kattan atladı"
+date: "2023-05-16"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i2.sdacdn.com/haber/2021/11/18/karaman-da-tartistigi-eski-erkek-arkadasini-14537669_osd.jpg"
-featuredImage: "https://i.hbrcdn.com/haber/2021/01/20/ruyada-eski-arkadasini-gormek-nedir-ruyada-eski-13878267_8064_m.jpg"
-featured_image: "https://i.hbrcdn.com/haber/2022/08/18/sevgilisinin-eski-erkek-arkadasini-vuran-suph-2-15187540_amp.jpg"
+- "https://i2.sdacdn.com/haber/2017/10/05/eski-erkek-arkadasini-bicaklayip-ikinci-katta-10101496_osd.jpg"
+featuredImage: "https://cdn.yeniakit.com.tr/images/news/625/eski-erkek-arkadasini-bicaklayan-kadin-tutuklandi-1592730868.jpg"
+featured_image: "https://media-cdn.t24.com.tr/media/stories/2018/04/raw_sevgilisinin-eski-erkek-arkadasini-instagramda-tuzak-kurup-bicakladi_720090969.jpg"
 image: "https://i.hbrcdn.com/haber/2021/01/20/ruyada-eski-arkadasini-gormek-nedir-ruyada-eski-13878267_8064_m.jpg"
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Siyah kuru üzüm faydaları ve besin değeri nedir?"
-date: "2023-04-28"
+description: "Çöplü çekirdekli siyah kuru üzüm"
+date: "2023-10-18"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://www.haberlerim.com.tr/Content/images/News/CoverSize/siyah-kuru-uzum-kac-kalori-siyah-kuru-uzum-kilo-yapar-mi-sismanlatir-mi-zayiflatir-mi-faydali-mi-91920-28052021155544.jpg"
-featuredImage: "https://www.daginciri.com/Uploads/UrunResimleri/siyah-kuru-erik-500-gram-4500-8.jpg"
-featured_image: "https://apollo-ireland.akamaized.net/v1/files/6z333fhhpmr22-LETTR/image"
-image: "https://elazigdogal.com/wp-content/uploads/2021/03/siyah-kuru-uzum-1.jpg"
+- "https://www.daginciri.com/Uploads/UrunResimleri/siyah-kuru-erik-500-gram-4500-8.jpg"
+featuredImage: "https://apollo-ireland.akamaized.net/v1/files/6z333fhhpmr22-LETTR/image"
+featured_image: "https://www.daginciri.com/Uploads/UrunResimleri/siyah-kuru-erik-500-gram-4500-8.jpg"
+image: "https://apollo-ireland.akamaized.net/v1/files/6z333fhhpmr22-LETTR/image"
 ---
 
 If you are looking for Siyah Kuru Üzüm 1 Kg - Elazığ Doğal doğal organik ürün you've visit to the right place. We have 9 Pics about Siyah Kuru Üzüm 1 Kg - Elazığ Doğal doğal organik ürün like Çöplü Çekirdekli Siyah Kuru Üzüm | Maraş Gurme, Siyah Kuru Üzüm Kaç Kalori? Siyah Kuru Üzüm Kilo Yapar mı? Şişmanlatır and also Egzamaya çekirdekli siyah kuru üzüm - Sağlık Haberleri. Here it is:

@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Uşak altın madeni #997070"
-date: "2023-03-04"
+description: "Avrupa’nın en büyük altın madeni geoplas’ı tercih ediyor!"
+date: "2022-11-29"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://www.geselektrik.com.tr/uploads/referans/3_trafo_merkezi/oksut/oksut2.jpg"
-featuredImage: "https://galeri12.uludagsozluk.com/596/usak-altin-madeni_997070.jpg"
-featured_image: "https://galeri12.uludagsozluk.com/596/usak-altin-madeni_997070.jpg"
-image: "https://i.ytimg.com/vi/addEW8GRq28/maxresdefault.jpg"
+- "https://galeri12.uludagsozluk.com/596/usak-altin-madeni_997070.jpg"
+featuredImage: "http://www.nurolinsaat.com.tr/wp-content/uploads/2017/07/lapseki-altin-madeni-projesi-ana.jpg"
+featured_image: "http://www.nurolinsaat.com.tr/wp-content/uploads/2017/07/lapseki-altin-madeni-projesi-ana.jpg"
+image: "https://www.geselektrik.com.tr/uploads/referans/3_trafo_merkezi/oksut/oksut2.jpg"
 ---
 
 If you are looking for Altın Madeni Nasıl Oluşur? Hangi Madenlerden Elde Edilir? ~ CoğrafyaNet you've visit to the right place. We have 9 Images about Altın Madeni Nasıl Oluşur? Hangi Madenlerden Elde Edilir? ~ CoğrafyaNet like Avrupa’nın En Büyük Altın Madeni Geoplas’ı Tercih Ediyor! | Geoplas, Lapseki Altin Madeni Projesi – Nurol İnşaat ve Ticaret A.Ş. and also Kampanya · ERZİNCAN, İLİÇ'TE ALTIN MADENİ İSTEMİYORUZ · Change.org. Here it is:

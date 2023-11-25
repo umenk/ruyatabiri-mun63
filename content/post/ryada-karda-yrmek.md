@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Mahant karda y"
-date: "2023-09-18"
+description: "Karalama defteri"
+date: "2023-02-12"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i2.sdacdn.com/haber/2020/01/15/tebuk-e-kar-yagdi-develer-ve-koyunlar-karda-y-12819202_local_sd.jpg"
-featuredImage: "https://i.ytimg.com/vi/F0TK8gXygoQ/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYGyATKH8wDw==&amp;rs=AOn4CLDFSEN1-7Dj585syiuhqHgT2iaQnw"
-featured_image: "https://3.bp.blogspot.com/-NG3fGE-9TGQ/TzgnLHZ-0aI/AAAAAAAAF_8/RmO-J-1q_QQ/s1600/Karda+Yürümek......jpg"
-image: "https://i.ytimg.com/vi/PV-mkvBB6-Q/maxresdefault.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBZKFUwDw==&amp;rs=AOn4CLAcuMsKi9QHMVXXHNCn4HQ0cvQsRQ"
+- "https://3.bp.blogspot.com/-NG3fGE-9TGQ/TzgnLHZ-0aI/AAAAAAAAF_8/RmO-J-1q_QQ/s1600/Karda+Yürümek......jpg"
+featuredImage: "https://i.ytimg.com/vi/PV-mkvBB6-Q/maxresdefault.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBZKFUwDw==&amp;rs=AOn4CLAcuMsKi9QHMVXXHNCn4HQ0cvQsRQ"
+featured_image: "https://i.ytimg.com/vi/6SKQesLFWZI/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYXyBfKF8wDw==&amp;rs=AOn4CLBGaJQbIulaHWyXRQAnHTIkgTzo9w"
+image: "https://pbs.twimg.com/media/Fcyada8X0AANSFu.jpg"
 ---
 
 If you are searching about Karalama Defteri you've visit to the right web. We have 9 Pictures about Karalama Defteri like Subscribe karda y - YouTube, Siraaa karda y - YouTube and also Siraaa karda y - YouTube. Read more:

@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "‘ev taşımak ne zor işmiş!’"
-date: "2023-09-30"
+description: "Ev taşırken yapmanız gereken kontrol listesi"
+date: "2023-05-24"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://galeri12.uludagsozluk.com/593/ev-tasimak_671473.jpg"
-featuredImage: "https://www.guneydoguguncel.com/images/haberler/ev-tasimak-icin-yuksek-ucret-talep-eden-firmaya-25-bin-lira-ceza.jpg"
-featured_image: "https://i.ytimg.com/vi/36S-A2fquAE/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXihKMA8=&amp;rs=AOn4CLAL5AGGLbUx1jMH07u9oH1lW3ktzg"
-image: "https://www.guneydoguguncel.com/images/haberler/ev-tasimak-icin-yuksek-ucret-talep-eden-firmaya-25-bin-lira-ceza.jpg"
+- "https://iasbh.tmgrup.com.tr/4a4833/650/344/0/85/643/422?u=https://isbh.tmgrup.com.tr/sbh/2022/10/11/ev-tasimak-ne-zor-ismis-1665502418256.jpeg"
+featuredImage: "https://i.ytimg.com/vi/36S-A2fquAE/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXihKMA8=&amp;rs=AOn4CLAL5AGGLbUx1jMH07u9oH1lW3ktzg"
+featured_image: "https://iasbh.tmgrup.com.tr/4a4833/650/344/0/85/643/422?u=https://isbh.tmgrup.com.tr/sbh/2022/10/11/ev-tasimak-ne-zor-ismis-1665502418256.jpeg"
+image: "https://iasbh.tmgrup.com.tr/4a4833/650/344/0/85/643/422?u=https://isbh.tmgrup.com.tr/sbh/2022/10/11/ev-tasimak-ne-zor-ismis-1665502418256.jpeg"
 ---
 
 If you are looking for Ev Taşımak, Bir Seçenekten Fazlası you've visit to the right place. We have 9 Pictures about Ev Taşımak, Bir Seçenekten Fazlası like Ev Taşırken Yapmanız Gereken Kontrol Listesi - Nakilnat Blog, Ev taşımak için yüksek ücret talep eden firmaya 25 bin lira ceza and also Ev Taşımak, Bir Seçenekten Fazlası. Here you go:

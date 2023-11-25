@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Eski diyanet i̇şleri başkanı ‘şeyhin icazetiyle’ göreve geldiğini"
-date: "2023-07-27"
+description: "Diyanet i̇şleri başkanı erbaş, eski kudüs müftüsü sabri ile görüştü"
+date: "2023-11-17"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://media-cdn.t24.com.tr/media/stories/2017/05/raw_diyanet-isleri-baskani-gormezden-gulene-mektup-gonderdigi-iddiasina-cevap_851919235.jpg"
-featuredImage: "https://i.internethaber.com/2/1280/800/storage/files/images/2020/04/20/mehmet-gormez-AzV0_cover.jpg"
-featured_image: "https://tele1.com.tr/wp-content/uploads/2020/05/Untitled-1-59.jpg"
-image: "https://tele1.com.tr/wp-content/uploads/2020/05/Untitled-1-59.jpg"
+- "https://images.bursadabugun.com/haber/2020/07/13/1312514-diyanet-isleri-baskani-erbas-eski-kudus-muftusu-sabri-ile-gorustu-5f0ca4fda3a02.jpg"
+featuredImage: "https://images.bursadabugun.com/haber/2020/07/13/1312514-diyanet-isleri-baskani-erbas-eski-kudus-muftusu-sabri-ile-gorustu-5f0ca4fda3a02.jpg"
+featured_image: "https://diyanethabercomtr.teimg.com/crop/1280x720/diyanethaber-com-tr/images/haberler/2019/05/diyanet_isleri_eski_baskanlarindan_lutfi_dogan_in_esi_vefat_etti_h5322_f0da1.jpg"
+image: "https://media-cdn.t24.com.tr/media/stories/2017/05/raw_diyanet-isleri-baskani-gormezden-gulene-mektup-gonderdigi-iddiasina-cevap_851919235.jpg"
 ---
 
 If you are searching about Diyanet İşleri Eski Başkanlarından Lütfi Doğan'ın eşi vefat etti you've visit to the right place. We have 9 Pictures about Diyanet İşleri Eski Başkanlarından Lütfi Doğan'ın eşi vefat etti like Görevden alınan eski Diyanet İşleri Başkanı: Koronavirüse karşı çareyi, Diyanet İşleri Eski Başkanlarından Lütfi Doğan'ın eşi vefat etti and also Eski Diyanet İşleri Başkanı Mehmet Görmez'in annesi koronadan hayatını. Read more:

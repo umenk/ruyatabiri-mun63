@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Kar geliyor dendiğinde inanmamışlardı, yeni gün bembeyaz başladı"
-date: "2023-01-08"
+description: "Samsun bembeyaz kar, beyaz gelinlik gibi samsun&#039;u örttü 109 mahalle"
+date: "2023-05-08"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://iaysr.tmgrup.com.tr/38373a/780/411/0/96/800/517?u=https://iysr.tmgrup.com.tr/2022/03/04/muglanin-yuksekleri-bembeyaz-kar-kalinligi-30-santime-ulasti-1646394954185.jpeg"
-featuredImage: "https://i.ytimg.com/vi/g7J2G6khoig/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&amp;rs=AOn4CLBRh8SPmJCCDfiErKejFg-NPhP18w"
-featured_image: "https://iaysr.tmgrup.com.tr/38373a/780/411/0/96/800/517?u=https://iysr.tmgrup.com.tr/2022/03/04/muglanin-yuksekleri-bembeyaz-kar-kalinligi-30-santime-ulasti-1646394954185.jpeg"
-image: "https://img.internethaber.com/rcman/Cw1280h720q95gc/storage/files/images/2021/09/23/basliksiz-19-0g1Z_cover.jpg"
+- "https://iaysr.tmgrup.com.tr/455dae/0/0/0/0/800/601?u=https://iysr.tmgrup.com.tr/2022/03/04/muglanin-yuksekleri-bembeyaz-kar-kalinligi-30-santime-ulasti-1646394971184.jpeg&amp;mw=780"
+featuredImage: "http://makedonyauniversiteleri.com/makedonya-kayak-merkezleri_clip_image007.jpg"
+featured_image: "http://makedonyauniversiteleri.com/makedonya-kayak-merkezleri_clip_image007.jpg"
+image: "https://iaysr.tmgrup.com.tr/38373a/780/411/0/96/800/517?u=https://iysr.tmgrup.com.tr/2022/03/04/muglanin-yuksekleri-bembeyaz-kar-kalinligi-30-santime-ulasti-1646394954185.jpeg"
 ---
 
 If you are looking for Kar geliyor dendiğinde inanmamışlardı, yeni gün bembeyaz başladı - Haber3 you've visit to the right place. We have 9 Pics about Kar geliyor dendiğinde inanmamışlardı, yeni gün bembeyaz başladı - Haber3 like Samsun bembeyaz kar, beyaz gelinlik gibi samsun'u örttü 109 mahalle, BODRUM'DA BEMBEYAZ KAR, DRONE ÇEKİMİ | 4K (DJI AİR 2S) - KAĞAN DÖNMEZ and also BODRUM'DA BEMBEYAZ KAR, DRONE ÇEKİMİ | 4K (DJI AİR 2S) - KAĞAN DÖNMEZ. Here you go:

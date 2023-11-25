@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "&quot;aşik oldum ben sana&quot; lyrics by ferdi tayfur: seni görünce tutulur dilim..."
-date: "2023-06-06"
+description: "Sana asik oluyorum meral mansuroglu"
+date: "2023-10-06"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://1001ruyatabiri.com/wp-content/uploads/2018/03/ruyada-asik-gormek-asik-olmak-asik-oldugunu-gormek-ruyada-asik-birini-gormek-ruyada-asik-erkek-kiz-gormek-768x472.jpg"
-featuredImage: "https://www.unlumedyum.com/wp-content/uploads/2021/03/sevdigine-kavusma-ask-duasi-56.jpg"
-featured_image: "https://www.antoloji.com/i/siir/2018/07/17/cennet-sana-asik.jpg"
+- "https://images.ruyandagor.com/2017/05/birini-sevmek-asik-olmak-2009.jpg"
+featuredImage: "https://1001ruyatabiri.com/wp-content/uploads/2018/03/ruyada-asik-gormek-asik-olmak-asik-oldugunu-gormek-ruyada-asik-birini-gormek-ruyada-asik-erkek-kiz-gormek-768x472.jpg"
+featured_image: "https://1001ruyatabiri.com/wp-content/uploads/2018/03/ruyada-asik-gormek-asik-olmak-asik-oldugunu-gormek-ruyada-asik-birini-gormek-ruyada-asik-erkek-kiz-gormek-768x472.jpg"
 image: "https://rituelyapanlar.com/wp-content/uploads/2021/09/birini-kendine-asik-etme-ritueli.jpg"
 ---
 

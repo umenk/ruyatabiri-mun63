@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Tatil bavulu hazırlamak artık daha kolay"
-date: "2023-01-27"
+description: "Rüyada kırmızı renk bavul görmek"
+date: "2023-04-10"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://images.ruyandagor.com/2017/05/acele-bavul-hazirlamak-1422.jpg"
+- "https://www.bestepebloggers.com/wp-content/uploads/2019/04/bavul-hazirlamak_958639_m.jpg"
 featuredImage: "https://www.bestepebloggers.com/wp-content/uploads/2019/04/bavul-hazirlamak_958639_m.jpg"
-featured_image: "https://iasbh.tmgrup.com.tr/326161/752/395/0/0/724/380?u=https://isbh.tmgrup.com.tr/sbh/2021/09/13/ruyada-bavul-gormek-ne-anlama-gelir-ruyada-bavul-hazirlamak-ne-demek-1631518080534.jpg"
+featured_image: "https://images.ruyandagor.com/2017/05/kirmizi-renk-bavul-gormek-2130.jpg"
 image: "https://www.flypgs.com/blog/wp-content/uploads/2016/02/bavul-hazirlamak-icin-son-gunu-bekleme.jpg"
 ---
 

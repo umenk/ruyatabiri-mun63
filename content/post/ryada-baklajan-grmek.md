@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Lada sedan"
-date: "2023-07-07"
+description: "Baklajan se 80s"
+date: "2023-05-17"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/JHBH0X_risw/maxresdefault.jpg"
-featuredImage: "https://i.ytimg.com/vi/JHBH0X_risw/maxresdefault.jpg"
-featured_image: "https://live.staticflickr.com/5503/14023018918_7f600f5b1e_b.jpg"
+- "https://i.ytimg.com/vi/U15Gj73s0D4/maxresdefault.jpg"
+featuredImage: "https://live.staticflickr.com/5259/5453821475_25f15c92fd_b.jpg"
+featured_image: "https://i.ytimg.com/vi/U15Gj73s0D4/maxresdefault.jpg"
 image: "https://i.ytimg.com/vi/U15Gj73s0D4/maxresdefault.jpg"
 ---
 

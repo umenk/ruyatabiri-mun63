@@ -1,13 +1,13 @@
 ---
 title: ""
 description: "Tuvalete sık çıkmak zayıflatır mı? su içince idrar yapmak kilo verdirir"
-date: "2022-12-24"
+date: "2022-11-29"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://www.gundemtube.com/wp-content/uploads/2021/07/tuvalete-sik-cikmak-zayiflatir-mi-su-icince-idrar-yapmak-kilo-verdirir-mi-FnPwmvu5.jpg"
-featuredImage: "https://images.ruyandagor.com/2017/04/tuvalete-buyuk-abdest-yapmak-1944.jpg"
-featured_image: "https://images.ruyandagor.com/2017/04/tuvalete-buyuk-abdest-yapmak-1944.jpg"
+- "https://www.idrarhastaliklari.gen.tr/images/Ruyada-Tuvalete-Idrar-Yapmak-39.gif"
+featuredImage: "https://i4.hurimg.com/i/hurriyet/75/1200x675/5e7f3b80c03c0e2b60e2516f.jpg"
+featured_image: "https://1001ruya.com/wp-content/uploads/RUYADA-TUVALET-GORMEK-YAPMAK-BUYUK-ABDESTINI-YAPMAK-Ruyada-Minibus-Gormek-Binmek-1024x576.jpg"
 image: "https://www.idrarhastaliklari.gen.tr/images/Ruyada-Tuvalete-Idrar-Yapmak-39.gif"
 ---
 

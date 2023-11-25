@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Pms307416atr-75inpms306416ctr-5cn内存芯片"
-date: "2023-02-03"
+description: "Ozan&#039;ca: günün anlami"
+date: "2022-12-08"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://dogruhaber.com.tr/images/21/25/resim-de85c8fa.jpg"
-featuredImage: "https://i.ytimg.com/vi/3RAd7ZaP9Zc/maxresdefault.jpg"
-featured_image: "https://1.bp.blogspot.com/-ILVuAD7Xxz4/UWk1ROi3hmI/AAAAAAAACyY/5hg-V3-tt9I/s1600/58947_10151433075783208_2047760326_n.jpg"
+- "https://www.mektebidervis.com/image/catalog/Temel Dini/ayetel-kursi-okunusu-meali-arapca.jpg"
+featuredImage: "https://www.mektebidervis.com/image/catalog/Temel Dini/ayetel-kursi-okunusu-meali-arapca.jpg"
+featured_image: "https://www.mektebidervis.com/image/catalog/Temel Dini/ayetel-kursi-okunusu-meali-arapca.jpg"
 image: "https://img-s2.onedio.com/id-61b9f891fe9e5aef4e539c34/rev-0/w-620/f-jpg/s-0814389b548ad653c5ee519cb4223ddb94608574.jpg"
 ---
 

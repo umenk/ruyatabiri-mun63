@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Vasiyet nedir? vasiyet etmek ne demektir? anlamı"
-date: "2023-05-04"
+description: "Suriyeli kızın vasiyet mektubu cumhurbaşkanı erdoğan&#039;ı çok etkiledi"
+date: "2023-06-06"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://static.birgun.net/resim/haber-detay-resim/2016/06/23/oldurulen-isid-uyesinin-vasiyet-mektubu-152556-5.jpg"
+- "https://www.bursa.com/files/uploads/news/default/ol/oldurulen-isid-cinin-vasiyet-mektubu-7237753jpeg-570333.jpg?t=1676427659"
 featuredImage: "https://i.ytimg.com/vi/BppjpuelRbI/maxresdefault.jpg"
-featured_image: "https://i2.sdacdn.com/haber/2016/06/23/oldurulen-isid-cinin-vasiyet-mektubu-kanlarin-8553030_x_amp.jpg"
-image: "https://i2.sdacdn.com/haber/2016/06/23/oldurulen-isid-cinin-vasiyet-mektubu-kanlarin-8553030_x_amp.jpg"
+featured_image: "https://www.haberinadresi.com/images/resize/100/656x400/haberler/suriyeli_kizin_vasiyet_mektubu_cumhurbaskani_erdogan_i_cok_etkiledi_h209952_f223f.jpg"
+image: "https://www.haberinadresi.com/images/resize/100/656x400/haberler/suriyeli_kizin_vasiyet_mektubu_cumhurbaskani_erdogan_i_cok_etkiledi_h209952_f223f.jpg"
 ---
 
 If you are looking for vasiyet mektubu - GÜNDEM - Forum Favori you've came to the right place. We have 9 Pictures about vasiyet mektubu - GÜNDEM - Forum Favori like Vasiyet nedir? Vasiyet etmek ne demektir? Anlamı - Laf Sözlük, Öldürülen IŞİD üyesinin vasiyet mektubu and also Suriyeli Kızın Vasiyet Mektubu Cumhurbaşkanı Erdoğan'ı Etkiledi (2. Here it is:

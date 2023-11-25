@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Emare ne demek?"
-date: "2023-06-29"
+description: "Duruk ne demek?"
+date: "2023-07-03"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "http://anlami-nedir.com/resimler/2/transit.jpg"
-featuredImage: "http://anlami-nedir.com/resimler/1/cadde.jpg"
+- "https://anlami-nedir.com/resimler/2/tour-guide.jpg"
+featuredImage: "https://anlami-nedir.com/resimler/2/esasi.jpg"
 featured_image: "https://anlami-nedir.com/resimler/2/esasi.jpg"
-image: "https://anlami-nedir.com/resimler/2/tour-guide.jpg"
+image: "http://anlami-nedir.com/resimler/2/ders-programi.jpg"
 ---
 
 If you are looking for Transit ne demek? - anlami-nedir.com you've visit to the right page. We have 9 Pics about Transit ne demek? - anlami-nedir.com like Cadde ne demek? - anlami-nedir.com, Duruk ne demek? - anlami-nedir.com and also Transit ne demek? - anlami-nedir.com. Here it is:

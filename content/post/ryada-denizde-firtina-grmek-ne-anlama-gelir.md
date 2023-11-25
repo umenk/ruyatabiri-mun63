@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Deni̇zde firtina bekleni̇yor"
-date: "2023-02-18"
+description: "İngi̇ltereye giderken denizde firtina"
+date: "2023-09-19"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://gunceloku.com/uploads/ruyada-denizde-balik-gormek-ne-anlama-gelir-6375256523489.jpg"
-featuredImage: "https://i.cnnturk.com/i/cnnturk/75/740x416/6104e887bf21441690169189.jpg"
+- "https://i.ytimg.com/vi/5wt1_nU5GAw/maxresdefault.jpg"
+featuredImage: "https://i.ytimg.com/vi/HJu8meA9MxE/maxresdefault.jpg"
 featured_image: "https://i.hbrcdn.com/haber/2022/11/02/ruyada-firtina-gormek-ne-demek-ruyada-firtina-15401517_9914_amp.jpg"
-image: "https://i.ytimg.com/vi/5wt1_nU5GAw/maxresdefault.jpg"
+image: "https://i.ytimg.com/vi/HJu8meA9MxE/maxresdefault.jpg"
 ---
 
 If you are looking for İNGİLTEREYE GIDERKEN DENIZDE FIRTINA - YouTube you've came to the right page. We have 9 Images about İNGİLTEREYE GIDERKEN DENIZDE FIRTINA - YouTube like Rüyada Denizde Yüzmek Ne Anlama Gelir? | Mehmet Emin Kırgil - YouTube, Rüyada fırtına görmek ne demek? Rüyada fırtına çıkması, kopması ne and also Rüyada Denizde Yüzmek Ne Anlama Gelir? | Mehmet Emin Kırgil - YouTube. Here it is:

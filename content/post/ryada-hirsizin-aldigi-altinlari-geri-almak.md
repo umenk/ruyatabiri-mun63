@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "&quot;hacca gideceğim elinizdeki altınları verin okutup geri getireyim"
-date: "2023-06-21"
+description: "Krali̇çe i̇le taniştik! hirsizin peşi̇ndeyi̇z!"
+date: "2023-05-05"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/4B9Z0_-xF_Q/maxresdefault.jpg"
-featuredImage: "https://i.ytimg.com/vi/FHRdCF1T000/maxresdefault.jpg"
+- "https://i.ytimg.com/vi/qQbPR3SKuIk/maxresdefault.jpg"
+featuredImage: "https://i.ytimg.com/vi/MjNNhx2Yhuc/maxresdefault.jpg"
 featured_image: "https://i.ytimg.com/vi/9x3RY5_Uwww/maxresdefault.jpg"
-image: "https://www.bursahakimiyet.com.tr/static/44/440596-damat-gelini-altinlari-almak-icin-dovmus-5fa013bbbc474-x750.jpg"
+image: "https://i.hbrcdn.com/haber/2022/07/26/telefon-dolandiricisi-para-ve-altinlari-almak-15109045_amp.jpg"
 ---
 
 If you are searching about "Hacca gideceğim elinizdeki altınları verin okutup geri getireyim you've came to the right web. We have 9 Pictures about "Hacca gideceğim elinizdeki altınları verin okutup geri getireyim like AZERBAYCAN KARABAĞ ALTINLARI İÇİN TÜRKİYE’DEN YARDIM İSTEDİ !! \[ MISIR, HIRSIZIN ARKASINDAN BAKAKALDILAR! - YouTube and also "Hacca gideceğim elinizdeki altınları verin okutup geri getireyim. Here you go:

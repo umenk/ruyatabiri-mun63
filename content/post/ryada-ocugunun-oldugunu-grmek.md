@@ -1,14 +1,14 @@
 ---
 title: ""
 description: "Rinamt2 uyanık oldugunu zanneden arkadaş"
-date: "2022-12-07"
+date: "2023-07-10"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/HYLCwcE-Dgc/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYRSBHKGUwDw==&amp;rs=AOn4CLC_ulBvmvqa2cf2uT56Qfk3FCYaDA"
+- "https://i.ytimg.com/vi/g-xSWoQel1Y/maxresdefault.jpg"
 featuredImage: "https://i.ytimg.com/vi/g-xSWoQel1Y/maxresdefault.jpg"
-featured_image: "https://i.ytimg.com/vi/g-xSWoQel1Y/maxresdefault.jpg"
-image: "https://pbs.twimg.com/media/FgV9zsrXkAAhH00.jpg:large"
+featured_image: "https://i.haber3.com/storage/files/images/2021/12/03/bebeginin-killarla-kapli-oldugunu-g-PlOw.jpg"
+image: "https://pbs.twimg.com/media/FwrDRCDXoAAb3g9.jpg"
 ---
 
 If you are looking for Kareena Kapoor Khan's tweet - "Ekta Kapoor to co-produce Rajesh you've visit to the right place. We have 9 Pictures about Kareena Kapoor Khan's tweet - "Ekta Kapoor to co-produce Rajesh like Kareena Kapoor Khan's tweet - "Ekta Kapoor to co-produce Rajesh, Kusun hamile oldugunu nerden anlariz - YouTube and also lessmou🫶🏻 on Twitter: "10 dkdir dinleyip eski oldugunu anlamayan ben". Here it is:

@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Kavgada tüfekle havaya ateş etmek isterken, yanındaki arkadaşını ağır"
-date: "2023-09-13"
+description: "Rüyada havaya ateş etmek"
+date: "2023-08-12"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://iatkv.tmgrup.com.tr/511bd5/600/314/0/0/2048/1073?u=https:%2f%2fitkv.tmgrup.com.tr%2f2023%2f03%2f03%2foglunun-kavga-ettigi-cocugun-babasini-oldurdu-pes-dedirten-savunma-havaya-ates-etmek-istedim-1677844858124.jpg"
-featuredImage: "https://i.hbrcdn.com/haber/2023/03/17/kavgada-tufekle-havaya-ates-etmek-isterken-15702187_8687_m.jpg"
-featured_image: "https://iatkv.tmgrup.com.tr/1531e8/0/0/0/0/0/0?u=https:%2f%2fitkv.tmgrup.com.tr%2f2023%2f03%2f03%2foglunun-kavga-ettigi-cocugun-babasini-oldurdu-pes-dedirten-savunma-havaya-ates-etmek-istedim-1677844880488.jpg&amp;mw=600"
-image: "https://iatkv.tmgrup.com.tr/1531e8/0/0/0/0/0/0?u=https:%2f%2fitkv.tmgrup.com.tr%2f2023%2f03%2f03%2foglunun-kavga-ettigi-cocugun-babasini-oldurdu-pes-dedirten-savunma-havaya-ates-etmek-istedim-1677844880488.jpg&amp;mw=600"
+- "https://iasbh.tmgrup.com.tr/e205e5/752/395/0/0/600/315?u=https://isbh.tmgrup.com.tr/sbh/2021/02/25/havaya-ates-acan-magandalar-mahalle-bekcilerine-saldirdi-1-bekci-yarali-1614222553504.jpeg"
+featuredImage: "https://i.sozcucdn.com/wp-content/uploads/2020/11/09/iecrop/havaya-ates-maganda-foto-iha_16_9_1604903558-670x371.jpg?w=1200&amp;h=675&amp;mode=crop"
+featured_image: "https://www.adilcevaz13.com/d/news/15003.jpg"
+image: "https://i.sozcucdn.com/wp-content/uploads/2020/11/09/iecrop/havaya-ates-maganda-foto-iha_16_9_1604903558-670x371.jpg?w=1200&amp;h=675&amp;mode=crop"
 ---
 
 If you are looking for Oğlunun kavga ettiği çocuğun babasını öldürdü! Pes dedirten savunma you've visit to the right page. We have 9 Pictures about Oğlunun kavga ettiği çocuğun babasını öldürdü! Pes dedirten savunma like havaya ates etmek cinayettir bssah barzo olma | Türk kültürü… | Flickr, Düğün ve Nişanlarda Havaya Ateş etmek Yasaklandı and also Rüyada Havaya Ateş Etmek - Rüya Meali. Read more:

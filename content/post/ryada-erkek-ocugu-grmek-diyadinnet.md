@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Rüyada erkek bebeği emzirmek"
-date: "2023-05-03"
+description: "3 harfli i̇simler nelerdir? üç harfli kız ve erkek i̇simleri"
+date: "2023-09-12"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://www.diyadinnet.com/img/2022/09/istanbul-dunya-ikincisi-doga-koleji-erkek-basketbol-takimi-turkiye-ye-dondu.jpg"
-featuredImage: "https://www.diyadinnet.com/d/ruya/ruyada-opusmek-biriyle-erkek-ve-esinle-opusmek-ne-anlama-gelir-7712.jpg"
-featured_image: "https://www.diyadinnet.com/img/2022/09/istanbul-dunya-ikincisi-doga-koleji-erkek-basketbol-takimi-turkiye-ye-dondu.jpg"
+- "https://images.ruyandagor.com/2017/04/erkek-bebegi-emzirmek-1332.jpg"
+featuredImage: "https://www.diyadinnet.com/img/2022/09/chp-genel-baskan-yardimcisi-erkek-mus-ta-konustu.jpg"
+featured_image: "https://www.diyadinnet.com/img/2022/09/chp-genel-baskan-yardimcisi-erkek-mus-ta-konustu.jpg"
 image: "https://images.ruyandagor.com/2017/04/erkek-bebegi-emzirmek-1332.jpg"
 ---
 

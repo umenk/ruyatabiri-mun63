@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Rüyada hamile birinin bayıldığını görmek"
-date: "2023-04-10"
+description: "Rüyada erkek çocuğa hamile olduğunu görmek"
+date: "2023-03-14"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://images.ruyandagor.com/2017/05/1-5-aylik-hamile-oldugunu-gormek-1451.jpg"
+- "https://i20.haber7.net/resize/1280x720/haber/haber7/photos/2022/11/ruyada_arkadasini_hamile_gormek_ne_demek_ruyada_akrabanin_hamile_oldugunu_gormek_1647250992_6208.jpg"
 featuredImage: "https://hamileyken.com/wp-content/uploads/2022/04/bekar-birinin-ruyada-hamile-oldugunu-gormesi-1024x645.jpg"
-featured_image: "https://images.ruyandagor.com/2017/04/annemin-hamile-oldugunu-gormek-1830.jpg"
+featured_image: "https://hamileyken.com/wp-content/uploads/2022/04/bekar-birinin-ruyada-hamile-oldugunu-gormesi-1024x645.jpg"
 image: "http://ruyameali.com/wp-content/uploads/2018/05/erkek-cocuga-dokuz-aylik-hamile-oldugunu-gormek.jpg"
 ---
 

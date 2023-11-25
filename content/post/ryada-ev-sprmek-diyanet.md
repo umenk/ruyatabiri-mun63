@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "&#039;cennetten ev&#039; vadeden diyanet tanıtıma 4 milyon lira harcamış!"
-date: "2023-08-11"
+description: "Türkiye diyanet vakfı&#039;ndan depremzede aileler için konteyner ev!"
+date: "2023-07-25"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://www.indyturk.com/sites/default/files/styles/1368x911/public/article/main_image/2020/02/09/282006-353733137.jpg?itok=JKqMbpG2"
-featuredImage: "https://diyanet.nl/wp-content/uploads/2023/02/HDV-Konteyner-Ev-Projesi-copy.jpg"
-featured_image: "https://d.marmaragazetesi.com/news/493393.jpg"
-image: "https://i.hbrcdn.com/haber/2022/09/14/toki-den-ev-almak-caiz-mi-diyanet-e-gore-toki-15274637_6076_amp.jpg"
+- "https://cdn.emlakkulisi.com/resim/orjinal/MTg2ODQxMT-turkiye-diyanet-vakfindan-depremzede-aileler-icin-konteyner-ev.jpg"
+featuredImage: "https://1.bp.blogspot.com/-mrhAEgnKto4/XpSTQlwWHwI/AAAAAAAAkjI/Lon-3KXx9pQaSwxgWNpwHwk6BL1xZ5EhwCLcBGAsYHQ/s640/din%2Bi%25C5%259Fleri.jpg"
+featured_image: "https://diyanet.nl/wp-content/uploads/2023/02/HDV-Konteyner-Ev-Projesi-copy.jpg"
+image: "https://icdn.ensonhaber.com/resimler/diger/kok/2020/01/14/diyanet_8366.jpg"
 ---
 
 If you are looking for Diyanet, TOKİ'den krediyle ev almayı caiz buldu you've visit to the right place. We have 9 Pics about Diyanet, TOKİ'den krediyle ev almayı caiz buldu like Cübbeli Ahmet Hoca,Diyanet'in kredili ev almak için faiz, TOKİ'den ev almak caiz mi? Diyanet'e göre TOKİ'den ev alınır mı and also Diyanet İşleri Başkanı: Kur'an kurslarında bir tuğlası olana cennette. Read more:

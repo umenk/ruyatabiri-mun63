@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Kuru et ve meze paketi"
-date: "2022-12-19"
+description: "Kayısı alemi 1 kg hediyelik kuru kayısı paketi fiyatı"
+date: "2023-08-12"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://gizeminbahcesi.com.tr/316-large_default/kuru-mix-4lue.jpg"
-featuredImage: "https://productimages.hepsiburada.net/s/27/1500/10191027306546.jpg"
-featured_image: "https://productimages.hepsiburada.net/s/271/500/110000257567788.jpg"
+- "https://productimages.hepsiburada.net/s/271/500/110000257567788.jpg"
+featuredImage: "https://st1.myideasoft.com/idea/jn/86/myassets/products/050/vitamin-paketi.jpg?revision=1646657865"
+featured_image: "https://pbs.twimg.com/media/Fcyada8X0AANSFu.jpg"
 image: "https://productimages.hepsiburada.net/s/27/1500/10191027306546.jpg"
 ---
 

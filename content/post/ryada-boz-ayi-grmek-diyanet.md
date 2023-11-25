@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Boz ayi ölüsü bulundu!"
-date: "2023-01-15"
+description: "Dev boz ayi i̇le burun buruna (keklik avında fermadan ayı çıktı )"
+date: "2023-07-08"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "http://www.ereglidemokratmedya.com/image/haber/2021/5/boz-ayi-olusu-bulundu-4-3152021095646.jpg"
-featuredImage: "https://bilimfili.com/wp-content/uploads/2016/07/boz-ayi-ile-kutup-ayisi-melezleri-kuzey-kutbunda-cogaliyor-4.jpg"
-featured_image: "http://www.ereglidemokratmedya.com/image/haber/2021/5/boz-ayi-olusu-bulundu-4-3152021095646.jpg"
-image: "https://cdn.yeniakit.com.tr/images/news/625/sehre-inen-boz-ayi-yaptigi-hareketle-sasirtti-h1535444319-2b8ebc.png"
+- "http://upload.wikimedia.org/wikipedia/commons/7/71/2010-kodiak-bear-1.jpg"
+featuredImage: "https://iaysr.tmgrup.com.tr/065781/659/460/0/8/800/566?u=https://iysr.tmgrup.com.tr/2018/01/14/dayakci-kocaya-boz-ayi-cezasi-1515949610302.jpg"
+featured_image: "https://iaysr.tmgrup.com.tr/065781/659/460/0/8/800/566?u=https://iysr.tmgrup.com.tr/2018/01/14/dayakci-kocaya-boz-ayi-cezasi-1515949610302.jpg"
+image: "http://www.ereglidemokratmedya.com/image/haber/2021/5/boz-ayi-olusu-bulundu-4-3152021095646.jpg"
 ---
 
 If you are searching about BOZ AYI ÖLÜSÜ BULUNDU! - Kdz.Ereğli Demokrat Medya you've came to the right page. We have 9 Pics about BOZ AYI ÖLÜSÜ BULUNDU! - Kdz.Ereğli Demokrat Medya like Dayakçı kocaya “boz ayı” cezası! - Gündem Haberleri, File:2010-kodiak-bear-1.jpg - Wikipedia and also Dayakçı kocaya “boz ayı” cezası! - Gündem Haberleri. Here it is:

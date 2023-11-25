@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Kuslar(bird)piriltili"
-date: "2023-07-13"
+description: "&quot;uçun kuşlar&quot; lyrics by ahmet kaya: 2 x ucun kuslar..."
+date: "2023-07-12"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "http://gulgifleri.g.u.pic.centerblog.net/2aa133dd.gif"
-featuredImage: "http://cdn.eso.org/images/screen/tarantula.jpg"
-featured_image: "https://i.ytimg.com/vi/5Amdg4qTYPU/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AGMAoAC4AOKAgwIABABGGEgVihlMA8=&amp;rs=AOn4CLADGfvr9fCy7FcK8KTJaI82QtRCyw"
-image: "https://gulvuslat.files.wordpress.com/2010/11/bfcyfck20torun.jpg"
+- "https://www.flashlyrics.com/image/tw/ebru-yasar/kuslar-21"
+featuredImage: "https://www.flashlyrics.com/image/tw/ahmet-kaya/ucun-kuslar-85"
+featured_image: "https://i.ytimg.com/vi/HYLCwcE-Dgc/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYRSBHKGUwDw==&amp;rs=AOn4CLC_ulBvmvqa2cf2uT56Qfk3FCYaDA"
+image: "https://i.ytimg.com/vi/HYLCwcE-Dgc/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYRSBHKGUwDw==&amp;rs=AOn4CLC_ulBvmvqa2cf2uT56Qfk3FCYaDA"
 ---
 
 If you are looking for Team Garchomp Team Zacian CP3213 - YouTube you've visit to the right web. We have 9 Pics about Team Garchomp Team Zacian CP3213 - YouTube like KUSLAR(BIRD)PIRILTILI, The Tarantula Nebula | ESO Deutschland and also "UÇUN KUŞLAR" LYRICS by AHMET KAYA: 2 x Ucun kuslar.... Here you go:

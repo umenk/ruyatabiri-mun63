@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Eşini öldürüp dereye attığı i̇ddia edilen şahıs ve akrabası tutuklandı"
-date: "2023-11-12"
+description: "Tekirdağ&#039;da tartıştığı eşini bıçakladı"
+date: "2023-04-10"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://images.bursadabugun.com/haber/2022/08/29/1540220-tekirdag-da-tartistigi-esini-bicakladi-630cfd9c774b1.jpg"
-featuredImage: "https://www.konyapostasi.com.tr/images/haberler/2022/05/eski-esini-bicaklayarak-oldurdu-1651536042.jpg"
-featured_image: "https://play-lh.googleusercontent.com/VOGLiDNrgKv0JdbinSGE5zEYW0xdzRIXLEJz0tvTCnfIjA3hJNOCe7r3j8P0RDDaAwY=w240-h480"
-image: "https://live.staticflickr.com/3501/3463835988_2d632ffcbb_b.jpg"
+- "https://play-lh.googleusercontent.com/VOGLiDNrgKv0JdbinSGE5zEYW0xdzRIXLEJz0tvTCnfIjA3hJNOCe7r3j8P0RDDaAwY=w240-h480"
+featuredImage: "https://media.kunduz.com/media/question/seo/raw/20220529220114571961-1937861.jpeg?h=512"
+featured_image: "https://www.konyapostasi.com.tr/images/haberler/2022/05/eski-esini-bicaklayarak-oldurdu-1651536042.jpg"
+image: "https://play-lh.googleusercontent.com/VOGLiDNrgKv0JdbinSGE5zEYW0xdzRIXLEJz0tvTCnfIjA3hJNOCe7r3j8P0RDDaAwY=w240-h480"
 ---
 
 If you are searching about thegioitranh | esini\_ne | Flickr you've visit to the right page. We have 9 Pics about thegioitranh | esini\_ne | Flickr like Esini – Icon Pack | SharewareOnSale, karisini-oldurup-sosyal-medyadan-gururlu-hissediyor-yazmisti-kendisinin and also Eşini Öldürüp Dereye Attığı İddia Edilen Şahıs Ve Akrabası Tutuklandı. Here it is:

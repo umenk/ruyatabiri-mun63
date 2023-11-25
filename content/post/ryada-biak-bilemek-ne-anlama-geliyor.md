@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Rüyada bıçak görmek nasıl yorumlanır? rüyada bıçak bilemek ne anlama"
-date: "2023-07-16"
+description: "Rüyada bıçak görmek ne anlama gelir? rüyada eline bıçak almak, bir şey"
+date: "2023-05-02"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i2.milimaj.com/i/milliyet/75/869x477/61412dc386b245193037c07f.jpg"
+- "https://iasbh.tmgrup.com.tr/3a0e22/752/395/0/0/0/0?u=https://isbh.tmgrup.com.tr/sbh/2020/03/31/ruyada-bicak-gormek-nedir-ne-anlama-gelir-ruyada-bicak-bilemek-bicakla-kovalanmak-1585657541830.jpeg"
 featuredImage: "https://i.ytimg.com/vi/VLl7VRPMjRM/maxresdefault.jpg"
-featured_image: "https://www.nedirs.com/wp-content/uploads/2022/01/Dis-Bilemek.jpg"
+featured_image: "https://i2.milimaj.com/i/milliyet/75/869x477/61412dc386b245193037c07f.jpg"
 image: "https://i.hizliresim.com/Xkl5zi.png"
 ---
 

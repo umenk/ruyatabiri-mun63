@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Kadin üreme organi"
-date: "2023-01-19"
+description: "Yilan ve kadin ci̇nsel organi çok büyük hazi̇ne"
+date: "2023-09-10"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/u_Ey-aOAor4/maxresdefault.jpg"
+- "https://i.ytimg.com/vi/jVa4czTkUGk/maxresdefault.jpg"
 featuredImage: "https://i.ytimg.com/vi/tkE3XBpKuss/maxresdefault.jpg"
-featured_image: "https://i.ytimg.com/vi/QsUF6wnxhWw/maxresdefault.jpg"
+featured_image: "https://i.ytimg.com/vi/u_Ey-aOAor4/maxresdefault.jpg"
 image: "https://i.ytimg.com/vi/_WWtdE0yB14/hqdefault.jpg"
 ---
 

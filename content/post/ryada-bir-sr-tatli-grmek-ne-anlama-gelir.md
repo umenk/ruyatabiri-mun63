@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Ne demek, nedir, ne anlama gelir, ne işe yarar gibi cevaplar"
-date: "2023-11-21"
+description: "Rüyada bebek görmek ne anlama gelir? anlamı nedir?"
+date: "2023-01-21"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.hbrcdn.com/haber/2020/09/22/ruyada-yemek-yemek-ne-anlama-gelir-ruyada-tatli-13618766_5766_amp.jpg"
-featuredImage: "https://www.ilahirahmet.com/wp-content/uploads/2015/11/Rüyada-Bebek-Görmek-Ne-Anlama-Gelir.jpg"
-featured_image: "https://gunceloku.com/uploads/ruyada-olen-birine-tatli-ikram-etmek-ne-anlama-gelir-6398b765b426a.jpg"
+- "https://www.haber.com/storage/cover/685x375/yasam-ruyada-tatli-gormek-ne-anlama-gelir.webp"
+featuredImage: "https://2.bp.blogspot.com/-pOxI32MXf1s/UcmTCU-2hxI/AAAAAAAAAL0/tTaoEUV03g0/s1600/Çoklu+Ortam+(Multimedya)+Nedir,+Ne+demektir,+Ne+anlama+gelir,+ne+işe+yarar.jpg"
+featured_image: "https://i.hbrcdn.com/haber/2020/09/22/ruyada-yemek-yemek-ne-anlama-gelir-ruyada-tatli-13618766_5766_amp.jpg"
 image: "https://www.haber.com/storage/cover/685x375/yasam-ruyada-tatli-gormek-ne-anlama-gelir.webp"
 ---
 

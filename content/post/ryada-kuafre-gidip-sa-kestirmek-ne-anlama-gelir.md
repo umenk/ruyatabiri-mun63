@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Rüyada saç kestirmek ne anlama gelir?"
-date: "2023-08-29"
+description: "Rüyada rüyada saç kestirmek ne anlama gelir? rüyada birinin saçını"
+date: "2023-10-03"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.hbrcdn.com/haber/2021/06/22/ruyada-sac-kesmek-ne-anlama-gelir-14216548_5481_amp.jpg"
-featuredImage: "https://i.pinimg.com/originals/0e/1d/96/0e1d96c8d85ea38a98a5c1f5844c107f.jpg"
-featured_image: "https://modaozeti.com/wp-content/uploads/2020/11/ruyada-sac-kestirmek-1024x576.jpg"
+- "https://image.gazetevatan.com/i/gazetevatan/75/0x410/6187043645d2a066984667ca.jpg"
+featuredImage: "https://i.hbrcdn.com/haber/2019/11/05/ruyada-sac-kestirmek-nedir-ruyada-sac-kestirmek-12583334_5334_amp.jpg"
+featured_image: "https://i.hbrcdn.com/haber/2021/06/22/ruyada-sac-kesmek-ne-anlama-gelir-14216548_5267_m.jpg"
 image: "https://i.hbrcdn.com/haber/2019/11/05/ruyada-sac-kestirmek-nedir-ruyada-sac-kestirmek-12583334_5334_amp.jpg"
 ---
 

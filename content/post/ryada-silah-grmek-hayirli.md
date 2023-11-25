@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Millî savunma bakanı hulusi akar: silah arkadaşlarımıza ve gençlerimize"
-date: "2023-08-27"
+description: "Kirikkale, silah ilanı, ikinci el silah, mke, silah alım satım, 2. el"
+date: "2023-07-02"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/bcEH79TTL0M/maxresdefault.jpg"
-featuredImage: "https://www.silahilanlari.com/plupload/thumb/Advertiser_Image_1117631653513620.jpeg"
-featured_image: "https://silahalimsatim.com/wp-content/uploads/2022/10/325779-scaled-1-1.jpg"
-image: "https://www.silahilanlari.com/public/plupload/thumb/Advertiser_Image_1112521587297917.jpeg"
+- "https://silahalimsatim.com/wp-content/uploads/2022/10/325779-scaled-1-1.jpg"
+featuredImage: "https://www.netsilah.com/uploads/ajax/2022/11/09/WhatsApp-Image-2022-11-09-at-092738-636BA5DB3FAE8.jpeg"
+featured_image: "https://i.ytimg.com/vi/bcEH79TTL0M/maxresdefault.jpg"
+image: "https://silahalimsatim.com/wp-content/uploads/2022/10/906425-1.jpeg"
 ---
 
 If you are searching about KIRIKKALE, silah ilanı, ikinci el silah, mke, silah alım satım, 2. el you've came to the right page. We have 9 Pictures about KIRIKKALE, silah ilanı, ikinci el silah, mke, silah alım satım, 2. el like 20230217\_173625 | 2.el silah ilan sitesi, 20230217\_173641 | 2.el silah ilan sitesi and also TERTEMİZ ŞAHİN 08 - İkinci El Silah, Satılık Silah. Here it is:

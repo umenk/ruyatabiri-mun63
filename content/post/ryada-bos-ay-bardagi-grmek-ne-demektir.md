@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "@regrann from @arzudantarifler"
-date: "2023-08-10"
+description: "Vox pop: georges bardagi de re/max du cartier g.b."
+date: "2023-03-14"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/Gwx4h-IDRUM/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4Ab4EgAKACIoCDAgAEAEYZSBlKGUwDw==&amp;rs=AOn4CLDfhdWMJOOpIi6BOYN6NH09_JWxGQ"
-featuredImage: "https://i.pinimg.com/originals/44/cf/81/44cf81b061b16b894472d7dc36a9d17b.jpg"
-featured_image: "https://i.pinimg.com/originals/44/cf/81/44cf81b061b16b894472d7dc36a9d17b.jpg"
-image: "http://bardagi.ca/images/profile-michael.png"
+- "http://bardagi.ca/images/profile-michael.png"
+featuredImage: "https://iasbh.tmgrup.com.tr/cb5752/821/464/0/128/1254/837?u=https://isbh.tmgrup.com.tr/sbh/2022/12/13/12-cay-bardagi-ne-demek-12-12-13-14-cay-bardagi-ne-kadar-kac-gram-ve-ml-eder-rs1-1670928496566.jpg"
+featured_image: "https://i.ytimg.com/vi/oxRbFs_nQ_g/maxresdefault.jpg"
+image: "https://i.ytimg.com/vi/352RVH0_ots/maxresdefault.jpg"
 ---
 
 If you are looking for @Regrann from @arzudantarifler - #şipşakturşu #yaglitursu siz adina ne you've came to the right web. We have 9 Images about @Regrann from @arzudantarifler - #şipşakturşu #yaglitursu siz adina ne like Mar BARDAGI | Autonomous University of Barcelona, Cerdanyola del Vallès, Karaca Teekanne »Karaca Göbeklitepe Teeset, Türkische Teegläser mit and also 1/2 Çay Bardağı Ne Demek? 1/2, 1/2, 1/3, 1/4 Çay Bardağı Ne Kadar, Kaç. Here you go:

@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Bi̇r bostan patlicanin 🍆 varsa, mi̇safi̇re yetecek kadar yemeği̇n var"
-date: "2023-01-23"
+description: "Patlican mücveri̇"
+date: "2023-01-20"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/WlxY-fHp_nM/hqdefault.jpg"
-featuredImage: "https://cdn.yemek.com/mnresize/1250/833/uploads/2019/05/kuru-patlican-dolmasi-yemekcom.jpg"
-featured_image: "https://i.ytimg.com/vi/HYLCwcE-Dgc/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYRSBHKGUwDw==&amp;rs=AOn4CLC_ulBvmvqa2cf2uT56Qfk3FCYaDA"
-image: "https://i.pinimg.com/originals/83/1d/c3/831dc3dcc1e76a54ccdf995ecd09cfb7.jpg"
+- "https://i.ytimg.com/vi/HYLCwcE-Dgc/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYRSBHKGUwDw==&amp;rs=AOn4CLC_ulBvmvqa2cf2uT56Qfk3FCYaDA"
+featuredImage: "https://i.ytimg.com/vi/FjJJM0BhC1g/maxresdefault.jpg"
+featured_image: "https://1.bp.blogspot.com/-cWXIWWwzk6k/UY09kDURFGI/AAAAAAAAAMs/hPMq0Wg-Sxs/s1600/Titel+Patlican-Gözleme.jpg"
+image: "https://1.bp.blogspot.com/-cWXIWWwzk6k/UY09kDURFGI/AAAAAAAAAMs/hPMq0Wg-Sxs/s1600/Titel+Patlican-Gözleme.jpg"
 ---
 
 If you are looking for PATLICAN MÜCVERİ - YouTube you've visit to the right web. We have 9 Images about PATLICAN MÜCVERİ - YouTube like Zeytinyağlı Kuru Patlıcan Dolması Tarifi, Nasıl Yapılır? (Videolu, Fırında patlıcan, kabak, patates, sivri biber, domates, soğan, sarımsak and also BİR BOSTAN PATLICANIN 🍆 VARSA, MİSAFİRE YETECEK KADAR YEMEĞİN VAR. Read more:

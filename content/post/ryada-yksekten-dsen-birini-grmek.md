@@ -1,12 +1,12 @@
 ---
 title: ""
-description: "Rüyada beyaz gömlek giymiş birini görmek"
-date: "2023-01-03"
+description: "#shorts 💅 easy nail art design #nailart #trending #short #viral #tiktok"
+date: "2023-06-24"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
 - "https://www.theglobeandmail.com/resizer/gozfQFbbkF6FcSeN97ufO7vVcPQ=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/3U6ZLFPFXZM3TEDQN3KB736E4Y.jpg"
-featuredImage: "https://i.ytimg.com/vi/j97FCSEn-D4/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AGMAoAC4AOKAgwIABABGGUgYyhbMA8=&amp;rs=AOn4CLCFjH9UTMbmTDiz0KDIgs1ucrOcRw"
+featuredImage: "https://i.ytimg.com/vi/Y5ZGiyr1O04/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHOBYACgAqKAgwIABABGGUgWShQMA8=&amp;rs=AOn4CLChtAVZM-Hj_eo76fCsEn0q7Rl4MQ"
 featured_image: "https://i.ytimg.com/vi/7fCsen7G01E/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AGUA4AC0AWKAgwIABABGGEgYShhMA8=&amp;rs=AOn4CLCSf726UBuP5ElaQ3EnZHkjoK3CVg"
 image: "https://i.ytimg.com/vi/G3FcseN_UpI/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgQig2MA8=&amp;rs=AOn4CLA1T8INyJ6jAlkIVz7aV98Ek1byxg"
 ---

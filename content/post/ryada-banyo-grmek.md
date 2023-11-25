@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Rüyada banyo görmek ne demek"
-date: "2023-02-01"
+description: "Banyo görselleşti̇rme"
+date: "2023-02-06"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "http://guvenmutfak.com/images/görüntü0022 (custom).jpg"
-featuredImage: "https://3.bp.blogspot.com/-kGuZSLTsWao/U1f7g1R9ApI/AAAAAAAAAQg/oP5VJUtBc4o/s1600/banyo_final_web.jpg"
-featured_image: "http://www.prensesce.com/wp-content/uploads/2012/07/klasik-görünümlü-modern-banyo-tasarımı.jpg"
+- "https://profile-images.xing.com/images/a5897c96cb2f8489f5fc5ceb50844c14-3/aydoğan-sofi.1024x1024.jpg"
+featuredImage: "http://guvenmutfak.com/images/görüntü0028.jpg"
+featured_image: "https://st2.myideasoft.com/idea/io/47/myassets/products/132/1100-banyo-g2.jpg?revision=1632305164"
 image: "https://profile-images.xing.com/images/a5897c96cb2f8489f5fc5ceb50844c14-3/aydoğan-sofi.1024x1024.jpg"
 ---
 

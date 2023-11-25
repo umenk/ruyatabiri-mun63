@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Zülüflerin tutam tutam"
-date: "2023-08-26"
+description: "Tutam tutam matematik festivali"
+date: "2023-11-18"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i4.hurimg.com/i/hurriyet/75/750x422/626f9dc54e3fe10e38506a53.png"
-featuredImage: "https://i4.hurimg.com/i/hurriyet/75/750x422/626f9dc54e3fe10e38506a53.png"
-featured_image: "https://www.turkuler.com/notalar/01979.gif"
+- "https://i.ytimg.com/vi/96Ai1cURlyc/maxresdefault.jpg"
+featuredImage: "https://i.ytimg.com/vi/96Ai1cURlyc/maxresdefault.jpg"
+featured_image: "https://evrimagaci.org/public/event_media/b67a8d49e11a4fd362a47191c50a39e5.jpeg"
 image: "https://i.ytimg.com/vi/i_CEbZHW0SA/maxresdefault.jpg"
 ---
 

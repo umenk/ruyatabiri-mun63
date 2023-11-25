@@ -1,13 +1,13 @@
 ---
 title: "destek anlami Deprem bölgesi̇ne manevi̇ destek"
-description: "Oyak renault çalışanlarından anlamı destek"
-date: "2023-07-21"
+description: "Allahümme bârik duası okunuşu ve anlamı (abone olarak destek"
+date: "2023-08-02"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://www.kayseritempo.org/wp-content/uploads/2023/03/Kunut-Duasi-1-Okunusu-ve-Anlami-Abone-olarak-destek-verebilirsiniz.-Okunusu-ve-anlami.jpg"
+- "https://i.haberler.com/haber/2013/02/25/oyak-renault-calisanlarindan-anlami-destek-4365296_2784_amp.jpg"
 featuredImage: "https://media-cdn.t24.com.tr/media/stories/2012/10/raw_39esed-ile-diyalogun-anlami-yok39_592908471.jpg"
-featured_image: "https://media-cdn.t24.com.tr/media/stories/2012/10/raw_39esed-ile-diyalogun-anlami-yok39_592908471.jpg"
+featured_image: "https://seyitibrahimimamhatip.meb.k12.tr/meb_iys_dosyalar/13/01/757800/resimler/2023_03/k_08113929_0x0-hatim-duasi-okunusu-ve-anlami-bunu-okuyan-10-kat-sevap-kazanir-hatim-duasi-arapca-turkce-okunusu-ve-fazileti-1674825323332.jpg"
 image: "https://www.kayseritempo.org/wp-content/uploads/2023/04/Fatiha-Suresi-Okunusu-ve-Anlami-Abone-olarak-destek-verebilirsiniz.-Okunusu-ve-anlami.jpg"
 ---
 

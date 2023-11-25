@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "F6p hour: 2022 fantasy football draft strategy w/kate magdziuk"
-date: "2023-11-09"
+description: "Diyadinnet haber fragmanı 1"
+date: "2023-11-03"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/7ThfZF6apYg/maxresdefault.jpg"
-featuredImage: "https://r.r10s.jp/ran/img/1001/0004/901/770/649/368/10010004901770649368_1.jpg"
-featured_image: "https://www.diyadinnet.com/img/2023/06/agri-da-devrilen-hafif-ticari-aractaki-1-cocuk-oldu-6-kisi-yaralandi.jpg"
+- "https://www.diyadinnet.com/d/bilgi/5-bes-harfli-kelimeler-nelerdir-1076.jpg"
+featuredImage: "https://www.diyadinnet.com/img/2022/02/van-da-takside-valizinde-uyusturucu-bulunan-zanli-yakalandi.jpg"
+featured_image: "https://i.ytimg.com/vi/7ThfZF6apYg/maxresdefault.jpg"
 image: "https://r.r10s.jp/ran/img/1001/0004/901/770/689/852/10010004901770689852_1.jpg"
 ---
 

@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Siemens fırın temi̇z"
-date: "2023-01-23"
+description: "Cleaning organizing books"
+date: "2023-07-26"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://apollo-ireland.akamaized.net/v1/files/g85dzrtpckpp2-OLXAUTOTR/image"
-featuredImage: "https://www.thespruce.com/thmb/Q5LG4pfaOcihbm3464vy9IK1-oY=/2119x1414/filters:fill(auto,1)/GettyImages-934884504-5c2199e046e0fb0001468c67.jpg"
-featured_image: "https://apollo-ireland.akamaized.net/v1/files/ju1bs97tbr2f3-OLXAUTOTR/image"
+- "https://www.thespruce.com/thmb/Q5LG4pfaOcihbm3464vy9IK1-oY=/2119x1414/filters:fill(auto,1)/GettyImages-934884504-5c2199e046e0fb0001468c67.jpg"
+featuredImage: "https://apollo-ireland.akamaized.net/v1/files/ju1bs97tbr2f3-OLXAUTOTR/image"
+featured_image: "https://apollo-ireland.akamaized.net/v1/files/ialas4kqsafi-OLXAUTOTR/image"
 image: "https://apollo-ireland.akamaized.net/v1/files/dszrwpwpyp5r3-OLXAUTOTR/image"
 ---
 

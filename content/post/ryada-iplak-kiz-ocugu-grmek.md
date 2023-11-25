@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "»es wäre schön, wenn alle menschen linksradikale wären.« / all good"
-date: "2023-08-21"
+description: "Rüyada bebek (canlı) görmek"
+date: "2023-04-27"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://www.ruyatabirleri.gen.tr/wp-content/uploads/2016/12/ruyada-bebek-gormek.jpeg"
-featuredImage: "https://allgood.de/wp-content/uploads/2015/07/KIZ_Hurra-620x434.jpg"
-featured_image: "https://pbs.twimg.com/media/Fcyada8X0AANSFu.jpg"
+- "https://allgood.de/wp-content/uploads/2015/07/KIZ_Hurra-620x434.jpg"
+featuredImage: "https://i.ytimg.com/vi/HYLCwcE-Dgc/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYRSBHKGUwDw==&amp;rs=AOn4CLC_ulBvmvqa2cf2uT56Qfk3FCYaDA"
+featured_image: "https://www.fan-lexikon.de/musik/k-i-z/bilder/l/k-i-z-9372.jpg"
 image: "https://www.ruyatabirleri.gen.tr/wp-content/uploads/2016/12/ruyada-bebek-gormek.jpeg"
 ---
 

@@ -1,12 +1,12 @@
 ---
 title: ""
-description: "Rüyada elini yılan isırması ne anlama gelir? rüyada elini yılan"
-date: "2022-12-29"
+description: "Rüyada kedinin elini isırması"
+date: "2023-07-03"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://images.ruyandagor.com/2017/06/elini-domuz-isirmasi-1841.jpg"
-featuredImage: "https://images.ruyandagor.com/2017/06/elini-domuz-isirmasi-1841.jpg"
+- "https://i.ytimg.com/vi/1RpQT5fYc4c/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgWihCMA8=&amp;rs=AOn4CLCOLNjfFj8j9gQsuqW92-1uCoUUpg"
+featuredImage: "https://images.ruyandagor.com/2017/04/kedinin-elini-isirmasi-1326.jpg"
 featured_image: "https://live.staticflickr.com/4872/46883111521_406d7ce4b5.jpg"
 image: "https://i.hbrcdn.com/haber/2020/12/07/ruyada-kopek-isirmasi-gormek-ne-anlama-geliyor-13784540_8883_m.jpg"
 ---

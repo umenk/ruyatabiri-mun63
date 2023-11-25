@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Rüyada eski sevgiliyi görmek ne anlama gelir? garip bilgiler!"
-date: "2023-04-08"
+description: "Rüyada evliyken eski sevgiliyi görmek"
+date: "2023-05-08"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
 - "https://iatkv.tmgrup.com.tr/a8d10d/0/0/0/0/0/0?u=https:%2f%2fitkv.tmgrup.com.tr%2falbum%2f2021%2f12%2f14%2f1639514072538.jpg&amp;mw=1100&amp;l=1"
 featuredImage: "https://iatkv.tmgrup.com.tr/a8d10d/0/0/0/0/0/0?u=https:%2f%2fitkv.tmgrup.com.tr%2falbum%2f2021%2f12%2f14%2f1639514072538.jpg&amp;mw=1100&amp;l=1"
-featured_image: "https://iatkv.tmgrup.com.tr/a8d10d/0/0/0/0/0/0?u=https:%2f%2fitkv.tmgrup.com.tr%2falbum%2f2021%2f12%2f14%2f1639514072538.jpg&amp;mw=1100&amp;l=1"
+featured_image: "https://iatkv.tmgrup.com.tr/6b1be5/600/314/0/0/800/418?u=https:%2f%2fitkv.tmgrup.com.tr%2falbum%2f2021%2f12%2f14%2f1639514086537.jpg"
 image: "https://image.milimaj.com/i/milliyet/75/0x410/64647e2e86b24479fc3e1a65.jpg"
 ---
 

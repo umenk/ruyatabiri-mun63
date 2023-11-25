@@ -1,11 +1,11 @@
 ---
 title: ""
-description: "Kosmak communications"
-date: "2023-03-19"
+description: "Amlnzu8jukiw3r9rg_jk3wfwsr1pxpd20l6cmjgdssbkhg=s900-c-k-c0x00ffffff-no-rj"
+date: "2023-07-16"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/oGTt7hWYAxw/maxresdefault.jpg"
+- "https://i.ytimg.com/vi/zcbcl6_dllg/maxresdefault.jpg"
 featuredImage: "https://i.ytimg.com/vi/zcbcl6_dllg/maxresdefault.jpg"
 featured_image: "https://i.ytimg.com/vi/2xK3FcHoOlQ/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AGWA4AC0AWKAgwIABABGHIgUyg6MA8=&amp;rs=AOn4CLD1u2UoPa-7KZLUTPaWvh7FR8h17Q"
 image: "https://i.ytimg.com/vi/2xK3FcHoOlQ/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AGWA4AC0AWKAgwIABABGHIgUyg6MA8=&amp;rs=AOn4CLD1u2UoPa-7KZLUTPaWvh7FR8h17Q"

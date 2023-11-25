@@ -1,12 +1,12 @@
 ---
 title: ""
 description: "Evliyken başkasıyla düğün yapan kadından akılalmaz sözler: seni"
-date: "2023-05-03"
+date: "2023-10-02"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://iatkv.tmgrup.com.tr/256296/0/0/0/0/0/0?u=https:%2f%2fitkv.tmgrup.com.tr%2falbum%2f2021%2f12%2f29%2f1640807489790.jpg&amp;mw=1100&amp;l=1"
-featuredImage: "https://i2.sdacdn.com/haber/2021/03/18/evliyken-baskasiyla-dugun-yapan-kadindan-14003500_5998_amp.jpg"
+- "https://i.ytimg.com/vi/oodafvl0zkA/maxresdefault.jpg"
+featuredImage: "https://i.hbrcdn.com/haber/2021/03/18/evliyken-baskasiyla-dugun-yapan-kadindan-14003500_5403_m.jpg"
 featured_image: "https://i2.sdacdn.com/haber/2021/03/18/evliyken-baskasiyla-dugun-yapan-kadindan-14003500_5998_amp.jpg"
 image: "https://www.magazinhaberleri.com/wp-content/uploads/2021/11/berdan-mardini-eski-esim-evliyken-baskasiyla-nikah-kiymis.jpg"
 ---

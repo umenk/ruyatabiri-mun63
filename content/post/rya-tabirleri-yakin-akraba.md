@@ -1,12 +1,12 @@
 ---
 title: ""
-description: "Campesino katarsis"
-date: "2023-05-27"
+description: "Rüyada akraba görmek"
+date: "2023-11-04"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/2EGdZOODDfE/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgUyhNMA8=&amp;rs=AOn4CLDiYDB9yKnczBJFZJXsz_FRq4FdIw"
-featuredImage: "https://i.hbrcdn.com/haber/2014/02/05/uzmanlardan-yakin-akraba-evliligi-uyarisi-5630249_amp.jpg"
+- "https://media.babil.com/kitap/0390303_kuran-ve-genetik-acisindan-yakin-akraba-evliligi_320_43058.jpeg"
+featuredImage: "https://i.ytimg.com/vi/ShUpl7D7aPQ/maxresdefault.jpg"
 featured_image: "https://i.ytimg.com/vi/UB3BWfj3D_g/maxresdefault.jpg"
 image: "https://i.ytimg.com/vi/UB3BWfj3D_g/maxresdefault.jpg"
 ---

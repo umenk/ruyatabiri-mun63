@@ -1,13 +1,13 @@
 ---
 title: ""
 description: "Hızlı namaz kılmak günah mı?"
-date: "2023-02-18"
+date: "2023-06-04"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
 - "https://i.ytimg.com/vi/_Q_x84vcb9k/maxresdefault.jpg"
-featuredImage: "https://1.bp.blogspot.com/-OgjNBMoeI4o/URv0ElP7LeI/AAAAAAAADrM/2l-pU_u7B0E/s1600/namaz-kilmak.jpg"
-featured_image: "https://i.ytimg.com/vi/LxzqNsXMat4/maxresdefault.jpg"
+featuredImage: "https://i.ytimg.com/vi/LxzqNsXMat4/maxresdefault.jpg"
+featured_image: "https://huzurkapisi.com/wp-content/uploads/2019/03/hizli-namaz-kilmak-gunah-mi.jpg"
 image: "https://i.ytimg.com/vi/LxzqNsXMat4/maxresdefault.jpg"
 ---
 

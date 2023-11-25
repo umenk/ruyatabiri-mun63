@@ -1,12 +1,12 @@
 ---
 title: ""
-description: "Kaçakçi kovalamasi"
-date: "2022-12-22"
+description: "Güngören de poli̇s hirsiz kovalamasi sicak görüntüler"
+date: "2023-07-09"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/zVOhrzHv2pM/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgYihaMA8=&amp;rs=AOn4CLBhgW4sqHvQ6JPcyOH1gW-UJVJP0Q"
-featuredImage: "https://i.ytimg.com/vi/6VlvRzw0mQs/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-DoACuAiKAgwIABABGGUgXyhSMA8=&amp;rs=AOn4CLADVoaJxtFQ29DpNkEE7gUoB6rs6w"
+- "https://i.ytimg.com/vi/0m6lnRp8Dd4/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGBMgTyh_MA8=&amp;rs=AOn4CLAkTexzGEqwRZm1qgDzPGJSpmFCag"
+featuredImage: "https://i.ytimg.com/vi/WRXHJTfbZzE/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGDogSihyMA8=&amp;rs=AOn4CLBn0F1BjShPi9eKOM8aZT97AC990g"
 featured_image: "https://i.ytimg.com/vi/6VlvRzw0mQs/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-DoACuAiKAgwIABABGGUgXyhSMA8=&amp;rs=AOn4CLADVoaJxtFQ29DpNkEE7gUoB6rs6w"
 image: "https://i.ytimg.com/vi/Guzg26f9qGA/maxresdefault.jpg"
 ---

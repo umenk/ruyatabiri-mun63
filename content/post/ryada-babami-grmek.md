@@ -1,14 +1,14 @@
 ---
 title: ""
 description: "Babami ağaca bağladik ! bu annemden korkulur / kişkirtma"
-date: "2022-12-02"
+date: "2023-07-09"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/eAATJd4aM4g/maxresdefault.jpg"
-featuredImage: "https://img.grouponcdn.com/deal/2gRxAK1FhDNuoc7gdtKob3X8UPdy/2g-960x576/v1/c870x524.jpg"
-featured_image: "https://i.ytimg.com/vi/Hn2Q8faBQSs/maxresdefault.jpg"
-image: "https://i.ytimg.com/vi/omhWNGsJAvQ/maxresdefault.jpg"
+- "https://i.ytimg.com/vi/ydedga7qm00/maxresdefault.jpg"
+featuredImage: "https://i.ytimg.com/vi/LUKAsgtK3GU/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBMgTCh_MA8=&amp;rs=AOn4CLDkwgyx3vEGW9IOOud4z7pK7Q3rbQ"
+featured_image: "https://i.ytimg.com/vi/LUKAsgtK3GU/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBMgTCh_MA8=&amp;rs=AOn4CLDkwgyx3vEGW9IOOud4z7pK7Q3rbQ"
+image: "https://img.grouponcdn.com/deal/2gRxAK1FhDNuoc7gdtKob3X8UPdy/2g-960x576/v1/c870x524.jpg"
 ---
 
 If you are searching about 4-Gänge-Sushi-Menü - Restaurant Babami am Checkpoint-Charlie | Groupon you've came to the right page. We have 9 Pics about 4-Gänge-Sushi-Menü - Restaurant Babami am Checkpoint-Charlie | Groupon like BABAMI ELEKTRİK ÇARPTI... (AİLEMİ TROLLEDİM) - YouTube, ANNEM BABAMI EVDEN KOVUYOR İŞ BUL ÇALIŞ DİYOR VE BABAMIN CEVABI - YouTube and also NFT z Gołymi Babami (Gothic) - YouTube. Here it is:

@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Patlican oturtma tari̇fi̇"
-date: "2023-01-12"
+description: "Auberginen 1000 g altona city market"
+date: "2022-12-18"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
 - "http://www.acm-shop.de/shop/images/product_images/popup_images/Aubergine (Patlican).jpg"
-featuredImage: "http://2.bp.blogspot.com/_g9kyPW7j_I4/R2JeAAyRqcI/AAAAAAAAAB0/nA6iVxpFZ2U/w1200-h630-p-k-no-nu/KURU+PATLICAN+DOLMASI.JPG"
-featured_image: "http://2.bp.blogspot.com/_6r6DJc-doXc/TVLPpP-ZR5I/AAAAAAAAAIM/bWL3G5diZvg/s640/DSC03575.JPG"
+featuredImage: "https://i.ytimg.com/vi/xHZibu8g0xQ/maxresdefault.jpg"
+featured_image: "https://i.ytimg.com/vi/FjJJM0BhC1g/maxresdefault.jpg"
 image: "https://c8.alamy.com/comp/FC6G43/patlican-musakka-FC6G43.jpg"
 ---
 

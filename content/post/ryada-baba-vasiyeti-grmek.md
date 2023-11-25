@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Semercilik mesleğini, baba vasiyeti olduğu i̇çin sürdürüyor"
-date: "2023-06-19"
+description: "( wesi̇yata baviwi̇ ) kürtçe baba vasi̇yeti̇"
+date: "2023-04-20"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://www.oncusehir.com/images/haberler/2022/07/baba-vasiyeti-ile-afrika-dan-denizli-ye-uc-gelin-geldi-775.jpg"
-featuredImage: "https://i.ytimg.com/vi/deX54wFSirM/maxresdefault.jpg"
-featured_image: "https://i.ytimg.com/vi/Wcapu6WGJpE/maxresdefault.jpg"
-image: "https://i.ytimg.com/vi/deX54wFSirM/maxresdefault.jpg"
+- "https://i.ytimg.com/vi/eKNNbFPQYmY/hqdefault.jpg"
+featuredImage: "https://i.hizliresim.com/1nb3apu.jfif"
+featured_image: "https://i.ytimg.com/vi/eKNNbFPQYmY/hqdefault.jpg"
+image: "https://i.hizliresim.com/1nb3apu.jfif"
 ---
 
 If you are searching about Müslüm Baba'nın Vasiyeti! - Haberler you've came to the right place. We have 9 Pictures about Müslüm Baba'nın Vasiyeti! - Haberler like Semercilik Mesleğini, Baba Vasiyeti Olduğu İçin Sürdürüyor - YouTube, Müslüm Baba'nın Vasiyeti! - Haberler and also Erdal Baba'nın bilinmeyen mezarını buldum.Annesi ile yan yana yatıyor. Read more:

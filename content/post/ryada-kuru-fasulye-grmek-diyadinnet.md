@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Kuru fasulye"
-date: "2023-01-23"
+description: "Fasulye kuru tarifi"
+date: "2023-01-11"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/3Btw1AfwxXM/maxresdefault.jpg"
-featuredImage: "https://4.bp.blogspot.com/-Up7F1BrlCLk/UwEUuAvYWbI/AAAAAAAAADk/QxXDcx5A8ws/s1600/fasulye-kuru-dogansehir-1021x768.JPG"
-featured_image: "https://i.ytimg.com/vi/3Btw1AfwxXM/maxresdefault.jpg"
-image: "https://i.pinimg.com/originals/bd/4d/46/bd4d461c5a4f004c63e44b115e902851.jpg"
+- "http://ruyameali.com/wp-content/uploads/2017/06/fasulye-yemegi.jpg"
+featuredImage: "https://1.bp.blogspot.com/-R5JDTKt4N2Y/W0FTJNF5iWI/AAAAAAAAGnc/Ne3hwBb6K4Iuav7xZCMkvJmpKlkMmCAawCLcBGAs/s1600/kuru-fasulye-tarifi.jpg"
+featured_image: "https://www.eatclub.tv/wp-content/uploads/sites/4/2022/11/ec-kuru-fasalye.jpg"
+image: "https://www.eatclub.tv/wp-content/uploads/sites/4/2022/11/ec-kuru-fasalye.jpg"
 ---
 
 If you are looking for Kuru Fasulye - Weiße Bohnensuppe - Muddis kochen you've visit to the right place. We have 9 Pictures about Kuru Fasulye - Weiße Bohnensuppe - Muddis kochen like Rüyada Fasulye Yemeği Görmek - Rüya Meali, Kuru Fasulye: Türkisches Eintopf-Glück - EAT CLUB and also Bitlis'te sertifikalı kuru fasulye tohumu dağıtımı | Bitlis Haber. Here it is:

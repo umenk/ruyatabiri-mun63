@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Kremali yas pasta tarifi"
-date: "2023-07-04"
+description: "Muz kremalı pasta tarifi, nasıl yapılır?"
+date: "2023-01-21"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://cdn.yemek.com/mncrop/940/625/uploads/2020/10/muz-kremali-pasta-tarifi.jpg"
-featuredImage: "https://i.ytimg.com/vi/Ie0gyptBvlc/maxresdefault.jpg"
-featured_image: "https://i.ytimg.com/vi/DRelfCJLnW0/maxresdefault.jpg"
-image: "https://i.ytimg.com/vi/OJ87gMxBfwk/maxresdefault.jpg"
+- "https://i.ytimg.com/vi/Ie0gyptBvlc/maxresdefault.jpg"
+featuredImage: "https://cdn.yemek.com/uploads/2019/07/facebook-kremali-pasta-tarifleri.jpg"
+featured_image: "https://www.geltatlim.com/uploads/2021/09/buhara-142-633.jpg"
+image: "https://i0.wp.com/bp0.blogger.com/_vueXh8Bf1YA/R1Ha2ERpg8I/AAAAAAAAAFU/cA8OIzi3BwM/s400/HPIM1537.JPG"
 ---
 
 If you are looking for KARE ŞEKLİNDE KREMALI PASTA ANKARA PURSAKLAR | GelTatlim.com you've came to the right web. We have 9 Pictures about KARE ŞEKLİNDE KREMALI PASTA ANKARA PURSAKLAR | GelTatlim.com like KREMALI YAS PASTA TARiFi - YouTube, Hazır Kremalı Pasta Tarifi, Nasıl Yapılır? -Yemek.com - Yemek.com and also KREMALI MAKARNA TARİFİ #makarna #kremalımakarna #pasta #handmade - YouTube. Here it is:

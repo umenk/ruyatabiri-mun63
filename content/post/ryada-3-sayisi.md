@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Vaveyla dergi̇si̇ 3. sayisi çikti"
-date: "2023-07-07"
+description: "E-dergi̇ 3. sayisi i̇le yayinda"
+date: "2023-01-12"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://konyaataturkal.meb.k12.tr/meb_iys_dosyalar/42/01/970654/resimler/2022_01/k_30202244_Vaveyla-Dergisi-3.Sayi.jpg"
-featuredImage: "https://tasovasibal.meb.k12.tr/meb_iys_dosyalar/05/06/959649/resimler/2022_06/k_20113625_mas.jpg"
-featured_image: "https://konyaataturkal.meb.k12.tr/meb_iys_dosyalar/42/01/970654/resimler/2022_01/k_30202244_Vaveyla-Dergisi-3.Sayi.jpg"
-image: "https://mehmetsam.meb.k12.tr/meb_iys_dosyalar/34/17/254315/resimler/2022_06/k_20232304_Ekran-goruntusu-2022-06-20-232240.jpg"
+- "https://i.pinimg.com/originals/7d/a1/77/7da1779390fff3d2469544699cd2099d.jpg"
+featuredImage: "https://i.pinimg.com/originals/7d/a1/77/7da1779390fff3d2469544699cd2099d.jpg"
+featured_image: "https://karamansbl.meb.k12.tr/meb_iys_dosyalar/70/01/972285/resimler/2022_06/k_26233616_kaldirimlar-2.jpg"
+image: "https://i.pinimg.com/originals/a9/31/6a/a9316ad13abc09e34cc12808ac191d9f.jpg"
 ---
 
 If you are searching about E-DERGİ 3. SAYISI İLE YAYINDA - Şehit İdris Bolat Anadolu Lisesi you've came to the right page. We have 9 Images about E-DERGİ 3. SAYISI İLE YAYINDA - Şehit İdris Bolat Anadolu Lisesi like ŞAM'DAN 3.SAYISI İLE SİZLERLE - Sarıyer Mehmet Şam Mesleki ve Teknik, 3 sayisi boyama | Automne and also ÇAMLICA SANAT &amp;EDEBİYAT DERGİSİ 3. SAYISI YAYINLANDI - Çamlıca Kız Lisesi. Here it is:

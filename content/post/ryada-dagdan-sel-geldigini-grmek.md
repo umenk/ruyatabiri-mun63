@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Rüyada sel geldiğini görmek"
-date: "2023-01-27"
+description: "Mudanya&#039;daki sel felaketinden acı haber: 2 gün sonra dere yatağında"
+date: "2023-01-12"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://dokuzeylulcom.teimg.com/crop/1280x720/dokuzeylul-com/uploads/2023/06/agency/dha/dagdan-gelen-sel-sulari-parke-taslarini-soktu.jpg"
-featuredImage: "https://dokuzeylulcom.teimg.com/crop/1280x720/dokuzeylul-com/uploads/2023/06/agency/dha/dagdan-gelen-sel-sulari-parke-taslarini-soktu.jpg"
-featured_image: "https://media.kunduz.com/media/question/seo/raw/20220425102304516381-3593099_zqYyqCw8J.jpg?h=512"
-image: "https://www.diyanetruya.org/wp-content/uploads/2021/04/ruyada-dagdan-sel-geldigini-gormek.jpg"
+- "https://cdn.yeniakit.com.tr/images/news/625/dagdan-gelen-sel-sehri-perisan-etti-h1408653970.jpg"
+featuredImage: "https://www.diyanetruya.org/wp-content/uploads/2021/04/ruyada-dagdan-sel-geldigini-gormek.jpg"
+featured_image: "http://ruyameali.com/wp-content/uploads/2019/03/ruyada-sel-geldigini-gormek-1024x538.jpg"
+image: "https://images.ruyandagor.com/2017/05/dagdan-sel-geldigini-gormek-2113.jpg"
 ---
 
 If you are looking for Mudanya'daki sel felaketinden acı haber: 2 gün sonra dere yatağında you've visit to the right web. We have 9 Pictures about Mudanya'daki sel felaketinden acı haber: 2 gün sonra dere yatağında like Rüyada Dağdan Sel Geldiğini Görmek - ruyandagor.com, Dagdan yola sel gelir🥶 #Kesfet #fyp #fypシ #otsezonu #dag #kendci | TikTok and also 17.1. deprem, sel, fırtına gibi doğal felaketler... - Lise Türkçe. Read more:

@@ -1,12 +1,12 @@
 ---
 title: ""
-description: "Rüyada ölmek psikolojik yorumu"
-date: "2023-02-04"
+description: "Rüyada deprem olduğunu görmek ne anlama gelir? diyanet i̇slami"
+date: "2023-08-26"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://cdn.teknolojibul.com/wp-content/uploads/2022/12/27232445/Ruyada-Deprem-Oldugunu-Gormek.jpg"
-featuredImage: "https://uzmanpsikologum.com/wp-content/uploads/2022/04/ruyada-ucak-dgsmesi-psikolojik-yorumu.jpg"
+- "https://uzmanpsikologum.com/wp-content/uploads/2022/04/ruyada-ucak-dgsmesi-psikolojik-yorumu.jpg"
+featuredImage: "https://bilgesozler.com/wp-content/uploads/2023/02/Ruyada-oldugunu-gormek-psikolojik-yorumu.jpg"
 featured_image: "https://www.anababalik.com/wp-content/uploads/2020/01/deprem-768x1077.jpg"
 image: "https://www.okuhaber.com/wp-content/uploads/2022/03/ruyada-deprem-oldugunu-gormek-ne-anlama-gelir-ruyada-deprem-oldugunu-gormek-diyanet-1-1640221615.jpg"
 ---

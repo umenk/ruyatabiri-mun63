@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Öğrenci̇mi̇zi̇n eş anlamli keli̇meler çalişmasi"
-date: "2023-04-30"
+description: "3. sınıf türkçe eş anlamli (anlamdaş) anlamli keli̇meler çalışma kağıdı"
+date: "2022-12-06"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/A1aVDTgtPiE/maxresdefault.jpg"
+- "https://drcemilortaokulu.meb.k12.tr/meb_iys_dosyalar/34/27/742648/resimler/2020_11/k_30090238_IMG-20201127-WA0028.jpg"
 featuredImage: "https://blog.avantajix.com/wp-content/uploads/2022/05/avantajix_kelimeler.jpg"
-featured_image: "https://i.ytimg.com/vi/A1aVDTgtPiE/maxresdefault.jpg"
-image: "https://zehra-ogretmen.com/uploads/images/BAD06E7E-91F7-4A60-8CA2-C78126EE2C8D.jpeg"
+featured_image: "https://blog.avantajix.com/wp-content/uploads/2022/05/avantajix_kelimeler.jpg"
+image: "https://www.ilimvemedeniyet.com/wp-content/uploads/2021/10/arapca-ve-turkce.jpg"
 ---
 
 If you are searching about Türkçede Eksik Olan Kelimeler Sözlüğü - Avantajix Blog you've visit to the right web. We have 9 Pictures about Türkçede Eksik Olan Kelimeler Sözlüğü - Avantajix Blog like ZIT ANLAMLI KELİMELER /ALMANCA - YouTube, 2. SINIF EŞ ANLAMLI KELİMELER TESTİ - YouTube and also ÖĞRENCİMİZİN EŞ ANLAMLI KELİMELER ÇALIŞMASI - DR CEMİL - FEVZİYE ÖZKAYA. Here it is:

@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Tır yoğunluğu yaşanan çıldır-aktaş gümrük kapısı yolunda 7 kamyon çöp"
-date: "2023-02-12"
+description: "Erzincan&#039;dan depremzedelere şimdiye kadar 275 tır ve 75 kamyon yardım"
+date: "2023-07-21"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://www.diyadinnet.com/img/2022/03/agri-erzurum-kara-yolu-yogun-kar-ve-tipi-nedeniyle-tir-gecisine-kapatildi.jpg"
-featuredImage: "https://www.diyadinnet.com/img/2022/08/meb-den-malatya-daki-anaokulu-ve-ana-siniflari-icin-2-tir-egitim-materyali.jpg"
-featured_image: "https://www.diyadinnet.com/img/2023/02/erzincan-dan-depremzedelere-simdiye-kadar-275-tir-ve-75-kamyon-yardim-gonderildi.jpg"
-image: "https://www.diyadinnet.com/img/2023/01/igdir-seyir-halindeki-yabanci-plakali-tir-alev-aldi.jpg"
+- "https://www.diyadinnet.com/img/2022/04/ardahan-cildir-aktas-gumruk-kapisi-ndaki-tir-kuyrugu-7-kilometreye-ulasti.jpg"
+featuredImage: "https://www.diyadinnet.com/img/2022/11/erzurum-da-otobus-3-tir-ve-otomobilin-karistigi-kazada-5-kisi-yaralandi_2.jpg"
+featured_image: "https://www.diyadinnet.com/img/2022/04/ardahan-cildir-aktas-gumruk-kapisi-ndaki-tir-kuyrugu-7-kilometreye-ulasti.jpg"
+image: "https://www.diyadinnet.com/img/2022/11/erzurum-da-otobus-3-tir-ve-otomobilin-karistigi-kazada-5-kisi-yaralandi_2.jpg"
 ---
 
 If you are looking for Tır yoğunluğu yaşanan çıldır-aktaş gümrük kapısı yolunda 7 kamyon çöp you've visit to the right place. We have 9 Pics about Tır yoğunluğu yaşanan çıldır-aktaş gümrük kapısı yolunda 7 kamyon çöp like Erzincan'dan depremzedelere şimdiye kadar 275 tır ve 75 kamyon yardım, Meb'den malatya'daki anaokulu ve ana sınıfları için 2 tır eğitim and also Meb'den malatya'daki anaokulu ve ana sınıfları için 2 tır eğitim. Read more:

@@ -1,13 +1,13 @@
 ---
 title: "japon baligi anlami ne Japon balığı yemi nasıl olmalıdır?"
-description: "Japon baligi"
-date: "2023-10-04"
+description: "Japon balığı yemi nasıl olmalıdır?"
+date: "2023-01-09"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
 - "https://blog.juenpetmarket.com/wp-content/uploads/2020/10/japon-baligi-goldfish-bakimi-ve-beslenmesi.jpg"
 featuredImage: "https://blog.juenpetmarket.com/wp-content/uploads/2019/10/japon-baligi-yemi-nasil-olmalidir.jpg"
-featured_image: "https://nazarca.com/wp-content/uploads/2012/06/japon-baligi-resim.jpg"
+featured_image: "https://blog.juenpetmarket.com/wp-content/uploads/2019/10/japon-baligi-yemi-nasil-olmalidir.jpg"
 image: "https://www.evcilhayvan.market/wp-content/uploads/2018/11/panda-japon-baligi.jpg"
 ---
 

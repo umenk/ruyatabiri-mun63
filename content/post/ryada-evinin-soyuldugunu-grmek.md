@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Gəncə uşaq evinin məzunu günay vəliyevanın toy mərasimi keçirilib"
-date: "2023-05-01"
+description: "Hasta babası için belçika’dan geldi, evinin soyulduğunu öğrendi"
+date: "2023-02-09"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
 - "https://i.hbrcdn.com/haber/2011/05/11/evinin-soyuldugunu-polisten-ogrendi-2717217_amp.jpg"
-featuredImage: "https://i.hbrcdn.com/haber/2015/02/24/evinin-soyuldugunu-polisten-ogrendi-7003300_x_amp.jpg"
-featured_image: "https://www.bursahakimiyet.com.tr/static/ma/marsilya-nin-yildizi-matteo-guendouzi-mac-sirasinda-evinin-soyuldugunu-ogrendi-1691221872-772-x750.webp"
-image: "https://i.hbrcdn.com/haber/2015/02/24/evinin-soyuldugunu-polisten-ogrendi-7003300_x_amp.jpg"
+featuredImage: "https://i.hbrcdn.com/haber/2022/05/24/istanbul-dan-donunce-evinin-soyuldugunu-goren-14966071_amp.jpg"
+featured_image: "https://i.hbrcdn.com/haber/2015/02/24/evinin-soyuldugunu-polisten-ogrendi-7003300_x_amp.jpg"
+image: "https://www.ens.az/images/news/gence-usaq-evinin-mezunu-gunay-veliyevanin-toy-merasimi-kecirilib.jpeg"
 ---
 
 If you are searching about İstanbul'dan dönünce evinin soyulduğunu gören kişi, polisten yardım you've visit to the right page. We have 9 Images about İstanbul'dan dönünce evinin soyulduğunu gören kişi, polisten yardım like Evinin soyulduğunu jandarmalardan öğrendi, İstanbul'dan dönünce evinin soyulduğunu gören kişi, polisten yardım and also Hasta babası için Belçika’dan geldi, evinin soyulduğunu öğrendi - Yeni Akit. Here it is:

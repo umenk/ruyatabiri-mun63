@@ -1,14 +1,14 @@
 ---
 title: ""
 description: "Uyandiğinda hirsizla göz göze geldi̇!"
-date: "2023-05-12"
+date: "2023-03-15"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/LQpyoQdvSsM/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFcgRShlMA8=&amp;rs=AOn4CLClaUr2z-OOSCeIbersUbuizIr-VQ"
-featuredImage: "https://i.ytimg.com/vi/NymIsR53RDU/maxresdefault.jpg"
-featured_image: "https://i.ytimg.com/vi/ZTcK6FxfX30/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGBEgZShyMA8=&amp;rs=AOn4CLBtZ4uUaV4uLgDkVn89xkNnzkwmCw"
-image: "https://pbs.twimg.com/media/Fcyada8X0AANSFu.jpg"
+- "https://i.ytimg.com/vi/X1FWT_HYh_g/maxresdefault.jpg"
+featuredImage: "https://i.ytimg.com/vi/YvBPH0EOIyI/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYACzgWKAgwIABABGGUgXSg3MA8=&amp;rs=AOn4CLBOXBoGBIvMdBAXFDqow6Igt-PdbQ"
+featured_image: "https://i.ytimg.com/vi/T1yoHmnkkbE/maxresdefault.jpg"
+image: "https://i.ytimg.com/vi/ZVI8LDLWNds/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AGMAoAC4AOKAgwIABABGGUgRyhUMA8=&amp;rs=AOn4CLDvTK17koMoRlj77FrnvXwSQzGmww"
 ---
 
 If you are looking for UYANDIĞINDA HIRSIZLA GÖZ GÖZE GELDİ! - YouTube you've visit to the right page. We have 9 Pics about UYANDIĞINDA HIRSIZLA GÖZ GÖZE GELDİ! - YouTube like UYANDIĞINDA HIRSIZLA GÖZ GÖZE GELDİ! - YouTube, bo ile karsilasmak - YouTube and also HİLEYLE KARSİLASMAK; HİLEMİ DEGİLMİ ?!? - YouTube. Here you go:

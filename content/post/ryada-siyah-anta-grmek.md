@@ -1,9 +1,9 @@
 ---
 title: ""
-description: "Yekta mobilya"
-date: "2022-12-08"
+description: "Bagci gemlik siyah zeytin pet 700 g"
+date: "2023-04-24"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
 - "https://pbs.twimg.com/media/Fcyada8X0AANSFu.jpg"
 featuredImage: "https://c.wallhere.com/photos/93/dc/mercedes_benz_g_klasse_w463_black_rear_view-568875.jpg!d"

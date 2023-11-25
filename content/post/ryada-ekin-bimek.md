@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "B 13 aşağıdaki cümlelerin hangisinde ekin ya..."
-date: "2023-07-11"
+description: "Map tipik zenginleştirme ekin biçme aracı darbe çamur yan ürün"
+date: "2023-11-21"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://media.licdn.com/dms/image/C4E03AQFHWvZgqrVBKw/profile-displayphoto-shrink_800_800/0/1620644572898?e=2147483647&amp;v=beta&amp;t=lJgdG_Pcnk8aA3C2QzC_2jx7cJ9b-DzdAzB75HK0WjA"
-featuredImage: "https://s.alicdn.com/@sc04/kf/Hbd95d10e0afb41f4a9c82b044674524bS.jpg"
-featured_image: "https://pbs.twimg.com/media/Fcyada8X0AANSFu.jpg"
+- "https://i.ytimg.com/vi/M7e9P-tUyvo/maxresdefault.jpg"
+featuredImage: "https://media.kunduz.com/media/question/seo/raw/20220601060200784175-894263.jpeg?h=512"
+featured_image: "https://media.kunduz.com/media/question/seo/raw/20220601060200784175-894263.jpeg?h=512"
 image: "https://i.ytimg.com/vi/M7e9P-tUyvo/maxresdefault.jpg"
 ---
 

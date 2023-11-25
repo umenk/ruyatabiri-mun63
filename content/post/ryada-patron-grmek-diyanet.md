@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Diyanet yasağı delip medya patronu oldu"
-date: "2023-03-28"
+description: "Heybeliada sanatoryumu&#039;nun diyanet&#039;e tahsisi iptal edildi"
+date: "2023-11-01"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://ilerihaber.org/assets/images/img_lib/crop_images/userfiles/diyanet-yasagi-delip-medya-patronu-oldu.jpg"
+- "https://www.patronlardunyasi.com/haber_resim/Heybeliada-daki-Turkiye-nin-ilk-pandemi-hastanesi-Diyanet-e-verildi-239992.jpg"
 featuredImage: "http://www.patronlardunyasi.com/haber_resim/Diyanet-ten-personel-alimi-276249.jpg"
-featured_image: "https://ilerihaber.org/assets/images/img_lib/crop_images/userfiles/diyanet-yasagi-delip-medya-patronu-oldu.jpg"
-image: "https://ilerihaber.org/assets/images/img_lib/crop_images/userfiles/diyanet-yasagi-delip-medya-patronu-oldu.jpg"
+featured_image: "http://www.patronlardunyasi.com/haber_resim/Diyanet-ten-personel-alimi-276249.jpg"
+image: "https://www.patronlardunyasi.com/haber_resim/Diyanet-Isleri-ne-4-bin-538-sozlesmeli-personel-278476-20230427074139.jpg"
 ---
 
 If you are searching about Heybeliada Sanatoryumu'nun Diyanet'e tahsisi iptal edildi you've came to the right place. We have 9 Pics about Heybeliada Sanatoryumu'nun Diyanet'e tahsisi iptal edildi like Diyanet İşleri bütçeyi katladı, Diyanet yasağı delip medya patronu oldu and also Heybeliada Sanatoryumu'nun Diyanet'e tahsisi iptal edildi. Read more:

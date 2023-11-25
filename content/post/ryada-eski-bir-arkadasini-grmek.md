@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Ordu haberleri... ordu&#039;da bir kişi, eski erkek arkadaşını bıçakla"
-date: "2023-01-20"
+description: "Kayseri&#039;de bir kişi kız arkadaşını ve kendisini bıçakla yaraladı"
+date: "2023-07-02"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://images.ruyandagor.com/2017/05/eski-bir-arkadasi-opmek-1413.jpg"
-featuredImage: "https://www.canligaste.com/images/haberler/2022/05/kayseri-de-bir-kisi-kiz-arkadasini-ve-kendisini-bicakla-yaraladi.jpg"
-featured_image: "https://i.hbrcdn.com/haber/2019/03/26/eski-kiz-arkadasini-bicaklayip-kendini-yarala-2-11875009_amp.jpg"
-image: "https://images.ruyandagor.com/2017/04/eski-is-arkadasini-gormek-1742.jpg"
+- "https://images.bursadabugun.com/haber/2022/10/04/1549524-eski-kiz-arkadasini-mezarlikta-boynundan-bicaklamisti-istenen-ceza-belli-oldu-633bf2c9e53d3.jpg"
+featuredImage: "https://i.hbrcdn.com/haber/2022/06/02/pendik-te-eski-kiz-arkadasini-silahla-yaralay-14987711_local.jpg"
+featured_image: "https://images.bursadabugun.com/haber/2022/10/04/1549524-eski-kiz-arkadasini-mezarlikta-boynundan-bicaklamisti-istenen-ceza-belli-oldu-633bf2c9e53d3.jpg"
+image: "https://images.bursadabugun.com/haber/2022/10/04/1549524-eski-kiz-arkadasini-mezarlikta-boynundan-bicaklamisti-istenen-ceza-belli-oldu-633bf2c9e53d3.jpg"
 ---
 
 If you are searching about Eski kız arkadaşını mezarlıkta boynundan bıçaklamıştı! İstenen ceza you've came to the right place. We have 9 Pics about Eski kız arkadaşını mezarlıkta boynundan bıçaklamıştı! İstenen ceza like Ordu haberleri... Ordu'da bir kişi, eski erkek arkadaşını bıçakla, Eski Kız Arkadaşını Bıçaklayıp Kendini Yaraladı - Haberler and also Eski Kız Arkadaşını Bıçaklayıp Kendini Yaraladı - Haberler. Read more:

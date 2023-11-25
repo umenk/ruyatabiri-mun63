@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Sia &quot;dsr&quot; patronu apdruka"
-date: "2022-12-04"
+description: "Patronu oldurmek godzilla geldi !!!"
+date: "2023-01-11"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.gazeteoksijen.com/storage/files/images/2022/10/15/milyarder-medya-patronu-rupert-murdoch-fox-ve-news-corpu-yeniden-birlestirecek-g0OX.jpg"
-featuredImage: "http://2.bp.blogspot.com/-lBmpk_WnIiw/T2g3A0-mSUI/AAAAAAAAA1c/uZhQstLb88I/s1600/patronas.jpg"
-featured_image: "http://2.bp.blogspot.com/-lBmpk_WnIiw/T2g3A0-mSUI/AAAAAAAAA1c/uZhQstLb88I/s1600/patronas.jpg"
+- "https://yt3.googleusercontent.com/ytc/AGIKgqN5G2fXiAmaPfwtU7DGRKObcAvadNaJ0-DspZo-jg=s900-c-k-c0x00ffffff-no-rj"
+featuredImage: "https://yt3.googleusercontent.com/ytc/AGIKgqN5G2fXiAmaPfwtU7DGRKObcAvadNaJ0-DspZo-jg=s900-c-k-c0x00ffffff-no-rj"
+featured_image: "https://media.lrytas.lt/images/2022/11/24/154511729-96ec43db-796c-40a0-8059-dc42c149c6a1.jpg"
 image: "http://2.bp.blogspot.com/-lBmpk_WnIiw/T2g3A0-mSUI/AAAAAAAAA1c/uZhQstLb88I/s1600/patronas.jpg"
 ---
 

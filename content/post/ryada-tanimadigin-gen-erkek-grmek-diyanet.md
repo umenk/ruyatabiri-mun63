@@ -1,13 +1,13 @@
 ---
 title: ""
 description: "Ti̇ktok tanimadiğin i̇nsanlari öpme akimi (kucağına oturdu inanılmaz"
-date: "2023-10-02"
+date: "2023-08-16"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/SL2CgXDaQOY/maxresdefault.jpg"
-featuredImage: "https://1001ruyatabiri.com/wp-content/uploads/2021/08/ruyada-bebek-gormek-ruyada-kayisi-gormek-ruyada-erkek-bebek-kiz-bebek-gormek-ne-demek-diyanet-islami.jpg"
-featured_image: "https://i.sozcucdn.com/wp-content/uploads/2022/02/14/iecrop/diyanet_16_9_1644807600.jpg?w=776&amp;h=436&amp;mode=crop"
+- "https://st1.myideasoft.com/shop/ce/72/myassets/products/382/erkek-string-74.jpg?revision=1545137616"
+featuredImage: "https://i.ytimg.com/vi/Cr2lr-GAZLM/maxresdefault.jpg"
+featured_image: "https://i.ytimg.com/vi/J2NrlRr_dlc/maxresdefault.jpg"
 image: "https://1001ruyatabiri.com/wp-content/uploads/2021/08/ruyada-bebek-gormek-ruyada-kayisi-gormek-ruyada-erkek-bebek-kiz-bebek-gormek-ne-demek-diyanet-islami.jpg"
 ---
 

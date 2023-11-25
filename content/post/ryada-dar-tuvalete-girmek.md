@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Artik o tuvalete gi̇rmek i̇sti̇yorum! 🍑 #atölyegünlükleri"
-date: "2022-12-20"
+description: "Ezan okunurken tuvalete girmek neden günah? ezan okunurken lavaboya"
+date: "2023-02-01"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://static.daktilo.com/sites/830/uploads/2021/05/30/large/aaaa.jpg"
+- "https://i.ytimg.com/vi/3jC9iD3gWpI/maxresdefault.jpg"
 featuredImage: "https://i.ytimg.com/vi/c19IIw1Pf8k/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoACrAOKAgwIABABGE8gZShgMA8=&amp;rs=AOn4CLCpk5W5F4adol6jdM0GiuFrvgSiaQ"
-featured_image: "https://i.ytimg.com/vi/c19IIw1Pf8k/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoACrAOKAgwIABABGE8gZShgMA8=&amp;rs=AOn4CLCpk5W5F4adol6jdM0GiuFrvgSiaQ"
-image: "https://i.ytimg.com/vi/c19IIw1Pf8k/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoACrAOKAgwIABABGE8gZShgMA8=&amp;rs=AOn4CLCpk5W5F4adol6jdM0GiuFrvgSiaQ"
+featured_image: "https://i.hbrcdn.com/haber/2020/08/17/ruyada-tuvalet-gormek-ne-anlama-gelir-ruyada-13514342_1504_amp.jpg"
+image: "https://cdnsta.avansas.com/mnresize/900/-/urun/76714/p1d-02113-levha-girmek-yasaktir-zoom-1.jpg"
 ---
 
 If you are looking for EVDE TUVALETE GİRMEK - YouTube you've came to the right page. We have 9 Pictures about EVDE TUVALETE GİRMEK - YouTube like EVDE TUVALETE GİRMEK - YouTube, ARTIK O TUVALETE GİRMEK İSTİYORUM! 🍑 #atölyegünlükleri - YouTube and also Kafede tuvalete girmek 10 lira - Bursa Hakimiyet. Read more:

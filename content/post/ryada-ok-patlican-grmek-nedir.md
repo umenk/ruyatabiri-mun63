@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Patlican yemekleri̇"
-date: "2023-06-23"
+description: "Auberginen 1000 g altona city market"
+date: "2023-11-20"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/rRD3b0RUqLY/maxresdefault.jpg"
-featuredImage: "https://i.pinimg.com/originals/55/b9/0d/55b90d07d212f4199de94094e7a9a2e8.jpg"
-featured_image: "https://i.ytimg.com/vi/rRD3b0RUqLY/maxresdefault.jpg"
-image: "https://ais.kochbar.de/kbrezept/140409_447130/1500x1500/patlican-salatasi-rezept.jpg"
+- "http://www.turkascihaberleri.com/Resimler/patlican-nedir-patlican-cesitleri-nelerdir-06.jpg"
+featuredImage: "https://i.ytimg.com/vi/8BVoKrzklmo/maxresdefault.jpg"
+featured_image: "https://i.pinimg.com/originals/55/b9/0d/55b90d07d212f4199de94094e7a9a2e8.jpg"
+image: "https://i.pinimg.com/originals/da/81/30/da8130c669f397cee4cbbc21ac6210da.jpg"
 ---
 
 If you are searching about pratik mutfak: Firinda Kiymali Patlican you've came to the right place. We have 9 Images about pratik mutfak: Firinda Kiymali Patlican like PATLICAN ÇIĞIRTMA TARİFİ👌 NASIL YAPILIR? 😋 ZEYTİNYAĞLI PATLICAN YEMEĞİ, Patlican Salatasi - Rezept mit Bild - kochbar.de and also Patlıcan Nedir? Patlıcan Çeşitleri Nelerdir?. Here it is:

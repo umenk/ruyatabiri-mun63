@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Mücbir sebep nedir, ne demek? mücbir sebep hangi durumlarda ilan edilir"
-date: "2023-06-09"
+description: "&#039;&#039;&#039;depreme dayanıklı&#039;&#039; ne demek? 15 şubat 2023 fox haber deprem"
+date: "2023-03-04"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://bilgihanem.com/wp-content/uploads/2017/02/sel-nedir-nasil-olusur-1024x597.jpg"
-featuredImage: "https://static.birgun.net/resim/haber-detay-resim/2020/06/23/istanbul-valiligi-yasanan-sel-felaketinin-bilancosunu-acikladi-747968-5.jpg"
-featured_image: "https://i4.hurimg.com/i/hurriyet/75/1200x675/6116b91467b0a936ecd70246.jpg"
-image: "https://i4.hurimg.com/i/hurriyet/75/0x0/6116b93967b0a936ecd7024c.jpg"
+- "https://i4.hurimg.com/i/hurriyet/75/0x0/6116b93967b0a936ecd7024c.jpg"
+featuredImage: "https://www.cumhuriyet.com.tr/Archive/2021/8/14/1860394/kapak_090725.jpg"
+featured_image: "https://bilgihanem.com/wp-content/uploads/2017/02/sel-nedir-nasil-olusur-1024x597.jpg"
+image: "https://i4.hurimg.com/i/hurriyet/75/0x0/6116b91c67b0a936ecd70248.jpg"
 ---
 
 If you are looking for Sel Felaketi: Türkiye’deki sellerin tek nedeni iklim değişikliği mi? you've visit to the right page. We have 9 Images about Sel Felaketi: Türkiye’deki sellerin tek nedeni iklim değişikliği mi? like Sel Felaketi: Türkiye’deki sellerin tek nedeni iklim değişikliği mi?, Sel felaketi: Kastamonu Bozkurt'ta neden büyük yıkım yaşandı and also Sel Nedir? Nedenleri, Sonuçları, Çeşitleri ve Önleme Yolları Nelerdir. Read more:

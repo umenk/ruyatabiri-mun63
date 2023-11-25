@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Aşağıdaki resmi inceleyiniz. yolcular, belediye otobüsüne binmek ve oto"
-date: "2023-10-12"
+description: "Yaşlı adam yasağa rağmen belediye otobüsüne binmek istedi"
+date: "2023-02-17"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i1.imgiz.com/rshots/10727/belediye-otobusune-kuvetle-binmek_10727441-1320_1200x630.jpg"
-featuredImage: "https://i.haberler.com/haber/2011/10/04/liseli-kiz-binmek-istedigi-belediye-otobusunu-3036372_amp.jpg"
-featured_image: "https://camiahaber.com/wp-content/uploads/2021/10/Sadiq-Khan.png"
-image: "https://i2.milimaj.com/i/milliyet/75/0x410/5f42824b55428408f8a0e0cc.jpg"
+- "https://camiahaber.com/wp-content/uploads/2021/10/Sadiq-Khan.png"
+featuredImage: "https://media.istockphoto.com/id/1224423195/tr/fotoğraf/genç-bir-kadın-belediye-otobüsüne-biniyor.jpg?s=170667a&amp;w=0&amp;k=20&amp;c=LR128LU5Ln-vU45Xu6zUy239YlrThOCKCiT7gfzdo2U="
+featured_image: "https://i.haberler.com/galeri/2015/12/29/foca-da-belediye-otob-307511_b.jpg"
+image: "https://i.haberler.com/haber/2011/10/04/liseli-kiz-binmek-istedigi-belediye-otobusunu-3036372_amp.jpg"
 ---
 
 If you are looking for Liseli Kız, Binmek İstediği Belediye Otobüsünün Altında Kaldı - Haberler you've visit to the right page. We have 9 Images about Liseli Kız, Binmek İstediği Belediye Otobüsünün Altında Kaldı - Haberler like Rüyada Otobüse Binmek Ne Demek? Otobüs Bileti Almak Ve Otobüsten İnmek, Liseli Kız, Binmek İstediği Belediye Otobüsünün Altında Kaldı - Haberler and also Genç Bir Kadın Belediye Otobüsüne Biniyor Stok Fotoğraflar &amp; Otobüs‘nin. Here it is:

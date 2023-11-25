@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Team garchomp team zacian cp3213"
-date: "2023-02-18"
+description: "La ultima pieza del rompecabezas 🎭😂🧘5,000 (a la chingada)"
+date: "2023-03-01"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/HYLCwcE-Dgc/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYRSBHKGUwDw==&amp;rs=AOn4CLC_ulBvmvqa2cf2uT56Qfk3FCYaDA"
-featuredImage: "https://i.ytimg.com/vi/p2p96G4VX64/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBfKFMwDw==&amp;rs=AOn4CLAQenaqywjbuW6VZN2OW9-nBXy_gA"
-featured_image: "https://i.ytimg.com/vi/KdZ3OosEZ6s/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4Ad4EgAK4CIoCDAgAEAEYZSBMKGMwDw==&amp;rs=AOn4CLCfzFvJaPoNerKMbSKycXF-fCyaDA"
+- "https://i.ytimg.com/vi/KdZ3OosEZ6s/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4Ad4EgAK4CIoCDAgAEAEYZSBMKGMwDw==&amp;rs=AOn4CLCfzFvJaPoNerKMbSKycXF-fCyaDA"
+featuredImage: "https://pbs.twimg.com/media/Fcyada8X0AANSFu.jpg"
+featured_image: "https://i.ytimg.com/vi/3tRQNsW6o6w/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYNCBdKGUwDw==&amp;rs=AOn4CLAbX-VKh1rp04AFy4hJhoBbYroXGg"
 image: "https://pbs.twimg.com/media/Fcyada8X0AANSFu.jpg"
 ---
 

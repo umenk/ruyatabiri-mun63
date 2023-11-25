@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Çağla şimşek : r/turkishbeauty"
-date: "2023-01-30"
+description: "Serpil simsek"
+date: "2023-04-07"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://profile-images.xing.com/images/50fd23ee8d8106a9bd320c42c500513b-1/gökhan-şimşek.1024x1024.jpg"
-featuredImage: "https://i1.rgstatic.net/ii/profile.image/602116951375872-1520567276138_Q512/Cem_Simsek3.jpg"
-featured_image: "https://i1.rgstatic.net/ii/profile.image/602116951375872-1520567276138_Q512/Cem_Simsek3.jpg"
+- "https://i.redd.it/s1lrss3ksq341.jpg"
+featuredImage: "https://i.redd.it/s1lrss3ksq341.jpg"
+featured_image: "https://profile-images.xing.com/images/134fdde4f7863e897bc336e72d369d4d-1/kaan-simsek.1024x1024.jpg"
 image: "https://profile-images.xing.com/images/d1d52f0efcb1260c49834a13a562e11e-2/esra-simsek.1024x1024.jpg"
 ---
 

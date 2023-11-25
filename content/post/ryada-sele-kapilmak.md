@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Rüyada sele kapılmak"
-date: "2023-08-23"
+description: "Ruyada dalgaya kapilmak."
+date: "2023-02-13"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://1.bp.blogspot.com/-gbkabs2iLsM/Wo-8TZxjTqI/AAAAAAAAEBE/QAVNW3Q0vNI5g6SvNuKbdYRJPa1cpFrbACLcBGAs/w1200-h630-p-k-no-nu/ruyada-sele-kapilmak.jpg"
-featuredImage: "https://i20.haber7.net/resize/1280x720/haber/haber7/photos/2022/27/ruyada_sel_gormek_ne_demektir_ruyada_sele_kapilmak_iyiye_mi_kotuye_mi_isaret_eder_1657002247_0799.jpg"
-featured_image: "https://i.ytimg.com/vi/kkVDZ8sT_hM/maxresdefault.jpg"
-image: "https://i.ytimg.com/vi/7m42iuw1uwc/maxresdefault.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBXKFIwDw==&amp;rs=AOn4CLD0eiDF8H-EwBCwj2W3cuwIlYJ2UA"
+- "https://i.ytimg.com/vi/kkVDZ8sT_hM/maxresdefault.jpg"
+featuredImage: "https://1.bp.blogspot.com/-gbkabs2iLsM/Wo-8TZxjTqI/AAAAAAAAEBE/QAVNW3Q0vNI5g6SvNuKbdYRJPa1cpFrbACLcBGAs/w1200-h630-p-k-no-nu/ruyada-sele-kapilmak.jpg"
+featured_image: "https://1.bp.blogspot.com/-gbkabs2iLsM/Wo-8TZxjTqI/AAAAAAAAEBE/QAVNW3Q0vNI5g6SvNuKbdYRJPa1cpFrbACLcBGAs/w1200-h630-p-k-no-nu/ruyada-sele-kapilmak.jpg"
+image: "https://i.ytimg.com/vi/LKAFtTSzaxY/maxresdefault.jpg"
 ---
 
 If you are searching about PARAYA KAPILMAK - EOGUZC - YouTube you've came to the right web. We have 9 Pictures about PARAYA KAPILMAK - EOGUZC - YouTube like Sele Kapılmak Nasıl Yazılır? -NTV Haber, Rüyada sel olduğunu görmek ne demektir? Rüyada sele kapılmak iyiye mi and also Rüyada sel olduğunu görmek ne demektir? Rüyada sele kapılmak iyiye mi. Here you go:

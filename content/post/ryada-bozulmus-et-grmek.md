@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Suruç&#039;ta bozulmuş et yakalandı!"
-date: "2023-05-08"
+description: "Son kullanma tarihi geçmiş 4,2 ton et ele geçirildi"
+date: "2023-03-18"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://images.ruyandagor.com/2017/04/bozulmus-cig-et-gormek-0121.jpg"
-featuredImage: "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/1732000/bozulmus-et-1732368_2.jpg"
-featured_image: "https://4.bp.blogspot.com/-l34391-mN6Y/W7YcVp0U-XI/AAAAAAAAAqg/XVhzRa38YxsBt8APikcnj4dbHei5bRcYQCLcBGAs/w1200-h630-p-k-no-nu/fortnite-tum-bozulmus-bolgeleri-ziyaret-et.png"
+- "https://cdn.yeniakit.com.tr/images/news/625/sanliurfada-3-ton-bozulmus-et-ve-sakatat-ele-gecirildi-h1664212643-37ff64.jpg"
+featuredImage: "https://pbs.twimg.com/ext_tw_video_thumb/1646969707612852240/pu/img/DibJMTZGhyq9I0gA.jpg"
+featured_image: "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/1732000/bozulmus-et-1732368_2.jpg"
 image: "https://i.ytimg.com/vi/3zCLRKy3zJo/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGEwgWihlMA8=&amp;rs=AOn4CLAsboxekv0t7ohofjIM_440T8iMlA"
 ---
 

@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Rüyada tanımadığı biriyle telefonla konuşmak ne anlama gelir"
-date: "2023-09-24"
+description: "Rüyada tartı görmek ne anlama gelir?"
+date: "2023-06-02"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
 - "https://www.gulum.net/images/haberler/2021/09/ruyada-opucuk-gormek-ne-anlama-gelir-9915.jpg"
-featuredImage: "https://www.gulum.net/images/haberler/2021/09/ruyada-opucuk-gormek-ne-anlama-gelir-9915.jpg"
-featured_image: "https://kadinlarinyeri.com/wp-content/uploads/2021/12/Ruyada-Tanimadigi-Biriyle-Telefonla-Konusmak-Ne-Anlama-Gelir.jpg"
+featuredImage: "https://image.milimaj.com/i/milliyet/75/0x410/64d7664286b2475844b639bf.jpg"
+featured_image: "https://sagligabiradim.com/wp-content/uploads/2021/09/Tetrakromasi-nedir-ve-ne-anlama-gelir.jpeg"
 image: "https://www.nazlim.net/wp-content/uploads/2020/12/ruyada-tarti-gormek-ne-anlama-gelir.jpeg"
 ---
 

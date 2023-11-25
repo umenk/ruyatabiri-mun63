@@ -1,12 +1,12 @@
 ---
 title: ""
-description: "Andaki sırlar kipper"
-date: "2023-08-25"
+description: "Kalbinizdeki kisiyle suanda neler oluyor?hangi sürectesiniz?size"
+date: "2023-11-21"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://iasbh.tmgrup.com.tr/9da119/752/395/0/20/788/435?u=https://isbh.tmgrup.com.tr/sbh/2021/08/30/ruyada-hoslandigin-kisiyi-gormek-ne-anlama-gelir-ruyada-hoslandigin-erkegi-veya-kadini-gormek-ne-demek-1630318211663.jpg"
-featuredImage: "https://i.ytimg.com/vi/vytHWoeyBmA/maxresdefault.jpg"
+- "https://i.ytimg.com/vi/LGoBf3ZljtQ/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AGUA4AC0AWKAgwIABABGGUgUihKMA8=&amp;rs=AOn4CLCaQxvCmLkFwe6jTQ6k5eoE-X8V1w"
+featuredImage: "https://i.ytimg.com/vi/I3JxU52q69w/maxresdefault.jpg"
 featured_image: "https://i.ytimg.com/vi/LGoBf3ZljtQ/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AGUA4AC0AWKAgwIABABGGUgUihKMA8=&amp;rs=AOn4CLCaQxvCmLkFwe6jTQ6k5eoE-X8V1w"
 image: "https://i.ytimg.com/vi/J0LoaXLR6zI/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGH8gXCgjMA8=&amp;rs=AOn4CLCmy3ETKC6Jz8cStcxeEAZkI0_5Cg"
 ---

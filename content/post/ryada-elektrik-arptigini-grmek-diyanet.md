@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Cemevinin elektrik faturasını diyanet ödeyecek"
-date: "2023-07-24"
+description: "Diyanet&#039;in imamı böyle dedi: camiyi elektrik çarptı"
+date: "2023-05-12"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1cW4es.img?w=640&amp;h=360&amp;m=4&amp;q=74"
-featuredImage: "https://cdn.odatv4.com/images/2022_02/2022_02_15/odatv_image_65__7f4d896f3cfe4b.jpg"
-featured_image: "https://cdn.odatv4.com/images/2022_02/2022_02_15/odatv_image_65__7f4d896f3cfe4b.jpg"
-image: "https://cdn.yeniakit.com.tr/images/news/625/mil-diyanet-sen-cami-elektrik-faturalari-sorununu-mahkemeye-tasiyor-h1644413845-16869c.jpg"
+- "https://i.dha.com.tr/i/dha/75/0x0/6163312745d2a06a3ce1edb0.jpg"
+featuredImage: "https://i.sozcucdn.com/wp-content/uploads/2022/02/21/iecrop/f3dea5fa-1782-42b2-b4ec-5fe2a2009a43_16_9_1645440729.jpeg?w=776&amp;h=436&amp;mode=crop"
+featured_image: "https://www.medyablok.org/images/haberler/2021/01/milletin-a-koyacagiz-diyen-mehmet-cengiz-diyanet-isleri-baskanligi-nin-elektrik-enerjisi-ihalesini-aldi.jpg"
+image: "https://cdn.odatv4.com/images/2022_02/2022_02_15/odatv_image_65__7f4d896f3cfe4b.jpg"
 ---
 
 If you are searching about Cemevinin elektrik faturasını Diyanet ödeyecek - Gündem Haberleri you've visit to the right page. We have 9 Images about Cemevinin elektrik faturasını Diyanet ödeyecek - Gündem Haberleri like Diyanet'in imamı böyle dedi: Camiyi elektrik çarptı - Güncel - ODATV, Mahkeme kararına karşılık Diyanet, cemevlerinin elektrik faturasını and also CHP’li Süllü: Cemevlerinin elektrik giderleri Diyanet bütçesinden. Read more:

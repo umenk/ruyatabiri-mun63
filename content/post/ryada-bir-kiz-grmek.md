@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Kolay üzgün kız çizimi"
-date: "2023-03-10"
+description: "„köyde bi̇r kiz sevdi̇m“"
+date: "2023-06-29"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://3.bp.blogspot.com/-TXgdBXSWH8Y/V95RcLHuikI/AAAAAAAADIw/8lZLkZb9wq898DtYpvS9ZF37V1t033WEQCLcB/s1600/vah%25C5%259Fi%2Bbir%2Bk%25C4%25B1z%2Bsevdim%2BF%25C4%25B0LM.jpg"
-featuredImage: "https://3.bp.blogspot.com/-TXgdBXSWH8Y/V95RcLHuikI/AAAAAAAADIw/8lZLkZb9wq898DtYpvS9ZF37V1t033WEQCLcB/s1600/vah%25C5%259Fi%2Bbir%2Bk%25C4%25B1z%2Bsevdim%2BF%25C4%25B0LM.jpg"
-featured_image: "https://4.bp.blogspot.com/-LfIJ0XZHt6U/VkmlcT3CslI/AAAAAAAAVmI/ZJIIzqIkZs8/s1600/fakir_bir_kiz_sevdim_1966.jpg"
-image: "https://3.bp.blogspot.com/-TXgdBXSWH8Y/V95RcLHuikI/AAAAAAAADIw/8lZLkZb9wq898DtYpvS9ZF37V1t033WEQCLcB/s1600/vah%25C5%259Fi%2Bbir%2Bk%25C4%25B1z%2Bsevdim%2BF%25C4%25B0LM.jpg"
+- "https://cdn.superbilgiler.com/wp-content/uploads/2022/09/BIR-KIZ-YUZU-NASIL-CIZILIR-KOLAY-CIZIMLER-768x432.jpg"
+featuredImage: "https://i.ytimg.com/vi/LLQ1M8flJDI/maxresdefault.jpg"
+featured_image: "https://cdn.superbilgiler.com/wp-content/uploads/2022/09/BIR-KIZ-YUZU-NASIL-CIZILIR-KOLAY-CIZIMLER-768x432.jpg"
+image: "https://i.ytimg.com/vi/LLQ1M8flJDI/maxresdefault.jpg"
 ---
 
 If you are searching about HAYAT; CÜMLELER KURDURUR.: BİR KIZ GELDİ DÜNYA’YA; ÖNCE KADIN, SONRA you've came to the right place. We have 9 Images about HAYAT; CÜMLELER KURDURUR.: BİR KIZ GELDİ DÜNYA’YA; ÖNCE KADIN, SONRA like BİR KIZ YÜZÜ NASIL ÇİZİLİR - KOLAY ÇİZİMLER, "Dünden Bugüne Türkiye Sineması" (Yalçın Özgül) : FAKİR BİR KIZ SEVDİM and also 0093 - BİR KIZ - ACIMASIZ DÜNYA - Edebiyat Defteri. Read more:

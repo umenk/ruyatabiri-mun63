@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Karisini soba demi̇ri̇ i̇le öldürdü"
-date: "2023-11-20"
+description: "Üçüncü karisini döve döve öldürdü!"
+date: "2023-04-06"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/qGL8tbBOZMg/maxresdefault.jpg"
+- "https://i.ytimg.com/vi/x0yEfC8AyM4/maxresdefault.jpg"
 featuredImage: "https://i.ytimg.com/vi/W5qUTZRSTlw/maxresdefault.jpg"
-featured_image: "https://i.ytimg.com/vi/0kJF_SjoB9w/maxresdefault.jpg"
-image: "https://i.ytimg.com/vi/x0yEfC8AyM4/maxresdefault.jpg"
+featured_image: "https://i.ytimg.com/vi/g47emI8WDhA/maxresdefault.jpg"
+image: "https://i.ytimg.com/vi/o9uIDwDd5cU/maxresdefault.jpg"
 ---
 
 If you are searching about KARISINI ÖLDÜRÜP KAPLICA KEYFİ YAPTI - YouTube you've visit to the right page. We have 9 Pictures about KARISINI ÖLDÜRÜP KAPLICA KEYFİ YAPTI - YouTube like KARISINI BIÇAKLADI, OĞLUNU KAÇIRDI! - YouTube, KARISINI PARKA ÇAĞIRIP BIÇAKLADI! - YouTube and also KARISINI VE ÇOCUKLARINI REHİN ALDI - YouTube. Here you go:

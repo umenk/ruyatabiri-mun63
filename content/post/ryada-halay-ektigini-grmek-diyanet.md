@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Rüyada halay çekenleri görmek"
-date: "2023-11-13"
+description: "Diyanet: kadın erkek el ele halay çekemez!"
+date: "2022-12-19"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "http://ruyalardunyasi.com/wp-content/uploads/2019/06/ruyada-halay-cekenleri-gormek.jpg"
-featuredImage: "https://indigodergisi.com/wp-content/uploads/2020/05/diyanet-kadin-erkek-el-ele-halay-cekip-horon-tepmemeli.jpg"
-featured_image: "https://i4.hurimg.com/i/hurriyet/75/1200x675/5e85bf4d18c7730474224372.jpg"
+- "https://www.gundemtube.com/wp-content/uploads/2021/05/diyanetin-kitabindan-kadin-ile-erkek-el-ele-halay-cekmemeli-Etu7JDn7.jpg"
+featuredImage: "https://www.rudaw.net/s3/rudaw.net/ContentFiles/514886Image1.jpg?version=3652998"
+featured_image: "http://ruyalardunyasi.com/wp-content/uploads/2019/06/ruyada-halay-cekenleri-gormek.jpg"
 image: "https://indigodergisi.com/wp-content/uploads/2020/05/diyanet-kadin-erkek-el-ele-halay-cekip-horon-tepmemeli.jpg"
 ---
 

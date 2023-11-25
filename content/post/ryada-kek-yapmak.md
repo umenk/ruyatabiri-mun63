@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Kabarmış ve lezzetli bir kek yapmak i̇çin öneriler"
-date: "2022-12-09"
+description: "Kek yapmak"
+date: "2023-11-16"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "http://4.bp.blogspot.com/-9kOU-neItEQ/VVOvebkERvI/AAAAAAAAKEA/6oPF8n2STbo/s640/KABARIK%2BKEK%2BYAPMANIN%2BYOLU.jpg"
+- "https://galeri14.uludagsozluk.com/786/kek-yapmak_1236166.jpg"
 featuredImage: "https://im.haberturk.com/2020/04/20/ver1622032384/2652516_620x410.jpg"
-featured_image: "https://iaysr.tmgrup.com.tr/0e59d7/0/0/0/0/0/0?u=https://iysr.tmgrup.com.tr/album/2019/12/18/izmirde-akilalmaz-olay-kek-yapmak-istemisti-bu-hale-geldi-1576659858739.jpg&amp;mw=1000"
+featured_image: "https://www.annebabadanisma.com/images/makale/kek.jpg"
 image: "https://i.ytimg.com/vi/sId-lHuLLcI/maxresdefault.jpg"
 ---
 

@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Rüyada yüzüğün kırılması ne anlama gelir? rüyada yüzüğün kırılması ne"
-date: "2023-02-12"
+description: "Rüyada telefonun kırılması ne anlama gelir? rüyada cep telefonunun"
+date: "2023-09-27"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
 - "https://i.hbrcdn.com/haber/2022/10/07/ruyada-telefon-kirilmasi-ne-anlama-gelir-ruyada-15341676_959_amp.jpg"
-featuredImage: "https://www.mardinlife.com/uploads/2022/06/15/ruyada-yuzugun-kirilmasi-ne-anlama-gelir-ruyada-yuzugun-kirilmasi-ne-demek-79504.png?234234.234234"
-featured_image: "https://iasbh.tmgrup.com.tr/48f522/752/395/0/39/724/419?u=https://isbh.tmgrup.com.tr/sbh/2021/09/13/ruyada-telefonun-kirilmasi-ne-anlama-gelir-ruyada-telefonun-caminin-ve-ekraninin-kirilmasi-ne-demek-1631518398111.jpg"
+featuredImage: "https://iatkv.tmgrup.com.tr/f145d9/600/314/0/0/1200/628?u=https:%2f%2fitkv.tmgrup.com.tr%2f2022%2f06%2f28%2fruyada-tirnak-kirilmasi-ne-anlama-gelir-neye-isarettir-anlami-yorumu-1656420220981.jpg"
+featured_image: "https://iatkv.tmgrup.com.tr/f145d9/600/314/0/0/1200/628?u=https:%2f%2fitkv.tmgrup.com.tr%2f2022%2f06%2f28%2fruyada-tirnak-kirilmasi-ne-anlama-gelir-neye-isarettir-anlami-yorumu-1656420220981.jpg"
 image: "https://www.mardinlife.com/uploads/2022/12/27/ruyada-yuzuk-kirilmasi-ne-anlama-gelir-ruyada-yuzuk-kirilmasi-ne-demek-79508.png?234234.234234"
 ---
 

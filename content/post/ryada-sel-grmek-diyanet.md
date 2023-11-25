@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Son dakika! türkiye diyanet vakfınca sel felaketinin yaşandığı"
-date: "2023-11-06"
+description: "Fetvaları veren diyanet din i̇şleri yüksek kurulu&#039;ndaki isim, sel"
+date: "2023-10-27"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://cdn.yeniakit.com.tr/images/news/625/diyanet-isleri-turk-islam-birliginden-almanyadaki-sel-magdurlarina-yardim-h1627419668-ba794d.jpg"
-featuredImage: "https://cdn.yeniakit.com.tr/images/news/625/diyanet-isleri-turk-islam-birliginden-almanyadaki-sel-magdurlarina-yardim-h1627419668-ba794d.jpg"
-featured_image: "https://www.esrefkerkuklu.com/images/haberler/2022/09/hollanda_diyanet_vakfi_sel_felaketinden_etkilenen_pakistan_icin_yardim_kampanyasi_baslatti_h48718_613ad.jpeg"
-image: "https://cdn.yeniakit.com.tr/images/news/625/diyanet-isleri-turk-islam-birliginden-almanyadaki-sel-magdurlarina-yardim-h1627419668-ba794d.jpg"
+- "https://i20.haber7.net/resize/1280x720/haber/haber7/photos/2020/38/turkiye_diyanet_vakfi_sudanda_sel_magduru_700_aileye_yardim_dagitti_1600033474_844.jpg"
+featuredImage: "https://haber.sol.org.tr/sites/default/files/styles/content_image_size_type4/public/page_o-fetvalari-veren-diyanet-din-isleri-yuksek-kurulundaki-isim-sel-bursunu-kizina-vermis_127531366.jpg?itok=g8IbZLto"
+featured_image: "https://haber.sol.org.tr/sites/default/files/styles/content_image_size_type4/public/page_o-fetvalari-veren-diyanet-din-isleri-yuksek-kurulundaki-isim-sel-bursunu-kizina-vermis_127531366.jpg?itok=g8IbZLto"
+image: "https://www.esrefkerkuklu.com/images/haberler/2022/09/hollanda_diyanet_vakfi_sel_felaketinden_etkilenen_pakistan_icin_yardim_kampanyasi_baslatti_h48718_613ad.jpeg"
 ---
 
 If you are looking for Hollanda Diyanet Vakfi'dan Pakistan Sel Felaketi Yardım Kampanyası you've visit to the right page. We have 9 Pics about Hollanda Diyanet Vakfi'dan Pakistan Sel Felaketi Yardım Kampanyası like Hollanda Diyanet Vakfı, sel felaketinden etkilenen Pakistan için yardım, Diyanet İşleri Başkanı Erbaş sel bölgesinde böyle hutbe verdi: Bizlere and also Rüyada Sel Görmek - İslami Rüya Tabirleri, İhya, Diyanet, Rüya Tabirleri. Here you go:

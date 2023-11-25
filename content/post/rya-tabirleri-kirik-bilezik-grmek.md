@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Tek kirik"
-date: "2023-07-22"
+description: "Rüyada bilezik görmek: altın ya da kırık, bilezik takmak ya da çıkarmak"
+date: "2023-08-31"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
 - "https://iasbh.tmgrup.com.tr/9e21d3/0/0/0/0/1600/1069?u=https://isbh.tmgrup.com.tr/sbh/2019/11/01/ruyada-bilezik-gormek-altin-bilezik-kirik-bilezik-bilezik-cikarmak-ya-da-takmak-ne-demektir-1572605455539.jpg&amp;mw=800"
-featuredImage: "https://foto.haberler.com/haber/2019/12/13/ruya-tabirleri-ruyada-altin-bilezik-gormek-12713663_4507_m.jpg"
-featured_image: "https://i.ebayimg.com/images/g/r3oAAMXQl6pRXv8J/s-l500.jpg"
+featuredImage: "https://cdn.milasmt2satis.com/uploads/post_images/5-absorbe-kirik-bilezik-oldurmez-96073754.png"
+featured_image: "https://i2.milimaj.com/i/milliyet/75/0x0/5f1b6fe65542830cf0fb3d3a.jpg"
 image: "https://i.ytimg.com/vi/CICd7r_fCyA/maxresdefault.jpg"
 ---
 

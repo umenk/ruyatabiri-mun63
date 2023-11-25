@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Hızlı kesin kavga ettiren dua"
-date: "2023-11-04"
+description: "Kavga büyüyor... diyanet-sen, adnan oktar&#039;dan şikâyetçi oldu"
+date: "2023-02-21"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://static.birgun.net/resim/haber-detay-resim/2023/01/08/diyanet-isleri-nde-kavga-iddiasi-agzim-bozulacak-kufur-cikabilir-1111122-5.jpg"
-featuredImage: "https://www.dijitalgaste.com/dosya/haber/m/diyanet-isleri-nde-kavga-iddia_1673171120_rcyLsB.jpg"
-featured_image: "https://1001ruya.com/wp-content/uploads/Ruyada-Kavga-Etmek-Kavga-Gormek-Biriyle-Kavga-Ettigini-Gormek-sevgiliyle-babayla-anneyle-kardesle-ne-demek-diyanet-768x432.jpg"
-image: "https://i4.hurimg.com/i/hurriyet/75/1200x675/5a7866192269a21b8c07ef05.jpg"
+- "https://bedavainternet.com.tr/wp-content/uploads/2023/10/Hizli-kavga-ettiren-dua.webp"
+featuredImage: "https://bedavainternet.com.tr/wp-content/uploads/2023/10/Hizli-kavga-ettiren-dua.webp"
+featured_image: "https://bedavainternet.com.tr/wp-content/uploads/2023/10/Hizli-kavga-ettiren-dua.webp"
+image: "https://cdn.odatv4.com/images/2023_03/2023_03_17/odatv_image_66__c3261bd83cf842.jpg"
 ---
 
 If you are searching about Rüyada Kavga Etmek, Kavga Görmek, Biriyle Kavga Ettiğini Görmek - 1001Ruya you've came to the right page. We have 9 Pics about Rüyada Kavga Etmek, Kavga Görmek, Biriyle Kavga Ettiğini Görmek - 1001Ruya like Fatih Altaylı ile Diyanet Arasındaki Kavga Büyüyor.! Kasımpaşa..? - YouTube, Diyanet İşleri'nde kavga iddiası: "Ağzım bozulacak, küfür çıkabilir..." and also Diyanet'in 'faiz caizdir' fetvası kavga çıkardı! - KRT TV. Here it is:

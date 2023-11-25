@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Gümüş"
-date: "2023-08-10"
+description: "La ultima pieza del rompecabezas 🎭😂🧘5,000 (a la chingada)"
+date: "2023-02-06"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/KdZ3OosEZ6s/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4Ad4EgAK4CIoCDAgAEAEYZSBMKGMwDw==&amp;rs=AOn4CLCfzFvJaPoNerKMbSKycXF-fCyaDA"
+- "https://rtkuyumculuk.com/wp-content/uploads/2020/02/03-1.jpeg"
 featuredImage: "https://www.aypamucevher.com/_img_urun/A9085-15247318241.jpg"
-featured_image: "https://rtkuyumculuk.com/wp-content/uploads/2020/02/03-1.jpeg"
+featured_image: "https://pbs.twimg.com/media/Fcyada8X0AANSFu.jpg"
 image: "https://rtkuyumculuk.com/wp-content/uploads/2020/02/03-1.jpeg"
 ---
 

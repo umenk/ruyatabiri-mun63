@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Eski trakya koyun kaşarı"
-date: "2023-06-18"
+description: "Türklerin ve moğolların eski dini jean paul roux by lale güvenc"
+date: "2023-04-16"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgg-Wn23vwPn5YF41S3QINXFF82McrGWNvQRpaLmksOau-leSjDKZCqmvwbd86-9-sq9VbDK5hxuDJgMMsZEAQYdCI2B72VwW9CaDEwlevOzgjp95udrZtUuqCVxWxbXa8VAgDWDCVm_3dxvjv8z413JKP3DCaVdtvyEUmnhEYB0KU2RZVRaoWEeVDwLA/w1200-h630-p-k-no-nu/gokturkalfabesi.png"
-featuredImage: "http://ruyameali.com/wp-content/uploads/2025/08/1-6-810x592.jpg"
-featured_image: "https://image.isu.pub/150926110721-1ea4fda3905ac91272e2adf092bceee6/jpg/page_1.jpg"
+- "https://image.isu.pub/150926110721-1ea4fda3905ac91272e2adf092bceee6/jpg/page_1.jpg"
+featuredImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgg-Wn23vwPn5YF41S3QINXFF82McrGWNvQRpaLmksOau-leSjDKZCqmvwbd86-9-sq9VbDK5hxuDJgMMsZEAQYdCI2B72VwW9CaDEwlevOzgjp95udrZtUuqCVxWxbXa8VAgDWDCVm_3dxvjv8z413JKP3DCaVdtvyEUmnhEYB0KU2RZVRaoWEeVDwLA/w1200-h630-p-k-no-nu/gokturkalfabesi.png"
+featured_image: "https://1001ruya.com/wp-content/uploads/ruyada-eski-sevgili-gormek.jpg"
 image: "https://www.cesurgezgin.com/wp-content/uploads/2017/06/gantija-Malta.jpg"
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Cumhurbaşkanı erdoğan kalp krizi geçiren yeğenini ziyaret etti"
-date: "2023-02-14"
+description: "Kız arkadaşının yeğenini vuran şüpheli adliyede"
+date: "2023-06-03"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/cCEzPLyl1JA/maxresdefault.jpg"
+- "https://www.bursahakimiyet.com.tr/static/37/371765-kiz-arkadasinin-yegenini-vuran-supheli-adliyede-5ed4d6a6a4054-x750.jpg"
 featuredImage: "https://iaysr.tmgrup.com.tr/a59d8d/780/411/0/0/840/442?u=https://iysr.tmgrup.com.tr/2021/11/26/manisada-korkunc-iddia-kasigi-isitip-yegenini-yakti-1637913964356.jpeg"
-featured_image: "https://pbs.twimg.com/media/Fcyada8X0AANSFu.jpg"
-image: "https://www.bursahakimiyet.com.tr/static/35/355207-arazi-kavgasinda-kardesi-ve-yegenini-oldurdu-yengesini-yaraladi-5e9d94a7952b3-x750.jpg"
+featured_image: "https://www.a3haber.com/wp-content/uploads/2022/10/yegenini-bicaklayarak-oldurup-teslim-oldu-_9904_dhaphoto1-e1665049183232.jpg"
+image: "https://iaysr.tmgrup.com.tr/a59d8d/780/411/0/0/840/442?u=https://iysr.tmgrup.com.tr/2021/11/26/manisada-korkunc-iddia-kasigi-isitip-yegenini-yakti-1637913964356.jpeg"
 ---
 
 If you are looking for Arazi kavgasında kardeşi ve yeğenini öldürdü, yengesini yaraladı you've came to the right web. We have 9 Pictures about Arazi kavgasında kardeşi ve yeğenini öldürdü, yengesini yaraladı like KAZLARA NAZAR DEĞDİ/AHMET'İN YEGENİNİ KIZDIRDI MASTİ. - YouTube, Arazi kavgasında kardeşi ve yeğenini öldürdü, yengesini yaraladı and also Kareena Kapoor Khan's tweet - "Ekta Kapoor to co-produce Rajesh. Here you go:

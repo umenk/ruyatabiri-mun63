@@ -1,13 +1,13 @@
 ---
 title: ""
 description: "Berrak tuzunatac kimdir"
-date: "2023-01-25"
+date: "2023-04-22"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/cwQJe2j9cG4/maxresdefault.jpg"
-featuredImage: "https://i.ytimg.com/vi/Q1a80Jx63Tk/maxresdefault.jpg"
-featured_image: "https://i.ytimg.com/vi/CDMa9YULxNY/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG-B4AC0AWKAgwIABABGGEgYShhMA8=&amp;rs=AOn4CLBn_upe9ySvOMNaO6g7tDtizBvSyQ"
+- "https://media.istockphoto.com/id/1220432567/tr/vektör/yüksek-dağlar-sakin-berrak-gökyüzü.jpg?s=612x612&amp;w=is&amp;k=20&amp;c=YBhuFD4a47jpq4w3Jc-3KgQ_YPoIaYPBcNTN2OAXyCg="
+featuredImage: "http://www.ideaer.org/attachments/2013/04/1_201304211237233aIya.jpg"
+featured_image: "https://media.istockphoto.com/id/1220432567/tr/vektör/yüksek-dağlar-sakin-berrak-gökyüzü.jpg?s=612x612&amp;w=is&amp;k=20&amp;c=YBhuFD4a47jpq4w3Jc-3KgQ_YPoIaYPBcNTN2OAXyCg="
 image: "http://www.ideaer.org/attachments/2013/04/1_201304211237233aIya.jpg"
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "İstanbul’da kiracı, kavga ettiği ev sahibini silahla öldürdü"
-date: "2023-09-13"
+description: "Ahmak misafir ev sahibini ağırlar"
+date: "2023-05-18"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
 - "https://i.internethaber.com/files/2017/1/6/1744679/1744679_0_1483685990fKRne.jpg"
-featuredImage: "https://cdn.iha.com.tr/Contents/images/2022/29/4925176.jpg"
-featured_image: "https://1.bp.blogspot.com/-Z4qQdVnQTdk/YFM3g7hEpRI/AAAAAAAAcjw/49ZmcR7ltlAUuodmkcf4PLeyPAmPq-ZzQCNcBGAsYHQ/s1200/ahmak%2Bmisafir%2Bev%2Bsahibini%2Ba%25C4%259F%25C4%25B1rlar.jpg"
-image: "https://cdn.iha.com.tr/Contents/images/2022/29/4925176.jpg"
+featuredImage: "https://i.ytimg.com/vi/1SsvxX6ciJw/maxresdefault.jpg"
+featured_image: "https://i2.sdacdn.com/haber/2020/11/12/deprem-oncesi-catlaklari-yeni-olmus-gibi-gosterip-13731398_8544_amp.jpg"
+image: "https://cdn.emlakkulisi.com/resim/orjinal/NzEwODkyOD-ev-sahibini-nasil-sikayet-edebilirim.jpg"
 ---
 
 If you are searching about Deprem öncesi çatlakları yeni olmuş gibi gösterip para almaya çalıştı you've came to the right page. We have 9 Images about Deprem öncesi çatlakları yeni olmuş gibi gösterip para almaya çalıştı like İstanbul’da kiracı, kavga ettiği ev sahibini silahla öldürdü - YouTube, Kendisini yakalayan ev sahibini yüzünden vuran hırsız yakalandı and also Deprem öncesi çatlakları yeni olmuş gibi gösterip para almaya çalıştı. Here it is:

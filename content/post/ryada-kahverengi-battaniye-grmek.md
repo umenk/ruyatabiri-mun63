@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Atmak yastıklar yastık tekstil kahverengi, battaniye, kahverengi"
-date: "2022-12-17"
+description: "Coverme high"
+date: "2023-09-12"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://cdn.beymen.com/productimages/ectj5g3l.x0m_IMG_01_2110093214012.jpg"
-featuredImage: "https://img-lcwaikiki.mncdn.com/mnresize/1024/-/pim/productimages/20202/5972729/l_20202-w2aq49z8-h2f_a1.jpg"
-featured_image: "https://img-yatas.mncdn.com/Content/Images/Thumbs/0065515_coverme-high-kahverengi-nevresim-takimi-kahverengi-43429.jpeg"
+- "https://img-lcwaikiki.mncdn.com/mnresize/1024/-/pim/productimages/20202/5972729/l_20202-w2aq49z8-h2f_a1.jpg"
+featuredImage: "https://cdn.beymen.com/productimages/ectj5g3l.x0m_IMG_01_2110093214012.jpg"
+featured_image: "https://img-incommerce-yargici.mncdn.com/Content/Images/Thumbs/22150464_std-battaniye-125x150cm-8kkea5147x.jpeg"
 image: "https://cdn.beymen.com/mnresize/1200/1672/productimages/tfb0xyuy.g5r_IMG_22_2110085936977.jpg"
 ---
 

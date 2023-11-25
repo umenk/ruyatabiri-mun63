@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Uçun kuşlar...: karanlikta parlayan yildizlar..."
-date: "2023-01-21"
+description: "Yildizlar grekoromen güreş türki̇ye şampi̇yonasi 2. gün mi̇nder c"
+date: "2023-08-20"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://www.flashlyrics.com/image/tw/ferdi-tayfur/yildizlar-da-kayar-76"
-featuredImage: "https://intes.org.tr/wp-content/uploads/2020/07/yildizlar.jpg"
-featured_image: "https://i.ytimg.com/vi/ukV5KKtE2ks/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgUShFMA8=&amp;rs=AOn4CLBgyY6sJpM60g55cp3REZiIvNKI2Q"
-image: "https://i.ytimg.com/vi/8ErSn9l_CiI/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-DoACuAiKAgwIABABGH8gEygfMA8=&amp;rs=AOn4CLDyTmfEdCVNwRKFYvFI3ISE-g85Zw"
+- "https://i.ytimg.com/vi/8ErSn9l_CiI/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-DoACuAiKAgwIABABGH8gEygfMA8=&amp;rs=AOn4CLDyTmfEdCVNwRKFYvFI3ISE-g85Zw"
+featuredImage: "https://i.ytimg.com/vi/ukV5KKtE2ks/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgUShFMA8=&amp;rs=AOn4CLBgyY6sJpM60g55cp3REZiIvNKI2Q"
+featured_image: "https://i.ytimg.com/vi/N9voLes6Z2g/maxresdefault.jpg"
+image: "https://2.bp.blogspot.com/-xUCSMxfEZJs/V2FId5uehYI/AAAAAAAAC5w/TGxpVQ9V37QRxLlPIVF70E1Chr--g676wCLcB/s1600/en-guzel-yildiz-resimleri-14-1024x640.jpg"
 ---
 
 If you are looking for "YILDIZLAR DA KAYAR" LYRICS by FERDI TAYFUR: KARANLIK GECELERİMİN you've visit to the right web. We have 9 Pictures about "YILDIZLAR DA KAYAR" LYRICS by FERDI TAYFUR: KARANLIK GECELERİMİN like UÇUN KUŞLAR...: KARANLIKTA PARLAYAN YILDIZLAR..., RECKOL - YILDIZLAR ( Slowed \* Reverb ) - YouTube and also UÇUN KUŞLAR...: KARANLIKTA PARLAYAN YILDIZLAR.... Read more:

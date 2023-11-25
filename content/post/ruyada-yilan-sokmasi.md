@@ -1,13 +1,13 @@
 ---
 title: "ruyada yilan sokmasi Rüyada yılan sokması ve acıması"
-description: "Rüyada yılan sokması ve acıması"
-date: "2023-08-10"
+description: "Rüyada yılan görmek ne demek? rüya tabirleri, rüyada yılan öldürmek"
+date: "2022-11-29"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://iasbh.tmgrup.com.tr/abf0d6/0/0/0/0/0/0?u=https://isbh.tmgrup.com.tr/sb/album/2021/06/28/ruyada-yilan-gormek-ne-anlama-gelir-ruyada-siyah-yesil-yilan-oldurmek-ve-yilan-sokmasi-gormek-1624883798507.jpg&amp;mw=752&amp;mh=700"
-featuredImage: "https://www.diyadinnet.com/d/ruya/ruyada-yilan-sokmasi-ne-anlama-gelir-1185.jpg"
-featured_image: "https://i.haberglobal.com.tr/storage/haber/2020/06/02/ruyada-yilan-gormek-ne-anlama-gelir-ruya-tabirleri-ruyada-yilan-oldurmek_1591104675.jpg"
+- "https://iasbh.tmgrup.com.tr/4f0410/650/344/0/0/752/395?u=https://isbh.tmgrup.com.tr/sbh/2020/03/20/ruya-yilan-gormek-neye-isarettir-ne-anlama-gelir-ruyada-yilan-sokmasi-yilan-isirmasi-yilan-yakalamak-ile-ilgili-ruya-tabirleri-1584713385035.jpg"
+featuredImage: "https://images.ruyandagor.com/2017/04/kara-yilan-sokmasi-1238.jpg"
+featured_image: "http://ruyameali.com/wp-content/uploads/2030/02/1-14-810x591.jpg"
 image: "https://media.apnarm.net.au/media/images/2018/12/18/imagev177f3ef1d51d14a5174f0e7fc73b8fa80-e8ziacvgilcmius8hr2_ct1880x930.jpg"
 ---
 

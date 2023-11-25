@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Kızdırmayın sümbül anneyi!"
-date: "2023-11-23"
+description: "&quot;yüz anneyi ağlatacağım!&quot;"
+date: "2022-12-17"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/-qQlvSsK46U/maxresdefault.jpg"
-featuredImage: "https://i.ytimg.com/vi/Xy1T2jIyEaM/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AfAEgAKACooCDAgAEAEYfyBGKCYwDw==&amp;rs=AOn4CLD202u7T45GfRhsEmoxoBnwAb0z7g"
-featured_image: "https://i.ytimg.com/vi/HYLCwcE-Dgc/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYRSBHKGUwDw==&amp;rs=AOn4CLC_ulBvmvqa2cf2uT56Qfk3FCYaDA"
-image: "https://i.ytimg.com/vi/p_d8FxxOd7g/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgVihLMA8=&amp;rs=AOn4CLDnvqjy7CsTBCqSmqaO0-B17wnOHA"
+- "https://i.ytimg.com/vi/p_d8FxxOd7g/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgVihLMA8=&amp;rs=AOn4CLDnvqjy7CsTBCqSmqaO0-B17wnOHA"
+featuredImage: "https://i.ytimg.com/vi/g7zFcCgKcC4/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYTCBXKGUwDw==&amp;rs=AOn4CLDv8M2viWwgq0_INJF-XYahKymi6A"
+featured_image: "https://i.ytimg.com/vi/g2jmOBzUKrw/maxresdefault.jpg"
+image: "https://i.ytimg.com/vi/Xy1T2jIyEaM/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AfAEgAKACooCDAgAEAEYfyBGKCYwDw==&amp;rs=AOn4CLD202u7T45GfRhsEmoxoBnwAb0z7g"
 ---
 
 If you are looking for Anneyi seviyorsan alkisla - YouTube you've visit to the right page. We have 9 Pics about Anneyi seviyorsan alkisla - YouTube like Anneyi seviyorsan alkisla - YouTube, yavrucaklar acıkmışlar anneyi bekliyorlar - YouTube and also Kızdırmayın Sümbül Anneyi! | Asmalı Konak 48. Bölüm - YouTube. Read more:

@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Colins beyaz uzun kol gömlek"
-date: "2022-12-04"
+description: "Beyaz kol çantası 134290"
+date: "2023-07-13"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://www.milenastil.com/images/urunler/Beyaz-Kol-Elbise-resim-28.jpeg"
-featuredImage: "https://cdn.modamizbir.com/Uploads/UrunResimleri/buyuk/beyaz--kol-detay-bayan-triko-39461-aeb8.jpg"
+- "https://cdn.modamizbir.com/Uploads/UrunResimleri/buyuk/beyaz-kol-cantasi-134290-238015912.jpg"
+featuredImage: "https://cdn.modamizbir.com/Uploads/UrunResimleri/buyuk/beyaz-kol-baglamali-poplin-bayan-gomlek-102028-509754697.jpg"
 featured_image: "https://cdn.modamizbir.com/Uploads/UrunResimleri/thumb/beyaz-fermuarli-kol-cantasi-145848-281839368.jpg"
-image: "https://cdn.modamizbir.com/Uploads/UrunResimleri/thumb/beyaz-fermuarli-kol-cantasi-145848-281839368.jpg"
+image: "https://img-incommerce-yargici.mncdn.com/Content/Images/Thumbs/22160402_beyaz-kol-detayli-gomlek-22ykgm6028x037.jpeg"
 ---
 
 If you are searching about Kol Detaylı Gömlek you've came to the right page. We have 9 Pictures about Kol Detaylı Gömlek like Beyaz Kol ve Yaka Bağlamalı Keten Gömlek 123258 | ModamızBir, Colins Beyaz Uzun Kol Gömlek - 17999 and also Beyaz Kol Elbise Modelleri En Uygun Fiyatlarla. Read more:

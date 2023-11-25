@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Kenwood ka 5090"
-date: "2023-03-13"
+description: "Acsn ::: aero club segelflug nürnberg: ka 6"
+date: "2023-08-07"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://images.spletnik.ru/i/g/g6bdWLNFRE/original.jpg"
-featuredImage: "https://pbs.twimg.com/media/Fcyada8X0AANSFu.jpg"
-featured_image: "https://www.acsn.de/fileadmin/_migrated/pics/ka6_03.jpg"
+- "https://www.acsn.de/fileadmin/_migrated/pics/ka6_03.jpg"
+featuredImage: "https://images.spletnik.ru/i/g/g6bdWLNFRE/original.jpg"
+featured_image: "https://images.spletnik.ru/i/g/g6bdWLNFRE/original.jpg"
 image: "https://i.ytimg.com/vi/HYLCwcE-Dgc/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYRSBHKGUwDw==&amp;rs=AOn4CLC_ulBvmvqa2cf2uT56Qfk3FCYaDA"
 ---
 

@@ -1,12 +1,12 @@
 ---
 title: ""
-description: "Bir erkegin deyeri kadina olan davranisindan belli.."
-date: "2023-07-05"
+description: "Bir erkeğin anatomisi – yavuz özkan (1996) – gürkan kiliçaslan"
+date: "2023-07-01"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://galeri14.uludagsozluk.com/789/bir-erkegin-bos-biri-oldugunu-anlama-yontemi_2245177.jpg"
-featuredImage: "https://www.bizdekalmasin.com/wp-content/uploads/2022/08/Uzaktan-Bir-Erkegin-Seni-Sevdigini-Nasil-Anlarsin.jpg"
+- "https://i.ytimg.com/vi/SToTtTlGNtg/hqdefault.jpg"
+featuredImage: "https://galeri14.uludagsozluk.com/789/bir-erkegin-bos-biri-oldugunu-anlama-yontemi_2245177.jpg"
 featured_image: "http://www.gurkankilicaslan.com/wp-content/uploads/2012/09/bir_erkegin_anatomisi.jpg"
 image: "https://i.ytimg.com/vi/SToTtTlGNtg/hqdefault.jpg"
 ---

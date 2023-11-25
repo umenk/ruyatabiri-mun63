@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Rüyada kedinin isırması"
-date: "2022-12-22"
+description: "Kedi tırmalaması durumunda yapılması gerekenler"
+date: "2023-09-23"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/uUtNJEwmp4s/maxresdefault.jpg"
-featuredImage: "https://i3.posta.com.tr/i/posta/75/0x0/617752c745d2a0b2541bf87c.jpg"
-featured_image: "https://i3.posta.com.tr/i/posta/75/0x0/617752c745d2a0b2541bf87c.jpg"
-image: "http://ruyameali.com/wp-content/uploads/2018/08/kedinin-isirmasi-1140x641.jpg"
+- "https://kedirehberi.com/wp-content/uploads/2021/11/kedi-piresi-nasil-temizlenir.jpg"
+featuredImage: "https://blog.petibom.com/wp-content/uploads/2022/07/kedi-tirmalamasi-durumunda-ne-yapilmali.jpg"
+featured_image: "https://i.ytimg.com/vi/uUtNJEwmp4s/maxresdefault.jpg"
+image: "https://www.magdeburger.com.tr/storage/blog/March2022/smpd8LqVUVkyEyPlTG2O.jpg"
 ---
 
 If you are searching about Kedi Piresi Nasıl Temizlenir? Kedilerde Pire Oluşumu ve Tedavisi - Kedi you've came to the right place. We have 9 Images about Kedi Piresi Nasıl Temizlenir? Kedilerde Pire Oluşumu ve Tedavisi - Kedi like Kedilerin Hayat Döngüsü - MİNİK DOSTUM, Kediler kaç ay hamile kalır? Kedilerde hamilelik - Hayvanlar ve Çevre and also Rüyada Kedinin Isırması - Rüya Meali. Here it is:

@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Kadının fendi, erkeği yendi ne demek? kadının fendi, erkeği yendi"
-date: "2023-07-18"
+description: "Rüyada sevmediğin bir kadını ve erkeği görmek ne demek? rüyada"
+date: "2023-08-28"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.nothaber.com/storage/files/images/2021/11/03/ruyada-sevmedigin-bir-kadin-gormek-61824bf16a922.jpg"
-featuredImage: "https://kadinloji.com/resim/bir-erkegi-nasil-kiskandirirsin.jpg"
-featured_image: "https://iasbh.tmgrup.com.tr/9da119/752/395/0/20/788/435?u=https://isbh.tmgrup.com.tr/sbh/2021/08/30/ruyada-hoslandigin-kisiyi-gormek-ne-anlama-gelir-ruyada-hoslandigin-erkegi-veya-kadini-gormek-ne-demek-1630318211663.jpg"
+- "https://iasbh.tmgrup.com.tr/1a53fc/752/395/0/101/724/481?u=https://isbh.tmgrup.com.tr/sbh/2021/09/23/ruyada-sevmedigin-birini-gormek-ne-anlama-gelir-ruyada-sevmedigin-bir-kadini-ve-erkegi-gormek-ne-demek-1632396472470.jpg"
+featuredImage: "https://iasbh.tmgrup.com.tr/1a53fc/752/395/0/101/724/481?u=https://isbh.tmgrup.com.tr/sbh/2021/09/23/ruyada-sevmedigin-birini-gormek-ne-anlama-gelir-ruyada-sevmedigin-bir-kadini-ve-erkegi-gormek-ne-demek-1632396472470.jpg"
+featured_image: "https://galeri14.uludagsozluk.com/793/bir-erkegi-etkilemek-icin-yapilmasi-gerekenler_2204897.jpg"
 image: "https://iasbh.tmgrup.com.tr/1a53fc/752/395/0/101/724/481?u=https://isbh.tmgrup.com.tr/sbh/2021/09/23/ruyada-sevmedigin-birini-gormek-ne-anlama-gelir-ruyada-sevmedigin-bir-kadini-ve-erkegi-gormek-ne-demek-1632396472470.jpg"
 ---
 

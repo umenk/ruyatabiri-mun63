@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Rüyada kurt saldırması"
-date: "2022-12-10"
+description: "Rüyada aslanın file saldırması"
+date: "2023-05-29"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://images.ruyandagor.com/2017/04/domuz-saldirmasi-1205.jpg"
-featuredImage: "https://images.ruyandagor.com/2017/04/kartal-saldirmasi-0153.jpg"
-featured_image: "https://images.ruyandagor.com/2017/05/disi-aslan-saldirmasi-2018.jpg"
+- "https://media.normalsozluk.com/up/2022/05/15/w5uhxykf6h5kk1vf-t.jpg"
+featuredImage: "https://www.ruyaanlami.com/images/dream/content/27/ruyada-kopeklerin-birbirine-saldirmasi.webp"
+featured_image: "https://i.hbrcdn.com/haber/2020/12/08/ruyada-kopek-saldirmasi-ne-anlama-gelir-ruyada-13787495_5309_amp.jpg"
 image: "https://i.hbrcdn.com/haber/2020/12/08/ruyada-kopek-saldirmasi-ne-anlama-gelir-ruyada-13787495_5309_amp.jpg"
 ---
 

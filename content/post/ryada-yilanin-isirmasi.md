@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Nuri̇ amca ve eki̇bi̇ sahnelerde deli̇l yilanin düğünü"
-date: "2023-02-10"
+description: "Koyunlar ölüyor !!! kene isirmasi sonucunda koyunlari öldürüyor"
+date: "2023-03-21"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://images.ruyandagor.com/2017/04/yilanin-arkadan-isirmasi-1830.jpg"
-featuredImage: "https://i.ytimg.com/vi/rXRGkKlPatw/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHKAYAC6AKKAgwIABABGGUgVShSMA8=&amp;rs=AOn4CLCVikB5KPSl58onQ-5OeWPgfVg6qA"
-featured_image: "https://i.ytimg.com/vi/jfuhARzho0g/maxresdefault.jpg"
-image: "https://www.idilhaber.com.tr/images/resize/100/656x400/haberler/2022/08/yilan_isirigindan_olen_kardesinin_taziyesinde_yilanin_isirmasi_ile_oldu_h2952_524e5.jpg"
+- "https://i.ytimg.com/vi/BEvCKmo6QtM/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHIAYAC6AKKAgwIABABGGUgVyhIMA8=&amp;rs=AOn4CLCUKoxFAmZs34L7M1fgCAB-aFF1pw"
+featuredImage: "https://i.ytimg.com/vi/X_4bRGSjkvc/maxresdefault.jpg"
+featured_image: "https://i.ytimg.com/vi/rXRGkKlPatw/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHKAYAC6AKKAgwIABABGGUgVShSMA8=&amp;rs=AOn4CLCVikB5KPSl58onQ-5OeWPgfVg6qA"
+image: "https://images.ruyandagor.com/2017/04/yilanin-arkadan-isirmasi-1830.jpg"
 ---
 
 If you are searching about KEDİ ISIRMASI NASIL ENGELLENİR? (Kedim Elimi Ayağımı Isırıyor!) - YouTube you've visit to the right page. We have 9 Pics about KEDİ ISIRMASI NASIL ENGELLENİR? (Kedim Elimi Ayağımı Isırıyor!) - YouTube like KOYUNLAR ÖLÜYOR !!! KENE ISIRMASI SONUCUNDA KOYUNLARI ÖLDÜRÜYOR, NURİ AMCA VE EKİBİ SAHNELERDE DELİL YILANIN DÜĞÜNÜ - YouTube and also KOYUNLAR ÖLÜYOR !!! KENE ISIRMASI SONUCUNDA KOYUNLARI ÖLDÜRÜYOR. Here you go:

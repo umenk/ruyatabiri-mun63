@@ -1,13 +1,13 @@
 ---
 title: ""
 description: "Neymar eski̇ sevgi̇li̇si̇ni̇n düğününe gi̇tti̇ yalani!"
-date: "2023-10-12"
+date: "2023-04-11"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/IZQAK72Y8yY/maxresdefault.jpg"
-featuredImage: "https://i.ytimg.com/vi/IZQAK72Y8yY/maxresdefault.jpg"
-featured_image: "https://s.medyafaresi.com/files/2017/8/23/836863/836863_1.jpg"
+- "https://i.hbrcdn.com/haber/2022/08/31/eski-sevgili-eve-zorla-girmek-isterken-kizin-15226729_7950_amp.jpg"
+featuredImage: "https://i.hbrcdn.com/haber/2022/06/02/sultangazi-de-eski-sevgilisinin-evinin-onunde-14988473_amp.jpg"
+featured_image: "https://s.medyafaresi.com/files/2017/8/23/836863/836863_0.jpg"
 image: "https://s.medyafaresi.com/files/2017/8/23/836863/836863_0.jpg"
 ---
 

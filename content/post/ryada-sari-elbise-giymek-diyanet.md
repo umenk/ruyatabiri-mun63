@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "1 kalip 2 elbi̇se"
-date: "2022-12-11"
+description: "Rüyada yeşil ve beyaz elbise giymek"
+date: "2022-12-23"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/SL7F_A7KfW0/maxresdefault.jpg"
-featuredImage: "https://3.bp.blogspot.com/-BTV9mm30wvs/W0iMEoEBDAI/AAAAAAAAAJY/WhQPkfY5iiEBeROkG1GL-0FIxwHdNW1PQCLcBGAs/w1200-h630-p-k-no-nu/WhatsApp%2BImage%2B2018-07-13%2Bat%2B13.13.59.jpeg"
-featured_image: "https://images.ruyandagor.com/2017/04/yesil-ve-beyaz-elbise-giymek-0144.jpg"
+- "https://1001ruya.com/wp-content/uploads/Ruyada-Siyah-Gormek-Siyah-Yilan-Gormek-Siyah-Giymek-ne-demek-768x432.jpg"
+featuredImage: "https://images.ruyandagor.com/2017/04/yesil-ve-beyaz-elbise-giymek-0144.jpg"
+featured_image: "https://images.ruyandagor.com/2017/06/beyaz-renk-elbise-giymek-1147.jpg"
 image: "https://images.ruyandagor.com/2017/06/beyaz-renk-elbise-giymek-1147.jpg"
 ---
 

@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Brookhaven uzun tren yaptik"
-date: "2022-12-05"
+description: "Doğu ekspresi: türkiye&#039;nin en uzun tren yolculuğu"
+date: "2023-06-20"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://pbs.twimg.com/media/FtSyAT4XoAIU8vl.jpg"
+- "https://i.hbrcdn.com/haber/2018/12/14/dogu-ekspresi-turkiye-nin-en-uzun-tren-yolcul-11537174_amp.jpg"
 featuredImage: "https://img.piri.net/mnresize/900/-/resim/imagecrop/2022/08/17/01/40/resized_3a86a-5fa96339transsibiryaekspresi.jpg"
-featured_image: "https://i.ytimg.com/vi/hVcCEoHmcuk/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgZShlMA8=&amp;rs=AOn4CLCVnvSIDV3wvUegyyUqlgdmgS7UWw"
+featured_image: "https://rayhaber.com/wp-content/uploads/2020/08/manyetik-rayli-tren-nedir-maglev-treni-kim-icat-etti-maglev-treni-ne-kadar-hizli-gider.jpg"
 image: "https://blog.obilet.com/wp-content/uploads/2018/02/shutterstock_1005604414.jpg"
 ---
 

@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Rüyada bardak kırmak ve yıkamak ne anlama gelir? rüyada bardak"
-date: "2023-03-15"
+description: "Rüyada bardak görmek ne anlama gelir? rüyada bardak kırmak nedir"
+date: "2023-07-31"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://www.ilahirahmet.com/wp-content/uploads/2015/11/Rüyada-Bebek-Görmek-Ne-Anlama-Gelir.jpg"
-featuredImage: "https://i20.haber7.net/resize/1280x720/haber/haber7/photos/2021/41/ruyada_bardak_kirmak_ne_demek_ruyada_bardak_firlatip_kirmak_ne_anlama_gelir_1633938756_362.jpg"
-featured_image: "https://i.lezzet.com.tr/images-xxlarge-secondary/starbucks-kahve-bardak-boylari-ne-anlama-geliyor-8123608f-4532-4330-957e-638746434872"
+- "https://imgrosetta.mynet.com.tr/file/12346853/12346853-1200x824.jpg"
+featuredImage: "https://www.medicalpark.com.tr/_uploads/_images/_healthGuide/EHQULBM7.jpg"
+featured_image: "https://www.medicalpark.com.tr/_uploads/_images/_healthGuide/EHQULBM7.jpg"
 image: "https://i.lezzet.com.tr/images-xxlarge-secondary/starbucks-kahve-bardak-boylari-ne-anlama-geliyor-8123608f-4532-4330-957e-638746434872"
 ---
 

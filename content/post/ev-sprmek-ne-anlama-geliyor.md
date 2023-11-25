@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Adalet simgesi ne anlama geliyor"
-date: "2023-07-15"
+description: "Radye temel nedir, ne anlama gelir? toki̇ evlerinde kullanılan radye"
+date: "2023-02-26"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://d.neoldu.com/news/63774.jpg"
+- "https://gelecekten.net/wp-content/uploads/2020/08/Akik-tasi.jpg"
 featuredImage: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17ylyo.img"
-featured_image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17ylyo.img"
+featured_image: "https://img3.aksam.com.tr/imgsdisk/2020/04/08/t25_080420205eca15ca.jpg"
 image: "http://www.goynukluler.com/wp-content/uploads/2017/06/adalet-simgesi-chp.jpg"
 ---
 

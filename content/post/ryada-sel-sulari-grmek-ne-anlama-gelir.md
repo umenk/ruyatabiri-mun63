@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Sel suları önüne ne gelirse sürükledi"
-date: "2023-04-23"
+description: "Silivri’de sel suları plajı vurdu, şezlonglar akıntıya kapıldı"
+date: "2023-03-07"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
 - "https://takimlar.net/wp-content/uploads/2022/08/silivride-sel-sulari-plaji-vurdu-sezlonglar-akintiya-kapildi-semsiyeler-devrildi-0-WAwWODVL.jpg"
 featuredImage: "https://i20.haber7.net/resize/1280x720/haber/haber7/photos/sel_sulari_cekilince_ortaya_cikti_1401373684_5248.jpg"
-featured_image: "https://i4.hurimg.com/i/hurriyet/75/1200x675/5dfcb5e867b0a925e8057b4a.jpg"
+featured_image: "https://www.nkfu.com/wp-content/uploads/2014/10/sel-2.jpg"
 image: "https://egitim.com/uploads/content-section/eb068c5b34c0a9f2205aaca6a463c4fba78774ea.jpg"
 ---
 

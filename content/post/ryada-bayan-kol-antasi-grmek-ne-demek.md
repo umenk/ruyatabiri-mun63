@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "G-string nedir, g-string ne demek"
-date: "2023-03-19"
+description: "Gora nerede çekildi? g.o.r.a. açılımı nedir, ne demek? gora konusu ne"
+date: "2023-02-22"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://www.hepekonomi.com/wp-content/uploads/2022/04/borsada-kol-kesmek-ne-demek-678x381.jpg"
-featuredImage: "https://i2.hbrcdn.com/haber/2020/12/18/5-kol-ne-demek-besinci-kol-faaliyeti-nedir-13808969_8019_amp.jpg"
-featured_image: "https://i.hbrcdn.com/haber/2022/03/24/gora-nerede-cekildi-g-o-r-a-hangi-il-ve-ilcede-14819082_8520_amp.jpg"
+- "https://i2.hbrcdn.com/haber/2020/12/18/5-kol-ne-demek-besinci-kol-faaliyeti-nedir-13808969_8019_amp.jpg"
+featuredImage: "http://cdn.shopify.com/s/files/1/0715/4441/files/tru._size_chart_1024x1024.png?v=1585473568"
+featured_image: "https://resource.logitechg.com/e_trim/w_652,ar_4:3,c_limit,q_auto,f_auto/w_692,h_519,c_lpad,b_rgb:2f3132,dpr_auto/d_transparent.gif/content/dam/gaming/en/products/pro-gaming-mouse/plasma-hero-carbon-gallery-5.png?v=1"
 image: "https://cdn.karar.com/news/1333146.jpg"
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Eski sevgilim neden bu kadar azmış?"
-date: "2023-02-04"
+description: "Eski sevgilim neden böyle birden ters yaptı?"
+date: "2023-11-13"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://cf.kizlarsoruyor.com/q11591744/primary-share.png?10"
-featuredImage: "https://ruinse.info/img/eski-sevgilim-benimle-neden-konusmuyor_06t.jpg"
-featured_image: "https://cf.kizlarsoruyor.com/q18769836/fe60790b-cfac-43aa-899e-778f99677291.jpg"
-image: "https://cf.kizlarsoruyor.com/q18128690/primary-share.png?60"
+- "https://i.ytimg.com/vi/FZYhagQVkJQ/maxresdefault.jpg"
+featuredImage: "https://i.ytimg.com/vi/gz4yqlKoIMk/hqdefault.jpg"
+featured_image: "https://ruinse.info/img/eski-sevgilim-benimle-neden-konusmuyor_06t.jpg"
+image: "https://cf.kizlarsoruyor.com/q11591744/primary-share.png?10"
 ---
 
 If you are searching about Eski sevgilim neden bu kadar azmış? - KizlarSoruyor you've came to the right web. We have 9 Pictures about Eski sevgilim neden bu kadar azmış? - KizlarSoruyor like Eski Sevgilim Benimle Neden Konuşmuyor?, Eski sevgilim neden bu kadar azmış? - KizlarSoruyor and also Eski sevgilim neden bu kadar azmış? - KizlarSoruyor. Here you go:

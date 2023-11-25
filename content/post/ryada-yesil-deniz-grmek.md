@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Yeşil deniz dizisi"
-date: "2023-07-06"
+description: "Yeşil deniz yorumları ve dizi bilgi"
+date: "2023-07-13"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "http://i.tm.biz.tr/e/280x210/yesil-deniz-16243.jpg"
-featuredImage: "https://m.media-amazon.com/images/M/MV5BNWYyMGJiY2ItYzIzOS00ZDViLTk5MTctZWU2YzQ4ODY2ZTM1XkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_FMjpg_UX1000_.jpg"
+- "https://i.sonhaberler.com/storage/files/images/2022/11/14/yesil-deniz-oyunculari-kim-tam-list-dW3e.jpg"
+featuredImage: "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1102323906494495"
 featured_image: "https://m.media-amazon.com/images/M/MV5BNWYyMGJiY2ItYzIzOS00ZDViLTk5MTctZWU2YzQ4ODY2ZTM1XkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_FMjpg_UX1000_.jpg"
-image: "http://i.tm.biz.tr/e/280x210/yesil-deniz-16243.jpg"
+image: "https://dizioyuncu.com/wp-content/uploads/2022/12/yesil-deniz-milenyum-oyunculari.jpg"
 ---
 
 If you are looking for yesil deniz ask muzigi - YouTube you've came to the right page. We have 9 Pictures about yesil deniz ask muzigi - YouTube like yesil deniz ask muzigi - YouTube, Yeşil Deniz Bahri - Eren Can Vurucu Kimdir? - Kim Kimdir? and also Yeşil Deniz oyuncuları kim TAM LİSTE? - Son Haberler. Here it is:

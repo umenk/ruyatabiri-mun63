@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Gelin apandis birinci sınıf cam yemek masaları modelleri benzin buluntu"
-date: "2022-12-16"
+description: "Yemek masası: yemek masaları"
+date: "2023-10-19"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://1.bp.blogspot.com/-MWqAn0E3Cu4/Tzrmnl6ypAI/AAAAAAAABGM/1GUYrljsYQQ/s1600/oval-cam-masa-ornekleri-tasarimi.jpg"
-featuredImage: "https://1.bp.blogspot.com/-MWqAn0E3Cu4/Tzrmnl6ypAI/AAAAAAAABGM/1GUYrljsYQQ/s1600/oval-cam-masa-ornekleri-tasarimi.jpg"
-featured_image: "https://productimages.hepsiburada.net/s/54/375/11187378618418.jpg"
+- "https://img.alkapida.com/images/products/c/785/arya-züccaciye-ares-18-parça-cam-yemek-takımı-7_zoom.jpg"
+featuredImage: "https://3.bp.blogspot.com/-6WYNo8FV6Us/VruhAistslI/AAAAAAAAAnw/7E21SZs0WhQ/s1600/cam_yemek_masasi_modelleri_metal_ayakli.jpg"
+featured_image: "https://1.bp.blogspot.com/-MWqAn0E3Cu4/Tzrmnl6ypAI/AAAAAAAABGM/1GUYrljsYQQ/s1600/oval-cam-masa-ornekleri-tasarimi.jpg"
 image: "https://i.pinimg.com/originals/02/1b/01/021b0191be658b50479029d61df2894a.jpg"
 ---
 

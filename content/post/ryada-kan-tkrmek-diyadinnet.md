@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Keban&#039;da kızılay&#039;ın başlattığı kampanyaya gönüllü kan bağışı"
-date: "2023-03-27"
+description: "Malatya&#039;da silahlı kavgada 2 kişi yaralandı"
+date: "2023-04-03"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/JBvd26gObEs/hq2.jpg"
-featuredImage: "https://i.ytimg.com/vi/DqjEjj44QA8/maxresdefault.jpg"
-featured_image: "https://i.ytimg.com/vi/DqjEjj44QA8/maxresdefault.jpg"
-image: "https://www.diyadinnet.com/img/2021/11/malatya-silahli-kavgada-2-kisi-yaralandi.jpg"
+- "https://i.ytimg.com/vi/EXZ0cNZe6BE/maxresdefault.jpg"
+featuredImage: "https://www.diyadinnet.com/img/2021/11/malatya-silahli-kavgada-2-kisi-yaralandi.jpg"
+featured_image: "https://bt.bmcdn.dk/media/cache/resolve/image_960x545/image/193/1936173/24283440-soccer-worldcup-aus-dnkreport.jpg"
+image: "https://i.ytimg.com/vi/JBvd26gObEs/hq2.jpg"
 ---
 
 If you are looking for Team Garchomp Team Zacian CP3213 - YouTube you've visit to the right page. We have 9 Pictures about Team Garchomp Team Zacian CP3213 - YouTube like Keban'da kızılay'ın başlattığı kampanyaya gönüllü kan bağışı | Elazığ, MAX BARSKIH - Don't Fck With Ukraine \[ Прем'ера кліпу \] (Reaction and also Keban'da kızılay'ın başlattığı kampanyaya gönüllü kan bağışı | Elazığ. Read more:

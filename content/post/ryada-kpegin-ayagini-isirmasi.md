@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Dükkanının önüne bıraktığı köpeğinin ayağını kestiler!"
-date: "2022-12-15"
+description: "Tofi on twitter: &quot;aybüke cocugun ayagini ezdin napiyosun ek9ene9djx #aytol&quot;"
+date: "2023-01-31"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://pbs.twimg.com/media/FqnyZo5WwAcpU7K.jpg"
-featuredImage: "https://pbs.twimg.com/media/FqnyZo5WwAcpU7K.jpg"
-featured_image: "https://images.ruyandagor.com/2017/05/yilan-ayagini-isirmasi-1332.jpg"
-image: "https://www.bursahakimiyet.com.tr/static/47/478521-dukkaninin-onune-biraktigi-kopeginin-ayagini-kestiler-600997cbc9e5a-x750.jpg"
+- "https://img.medyatava.com/rcman/Cw1280h720q95gc/storage/files/images/2022/05/23/kene-isirmasi-nasil-anlasilir-belir-wn1K_cover.jpg"
+featuredImage: "https://images.ruyandagor.com/2017/05/yilan-ayagini-isirmasi-1332.jpg"
+featured_image: "https://pbs.twimg.com/media/FqnyZo5WwAcpU7K.jpg"
+image: "http://www.kadinlarsitesi.com/wp-content/uploads/01/2008/06/KÖPEK-ISIRMASI.jpg"
 ---
 
 If you are searching about Avusturya'yı sarsan olay! Ameliyatta yanlış ayağını kestiler - Son you've came to the right page. We have 9 Pictures about Avusturya'yı sarsan olay! Ameliyatta yanlış ayağını kestiler - Son like Rüyada Yılan Ayağını Isırması - ruyandagor.com, Rüyada Köpek Ayağını Isırması - ruyandagor.com and also Yavru köpeğin ayağını ve kulaklarını kestiler - Gündem Kıbrıs Gazetesi. Read more:

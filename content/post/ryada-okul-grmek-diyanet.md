@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Şehi̇t serdar gören ortaokulu gazi̇antep şahi̇nbey hakkında"
-date: "2022-12-22"
+description: "Diyanet özel okul satın aldı!"
+date: "2023-08-01"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://cdn.emlakkulisi.com/resim/orjinal/MTAwNDYyNT.jpg"
-featuredImage: "https://i.ytimg.com/vi/-n6dBulXAjY/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEcgZSgxMA8=&amp;rs=AOn4CLCS_qN6rh6U_DHR3G4ynkoB3ZAAHw"
-featured_image: "https://ekmekvegul.net/storage/images/IblSDaMIt2E70OOsdxyc0KXBx5jBwGfgINoepbOl.png"
-image: "https://avustralyadiyanet.org.au/wp-content/uploads/2021/11/Diyanet_Isleri_Baskanligi.png"
+- "https://ekmekvegul.net/storage/images/IblSDaMIt2E70OOsdxyc0KXBx5jBwGfgINoepbOl.png"
+featuredImage: "https://bizimtv.com.tr/d/news/67843.jpg"
+featured_image: "https://i.pinimg.com/originals/5e/86/7c/5e867c14ba284a691fec775c40b07798.jpg"
+image: "https://bizimtv.com.tr/d/news/67843.jpg"
 ---
 
 If you are looking for Diyanet 4 6 yaş Okul Öncesi Değerler Eğitimi | Kitap, Eğitim, Eğitim you've came to the right place. We have 9 Pictures about Diyanet 4 6 yaş Okul Öncesi Değerler Eğitimi | Kitap, Eğitim, Eğitim like İlkokul da yetmedi, diyanet başkanı okul öncesi din eğitimi istedi, Okul öncesi eğitimde din çemberi: Diyanet anaokulu açıyor and also ŞEHİT SERDAR GÖREN ORTAOKULU GAZİANTEP ŞAHİNBEY Hakkında. Here you go:

@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Fcs: spiele gegen 1860, waldhof und den fck terminiert"
-date: "2023-11-21"
+description: "Fcs rumpelt nach der zweiten derbypleite in richtung tabellenkeller"
+date: "2023-06-16"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/Jq6hSiLSdbI/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AZYDgALQBYoCDAgAEAEYZSBXKEUwDw==&amp;rs=AOn4CLC7j1FDNMebP_9Zy31ON9k9_G0liA"
-featuredImage: "https://www.saarnews.com/wp-content/uploads/2021/11/211106_fcs_fck_m6_fcs_fans-scaled.jpg"
-featured_image: "https://www.der-betze-brennt.de/images/news/2021-11-08-derby-jubel-fcs-fck.jpg"
-image: "https://www.saarnews.com/wp-content/uploads/2021/11/211106_FCS_FCK_Pius-scaled.jpg"
+- "https://www.saarnews.com/wp-content/uploads/2021/11/sb_camphauser_strasse.jpg"
+featuredImage: "https://derivates.kicker.de/image/upload/x_196,y_0,w_2823,h_1587,c_crop/w_1000,h_563,q_auto/ujwgbvw0ivrksp5bw7mm.jpg"
+featured_image: "https://www.saarnews.com/wp-content/uploads/2021/11/211106_fcs_fck_m6_fcs_fans-scaled.jpg"
+image: "https://www.der-betze-brennt.de/images/news/2021-11-08-derby-jubel-fcs-fck.jpg"
 ---
 
 If you are searching about Saarbrücken-Fans Pyro Gegen FCK | FC Saarbrücken - FC Kaiserslautern 06 you've came to the right place. We have 9 Pictures about Saarbrücken-Fans Pyro Gegen FCK | FC Saarbrücken - FC Kaiserslautern 06 like FCS besteht auch bei 1860 - FCK gibt Sieg aus der Hand und verliert, FCS-FCK: Entscheidung über Verlegung Ende der Woche | Der Betze brennt and also FCS rumpelt nach der zweiten Derbypleite in Richtung Tabellenkeller. Here you go:

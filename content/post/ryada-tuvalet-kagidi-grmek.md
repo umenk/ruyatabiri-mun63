@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "La page de bernard g: sarkozy, tuvalet kagidi (sic)"
-date: "2023-02-02"
+description: "Kagidi tuvalet selpak"
+date: "2023-10-23"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/Yro7CO_p54g/maxresdefault.jpg"
-featuredImage: "https://i.ytimg.com/vi/JdMfhaSDMrM/maxresdefault.jpg"
-featured_image: "https://www.atundo.com/shop/media/image/product/119536/lg/silen-tuvalet-kagidi-24-rollen-toilettenpapier-24-rollen.jpg"
+- "https://static.happycenter.com.tr/Uploads/selpak-tuvalet-kagidi-18-li-18892-228x228.png"
+featuredImage: "http://www.maylo.com.tr/wp-content/uploads/2016/12/tuvalet-kagidi.png"
+featured_image: "http://www.maylo.com.tr/wp-content/uploads/2016/12/tuvalet-kagidi.png"
 image: "https://panel.siparisportali.com/uploads/Product/SOLO TUVALET KAGIDI 32LI AKILLI SECIM.png"
 ---
 

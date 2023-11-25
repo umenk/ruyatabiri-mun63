@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Karadeniz&#039;de sel sularıyla kopan tomruklar sahillerde birikti"
-date: "2023-06-23"
+description: "Şimşek miras samimiyet kopan parmakta tırnak çıkar mı çocuklar"
+date: "2023-02-12"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://habertscom.teimg.com/haberts-com/images/haberler/2021/08/karadeniz_de_sel_sulariyla_kopan_tomruklar_sahillerde_birikti_h224905_fa844.jpg"
+- "https://foto.haberler.com/haber/2016/12/02/kopan-bilegi-tekrar-yerine-dikildi-edirne-9020223_amp.jpg"
 featuredImage: "https://live.staticflickr.com/4788/26930947918_b62b3cce9c.jpg"
-featured_image: "https://www.fbm.com.tr/assets/uploads/ck/images/parmak/parmak-kopmasi-ameliyati(2).jpg"
-image: "https://i.ytimg.com/vi/AtcIcqbjG3Q/maxresdefault.jpg"
+featured_image: "https://i.ytimg.com/vi/isx8KJYEXJI/maxresdefault.jpg"
+image: "https://www.fbm.com.tr/assets/uploads/ck/images/parmak/parmak-kopmasi-ameliyati(2).jpg"
 ---
 
 If you are looking for Şimşek miras Samimiyet kopan parmakta tırnak çıkar mı çocuklar you've visit to the right place. We have 9 Pics about Şimşek miras Samimiyet kopan parmakta tırnak çıkar mı çocuklar like Yumrusu kopan salep fidesi tekrar yetişir mi? - YouTube, İş kazasında kopan parmakları tekrar yerine dikildi | Flickr and also Yumrusu kopan salep fidesi tekrar yetişir mi? - YouTube. Here it is:

@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Rüyada çiğ et görmek ne demek? rüyada et görmenin anlamı nedir? rüyada"
-date: "2023-04-15"
+description: "T-bone steak tarifi: evde güzel pişmiş et yemek i̇steyenler i̇çin t-bone"
+date: "2023-03-24"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://imgrosetta.mynet.com.tr/file/12763217/12763217-700x400.jpg"
-featuredImage: "https://iasbh.tmgrup.com.tr/542dcf/752/395/0/101/724/481?u=https://isbh.tmgrup.com.tr/sbh/2021/09/21/ruyada-pismis-et-yemek-ne-anlama-gelir-ruyada-pismis-tavuk-eti-gormek-ne-demek-1632207295816.jpg"
-featured_image: "https://i20.haber7.net/resize/1280x720/haber/haber7/photos/2021/46/ruyada_et_gormek_ne_anlama_gelir_ruyada_cig_et_gormek_iyiye_mi_kotuye_mi_isaret_eder_1636985861_5885.jpg"
+- "https://iasbh.tmgrup.com.tr/542dcf/752/395/0/101/724/481?u=https://isbh.tmgrup.com.tr/sbh/2021/09/21/ruyada-pismis-et-yemek-ne-anlama-gelir-ruyada-pismis-tavuk-eti-gormek-ne-demek-1632207295816.jpg"
+featuredImage: "https://imgrosetta.mynet.com.tr/file/12763217/12763217-700x400.jpg"
+featured_image: "https://images.ruyandagor.com/2017/04/az-pismis-et-yemek-2017.jpg"
 image: "https://www.stabilhayat.com/wp-content/uploads/2020/08/ruyada-pismis-et-gormek.png"
 ---
 

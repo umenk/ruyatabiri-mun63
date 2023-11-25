@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Rüyada evliyken eski sevgiliyi görmek"
-date: "2023-08-13"
+description: "Eski̇ sevgi̇li̇yi̇ geri̇ kazanma (nasıl yazışmalıyım?)"
+date: "2023-08-26"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "http://ruyameali.com/wp-content/uploads/2030/01/1-1-768x540.jpg"
-featuredImage: "https://images.ruyandagor.com/2017/04/evliyken-eski-sevgiliyi-gormek-1302.jpg"
-featured_image: "https://2.bp.blogspot.com/-rJFF8kL4-3M/Ua1R6Sa32mI/AAAAAAAAAfc/Ycq9ANy-57Y/s1600/Rüyada+Eski+Sevgiliyi+Görmek.jpg"
+- "http://ruyameali.com/wp-content/uploads/2025/08/1-6-810x592.jpg"
+featuredImage: "https://1001ruya.com/wp-content/uploads/ruyada-eski-sevgili-gormek.jpg"
+featured_image: "https://iatkv.tmgrup.com.tr/6b1be5/600/314/0/0/800/418?u=https:%2f%2fitkv.tmgrup.com.tr%2falbum%2f2021%2f12%2f14%2f1639514086537.jpg"
 image: "https://images.ruyandagor.com/2017/04/evliyken-eski-sevgiliyi-gormek-1302.jpg"
 ---
 

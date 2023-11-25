@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Kiyma edit 3"
-date: "2023-03-30"
+description: "200 gr kiyma i̇le🔝i̇nanilmaz bi̇r yemek hazirladim🏆yi̇yen bi̇r daha i̇stedi̇🤩"
+date: "2023-08-08"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/I5r6Xulbexg/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYfyBGKDEwDw==&amp;rs=AOn4CLBHS-W1i7JTBaO6B8TUuudC1G3ytg"
-featuredImage: "https://i.ytimg.com/vi/iCPE4g4FWok/maxresdefault.jpg"
+- "https://i.ytimg.com/vi/ZkPF3Zu6zKw/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AGUA4AC0AWKAgwIABABGGUgXyhGMA8=&amp;rs=AOn4CLA9--2GDY06k5_wjj1seMpGlKQT9g"
+featuredImage: "https://i.ytimg.com/vi/TF5U8-Bp5cI/maxresdefault.jpg"
 featured_image: "https://i.ytimg.com/vi/D0COH5G7Iow/maxresdefault.jpg"
-image: "https://i.ytimg.com/vi/I5r6Xulbexg/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYfyBGKDEwDw==&amp;rs=AOn4CLBHS-W1i7JTBaO6B8TUuudC1G3ytg"
+image: "https://i.ytimg.com/vi/ZkPF3Zu6zKw/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AGUA4AC0AWKAgwIABABGGUgXyhGMA8=&amp;rs=AOn4CLA9--2GDY06k5_wjj1seMpGlKQT9g"
 ---
 
 If you are looking for ADANA KEBAP KIYMA KEBAP - YouTube you've visit to the right page. We have 9 Images about ADANA KEBAP KIYMA KEBAP - YouTube like 🎉150 G KIYMA İLE 2,5 TEPSİ FINDIK LAHMACUN TARİFİ |NASIL YAPILIR #YUMMY, KIYMA MAKİNESİ DE KOY - YouTube and also 🎉150 G KIYMA İLE 2,5 TEPSİ FINDIK LAHMACUN TARİFİ |NASIL YAPILIR #YUMMY. Read more:

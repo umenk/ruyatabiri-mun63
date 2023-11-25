@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Ramazan’da mastür yapmak günah mı diyanet"
-date: "2023-02-22"
+description: "Manti yapmak hi̇ç bu kadar kolay olmamişti"
+date: "2023-05-20"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://cdn.yeniakit.com.tr/images/news/940/diyanet-altina-yatirim-yapmak-haram-degildir-aciklamasi-yapti-2h1405170842.png"
-featuredImage: "https://1001ruya.com/wp-content/uploads/RUYADA-TUVALET-GORMEK-YAPMAK-BUYUK-ABDESTINI-YAPMAK-Ruyada-Minibus-Gormek-Binmek-1024x576.jpg"
-featured_image: "https://i.pinimg.com/originals/1c/44/36/1c44360902e6bfab86e0701150b8f1df.jpg"
-image: "https://i.pinimg.com/originals/1c/44/36/1c44360902e6bfab86e0701150b8f1df.jpg"
+- "https://i.cnnturk.com/i/cnnturk/75/740x416/641c20d6d265a221f842f136.jpg"
+featuredImage: "https://iasbh.tmgrup.com.tr/9940ef/752/395/36/0/750/375?u=https://isbh.tmgrup.com.tr/sbh/2022/11/16/meditasyon-gunah-mi-diyanete-gore-yoga-ve-meditasyon-yapmak-haram-mi-caiz-mi-hukmu-ne-d1-1668598923972.jpg"
+featured_image: "https://www.diyanetbirsen.org/wp-content/uploads/2021/09/haberrr.jpg"
+image: "https://i.pinimg.com/736x/10/03/2e/10032ee9ad38b724f614031224e0a0d3.jpg"
 ---
 
 If you are searching about Ağda yapmak orucu bozar mı? Diyanet oruçluyken ağda yapılır mı? you've came to the right page. We have 9 Pictures about Ağda yapmak orucu bozar mı? Diyanet oruçluyken ağda yapılır mı? like ON NUMARA MANTI! BU ŞEKİLDE YAPIN ÇOK PRATİK VE LEZZETLİ OLACAK, Haber yapmak mı? Haber uydurmak mı ? | Diyanet Bir-Sen and also Meditasyon Günah Mı? Diyanet'e Göre Yoga ve Meditasyon Yapmak Haram Mı. Here it is:

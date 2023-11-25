@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Fırında çıtır patates tarifi"
-date: "2023-01-29"
+description: "Fırında çıtır patates nasıl yapılır avrupa kabul et arktik"
+date: "2022-12-23"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
 - "https://i.ytimg.com/vi/gOoHtABuTJ8/maxresdefault.jpg"
-featuredImage: "https://cdn.yemek.com/mnresize/1250/833/uploads/2021/01/firinda-citir-patates-2-tarifi.jpg"
-featured_image: "https://annelikzordediler.com/wp-content/uploads/2021/04/firinda-citir-patates-tarifi-1.jpeg"
-image: "https://images.ruyandagor.com/2017/04/etli-patates-yemegi-yemek-2305.jpg"
+featuredImage: "https://nefiis.com/wp-content/uploads/2021/01/firinda-patates.jpg"
+featured_image: "http://www.yemek-ye.com/wp-content/uploads/2021/12/Fırında-Çıtır-Patates.png"
+image: "https://images.ruyandagor.com/2017/04/ekmek-arasi-patates-yemek-1852.jpg"
 ---
 
 If you are searching about Patates - Yemek.com you've visit to the right web. We have 9 Images about Patates - Yemek.com like Fırında Çıtır Patates | Kolay Yemek Tarifleri, Rüyada Etli Patates Yemeği Yemek - ruyandagor.com and also Fırında Kıymalı Rulo Patates Tarifi Nasıl Yapılır / Patates Rulo Tarifi. Here you go:

@@ -1,13 +1,13 @@
 ---
 title: ""
 description: "Tekirdağ&#039;da tartıştığı eşini bıçakladı"
-date: "2023-11-09"
+date: "2023-06-08"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://pbs.twimg.com/media/Fcyada8X0AANSFu.jpg"
-featuredImage: "https://images.bursadabugun.com/haber/2022/08/29/1540220-tekirdag-da-tartistigi-esini-bicakladi-630cfd9c774b1.jpg"
-featured_image: "https://haber46comtr.teimg.com/haber46-com-tr/images/haberler/2016/06/esini_oldurup_dereye_attigi_iddia_edilen_sahis_ve_akrabasi_tutuklandi.jpg"
+- "https://www.konyapostasi.com.tr/images/haberler/2022/05/eski-esini-bicaklayarak-oldurdu-1651536042.jpg"
+featuredImage: "https://i.sdacdn.com/haber/2015/01/20/ogretmen-koca-ogrencisiyle-yakaladigi-esini-t-6884906_x_osd.jpg"
+featured_image: "https://jurnalci.com/wp-content/uploads/2022/09/karisini-oldurup-sosyal-medyadan-gururlu-hissediyor-yazmisti-kendisinin-esini-aldattigi-ortaya-cikti-JuMzzhCv.jpg"
 image: "https://pbs.twimg.com/media/Fcyada8X0AANSFu.jpg"
 ---
 

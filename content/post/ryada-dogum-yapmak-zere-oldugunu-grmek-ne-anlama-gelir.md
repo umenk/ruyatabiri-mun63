@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Rüyada doğum yapmak neye i̇şarettir?"
-date: "2023-07-16"
+description: "Rüyada doğum yaptığını görmek ne anlama gelir? diyanete göre rüyada"
+date: "2023-11-14"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://iasbh.tmgrup.com.tr/3d78bc/752/395/7/0/1200/627?u=https://isbh.tmgrup.com.tr/sbh/2020/03/31/ruyada-dogum-yapmak-nedir-ne-anlama-gelir-ruyada-dogum-sancisi-cekmek-dogum-yaptirmak-1585658508161.jpg"
+- "https://images.ruyandagor.com/2017/05/dogum-yapmak-emzirmek-1454.jpg"
 featuredImage: "https://images.ruyandagor.com/2017/04/sezeryanla-dogum-yapmak-0026.jpg"
-featured_image: "https://i.hbrcdn.com/haber/2019/11/08/ruyada-dogum-yapmak-nedir-ruyada-erkek-bebek-12596749_6511_amp.jpg"
+featured_image: "https://hamileyken.com/wp-content/uploads/2022/05/ruyada-hamile-oldugunu-gormek-ve-dogum-yapmak-1024x562.jpg"
 image: "https://hamileyken.com/wp-content/uploads/2022/04/Ruyada-Dogum-Yapmak-Tabiri-768x504.jpg"
 ---
 

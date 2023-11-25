@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Rihanna eski sevgilisi böyle pişman etti!"
-date: "2023-03-17"
+description: "𝕻𝖎𝖘𝖒𝖆𝖓 𝖊𝖙||𝖆𝖞𝖆𝖐𝖑𝖆𝖗𝖎𝖓𝖆 𝖐𝖆𝖕𝖆𝖓𝖘𝖎𝖓// istek sub #subliminal #olumlama"
+date: "2023-02-04"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/4mvQ9g2Ni9c/maxresdefault.jpg"
-featuredImage: "https://i.ytimg.com/vi/Ci8l-_FRoi8/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AGWA4AC0AWKAgwIABABGGUgWihTMA8=&amp;rs=AOn4CLDCqVhjvMFHULldmZUQOSqyzswf3g"
-featured_image: "https://iaysr.tmgrup.com.tr/074c05/0/0/0/0/0/0?u=https://iysr.tmgrup.com.tr/album/2019/05/07/rihanna-eski-sevgilisi-boyle-pisman-etti-1557232862490.jpg&amp;mw=752"
+- "https://iaysr.tmgrup.com.tr/074c05/0/0/0/0/0/0?u=https://iysr.tmgrup.com.tr/album/2019/05/07/rihanna-eski-sevgilisi-boyle-pisman-etti-1557232862490.jpg&amp;mw=752"
+featuredImage: "https://i.ytimg.com/vi/SYlDo44PlGM/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgUChCMA8=&amp;rs=AOn4CLAsiSTP_CTkxVOWd3G-crV35XwDEQ"
+featured_image: "https://i.ytimg.com/vi/SYlDo44PlGM/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgUChCMA8=&amp;rs=AOn4CLAsiSTP_CTkxVOWd3G-crV35XwDEQ"
 image: "https://iaysr.tmgrup.com.tr/074c05/0/0/0/0/0/0?u=https://iysr.tmgrup.com.tr/album/2019/05/07/rihanna-eski-sevgilisi-boyle-pisman-etti-1557232862490.jpg&amp;mw=752"
 ---
 

@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Kasaptaki ete soğan doğranmaz ne demek? kasaptaki ete soğan doğranmaz"
-date: "2023-06-26"
+description: "Sogan – omka gübre"
+date: "2023-08-10"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://www.omkalimited.com/wp-content/uploads/2019/10/sogan-1.jpg"
-featuredImage: "https://2.bp.blogspot.com/-WhygAA-4XbI/WQXG5XXyXxI/AAAAAAAAEHo/6v6JVACTrt8lOhjoYM0lDzxQWHIFvTc2gCLcB/s1600/Sogan%2Bsarmasi%2B%252814%2Bmart%2529%2B3.jpg"
-featured_image: "https://hisleraynasi.net/wp-content/uploads/2018/05/hi-ay-dogranmis-sogan.png"
+- "https://2.bp.blogspot.com/-WhygAA-4XbI/WQXG5XXyXxI/AAAAAAAAEHo/6v6JVACTrt8lOhjoYM0lDzxQWHIFvTc2gCLcB/s1600/Sogan%2Bsarmasi%2B%252814%2Bmart%2529%2B3.jpg"
+featuredImage: "https://cdn.ntv.com.tr/img/ne-demek/sogan-cicegi_63392.jpg"
+featured_image: "https://www.omkalimited.com/wp-content/uploads/2019/10/sogan-1.jpg"
 image: "https://cdn.ntv.com.tr/img/ne-demek/bas-ol-da-istersen-sogan-basi-ol_6095.jpg"
 ---
 

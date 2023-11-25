@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "4 yaşındaki çocuk eve camdan girmeye kalkınca demir parmaklıklara"
-date: "2022-12-02"
+description: "Mahsene gi̇rmeye caliştim ama tuzakli cok tehli̇keli̇"
+date: "2023-05-18"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i12.haber7.net/haber/haber7/photos/2022/38/balikesirde_hirsiz_eve_girmeye_calisirken_uyuya_kaldi_1663674229_9046.jpg"
-featuredImage: "https://i3.posta.com.tr/i/posta/75/0x0/616d2daf45d2a09550bcc7ee.jpg"
-featured_image: "https://i12.haber7.net/haber/haber7/photos/2022/38/balikesirde_hirsiz_eve_girmeye_calisirken_uyuya_kaldi_1663674229_9046.jpg"
-image: "https://i.haberglobal.com.tr/storage/haber/2021/08/11/ayni-eve-ikinci-kez-girmeye-calisan-hirsiz-balkondan-cipin-uzerine-atlayip-kacti-iste-o-anlar-video_1628703544.jpg"
+- "https://i.haberglobal.com.tr/storage/haber/2021/08/11/ayni-eve-ikinci-kez-girmeye-calisan-hirsiz-balkondan-cipin-uzerine-atlayip-kacti-iste-o-anlar-video_1628703544.jpg"
+featuredImage: "https://i.ytimg.com/vi/lteqO5FztNc/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gQSgvMA8=&amp;rs=AOn4CLC_0Wl91sty8tp7fcz8kkfrJ1E6kA"
+featured_image: "https://i3.posta.com.tr/i/posta/75/0x0/616d2daf45d2a09550bcc7ee.jpg"
+image: "https://i.ytimg.com/vi/lteqO5FztNc/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gQSgvMA8=&amp;rs=AOn4CLC_0Wl91sty8tp7fcz8kkfrJ1E6kA"
 ---
 
 If you are searching about rüyada eve hırsızın girmeye çalışması ama girmemesi - ️ bilgi90 you've visit to the right page. We have 9 Pictures about rüyada eve hırsızın girmeye çalışması ama girmemesi - ️ bilgi90 like KERKÜĞE GİRMEYE ÇALIŞACAKLAR AMA UNUTTUKLARI BİRŞEY VAR..TÜRKLERRRR, İnanılmaz ama gerçek! 'Eve tırmanan hırsız'ın pantolonu çalındı and also BİR HIRSIZIN SONU! | Uncharted 4: 11.Bölüm Göze görünmez ama göz önünde. Here you go:

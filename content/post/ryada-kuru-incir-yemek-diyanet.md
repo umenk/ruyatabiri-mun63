@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Cevizli kuru i̇ncir (ahşap kutu 660gr) – i̇ncir ocağı"
-date: "2023-07-23"
+description: "Zeyti̇nyağli̇ i̇nci̇r kürü"
+date: "2023-10-25"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://4.bp.blogspot.com/-uKn-zQkWZXs/XocJ0wAr6rI/AAAAAAAAACg/RDwvaoeQUXA86NwRCvQnr_LDCIxVAFs4ACK4BGAYYCw/w1200-h630-p-k-no-nu/b4120392ef419.jpg"
-featuredImage: "https://incirocagi.com/wp-content/uploads/2021/01/Cevizli-Kuru-Incir-Acik.jpg"
-featured_image: "https://4.bp.blogspot.com/-uKn-zQkWZXs/XocJ0wAr6rI/AAAAAAAAACg/RDwvaoeQUXA86NwRCvQnr_LDCIxVAFs4ACK4BGAYYCw/w1200-h630-p-k-no-nu/b4120392ef419.jpg"
-image: "https://cdn.yemek.com/uploads/2022/02/fb-zeytinyagli-incir-kuru.jpg"
+- "https://cdn.yemek.com/uploads/2022/02/fb-zeytinyagli-incir-kuru.jpg"
+featuredImage: "https://i.pinimg.com/originals/6e/fc/da/6efcdac86c269bb5dd19dce4dc213406.jpg"
+featured_image: "https://incirocagi.com/wp-content/uploads/2021/01/Cevizli-Kuru-Incir-Acik.jpg"
+image: "https://i.hbrcdn.com/haber/2021/06/10/ruyada-kuru-sogan-gormek-diyanet-aciklamasi-14191492_3128_amp.jpg"
 ---
 
 If you are searching about ZEYTİNYAĞLİ İNCİR KÜRÜ - Sırlar Deryası you've visit to the right page. We have 9 Pictures about ZEYTİNYAĞLİ İNCİR KÜRÜ - Sırlar Deryası like Rüyada incir ağacı görmek - Kuru incir yemek, toplamak - StabilHayat, ZEYTİNYAĞLİ İNCİR KÜRÜ - Sırlar Deryası and also ZEYTİNYAĞLİ İNCİR KÜRÜ - Sırlar Deryası. Here it is:

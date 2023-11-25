@@ -1,13 +1,13 @@
 ---
 title: ""
 description: "Rüyada birinin altın vermesi ne anlama gelir? rüyada altın görmek"
-date: "2023-10-31"
+date: "2022-12-12"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://images.ruyandagor.com/2017/04/olmus-birinin-para-vermesi-1210.jpg"
-featuredImage: "https://i.ytimg.com/vi/Tn8DQCS41Us/maxresdefault.jpg"
-featured_image: "https://i.ytimg.com/vi/DskeDN5_0Cw/maxresdefault.jpg"
+- "https://st1.myideasoft.com/idea/ej/08/myassets/blogs/gorsel884.jpg?revision=2020-11-25 00:29:59"
+featuredImage: "https://st1.myideasoft.com/idea/ej/08/myassets/blogs/gorsel884.jpg?revision=2020-11-25 00:29:59"
+featured_image: "https://i.hbrcdn.com/haber/2023/01/10/ruyada-birinin-altin-vermesi-ne-anlama-gelir-15550734_7898_amp.jpg"
 image: "https://i.hbrcdn.com/haber/2023/01/10/ruyada-birinin-altin-vermesi-ne-anlama-gelir-15550734_7021_m.jpg"
 ---
 

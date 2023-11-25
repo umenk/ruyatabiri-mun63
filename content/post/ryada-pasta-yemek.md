@@ -1,12 +1,12 @@
 ---
 title: ""
-description: "Rüyada çilekli yaş pasta yemek"
-date: "2023-04-02"
+description: "Rüyada pasta yemek"
+date: "2023-09-05"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "http://ruyameali.com/wp-content/uploads/2017/05/Pasta-8.jpg"
-featuredImage: "https://i.ytimg.com/vi/ZS8eWv5gYUc/maxresdefault.jpg"
+- "http://cdn.ruyayorumu.com/ruya-tabirleri/600/p/ruyada-pasta-yemek.jpg"
+featuredImage: "https://images.ruyandagor.com/2017/05/cilekli-yas-pasta-yemek-1356.jpg"
 featured_image: "https://cdn.yemek.com/mncrop/600/315/uploads/2021/05/islak-pasta-tarifi.jpg"
 image: "https://i.ytimg.com/vi/7dLVD4rvOA8/maxresdefault.jpg"
 ---

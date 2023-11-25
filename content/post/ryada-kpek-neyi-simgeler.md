@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Yılan neyi temsil eder ve simgeler? yılan sembolü ne anlama gelir?"
-date: "2023-08-27"
+description: "Cumhurbaşkanlığı forsundaki 16 yıldız neyi simgeler ve ifade eder?"
+date: "2023-10-01"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i4.hurimg.com/i/hurriyet/75/1200x675/62e3f2444e3fe019f0b06d05.jpg"
-featuredImage: "https://i4.hurimg.com/i/hurriyet/75/1200x675/6192cec94e3fe0098c5146b7.jpg"
-featured_image: "https://i4.hurimg.com/i/hurriyet/75/1200x675/6192cec94e3fe0098c5146b7.jpg"
+- "https://vanhbr.com/wp-content/uploads/2021/11/1637054059_Petunya-Cicegi-anlami-nedir-Petunya-Cicegi-neyi-simgeler-ve-ifade.jpg"
+featuredImage: "https://i4.hurimg.com/i/hurriyet/75/750x422/619193114e3fe11d64dcb04f.jpg"
+featured_image: "https://i4.hurimg.com/i/hurriyet/75/1200x675/62e3f2444e3fe019f0b06d05.jpg"
 image: "https://i4.hurimg.com/i/hurriyet/75/1200x675/62e3f2444e3fe019f0b06d05.jpg"
 ---
 

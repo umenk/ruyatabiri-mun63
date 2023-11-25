@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Kahramanmaraş&#039;ta yılan kartalı bulundu"
-date: "2023-04-01"
+description: "Yaralı bulunan yılan veterinere götürüldü"
+date: "2023-04-04"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA11iWOb.img?h=315&amp;w=600&amp;m=6&amp;q=60&amp;o=t&amp;l=f&amp;f=jpg"
-featuredImage: "https://i2.sdacdn.com/haber/2018/10/22/yarali-bulunan-yilan-veterinere-goturuldu-11358091_osd.jpg"
-featured_image: "https://iasbh.tmgrup.com.tr/8c2357/0/0/0/0/0/0?u=https://isbh.tmgrup.com.tr/sbh/2022/04/27/marmariste-yarali-yilan-kartali-tedavi-edildi-1651046553971.jpg&amp;mw=600"
-image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA11iWOb.img?h=315&amp;w=600&amp;m=6&amp;q=60&amp;o=t&amp;l=f&amp;f=jpg"
+- "https://i.hbrcdn.com/haber/2023/07/28/yarali-bulunan-yilan-kartali-ile-kizil-sahin-16167697_amp.jpg"
+featuredImage: "https://iasbh.tmgrup.com.tr/f44ed2/0/0/0/0/800/535?u=https://isbh.tmgrup.com.tr/sbh/2021/01/24/muglada-yarali-halde-bulunan-yilan-kartali-1611505162455.jpg&amp;mw=555"
+featured_image: "https://anterhaber.com/images/haberler/yarali-bulunan-yilan-kartali-tedavi-edilip-dogal-yasama-birakildi.jpg"
+image: "https://i.ytimg.com/vi/qEKcd6TnHZk/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYZSBaKFAwDw==&amp;rs=AOn4CLCvG_muam4NRn0tMW4AMwolXLp0_w"
 ---
 
 If you are searching about Yaralı Bulunan Yılan Veterinere Götürüldü - Son Dakika you've came to the right place. We have 9 Pictures about Yaralı Bulunan Yılan Veterinere Götürüldü - Son Dakika like Yarali yilan - YouTube, YARALI YILAN - YouTube and also Yaralı Bulunan Yılan Veterinere Götürüldü - Son Dakika. Here it is:

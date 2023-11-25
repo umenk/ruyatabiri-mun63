@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Somali&#039;de iniş yapmak isteyen uçak yere çakıldı!"
-date: "2023-07-16"
+description: "&quot;misyonumuz, 2028 sonuna kadar aya yumuşak iniş yapmak"
+date: "2023-01-30"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://www.kibrisgazetesi.com/images/resize/100/600x315/haberler/2023/04/koltugunun_altinda_sari_kobra_yilani_gormesi_uzerine_acil_inis_yapmak_zorunda_kaldi_h148402_84d07.jpg"
-featuredImage: "https://images.bursadabugun.com/haber/2022/07/18/1528814-somali-de-inis-yapmak-isteyen-ucak-yere-cakildi-62d55a256c224.jpg"
-featured_image: "https://i.ytimg.com/vi/qGHohm-B0GM/maxresdefault.jpg"
-image: "https://i20.haber7.net/resize/1280x720/haber/haber7/photos/thy_ucagi_acil_inis_yapmak_zorunda_kaldi_1431292623_6736.jpg"
+- "https://ortadogugazetesicom.teimg.com/ortadogugazetesi-com/images/haberler/2021/03/tua-baskani-yildirim-misyonumuz-2028-sonuna-kadar-aya-yumusak-inis-yapmak_1e24c.jpg"
+featuredImage: "https://cdn.yeniakit.com.tr/images/video/meksikada-ucak-acil-inis-yapmak-zorunda-h1658291248.jpg"
+featured_image: "https://cdn.yeniakit.com.tr/images/video/meksikada-ucak-acil-inis-yapmak-zorunda-h1658291248.jpg"
+image: "https://i.ytimg.com/vi/qGHohm-B0GM/maxresdefault.jpg"
 ---
 
 If you are searching about THY uçağı acil iniş yapmak zorunda kaldı - Haber 7 GÜNCEL you've visit to the right place. We have 9 Pictures about THY uçağı acil iniş yapmak zorunda kaldı - Haber 7 GÜNCEL like Grand Theft Auto Vucak kacirip tekerleksiz inis yapmak - YouTube, THY uçağı acil iniş yapmak zorunda kaldı - Haber 7 GÜNCEL and also Meksika'da uçak acil iniş yapmak zorunda kaldı - Yeni Akit. Read more:

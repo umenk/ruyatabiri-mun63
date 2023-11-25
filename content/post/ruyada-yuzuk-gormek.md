@@ -1,13 +1,13 @@
 ---
 title: "ruyada yuzuk gormek Rüyada yüzük görmek ne anlama gelir?"
-description: "Rüyada yüzük görmek"
-date: "2023-11-01"
+description: "Rüyada i̇ki alyans yüzük görmek"
+date: "2023-06-19"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://www.diyadinnet.com/d/ruya/ruyada-yuzuk-gormek-ne-anlama-gelir-1202.jpg"
-featuredImage: "https://www.neoldu.com/d/other/ruyada-yuzuk-gormek-001.jpg"
-featured_image: "http://ruyameali.com/wp-content/uploads/2016/12/yuzuk-1.jpg"
+- "https://www.neoldu.com/d/other/ruyada-yuzuk-gormek-001.jpg"
+featuredImage: "https://images.ruyandagor.com/2017/05/iki-alyans-yuzuk-gormek-2308.jpg"
+featured_image: "https://www.diyadinnet.com/img/2016/01/ruyada-altin-yuzuk-takmak-ne-demektir.jpg"
 image: "https://www.diyadinnet.com/d/ruya/ruyada-yuzuk-gormek-ne-anlama-gelir-1202.jpg"
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Karışık kuruyemiş klasik"
-date: "2023-05-18"
+description: "Migros sanal market: online market alışverişi"
+date: "2022-12-21"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://media.kunduz.com/media/question/seo/raw/20220724154046841986-4674101.jpg?h=512"
-featuredImage: "https://fddb.info/static/db/400/110/KP95YIZ33WT1FHOZZGE9TVZY.jpg"
+- "https://www.tadim.com.tr/karisik-kuruyemis-klasik-kavrulmus-kuruyemis-kuruyemis-556-30-B.jpg"
+featuredImage: "https://www.tadim.com.tr/karisik-kuruyemis-klasik-kavrulmus-kuruyemis-kuruyemis-556-30-B.jpg"
 featured_image: "https://i.ytimg.com/vi/HYLCwcE-Dgc/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYRSBHKGUwDw==&amp;rs=AOn4CLC_ulBvmvqa2cf2uT56Qfk3FCYaDA"
-image: "https://kurumsal.melis.com.tr/images/1000/d/2650ml_karisik_tursu.png"
+image: "https://the-bakkal.de/1217-medium_default/tukas-karisik-tursu-cam-680-g-mixgemuse-eingelegt-680-g.jpg"
 ---
 
 If you are searching about KARISIK TURŞU you've came to the right place. We have 9 Images about KARISIK TURŞU like Migros Sanal Market: Online Market Alışverişi, KARISIK TURŞU and also KARISIK TURŞU. Here it is:

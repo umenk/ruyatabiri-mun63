@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Dualı tam rüya tabirleri ansiklopedisi arif pamuk, büyük boy ciltli"
-date: "2022-12-08"
+description: "(pdf) ruya tabirleri ansiklopedisi pdf"
+date: "2023-05-24"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://media.babil.com/kitap/0135814_ruya-tabirleri-ansiklopedisi_320_32394.jpeg"
-featuredImage: "https://i.idefix.com/cache/600x600-0/originals/0000000557157-1.jpg"
-featured_image: "https://st.myideasoft.com/shop/aa/11/myassets/products/499/pr_01_2499.jpg?revision=1391108200"
+- "https://mir.az/uploads/posts/2023-07/Mir.az-09b890813f9026f50b85d35d48d9ebc1.webp"
+featuredImage: "https://mir.az/uploads/posts/2023-07/Mir.az-09b890813f9026f50b85d35d48d9ebc1.webp"
+featured_image: "https://media.babil.com/kitap/0135814_ruya-tabirleri-ansiklopedisi_320_32394.jpeg"
 image: "https://mir.az/uploads/posts/2023-07/Mir.az-09b890813f9026f50b85d35d48d9ebc1.webp"
 ---
 

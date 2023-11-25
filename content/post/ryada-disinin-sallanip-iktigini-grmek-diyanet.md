@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Rüyada köpek dişinin çekilmesi"
-date: "2023-03-15"
+description: "Şimdide sallanip sallanip duruyor"
+date: "2023-07-28"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://www.turkuler.com/notalar/sallanip_bagdan_gelenim_.gif"
-featuredImage: "https://images.ruyandagor.com/2017/05/kopek-disinin-cekilmesi-0010.jpg"
-featured_image: "https://i.ytimg.com/vi/DI7xGJT7xRM/maxresdefault.jpg"
-image: "https://www.turkuler.com/notalar/sallanip_bagdan_gelenim_.gif"
+- "https://i.ytimg.com/vi/DI7xGJT7xRM/maxresdefault.jpg"
+featuredImage: "https://www.turkuler.com/notalar/sallanip_bagdan_gelenim_.gif"
+featured_image: "https://i.ytimg.com/vi/Ph1IndHlPZU/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH8CYAC0AWKAgwIABABGGUgWihWMA8=&amp;rs=AOn4CLBAPS2m2csXd4VTsSX5InnPyT1amA"
+image: "https://images.ruyandagor.com/2017/05/kopek-disinin-cekilmesi-0010.jpg"
 ---
 
 If you are searching about Sallanıp Bağdan Gelenim (Bir Su Ver) - Türkü Notası you've came to the right place. We have 9 Pics about Sallanıp Bağdan Gelenim (Bir Su Ver) - Türkü Notası like Rüyada Dişinin Çıkması Ve Kanaması - ruyandagor.com, Kafali yunuz kavgasi (2 disinin agzi dolu) - YouTube and also DİSİNİN ARASINDA KÜÇÜK BİRŞEY YUTMAK ORUCU BOZAR MI BOZMAZ MI? IHSAN. Here it is:

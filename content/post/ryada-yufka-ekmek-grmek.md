@@ -1,14 +1,14 @@
 ---
 title: ""
 description: "Kışlık yufka ekmeğimi yaptım yufka nasıl açılır yufka ekmek nasıl"
-date: "2023-08-25"
+date: "2023-04-15"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/O4r1We6egkE/maxresdefault.jpg"
-featuredImage: "https://i.ytimg.com/vi/A4xRpfVizP8/maxresdefault.jpg"
-featured_image: "https://elazigdogal.com/wp-content/uploads/2021/03/yufka-4-lu-c246.png"
-image: "https://i.ytimg.com/vi/IwNeSb71BOA/maxresdefault.jpg"
+- "https://i.ytimg.com/vi/FJOFVokredw/maxresdefault.jpg"
+featuredImage: "https://images.ruyandagor.com/2017/06/birinden-yufka-ekmek-almak-1414.jpg"
+featured_image: "https://i.ytimg.com/vi/FJOFVokredw/maxresdefault.jpg"
+image: "https://i.ytimg.com/vi/FJOFVokredw/maxresdefault.jpg"
 ---
 
 If you are searching about SACDA YUFKA EKMEK YAPIMI /KÖY EKMEĞİ, YUFKA EKMEK AYLARCA BAYATLAMIYOR you've came to the right place. We have 9 Images about SACDA YUFKA EKMEK YAPIMI /KÖY EKMEĞİ, YUFKA EKMEK AYLARCA BAYATLAMIYOR like EVDE YUFKA EKMEK NASIL YAPILIR YAPTIM OLDU İZLEYİN GÖRÜN en doğal yufka, SACDA YUFKA EKMEK YAPIMI /KÖY EKMEĞİ, YUFKA EKMEK AYLARCA BAYATLAMIYOR and also Elazığ Yufka Ekmek 5 Adet - Elazığ Doğal doğal organik ürün. Here it is:

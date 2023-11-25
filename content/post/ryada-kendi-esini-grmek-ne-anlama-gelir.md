@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Rüyada eski eşini görmek nedir? rüyada eşini görmek ne anlama gelir"
-date: "2023-04-08"
+description: "Rüyada abinin eşini aldattığını görmek ne anlama gelir?"
+date: "2023-07-07"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://gunceloku.com/uploads/ruyada-abinin-esini-aldattigini-gormek-ne-anlama-gelir-622349d5f3283.jpg"
-featuredImage: "https://i.hbrcdn.com/haber/2021/07/14/ruyada-esini-gormek-ne-anlama-gelir-ruyada-eski-14266541_4997_m.jpg"
-featured_image: "https://i.hbrcdn.com/haber/2021/07/14/ruyada-esini-gormek-ne-anlama-gelir-ruyada-eski-14266541_6903_m.jpg"
+- "https://i.hbrcdn.com/haber/2021/07/14/ruyada-esini-gormek-ne-anlama-gelir-ruyada-eski-14266541_4997_m.jpg"
+featuredImage: "https://live.staticflickr.com/3662/3463019917_9a11c90632_z.jpg"
+featured_image: "https://live.staticflickr.com/3616/3463837668_d205e88e9f.jpg"
 image: "https://gunceloku.com/uploads/ruyada-abinin-esini-dovmek-ne-anlama-gelir-622349d5e8b93.jpg"
 ---
 

@@ -1,12 +1,12 @@
 ---
 title: ""
-description: "Onur şener cinayetini parçaları birleştirilen kırık bardak aydınlattı"
-date: "2023-11-24"
+description: "Gördükleri karşısında şaşkınlık geçirdiler! çocuklara gönderilecek"
+date: "2023-08-29"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://www.mardinlife.com/uploads/2022/05/13/ruyada-kirik-bardak-gormek-ne-anlama-gelir-ruyada-kirik-bardak-gormek-ne-demek-80465.png?234234.234234"
-featuredImage: "https://www.mardinlife.com/uploads/2022/05/13/ruyada-kirik-bardak-gormek-ne-anlama-gelir-ruyada-kirik-bardak-gormek-ne-demek-80465.png?234234.234234"
+- "https://cdn.bolgegundem.com/d/other/2021/01/08/kirik-bardak.gif"
+featuredImage: "https://i2.sdacdn.com/haber/2021/10/26/yardim-kolisinden-kirik-bardak-plaket-ve-yirt-6-14486379_o.jpg"
 featured_image: "https://i2.sdacdn.com/haber/2021/10/26/yardim-kolisinden-kirik-bardak-plaket-ve-yirt-8-14486379_o.jpg"
 image: "https://www.mardinlife.com/uploads/2022/05/13/ruyada-kirik-bardak-gormek-ne-anlama-gelir-ruyada-kirik-bardak-gormek-ne-demek-80465.png?234234.234234"
 ---

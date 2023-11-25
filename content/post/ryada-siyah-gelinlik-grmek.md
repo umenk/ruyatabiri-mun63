@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Siyah gelinlik modelleri"
-date: "2023-04-18"
+description: "Gelinlik siyah"
+date: "2023-01-06"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://galeri8.uludagsozluk.com/441/siyah-gelinlik_691510_m.jpg"
-featuredImage: "https://img-s1.onedio.com/id-570faff85099af683321f5ec/rev-0/w-500/s-19d33f685c429b46ddb395cd6cf3526afe49243a.jpg"
-featured_image: "http://media-cache-ak0.pinimg.com/736x/c8/ab/d6/c8abd6418343b12747541ffeb0b15464.jpg"
+- "https://i.pinimg.com/originals/b8/6d/38/b86d38d0d0813f25946c2901158041c0.jpg"
+featuredImage: "https://hthayat.haberturk.com/im/2016/05/09/1035120_0d5886396eda68d36442320603ac0690_600x600.jpg"
+featured_image: "https://galeri8.uludagsozluk.com/441/siyah-gelinlik_691510_m.jpg"
 image: "https://www.zsu-shop.de/media/image/product/12078/lg/siyah-gelinlik.jpg"
 ---
 

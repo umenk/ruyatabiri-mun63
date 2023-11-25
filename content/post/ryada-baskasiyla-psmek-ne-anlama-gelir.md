@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Rüyada hoşlandığın erkeği görmek ne anlama gelir? rüya tabirleri"
-date: "2023-03-11"
+description: "Rüyada eşinin başkasıyla evlendiğini görmek ne anlama gelir, neye"
+date: "2023-02-03"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://img.aydinlik.com.tr/rcman/Cw1280h720q95gc/storage/files/images/2022/07/13/whatsapptaki-kalp-emojileri-ne-anlama-geliyor-TKQe.jpg"
-featuredImage: "https://seslihit.com/wp-content/uploads/2023/03/Ruyada-Eski-Sevgiliyi-Baskasiyla-Gormek-Ve-Aglamak-nedir-ne-anlama-gelir-1024x538.png"
-featured_image: "https://seslihit.com/wp-content/uploads/2023/03/Ruyada-Eski-Sevgiliyi-Baskasiyla-Gormek-Ve-Aglamak-nedir-ne-anlama-gelir-1024x538.png"
+- "https://kuzeyeksprescomtr.teimg.com/kuzeyekspres-com-tr/uploads/2023/06/666-ne-anlama-gelir.jpg"
+featuredImage: "https://foto.haberler.com/haber/2019/10/30/ruyada-at-gormek-ne-anlama-gelir-12566959_7097_m.jpg"
+featured_image: "https://i4.hurimg.com/i/hurriyet/75/1200x675/6164443218c773033c971bdd.jpg"
 image: "https://seslihit.com/wp-content/uploads/2023/03/Ruyada-Eski-Sevgiliyi-Baskasiyla-Gormek-Ve-Aglamak-nedir-ne-anlama-gelir-1024x538.png"
 ---
 

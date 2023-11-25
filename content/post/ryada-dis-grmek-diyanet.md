@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Dis fircalamak orucu bozarmi diyanet"
-date: "2023-04-17"
+description: "Diyanet açıkladı! diş fırçalamak orucu bozar mı? ağız spreyi orucu"
+date: "2023-02-02"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://www.halil.gen.tr/wp-content/uploads/2023/03/dis-fircalamak-shu.jpeg"
-featuredImage: "https://img.internethaber.com/rcman/Cw1280h720q95gc/storage/files/images/2019/05/06/dis-fircalamak-TOez_cover.jpg"
-featured_image: "https://www.halil.gen.tr/wp-content/uploads/2023/03/dis-fircalamak-shu.jpeg"
-image: "https://www.hastane.com.tr/Images/Article/diyanet-acikladi-dis-fircalamak-orucu-bozar-mi_b.jpg"
+- "https://i.hbrcdn.com/haber/2021/01/06/dis-kanamasi-orucu-bozar-mi-diyanet-e-gore-dis-13849196_4591_amp.jpg"
+featuredImage: "https://i20.haber7.net/resize/1280x720/haber/haber7/photos/2019/19/dis_fircalamak_orucu_bozar_mi_diyanet_acikladi_1557126334_8055.jpg"
+featured_image: "https://i20.haber7.net/resize/1280x720/haber/haber7/photos/2019/19/dis_fircalamak_orucu_bozar_mi_diyanet_acikladi_1557126334_8055.jpg"
+image: "https://i.hbrcdn.com/haber/2022/04/13/dis-cektirmek-orucu-bozar-mi-diyanet-fetvalari-14865332_9324_amp.jpg"
 ---
 
 If you are looking for Diyanet İşleri Başkanı Görmez, Çin'e Gidiyor - Haberler you've visit to the right place. We have 9 Pictures about Diyanet İşleri Başkanı Görmez, Çin'e Gidiyor - Haberler like Diş fırçalamak orucu bozar mı? Diyanet İşleri Başkanlığı açıkladı, Diş kanarsa oruç bozulur mu? Diyanet: Diş kanayıp onu yuttuğumda orucum and also Diş kanarsa oruç bozulur mu? Diyanet: Diş kanayıp onu yuttuğumda orucum. Read more:

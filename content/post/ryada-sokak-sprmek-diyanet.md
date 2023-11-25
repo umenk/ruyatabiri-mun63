@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Readily outstanding"
-date: "2023-02-02"
+description: "Hutbede sokak hayvanlarına sevginin önemi vurgulanacak"
+date: "2023-06-18"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/8xLHBHjmAoU/maxresdefault.jpg"
-featuredImage: "https://static.daktilo.com/sites/1355/uploads/2023/11/10/sokak-hayvani-diyanet-1699607720.jpg"
-featured_image: "https://i.ytimg.com/vi/Bsxx_FCrMek/maxresdefault.jpg"
-image: "https://jurnalci.com/wp-content/uploads/2022/11/diyanet-isleri-baskanliginin-cuma-hutbesinde-sokak-hayvanlariyla-ilgili-cagri-yapildi-wOgyXm9E-780x470.jpg"
+- "https://pbs.twimg.com/media/Fcyada8X0AANSFu.jpg"
+featuredImage: "https://i.pinimg.com/originals/58/28/e4/5828e41a3e73a55e0df4875f13b79daf.png"
+featured_image: "https://i.ytimg.com/vi/KdZ3OosEZ6s/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4Ad4EgAK4CIoCDAgAEAEYZSBMKGMwDw==&amp;rs=AOn4CLCfzFvJaPoNerKMbSKycXF-fCyaDA"
+image: "https://static.daktilo.com/sites/1355/uploads/2023/11/10/sokak-hayvani-diyanet-1699607720.jpg"
 ---
 
 If you are searching about 완도서 일가족 실종 28일째…경찰, 압수수색 영장 발부 / KBS 2022.06.28. - YouTube you've came to the right web. We have 9 Pics about 완도서 일가족 실종 28일째…경찰, 압수수색 영장 발부 / KBS 2022.06.28. - YouTube like Diyanet İşleri Başkanlığı’nın cuma hutbesinde sokak hayvanlarıyla, Diyanet, kadınları hedef alan imam Halil Konakçı hakkındaki soruya and also 완도서 일가족 실종 28일째…경찰, 압수수색 영장 발부 / KBS 2022.06.28. - YouTube. Here you go:

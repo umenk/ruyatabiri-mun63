@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Die afu zerstörte innerhalb von 24 stunden einen russischen ka-52"
-date: "2023-02-22"
+description: "Kenwood hifi bearbeiten berichte"
+date: "2023-06-25"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://1.bp.blogspot.com/-EZ_IOIzWlDA/XO1cBj8lRsI/AAAAAAAAA9E/R8XZc--KOVAxaIZMH8dBcw5DYTTZXhpdQCLcBGAs/s1600/Ka%2BFreeStyle%2B%252811%2529.jpg"
-featuredImage: "http://www.hifi-wiki.de/images/b/ba/Kenwood_KA-4060_R_Top.jpg"
-featured_image: "http://www.hifi-wiki.de/images/b/ba/Kenwood_KA-4060_R_Top.jpg"
+- "https://pbs.twimg.com/media/Fcyada8X0AANSFu.jpg"
+featuredImage: "https://pbs.twimg.com/media/Fcyada8X0AANSFu.jpg"
+featured_image: "http://3.bp.blogspot.com/-Helo8bVvVJA/U9cYTlJKhQI/AAAAAAABbc0/xASpyPiZDvA/s1600/Novo-Ford-Ka-SEL-2015+(3).jpg"
 image: "https://gagadget.com/media/cache/27/97/27976eff06aeac1f90a29d5177ee0b4f.jpg"
 ---
 

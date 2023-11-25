@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Ahtapot sanıp kucağına aldı! saniyeler sonra kendini denizde buldu"
-date: "2023-08-25"
+description: "Simay denizde kendini yıkıyor! funny"
+date: "2023-02-21"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/wsUItLgaJCs/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&amp;rs=AOn4CLBo7uYMfpYtAJZMs_IJyw4gezteHQ"
-featuredImage: "https://i.ytimg.com/vi/wsUItLgaJCs/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&amp;rs=AOn4CLBo7uYMfpYtAJZMs_IJyw4gezteHQ"
-featured_image: "https://i.ytimg.com/vi/ClYSsGm0jSw/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AZQDgALQBYoCDAgAEAEYEyBSKH8wDw==&amp;rs=AOn4CLBGzwLp68x-Q1Jpg-RIddzU4X0mFQ"
+- "https://i.ytimg.com/vi/ClYSsGm0jSw/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AZQDgALQBYoCDAgAEAEYEyBSKH8wDw==&amp;rs=AOn4CLBGzwLp68x-Q1Jpg-RIddzU4X0mFQ"
+featuredImage: "https://i.ytimg.com/vi/V-QlkUmILR8/maxresdefault.jpg"
+featured_image: "https://i.ytimg.com/vi/GTANbpWpf0A/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-DoACuAiKAgwIABABGGUgWShWMA8=&amp;rs=AOn4CLAV6PZGr0xQVpwstCrCcaRf6dA8Ow"
 image: "https://i.ytimg.com/vi/V-QlkUmILR8/maxresdefault.jpg"
 ---
 

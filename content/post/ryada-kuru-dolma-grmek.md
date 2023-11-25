@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Klasiklerin lezzeti: karışık kuru dolma"
-date: "2023-11-07"
+description: "Zeytinyağlı kuru dolma (tam kıvamında)"
+date: "2023-09-15"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/8c24N21g9J0/maxresdefault.jpg"
-featuredImage: "https://i.ytimg.com/vi/AUH_XXsskxk/maxresdefault.jpg"
-featured_image: "https://i.lezzet.com.tr/images-xxlarge-recipe/eksili_kuru_dolma-4d6d680e-3330-40b2-a4e8-0ed9db7e4dff.jpg"
-image: "https://i.ytimg.com/vi/8c24N21g9J0/maxresdefault.jpg"
+- "https://i.lezzet.com.tr/images-xxlarge-recipe/eksili_kuru_dolma-4d6d680e-3330-40b2-a4e8-0ed9db7e4dff.jpg"
+featuredImage: "https://i.nefisyemektarifleri.com/2020/12/28/zeytinyagli-kuru-dolma-tam-kivaminda-4.jpg"
+featured_image: "https://i.pinimg.com/originals/e4/56/61/e4566176c073a5d3ad225b15d236e559.jpg"
+image: "https://i.ytimg.com/vi/AUH_XXsskxk/maxresdefault.jpg"
 ---
 
 If you are searching about Ekşili Kuru Dolma Tarifi: Ekşili Kuru Dolma Nasıl Yapılır? | Lezzet you've came to the right place. We have 9 Pics about Ekşili Kuru Dolma Tarifi: Ekşili Kuru Dolma Nasıl Yapılır? | Lezzet like Ekşili Kuru Dolma (Etsiz) - YouTube, Klasiklerin Lezzeti: Karışık Kuru Dolma - Yemek.com | Yemek Tarifi and also NİLÜFERİN HÜNERLİ MUTFAĞI: Kuru dolma..... Here you go:

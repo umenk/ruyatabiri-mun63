@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Ece seçki̇n-hoşgeldi̇n ayriliga (i̇zmir konak meydanı konseri)"
-date: "2022-11-29"
+description: "Jellies jams selai marmalade"
+date: "2023-07-05"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://www.ulakhaber.com/images/haberler/2020/09/hamilelik-belirtileri-nelerdir-hangi-durumlar-hamilelige-isarettir-hamileligin-ilk-belirtileri.jpg"
-featuredImage: "https://i.ytimg.com/vi/VSfGHakFVK4/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AGUA4AC0AWKAgwIABABGGUgSyhGMA8=&amp;rs=AOn4CLBI-fINtnyrDcYkU9hTjte4F7FnTg"
-featured_image: "https://i.ytimg.com/vi/2nkZSFP2AP0/maxresdefault.jpg"
+- "https://jurnalci.com/wp-content/uploads/2017/10/ataturk_bustune_molotofla_saldirmak_nasil_bir-hastaliga_isarettir_jurnalci-1024x805.jpg"
+featuredImage: "https://jurnalci.com/wp-content/uploads/2017/10/ataturk_bustune_molotofla_saldirmak_nasil_bir-hastaliga_isarettir_jurnalci-1024x805.jpg"
+featured_image: "https://jurnalci.com/wp-content/uploads/2017/10/ataturk_bustune_molotofla_saldirmak_nasil_bir-hastaliga_isarettir_jurnalci-1024x805.jpg"
 image: "http://www.seasonedkitchen.com/wp-content/uploads/Jams-jellies-marmalade.jpg"
 ---
 

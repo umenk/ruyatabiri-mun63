@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Free images : grass, farm, mansion, building, recreation, foliage"
-date: "2023-01-15"
+description: "Ağaç ve yeşillik alan duvar posteri fiyatları ve özellikleri"
+date: "2023-09-29"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://cdn.create.vista.com/api/media/small/328017112/stock-photo-futbol-sahasi-basketbol-sahas-yesil-saha-tenis-sahas-alan-yesillik"
-featuredImage: "https://images.picxy.com/cache/2019/2/15/af737bb81e0b85c4a1d609c88347b4f4.jpg"
-featured_image: "https://get.pxhere.com/photo/grass-farm-mansion-house-building-recreation-foliage-green-swimming-pool-garden-parking-lot-tennis-court-trees-top-view-colors-cars-colours-estate-screenshot-bird&#039;s-eye-view-aerial-photography-club-house-manicured-lawn-965333.jpg"
+- "https://n11scdn.akamaized.net/a1/450/ev-yasam/duvar-kaplama/agac-ve-yesillik-alan-duvar-posteri__0593262324093648.jpg"
+featuredImage: "https://img.freepik.com/premium-photo/aerial-view-dense-forest_181624-56916.jpg?w=2000"
+featured_image: "https://images.picxy.com/cache/2019/2/15/af737bb81e0b85c4a1d609c88347b4f4.jpg"
 image: "https://cdn.create.vista.com/api/media/medium/192452924/stock-photo-bird-eye-view-green-agricultural?token="
 ---
 

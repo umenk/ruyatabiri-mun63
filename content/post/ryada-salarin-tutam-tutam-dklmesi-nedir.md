@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Menevşesi tutam tutam"
-date: "2023-05-12"
+description: "Ziliflerin tutam tutam"
+date: "2023-07-22"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/i_CEbZHW0SA/maxresdefault.jpg"
-featuredImage: "https://i4.hurimg.com/i/hurriyet/75/750x422/626f9dc54e3fe10e38506a53.png"
-featured_image: "https://i.ytimg.com/vi/JBfisaBtAzw/maxresdefault.jpg"
-image: "https://evrimagaci.org/public/event_media/b67a8d49e11a4fd362a47191c50a39e5.jpeg"
+- "https://www.turkuler.com/notalar/01979.gif"
+featuredImage: "https://www.turkuler.com/notalar/01979.gif"
+featured_image: "https://i4.hurimg.com/i/hurriyet/75/750x422/626f9dc54e3fe10e38506a53.png"
+image: "https://i.ytimg.com/vi/5WaO63s6D6k/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AZQDgALQBYoCDAgAEAEYZSBSKFQwDw==&amp;rs=AOn4CLCAyrXZRPDucn-vd5gC04vquck-SA"
 ---
 
 If you are searching about Kırmızılım Tutam Tutam - Türkü Notası you've came to the right page. We have 9 Pics about Kırmızılım Tutam Tutam - Türkü Notası like Menevşesi tutam tutam - Bursa - YouTube, Ziliflerin Tutam Tutam - Türkü Notası and also Tutam Tutam Matematik Festivali | Etkinlik - Evrim Ağacı. Read more:

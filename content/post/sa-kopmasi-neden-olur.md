@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Aşil tendonu kopması nedir? neden olur ve nasıl önlenir?"
-date: "2023-03-11"
+description: "Ön çapraz bağ kopması neden olur? tedavisi nasıldır?"
+date: "2023-11-25"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://www.buyukanadoluhastanesi.com/images/news/actual/Asil_Tendon_Kopmasi_Nedir_-_Buyuk_Anadolu_Hastanesi.jpg"
-featuredImage: "https://nenasil.com/wp-content/uploads/2019/12/sac-koparma.jpg"
-featured_image: "https://indigodergisi.com/wp-content/uploads/2016/06/capraz-bag-kopmasi-neden-olur-tedavisi-nasildir.jpg"
+- "https://formdoktoru.com/wp-content/uploads/2020/10/Sağ-ve-sol-kasık-ağrısı-neden-olur-nasıl-geçer-Kasık.jpg"
+featuredImage: "https://aliyurtlak.com.tr/wp-content/uploads/2022/08/turunkal-varisler-varis-pakeleri-1280x857.jpg"
+featured_image: "https://www.diyetasistan.com/storage/page-image/shares/Beslenme-2/SAĞLIK5/2GIRTLAK.jpg"
 image: "https://formdoktoru.com/wp-content/uploads/2020/10/Sağ-ve-sol-kasık-ağrısı-neden-olur-nasıl-geçer-Kasık.jpg"
 ---
 

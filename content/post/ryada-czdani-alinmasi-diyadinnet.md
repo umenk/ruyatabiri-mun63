@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Hakkari&#039;de kadına yönelik şiddetle mücadele toplantısı yapıldı"
-date: "2023-11-24"
+description: "Hakkari şoförler ve otomobilciler odası başkanı arslan güven tazeledi"
+date: "2023-11-03"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://www.diyadinnet.com/img/2022/01/malatya-da-karla-mucadele-calismalari-suruyor.jpg"
-featuredImage: "https://www.diyadinnet.com/img/2022/06/citroen-yeni-c4-x-i-dunyaya-istanbul-dan-tanitti.jpg"
-featured_image: "https://www.diyadinnet.com/img/2022/01/malatya-da-karla-mucadele-calismalari-suruyor.jpg"
+- "https://www.diyadinnet.com/resim/hayvanlar/kuslar/papagan0.jpg"
+featuredImage: "http://www.diyadinnet.com/images/news_6.jpg"
+featured_image: "https://www.diyadinnet.com/img/2022/06/hakkari-de-kadina-yonelik-siddetle-mucadele-toplantisi-yapildi.jpg"
 image: "https://www.diyadinnet.com/img/2022/01/malatya-da-karla-mucadele-calismalari-suruyor.jpg"
 ---
 

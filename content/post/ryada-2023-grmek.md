@@ -1,12 +1,12 @@
 ---
 title: ""
-description: "2023 mercedes-amg g-class price and specs, huge hike for g63"
-date: "2023-06-04"
+description: "2023 mercedes amg g63 brabus p 900"
+date: "2023-10-19"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://s1.cdn.autoevolution.com/images/news/gallery/2023-mercedes-amg-g-63-44-finally-finds-its-g-spot-and-its-red_5.jpg"
-featuredImage: "https://autodiscoveries.com/wp-content/uploads/2022/08/keyvanyoffical_295916661_1403382766830039_6663779630642129866_n.jpg"
+- "https://i.ytimg.com/vi/KqyajKCKcGc/maxresdefault.jpg"
+featuredImage: "https://i.ytimg.com/vi/Flg_3UAyPGA/maxresdefault.jpg"
 featured_image: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/a852bcc765650ced9af105ba2927de20.png"
 image: "https://s1.cdn.autoevolution.com/images/news/gallery/2023-mercedes-amg-g-63-44-finally-finds-its-g-spot-and-its-red_5.jpg"
 ---

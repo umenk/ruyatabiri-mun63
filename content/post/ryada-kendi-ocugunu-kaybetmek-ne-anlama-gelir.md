@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Rüyada altın kaybetmek ve rüyada altın bulmak ne anlama gelir"
-date: "2023-01-27"
+description: "Rüyada bavul görmek ne anlama gelir? rüyada bavul hazırlamak, kaybetmek"
+date: "2023-05-08"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://iasbh.tmgrup.com.tr/326161/752/395/0/0/724/380?u=https://isbh.tmgrup.com.tr/sbh/2021/09/13/ruyada-bavul-gormek-ne-anlama-gelir-ruyada-bavul-hazirlamak-ne-demek-1631518080534.jpg"
-featuredImage: "https://blog.mucevherdunyasi.com/wp-content/uploads/2021/07/ruyada-altin-kaybetmek-1-640x420.jpg"
-featured_image: "https://blog.klasgumus.com/wp-content/uploads/2022/12/ruyada-kupe-kaybetmek-ne-anlama-gelir.jpg"
+- "https://static.daktilo.com/sites/415/uploads/2021/09/15/ruyada-para-gormek-ne-anlama-gelir-neye-isarettir-anlami-yorumu0.jpg"
+featuredImage: "https://blog.klasgumus.com/wp-content/uploads/2022/12/ruyada-kupe-kaybetmek-ne-anlama-gelir.jpg"
+featured_image: "https://i.hbrcdn.com/haber/2022/12/12/ruyada-cocugunu-kaybetmek-ne-anlama-gelir-ruyada-15488606_8271_amp.jpg"
 image: "https://blog.klasgumus.com/wp-content/uploads/2022/12/ruyada-kupe-kaybetmek-ne-anlama-gelir.jpg"
 ---
 

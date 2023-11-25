@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Kiymet bilmek, kaybedince arkasindan aglamak degil, yanindayken simsiki"
-date: "2023-09-18"
+description: "Ölünün arkasından ağlamak caiz midir?"
+date: "2023-05-08"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://www.islamveihsan.com/wp-content/uploads/2022/08/olunun-arkasindan-aglamak-caiz-midir-188422.jpg"
-featuredImage: "https://www.islamveihsan.com/wp-content/uploads/2022/08/olunun-arkasindan-aglamak-caiz-midir-188422-m.jpg"
-featured_image: "https://www.islamveihsan.com/wp-content/uploads/2022/05/olunun-arkasindan-aglamak-ile-ilgili-hadisler-187672-m.jpg"
+- "https://cdn.boldomatic.com/content/post/jqyHVQ/ne-elinizden-gidene-nede-basiniza-gelene-uzulmeyin?size=304"
+featuredImage: "https://www.islamveihsan.com/wp-content/uploads/2022/08/olunun-arkasindan-aglamak-caiz-midir-188422.jpg"
+featured_image: "https://cdn.boldomatic.com/content/post/C5QHAA/kiymet-bilmek-kaybedince-arkasindan-aglamak-degil?size=800"
 image: "https://www.islamveihsan.com/wp-content/uploads/2022/05/olunun-arkasindan-aglamak-ile-ilgili-hadisler-187672.jpg"
 ---
 

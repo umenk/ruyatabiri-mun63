@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Rüyada boya yapmak ne anlama gelir? rüyada boya, badana yapmak, rüyada"
-date: "2023-03-01"
+description: "Rüyada doğum yapmak ne demek? rüyada (normal, erken ve sezeryan) doğum"
+date: "2023-10-31"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://gunceloku.com/uploads/ruyada-anne-baba-ile-yolculuk-yapmak-ne-anlama-gelir-6229e3f9ecfbf.jpeg"
-featuredImage: "https://gunceloku.com/uploads/ruyada-anne-baba-ile-yolculuk-yapmak-ne-anlama-gelir-6229e3f9ecfbf.jpeg"
-featured_image: "https://i.hbrcdn.com/haber/2023/01/09/ruyada-boya-yapmak-ne-anlama-gelir-ruyada-boya-15548123_5346_amp.jpg"
+- "https://i.hbrcdn.com/haber/2023/01/09/ruyada-boya-yapmak-ne-anlama-gelir-ruyada-boya-15548123_5346_amp.jpg"
+featuredImage: "https://www.diyadinnet.com/d/ruya/ruyada-agda-yapmak-ne-anlama-gelir-2994.jpg"
+featured_image: "https://i2.milimaj.com/i/milliyet/75/0x410/5f3084d755428311f8d7a6bf.jpg"
 image: "https://i.hbrcdn.com/haber/2023/01/09/ruyada-boya-yapmak-ne-anlama-gelir-ruyada-boya-15548123_5346_amp.jpg"
 ---
 

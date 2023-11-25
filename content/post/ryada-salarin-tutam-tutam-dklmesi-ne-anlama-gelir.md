@@ -1,13 +1,13 @@
 ---
 title: ""
 description: "Kırmızılım tutam tutam"
-date: "2023-02-22"
+date: "2023-08-26"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.lezzet.com.tr/images-xxlarge-secondary/yemek-pisirirken-bir-tutam-eklemek-gercekten-ne-anlama-geliyor-a08cd79f-0744-4e77-bfb9-3efd947e96f3.jpg"
-featuredImage: "https://i4.hurimg.com/i/hurriyet/75/750x422/626f9dc54e3fe10e38506a53.png"
-featured_image: "https://i.ytimg.com/vi/i_CEbZHW0SA/maxresdefault.jpg"
+- "https://evrimagaci.org/public/event_media/b67a8d49e11a4fd362a47191c50a39e5.jpeg"
+featuredImage: "https://i.ytimg.com/vi/G9fLXszg9Uc/hqdefault.jpg"
+featured_image: "https://www.turkuler.com/notalar/02371.gif"
 image: "https://i.lezzet.com.tr/images-xxlarge-secondary/yemek-pisirirken-bir-tutam-eklemek-gercekten-ne-anlama-geliyor-a08cd79f-0744-4e77-bfb9-3efd947e96f3.jpg"
 ---
 

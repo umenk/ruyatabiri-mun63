@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Kar maskeli̇ si̇lahli soygun gi̇ri̇şi̇mi̇"
-date: "2023-05-26"
+description: "Ptt şubesinde silahlı soygun"
+date: "2023-08-24"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://www.samsunhaber.com/images/haberler/2022/03/samsun_da_markette_silahli_soygun_girisimi_h75040_7e892.jpg"
-featuredImage: "https://i20.haber7.net/resize/1280x720/haber/haber7/photos/2018/31/sultangazide_silahli_soygun_1533107626_5549.jpg"
-featured_image: "https://i.ytimg.com/vi/LE7hu7z2fmQ/maxresdefault.jpg"
-image: "https://i.ytimg.com/vi/aYLrOligaS0/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgXChPMA8=&amp;rs=AOn4CLA_Vu1XokX2a8Y6qeS_3ebLcuta5g"
+- "https://i.ytimg.com/vi/LE7hu7z2fmQ/maxresdefault.jpg"
+featuredImage: "https://i.ytimg.com/vi/LE7hu7z2fmQ/maxresdefault.jpg"
+featured_image: "https://static.birgun.net/resim/haber-detay-resim/2022/02/17/ptt-subesinde-silahli-soygun-981975-5.jpg"
+image: "https://i20.haber7.net/resize/1280x720/haber/haber7/photos/2018/31/sultangazide_silahli_soygun_1533107626_5549.jpg"
 ---
 
 If you are looking for SİLAHLI SOYGUN ANI - YouTube you've visit to the right place. We have 9 Images about SİLAHLI SOYGUN ANI - YouTube like SİLAHLI SOYGUN ANI - YouTube, ÇORUM’DA SİLAHLI SOYGUN - YouTube and also Hollanda’da düzenlenen Avrupa Sanat Fuarı’nda silahlı soygun. Here you go:

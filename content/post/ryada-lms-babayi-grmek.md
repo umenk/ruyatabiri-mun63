@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Sabah rutininimiz babayi ise gonderme"
-date: "2022-12-08"
+description: "Guru nanak dev ji&#039;s universal message of peace and brotherhood"
+date: "2023-06-05"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/GEHohWCg_Ns/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gTygdMA8=&amp;rs=AOn4CLAZppgXiNE3a1EqfewgXht0G9veKA"
-featuredImage: "https://i.ytimg.com/vi/IT_peUADXbY/maxresdefault.jpg"
-featured_image: "https://i.ytimg.com/vi/t8ujoXSiL7g/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AGUA4AC0AWKAgwIABABGHIgRyhFMA8=&amp;rs=AOn4CLAO_xYDXqhnlAQrzgG2dqa9FzHTCQ"
+- "https://i1.rgstatic.net/ii/profile.image/788550723313666-1565016551452_Q512/Mohsen-Babayi-Nozadian.jpg"
+featuredImage: "https://i.ytimg.com/vi/-tnTTZi6goc/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgWihDMA8=&amp;rs=AOn4CLBswyQWgBYAjEHon58JkWG-7g5w3w"
+featured_image: "https://i.ytimg.com/vi/NyCR_nl0GEg/maxresdefault.jpg"
 image: "https://i.ytimg.com/vi/IT_peUADXbY/maxresdefault.jpg"
 ---
 

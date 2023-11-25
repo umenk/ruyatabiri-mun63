@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Rüyada i̇ki tane erkek çocuğu görmek"
-date: "2023-03-23"
+description: "Matematik a 19. bir sınıfta (x + 1) tane"
+date: "2023-08-07"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/l-x-FSZEWdo/hqdefault.jpg"
-featuredImage: "https://pbs.twimg.com/media/FipCvWOXEAA6qYa.jpg:large"
-featured_image: "https://i.ytimg.com/vi/l-x-FSZEWdo/hqdefault.jpg"
+- "https://media.kunduz.com/media/question/seo/raw/20220227110859464870-4153225_q1rC4FwsQ.jpg?h=512"
+featuredImage: "http://ruyalardunyasi.com/wp-content/uploads/2030/01/1-14.jpg"
+featured_image: "http://ruyalardunyasi.com/wp-content/uploads/2030/01/1-14.jpg"
 image: "https://pbs.twimg.com/media/FipCvWOXEAA6qYa.jpg:large"
 ---
 

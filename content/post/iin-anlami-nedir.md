@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Mükellef ve ef’al-i mükellefin nedir?"
-date: "2023-01-20"
+description: "Ezan-i şeri̇fi̇n türkçe anlami nedi̇r"
+date: "2023-07-21"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://www.keyifli.net/wp-content/uploads/2023/01/mukellef-ef-al-i-mukellefin-nedir.png"
+- "https://i.ytimg.com/vi/bJPAT6xGP-c/maxresdefault.jpg"
 featuredImage: "https://tr-static.eodev.com/files/d59/8e5519818dfe49fda6b201db2184f092.jpg"
-featured_image: "https://i.ytimg.com/vi/bJPAT6xGP-c/maxresdefault.jpg"
-image: "https://yazarcafe.net/wp-content/uploads/2023/04/08.08-Saat-Anlami-Nedir-yazarcafe3.jpg"
+featured_image: "https://tr-static.eodev.com/files/d59/8e5519818dfe49fda6b201db2184f092.jpg"
+image: "https://i.pinimg.com/736x/de/82/45/de8245b331d712c3f622dcf2a9e11fb4--guide-islamic.jpg"
 ---
 
 If you are searching about Kelime-i Şehadet | Math, Islam, Math equations you've visit to the right page. We have 9 Pictures about Kelime-i Şehadet | Math, Islam, Math equations like Eş sesli kelime örnekleri Nedir | Sınıf, Üçüncü sınıf, Okuma, Mükellef ve Ef’al-i Mükellefin Nedir? - Keyifli.NET and also Kâbe'nin İçi ve Peygamber Efendimiz (sas) | Peygamber Yolu. Here you go:

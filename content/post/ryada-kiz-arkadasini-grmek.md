@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Para icin kiz arkadasini siktiriyo – telegraph"
-date: "2023-11-22"
+description: "Sınıfta dehşet: kız arkadaşını öldürdü!"
+date: "2023-09-06"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "http://i.ytimg.com/vi/CrHyjqsH-A0/maxresdefault.jpg"
-featuredImage: "http://i.ytimg.com/vi/CrHyjqsH-A0/maxresdefault.jpg"
-featured_image: "https://i.ytimg.com/vi/b46D41bqVns/maxresdefault.jpg"
-image: "http://i.ytimg.com/vi/CrHyjqsH-A0/maxresdefault.jpg"
+- "https://www.habererk.com/images/haberler/2017/05/sinifta_dehset_kiz_arkadasini_oldurup_intihara_kalkisti.jpg"
+featuredImage: "http://www.kayseridijitalhaber.com/d/r/kiz-arkadasini-mezarlikta-bicaklayan-genc-tutuklandi.png"
+featured_image: "https://i1.imgiz.com/rshots/10715/kiz-arkadasini-calilara-atti_10715311-2160_1200x630.jpg"
+image: "https://haber46comtr.teimg.com/haber46-com-tr/images/haberler/2016/08/kiz_arkadasini_ve_kendini_50_metrelik_ucurumdan_olume_surukledi.jpg"
 ---
 
 If you are searching about 15-yasindaki-cocuk-kiz-arkadasini-bogazindan-bicakladi | jurnalci you've visit to the right page. We have 9 Images about 15-yasindaki-cocuk-kiz-arkadasini-bogazindan-bicakladi | jurnalci like kiz arkadasini kayaliklardan asagi atti - YouTube, 15-yasindaki-cocuk-kiz-arkadasini-bogazindan-bicakladi | jurnalci and also Para Icin Kiz Arkadasini Siktiriyo – Telegraph. Here it is:

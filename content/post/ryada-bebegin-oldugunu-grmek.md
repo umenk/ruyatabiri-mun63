@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Bebek horlaması"
-date: "2022-12-10"
+description: "Anife bebegin dogum haneden cikisi"
+date: "2023-10-11"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://merak.com.tr/uploads/bebegin-i-shal-oldugunu-nasil-anlariz.jpg"
-featuredImage: "https://i.ytimg.com/vi/dApoMu_Hm2g/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgSyhHMA8=&amp;rs=AOn4CLB6HyJvEYWIvOaWRtHF2iGucE3uOg"
-featured_image: "https://i.ytimg.com/vi/BIy3uWjxCto/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AGUA4AC0AWKAgwIABABGGUgXShVMA8=&amp;rs=AOn4CLCSaH1z6vrSh-g13OhC1JVSSicyJQ"
-image: "https://i.ytimg.com/vi/dApoMu_Hm2g/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgSyhHMA8=&amp;rs=AOn4CLB6HyJvEYWIvOaWRtHF2iGucE3uOg"
+- "https://pbs.twimg.com/ext_tw_video_thumb/1632699561545277441/pu/img/6eEF7wdspv0VG7dp.jpg"
+featuredImage: "https://i.ytimg.com/vi/790y_eZ08nU/maxresdefault.jpg"
+featured_image: "https://i.ytimg.com/vi/Ci7sJ7pqvqQ/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHIAYAC6AKKAgwIABABGHIgPyhDMA8=&amp;rs=AOn4CLDXPP9zDhbJWLLdRRvJAqTX-0GX0g"
+image: "https://pbs.twimg.com/ext_tw_video_thumb/1632699561545277441/pu/img/6eEF7wdspv0VG7dp.jpg"
 ---
 
 If you are looking for 4 aylik bebegin babasina gulmesi - YouTube you've came to the right web. We have 9 Images about 4 aylik bebegin babasina gulmesi - YouTube like Bebek horlaması - YouTube, Bebeğin İshal Olduğunu Nasıl Anlarız? - Merak and also Bebek horlaması - YouTube. Here it is:

@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Gf-elti torna al tube di düsseldorf"
-date: "2023-04-30"
+description: "Lounge bar elti, distrikt brčko"
+date: "2022-12-29"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://www.gfelti.com/media/images/cache/grafica_jpg_1200_630_cover_85.jpg"
-featuredImage: "https://img.restaurantguru.com/w550/h367/r930-pizza-Caffe-and-Lounge-Bar-Elti-Brcko.jpg"
-featured_image: "https://www.gfelti.com/media/images/cache/grafica_jpg_1200_630_cover_85.jpg"
+- "https://www.gfelti.com/media/images/28373-gfelti-storia-07.jpg"
+featuredImage: "https://i.ytimg.com/vi/HYLCwcE-Dgc/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYRSBHKGUwDw==&amp;rs=AOn4CLC_ulBvmvqa2cf2uT56Qfk3FCYaDA"
+featured_image: "https://www.gfelti.com/media/images/g4352-forge-nicromo-4.jpeg"
 image: "https://img.restaurantguru.com/w550/h367/r930-pizza-Caffe-and-Lounge-Bar-Elti-Brcko.jpg"
 ---
 

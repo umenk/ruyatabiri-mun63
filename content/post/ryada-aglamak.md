@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Isiklari sồndurun aglamak istiyorum ezhelderman ay #ezhelderman #"
-date: "2023-01-23"
+description: "Gulmekle aglamak arasinda kalip gulmeyi secti"
+date: "2023-07-24"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/05j-jYg2C3U/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AGWA4AC0AWKAgwIABABGGUgXChTMA8=&amp;rs=AOn4CLDktC1voEYQqiDEVjpZQLdabpxZtQ"
-featuredImage: "https://i.ytimg.com/vi/iduZekKkTMM/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AGUA4AC0AWKAgwIABABGH8gEyhWMA8=&amp;rs=AOn4CLA-JmDj103jxXInSFy0APcnwHdagA"
-featured_image: "https://i.ytimg.com/vi/DHYFgqOclw0/maxresdefault.jpg"
+- "https://i.ytimg.com/vi/2R6MolaSpd4/maxres2.jpg?sqp=-oaymwEpCIAKENAF8quKqQMdGADwAQH4Ac4FgALQBYoCDQgAEAEYjAEgUigVMA8=&amp;rs=AOn4CLALcBozpEC6MD4cbyU40cZJfJPqkw"
+featuredImage: "https://i.ytimg.com/vi/gVlcdarjgA4/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgSihWMA8=&amp;rs=AOn4CLBnj8TmgCwwMHHFx35Kc6hH2tyF4w"
+featured_image: "https://i.ytimg.com/vi/05j-jYg2C3U/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AGWA4AC0AWKAgwIABABGGUgXChTMA8=&amp;rs=AOn4CLDktC1voEYQqiDEVjpZQLdabpxZtQ"
 image: "https://i.ytimg.com/vi/x9Oy7k-xuwM/maxresdefault.jpg"
 ---
 

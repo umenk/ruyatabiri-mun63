@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Vasiyet nedir? vasiyet etmek ne demektir? anlamı"
-date: "2023-11-01"
+description: "Sagopa kajmer-vasiyet"
+date: "2023-02-22"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://1.bp.blogspot.com/-RHL2PwufLPw/Vhwi3-vbpuI/AAAAAAAAbaY/JpyV7qLugRg/s1600/vasiyet.jpg"
+- "https://i.ytimg.com/vi/g4riGT_KNU8/maxresdefault.jpg"
 featuredImage: "https://i.ytimg.com/vi/ogylKrhAN_g/maxresdefault.jpg"
-featured_image: "https://i.ytimg.com/vi/RDWExxIAl-g/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AGUA4AC0AWKAgwIABABGFsgTChlMA8=&amp;rs=AOn4CLDIcdCLcwkOzkh3kveLucgjYUAOVQ"
-image: "https://i.ytimg.com/vi/b9Rjp0Bu1VI/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&amp;rs=AOn4CLBlLiu9Vg_0bmnU47QdPrZtqy5n0g"
+featured_image: "https://i.ytimg.com/vi/ogylKrhAN_g/maxresdefault.jpg"
+image: "https://i.ytimg.com/vi/RDWExxIAl-g/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AGUA4AC0AWKAgwIABABGFsgTChlMA8=&amp;rs=AOn4CLDIcdCLcwkOzkh3kveLucgjYUAOVQ"
 ---
 
 If you are searching about Vasiyet - Metropol KIZIL BAŞI SAVAŞI - - YouTube you've came to the right web. We have 9 Images about Vasiyet - Metropol KIZIL BAŞI SAVAŞI - - YouTube like Vasiyet nedir? Vasiyet etmek ne demektir? Anlamı - Laf Sözlük, Sagopa Kajmer-Vasiyet - YouTube and also Vasiyet - Metropol KIZIL BAŞI SAVAŞI - - YouTube. Here it is:

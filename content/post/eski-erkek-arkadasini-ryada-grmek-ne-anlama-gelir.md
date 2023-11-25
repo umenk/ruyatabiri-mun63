@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Zülfiye, tartıştığı eski erkek arkadaşını bıçakladı"
-date: "2023-02-21"
+description: "Eski erkek arkadaşını bıçaklayan kadın tutuklandı"
+date: "2023-04-14"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://haber61net.teimg.com/crop/1280x720/haber61-net/images/haberler/2021/09/29/eski_erkek_arkadasini_bicaklayan_kadina_tutuklama_h435436_14715.webp"
-featuredImage: "https://i2.sdacdn.com/haber/2023/01/03/parkta-eski-erkek-arkadasini-bicaklayan-genc-15536420_amp.jpg"
-featured_image: "https://cdn.yeniakit.com.tr/images/news/625/eski-erkek-arkadasini-bicaklayan-kadin-tutuklandi-1592730868.jpg"
-image: "https://i.hbrcdn.com/haber/2008/03/06/eski-erkek-arkadasini-bicaklayan-kadin-ile-kardesi-1250740-282_amp.jpg"
+- "https://www.egetelgraf.com/wp-content/uploads/2023/01/eski-erkek-arkadasini-oldurdu-ormanlik-alana-birakti-kizin-babasi-da-yardim-etti.jpg"
+featuredImage: "https://haber61net.teimg.com/crop/1280x720/haber61-net/images/haberler/2021/09/29/eski_erkek_arkadasini_bicaklayan_kadina_tutuklama_h435436_14715.webp"
+featured_image: "https://i.hbrcdn.com/haber/2015/05/13/kiz-ogrenci-eski-liseli-erkek-arkadasini-soka-7304910_x_amp.jpg"
+image: "https://cdn.yeniakit.com.tr/images/news/625/eski-erkek-arkadasini-bicaklayan-kadin-tutuklandi-1592730868.jpg"
 ---
 
 If you are searching about Eski erkek arkadaşını bıçaklayan kadın tutuklandı - Yeni Akit you've visit to the right web. We have 9 Images about Eski erkek arkadaşını bıçaklayan kadın tutuklandı - Yeni Akit like Zülfiye, tartıştığı eski erkek arkadaşını bıçakladı - Haberler, Eski erkek arkadaşını silahla vuran kadın: Benim adımı ağzına alırken and also Eski erkek arkadaşını öldürdü, ormanlık alana bıraktı! Kızın babası da. Here it is:

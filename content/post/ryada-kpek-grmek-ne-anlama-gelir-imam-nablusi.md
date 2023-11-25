@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Rüyada burun kanaması görmek ne anlama gelir? abdulgani nablusi&#039;ye göre"
-date: "2023-11-21"
+description: "Rüyada ölen anneyi görmek ne anlama gelir? (i̇mam nablusi yorumu)"
+date: "2023-03-14"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://img.superhaber.tv/storage/files/images/2022/10/17/ruyada-asik-oldugunu-gormek-ne-anla-mzBM_cover.png"
-featuredImage: "https://foto.haberler.com/haber/2020/06/29/ruyada-burundan-kan-gelmesi-ne-anlama-gelir-13372617_8341_amp.jpg"
-featured_image: "https://static.daktilo.com/sites/805/uploads/2021/05/16/ruyada-suda-yilan-gormek-ne-anlama-gelir1.jpg"
+- "https://static.daktilo.com/sites/805/uploads/2021/05/16/ruyada-suda-yilan-gormek-ne-anlama-gelir1.jpg"
+featuredImage: "https://1.bp.blogspot.com/-M-lP15v0IqA/XuU1FTMMoaI/AAAAAAAACug/IbNXU4-BtXEEBAh7IMiECUF1nRXv2MT4QCK4BGAYYCw/s640/ruyada-kan-gormek-ruya-tabirleri-imam-nablusi-ecnebi-tabiri-islami-yorumu-ne-demek.jpg"
+featured_image: "https://foto.haberler.com/haber/2020/06/29/ruyada-burundan-kan-gelmesi-ne-anlama-gelir-13372617_8341_amp.jpg"
 image: "https://static.daktilo.com/sites/805/uploads/2021/05/16/ruyada-suda-yilan-gormek-ne-anlama-gelir1.jpg"
 ---
 

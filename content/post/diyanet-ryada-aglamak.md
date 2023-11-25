@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Rüyada annenin öldüğünü görmek, duymak ve ağlamak"
-date: "2023-09-24"
+description: "Ağlamak orucu bozar mı? diyanet fetvasına göre ağlayınca oruç bozulur"
+date: "2023-07-07"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://www.diyanetruya.org/wp-content/uploads/2021/06/ruyada-aglamak-780x470.jpg"
-featuredImage: "https://www.diyanetruya.org/wp-content/uploads/2021/06/ruyada-aglamak-780x470.jpg"
-featured_image: "https://1001ruyatabiri.com/wp-content/uploads/2021/04/Ruyada-Annenin-oldugunu-gormek-ruyada-annesinin-oldugunu-duymak-aglamak-ne-demek-diyanet-islami-900x506.jpg"
-image: "https://icdn.ensonhaber.com/resize/1200x675-85/resimler/diger/kok/2021/04/13/aglamak-orucu-bozar-mi_9407.jpg"
+- "https://i.ytimg.com/vi/iduZekKkTMM/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AGUA4AC0AWKAgwIABABGH8gEyhWMA8=&amp;rs=AOn4CLA-JmDj103jxXInSFy0APcnwHdagA"
+featuredImage: "https://1001ruyatabiri.com/wp-content/uploads/2021/04/Ruyada-Annenin-oldugunu-gormek-ruyada-annesinin-oldugunu-duymak-aglamak-ne-demek-diyanet-islami-900x506.jpg"
+featured_image: "https://i.ytimg.com/vi/6gBkaBxJ5KM/maxresdefault.jpg"
+image: "https://i.ytimg.com/vi/iduZekKkTMM/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AGUA4AC0AWKAgwIABABGH8gEyhWMA8=&amp;rs=AOn4CLA-JmDj103jxXInSFy0APcnwHdagA"
 ---
 
 If you are searching about Rüyada Ağlamak - diyanetruya.org you've came to the right web. We have 9 Images about Rüyada Ağlamak - diyanetruya.org like ISIKLARI SỒNDURUN AGLAMAK ISTIYORUM EZHELDERMAN AY #ezhelderman #, Ağlamak abdesti bozar mı? DİYANET AÇIKLADI! Abdest aldıktan sonra and also Diyanet fetvasına göre ağlamak orucu bozar mı? Ağlayınca oruç bozulur. Here it is:

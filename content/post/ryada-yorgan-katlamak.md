@@ -1,12 +1,12 @@
 ---
 title: ""
-description: "5dk&#039;da si̇lah katlamak solo yaşam.!!! (1/5) rust türkçe"
-date: "2023-01-24"
+description: "Thompson i̇le m249 katlamak !"
+date: "2023-06-07"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/8pHpi4GmLhc/maxresdefault.jpg"
-featuredImage: "https://i.ytimg.com/vi/n7uXxkZwNjA/maxresdefault.jpg"
+- "https://i.ytimg.com/vi/cE9mDKEC75o/maxresdefault.jpg"
+featuredImage: "https://images.ruyandagor.com/2017/04/yorgan-gormek-0015.jpg"
 featured_image: "https://i.ytimg.com/vi/8pHpi4GmLhc/maxresdefault.jpg"
 image: "https://i.ytimg.com/vi/cE9mDKEC75o/maxresdefault.jpg"
 ---

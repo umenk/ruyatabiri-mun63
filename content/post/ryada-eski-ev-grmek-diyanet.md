@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Erdoğan&#039;ın eski doktoru: diyanet işleri başkanı londra&#039;dan ev alıyormuş"
-date: "2023-03-31"
+description: "Eski akp’li vekil ali erbaş için ‘londra’da ev alıyormuş’ dedi, diyanet"
+date: "2023-04-16"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://images.bursadabugun.com/haber/2020/07/13/1312514-diyanet-isleri-baskani-erbas-eski-kudus-muftusu-sabri-ile-gorustu-5f0ca4fda3a02.jpg"
-featuredImage: "https://haber.sol.org.tr/sites/default/files/styles/content_image_size_type1/public/images/content/article/2022/03/12/erbas.jpg?itok=HhBxxsZ7"
-featured_image: "https://img.gercekgundem.com/rcman/Cw1280h720q95gc/images/posts/202203/353312_814x458.jpg"
-image: "https://i2.wp.com/1001ruyatabiri.com/wp-content/uploads/2019/12/ruyada-ev-gormek-yeni-ev-eski-ev-diyanet-islami-dini-ruya-tabirleri-1001ruyatabiri-764x506.jpg"
+- "https://d.marmaragazetesi.com/news/493393.jpg"
+featuredImage: "https://gundeminiz.com/wp-content/uploads/2022/03/332998_814x458_800x450.jpg"
+featured_image: "https://d.marmaragazetesi.com/news/493393.jpg"
+image: "https://img.gercekgundem.com/rcman/Cw1280h720q95gc/images/posts/202203/353312_814x458.jpg"
 ---
 
 If you are searching about Cübbeli Ahmet Hoca,Diyanet'in kredili ev almak için faiz you've came to the right page. We have 9 Images about Cübbeli Ahmet Hoca,Diyanet'in kredili ev almak için faiz like Görevden alınan eski Diyanet İşleri Başkanı: Koronavirüse karşı çareyi, Erdoğan'ın eski doktoru: Diyanet işleri Başkanı Londra'dan ev alıyormuş and also Cumhurbaşkanı Erdoğan'ın eski doktoru Çömez, Erbaş'ın Londra'dan ev. Here you go:

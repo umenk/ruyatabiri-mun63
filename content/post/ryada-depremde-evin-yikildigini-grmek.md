@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Rüyada evin yıkılması ne anlama gelir, neye işarettir? rüyada bir yerin"
-date: "2023-11-02"
+description: "Depremde evin güvenli odası hangisi? depremde evin en güvenli yeri"
+date: "2023-07-01"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
 - "https://images.ruyandagor.com/2017/04/depremde-evin-yikildigini-gormek-1344.jpg"
-featuredImage: "http://ruyameali.com/wp-content/uploads/2018/06/evin-balkonunun-depremde-yikildigini-gormek-810x520.jpg"
-featured_image: "https://i12.haber7.net/haber/haber7/photos/2021/06/ruyada_deprem_olmasi_ne_demek_ruyada_deprem_oldugunu_ve_evin_sallandigini_gormek_1613037856_4564.jpg"
+featuredImage: "https://images.ruyandagor.com/2017/05/deprem-oldugunu-evin-yikildigini-gormek-1243.jpg"
+featured_image: "https://www.netde.org/wp-content/uploads/2022/12/Ruyada-Evin-Yikildigini-Gormek.jpeg"
 image: "https://i20.haber7.net/resize/1300x788/haber/haber7/photos/2023/06/MRndZ_1676037460_0479.jpg"
 ---
 

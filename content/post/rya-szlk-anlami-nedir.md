@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "File ne demek?"
-date: "2023-08-04"
+description: "Ders programı ne demek?"
+date: "2023-06-14"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://tr-static.eodev.com/files/d67/0eb6ce6bb0b0d7208965d50fb7663972.jpg"
-featuredImage: "http://anlami-nedir.com/resimler/2/ders-programi.jpg"
-featured_image: "https://anlami-nedir.com/resimler/2/ugrasma.jpg"
-image: "http://anlami-nedir.com/resimler/2/bakisimsiz.jpg"
+- "http://anlami-nedir.com/resimler/1/cadde.jpg"
+featuredImage: "https://zit-anlamli-kelimeler.com/images/zitanlam/y/yetkisiz-zıt-anlamlısıx768.png"
+featured_image: "https://zit-anlamli-kelimeler.com/images/zitanlam/y/yetkisiz-zıt-anlamlısıx768.png"
+image: "http://anlami-nedir.com/resimler/1/cadde.jpg"
 ---
 
 If you are looking for Bakışımsız ne demek? - anlami-nedir.com you've came to the right web. We have 9 Pics about Bakışımsız ne demek? - anlami-nedir.com like Cadde ne demek? - anlami-nedir.com, Esasi ne demek? - anlami-nedir.com and also Ders programı ne demek? - anlami-nedir.com. Read more:

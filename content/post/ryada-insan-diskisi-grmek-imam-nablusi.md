@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Tugas diskisi bahasa indonesia mengenai gagasan covid-19. nama : sally"
-date: "2023-01-27"
+description: "Coca cola kutularında insan dışkısı bulundu"
+date: "2023-05-23"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
 - "https://i.ytimg.com/vi/6U_PICdvGu0/maxresdefault.jpg"
-featuredImage: "https://61saatcom.teimg.com/61saat-com/images/haberler/2017/03/coca_cola_da_skandal_kola_kutularinin_icinden_insan_diskisi_cikti_h404927_fb265.jpg"
-featured_image: "https://i.ytimg.com/vi/-rUFvWrheu4/maxresdefault.jpg"
+featuredImage: "https://i.ytimg.com/vi/BV38P_HxMs8/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgXCg4MA8=&amp;rs=AOn4CLCMH33APd-9CtCq3KWSAX6f2XvkVQ"
+featured_image: "https://61saatcom.teimg.com/61saat-com/images/haberler/2017/03/coca_cola_da_skandal_kola_kutularinin_icinden_insan_diskisi_cikti_h404927_fb265.jpg"
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPRNTBF0tp963Lc_G-K3Ooe1adPwH4EVFNLsBkWfnrWEhpQ_aIMa4WCDJwqCe_yhB7xX-m4gbKG3gMu5MJyDJCBUmhRayOeyP72VxnXzGsoOdPMi68S8kBgLeeePZkk1O7ml6Wqvw_rrVN_6IIPRaJPJuRvVTpfixjYR25Z2ULsP5fvhm6RcKg6HWRYQ/w1600/imam-nablusi-ruya-tabirleri.webp"
 ---
 

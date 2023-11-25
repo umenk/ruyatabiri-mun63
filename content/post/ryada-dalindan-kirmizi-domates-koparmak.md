@@ -1,13 +1,13 @@
 ---
 title: ""
 description: "Domates kirmizi yesil gibi"
-date: "2023-08-17"
+date: "2023-08-26"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/hA0Ra0Z08Zs/maxresdefault.jpg"
-featuredImage: "https://i.ytimg.com/vi/MrC1fqHYyqQ/maxresdefault.jpg"
-featured_image: "https://i.ytimg.com/vi/T4F1AaF1Wvg/maxresdefault.jpg"
+- "https://i.ytimg.com/vi/T4F1AaF1Wvg/maxresdefault.jpg"
+featuredImage: "https://i.ytimg.com/vi/T4F1AaF1Wvg/maxresdefault.jpg"
+featured_image: "https://i.ytimg.com/vi/hA0Ra0Z08Zs/maxresdefault.jpg"
 image: "https://4.bp.blogspot.com/_lPwCpO1pnfs/TIURFDuwcDI/AAAAAAAAAdw/fpM2DrFqit0/s320/z5.jpg"
 ---
 

@@ -1,13 +1,13 @@
 ---
 title: ""
 description: "Opel insi̇gni̇a b kroni̇k hortum kopmasi nasil yapabi̇li̇ri̇m/ #p0299 #p0101"
-date: "2023-02-23"
+date: "2023-01-27"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://drburcinkececi.com/2023/05/arka-capraz-bag-kopmasi-3.jpg"
-featuredImage: "https://i.ytimg.com/vi/BPPEzlCa2y8/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGsgayhrMA8=&amp;rs=AOn4CLAHCqZfG4skCQdnmcu89dkzfVXvKA"
-featured_image: "https://muhammedfurkanakdogan.com.tr/wp-content/uploads/Burun-Kanamasi-Neden-Olur-Nasil-Durdurulur.jpg"
+- "https://www.gunhaber.com.tr/haber_resim/SAC-KOPMASI-NASIL-DURDURULABILIR-436426.jpg"
+featuredImage: "https://bedavainternet.com.tr/wp-content/uploads/2022/02/Dogalgaz-Sayaci-Nasil-Durdurulur.jpg"
+featured_image: "https://drburcinkececi.com/2023/05/arka-capraz-bag-kopmasi-3.jpg"
 image: "https://aliskanlik.com/wp-content/uploads/2020/11/Hickirik-Nasil-Durdurulur.jpg"
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Diyanet, toki̇&#039;den krediyle ev almayı caiz buldu"
-date: "2023-10-27"
+description: "Cübbeli ahmet hoca,diyanet&#039;in kredili ev almak için faiz"
+date: "2023-04-06"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
 - "https://cdn.emlakkulisi.com/resim/orjinal/MTg2ODQxMT-turkiye-diyanet-vakfindan-depremzede-aileler-icin-konteyner-ev.jpg"
-featuredImage: "https://icdn.ensonhaber.com/resimler/diger/kok/2020/01/14/diyanet_8366.jpg"
-featured_image: "https://iasbh.tmgrup.com.tr/9e3342/650/344/0/53/487/311?u=http://i.sabah.com.tr/sbh/2016/12/12/ev-degistirmek-ne-zor-ismis-1481557245693.jpeg"
-image: "https://www.indyturk.com/sites/default/files/styles/1368x911/public/article/main_image/2020/02/09/282006-353733137.jpg?itok=JKqMbpG2"
+featuredImage: "https://www.indyturk.com/sites/default/files/styles/1368x911/public/article/main_image/2020/02/09/282006-353733137.jpg?itok=JKqMbpG2"
+featured_image: "https://www.indyturk.com/sites/default/files/styles/1368x911/public/article/main_image/2020/02/09/282006-353733137.jpg?itok=JKqMbpG2"
+image: "https://d.marmaragazetesi.com/news/493393.jpg"
 ---
 
 If you are searching about Cübbeli Ahmet Hoca,Diyanet'in kredili ev almak için faiz you've came to the right place. We have 9 Pics about Cübbeli Ahmet Hoca,Diyanet'in kredili ev almak için faiz like Cübbeli Ahmet Hoca,Diyanet'in kredili ev almak için faiz, Türkiye Diyanet Vakfı'ndan depremzede aileler için konteyner ev! and also Ev değiştirmek ne zor işmiş - Son Dakika Magazin Haberleri. Here you go:

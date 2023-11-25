@@ -1,14 +1,14 @@
 ---
 title: "anlayabilmek deyiminin anlami El uzatmak deyiminin anlamı?"
-description: "El uzatmak deyiminin anlamı?"
-date: "2022-12-27"
+description: "Kendini bilmek deyiminin anlamı ne demek? kendini bilmek i̇le i̇lgili"
+date: "2023-08-11"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i2.milimaj.com/i/milliyet/75/869x477/631678be86b244311480c03e.jpg"
-featuredImage: "https://i2.milimaj.com/i/milliyet/75/869x477/631678be86b244311480c03e.jpg"
+- "https://i4.hurimg.com/i/hurriyet/75/1200x675/605a83b14e3fe0058448be81.jpg"
+featuredImage: "https://www.uguragdas.com.tr/wp-content/uploads/2022/11/kendini-bilmek-deyiminin-anlami-ne-demek-kendini-bilmek-ile-ilgili-ornek-cumleler.jpg"
 featured_image: "https://konyaegitimsertifika.com/wp-content/uploads/2022/10/avucunu-yalamak-deyiminin-anlami_15723.jpg"
-image: "https://i4.hurimg.com/i/hurriyet/75/1200x675/605a83b14e3fe0058448be81.jpg"
+image: "https://konyaegitimsertifika.com/wp-content/uploads/2022/10/avucunu-yalamak-deyiminin-anlami_15723.jpg"
 ---
 
 If you are looking for Ayağı Alışmak Deyiminin Anlamı ve Hikayesi Kısaca - Eğitim Platformu you've visit to the right page. We have 9 Pics about Ayağı Alışmak Deyiminin Anlamı ve Hikayesi Kısaca - Eğitim Platformu like 50 Tane Deyim Ve Anlamları, Kendini Bilmek Deyiminin Anlamı Ne Demek? Kendini Bilmek İle İlgili and also Kendini Bilmek Deyiminin Anlamı Ne Demek? Kendini Bilmek İle İlgili. Here you go:

@@ -1,13 +1,13 @@
 ---
 title: ""
 description: "Bir erkekten ne olmaz #281236"
-date: "2022-12-27"
+date: "2023-08-13"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.gazeteoksijen.com/storage/files/images/2023/02/01/yunan-denizcilik-sektorunde-bir-kadin-ceo-artik-herhangi-bir-erkekten-daha-zengin-YCMv.jpg"
-featuredImage: "https://sendikaorg.fra1.digitaloceanspaces.com/wp-content/uploads/2019/07/26142128/fatal-attraction_2.jpg"
-featured_image: "https://i.gazeteoksijen.com/storage/files/images/2023/02/01/yunan-denizcilik-sektorunde-bir-kadin-ceo-artik-herhangi-bir-erkekten-daha-zengin-YCMv.jpg"
+- "https://sendikaorg.fra1.digitaloceanspaces.com/wp-content/uploads/2019/07/26142128/fatal-attraction_2.jpg"
+featuredImage: "https://www.wikihow.com/images/b/b1/Get-Rid-of-a-Guy-Who-Is-Using-You-Step-8.jpg"
+featured_image: "https://i.ytimg.com/vi/EUrLEq6Rl6Y/maxresdefault.jpg"
 image: "https://image.milimaj.com/i/milliyet/75/0x0/64e7599986b2451e080eae7f.jpg"
 ---
 

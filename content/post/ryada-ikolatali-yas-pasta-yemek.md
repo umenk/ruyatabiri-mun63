@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Kolay yaş pasta tarifi, nasıl yapılır?"
-date: "2023-02-20"
+description: "Çikolatalı meyveli yaş pasta tarifi, nasıl yapılır?"
+date: "2023-10-31"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
 - "https://cdn.yemek.com/uploads/2019/07/yas-pasta-tarifi-one-cikan.jpg"
-featuredImage: "https://cdn.yemek.com/uploads/2018/11/pastafb.jpg"
-featured_image: "https://cdn.yemek.com/mnresize/1250/833/uploads/2021/02/tavuk-goguslu-yas-pasta-tarifi.jpg"
-image: "https://i.nefisyemektarifleri.com/2018/01/29/visneli-yas-pasta.png"
+featuredImage: "https://i.ytimg.com/vi/EWeW0WX1bks/maxresdefault.jpg"
+featured_image: "https://i.ytimg.com/vi/EWeW0WX1bks/maxresdefault.jpg"
+image: "https://cdn.yemek.com/mncrop/940/625/uploads/2020/05/az-malzemeli-yas-pasta-tarifi.jpeg"
 ---
 
 If you are looking for Çikolatalı Meyveli Yaş Pasta Tarifi, Nasıl Yapılır? - Yemek.com you've came to the right page. We have 9 Pics about Çikolatalı Meyveli Yaş Pasta Tarifi, Nasıl Yapılır? - Yemek.com like Çikolatalı Yaş Pasta Tarifleri: 12 Şık ve Nefis Pasta Tarifi - Yemek.com, Çikolatalı Meyveli Yaş Pasta Tarifi, Nasıl Yapılır? - Yemek.com and also Az Malzemeli Yaş Pasta Tarifi, Nasıl Yapılır? - Yemek.com. Here you go:

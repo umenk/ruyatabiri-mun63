@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Sevgilim hakkinda bulusup konusmak isteyenler : r/zorban"
-date: "2022-11-28"
+description: "Abdülkadir parmak: &quot;futbol konuşmak istemiyorum&quot;"
+date: "2023-03-17"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/HjlZHjht5hU/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgTyhBMA8=&amp;rs=AOn4CLDb0yW_Pm9ohhv_r6k69qYqy03Y5A"
-featuredImage: "https://i.redd.it/sevgilim-hakkinda-bulusup-konusmak-isteyenler-v0-b5dfooqhuzsb1.png?s=4431e3f3dc3061747dc08d0a0c8cd6fa03982dd5"
-featured_image: "https://i.redd.it/sevgilim-hakkinda-bulusup-konusmak-isteyenler-v0-b5dfooqhuzsb1.png?s=4431e3f3dc3061747dc08d0a0c8cd6fa03982dd5"
-image: "https://www.ankaraetkinlik.com/wp-content/uploads/2016/04/guzel_konusmak1-910x600.jpg"
+- "https://pbs.twimg.com/media/Fcyada8X0AANSFu.jpg"
+featuredImage: "https://i.ytimg.com/vi/HYLCwcE-Dgc/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYRSBHKGUwDw==&amp;rs=AOn4CLC_ulBvmvqa2cf2uT56Qfk3FCYaDA"
+featured_image: "https://i.ytimg.com/vi/HjlZHjht5hU/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgTyhBMA8=&amp;rs=AOn4CLDb0yW_Pm9ohhv_r6k69qYqy03Y5A"
+image: "https://haber61net.teimg.com/crop/1280x720/haber61-net/images/haberler/2020/03/03/abdulkadir_parmak_futbol_konusmak_istemiyorum_h386450_552f8.jpg"
 ---
 
 If you are looking for ASMR MUKBANG 10 parmak minicik doner yedim KONUSMAK YOC - YouTube you've came to the right web. We have 9 Pictures about ASMR MUKBANG 10 parmak minicik doner yedim KONUSMAK YOC - YouTube like agır yaralı konusmak - YouTube, ASMR MUKBANG 10 parmak minicik doner yedim KONUSMAK YOC - YouTube and also Seyma Subasi konusmak isteyen? Dm : r/turkishfrikik. Here it is:

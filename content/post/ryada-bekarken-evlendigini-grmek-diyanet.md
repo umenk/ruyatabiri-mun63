@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Kareena kapoor khan&#039;s tweet"
-date: "2022-12-17"
+description: "Otomobil mimarı on instagram: “evliyken mi ? bekarken mi ? siz"
+date: "2023-04-15"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.pinimg.com/originals/c6/a0/94/c6a09464412b5ed0db8e43786c8c1fe1.jpg"
+- "https://i.ytimg.com/vi/on1Pzvnt9Ow/maxresdefault.jpg"
 featuredImage: "https://i.pinimg.com/originals/c6/a0/94/c6a09464412b5ed0db8e43786c8c1fe1.jpg"
-featured_image: "https://i.ytimg.com/vi/gRA1ENgeuMg/maxresdefault.jpg"
+featured_image: "https://i.ytimg.com/vi/pXj6sFCf59g/maxresdefault.jpg"
 image: "https://pbs.twimg.com/media/Fcyada8X0AANSFu.jpg"
 ---
 

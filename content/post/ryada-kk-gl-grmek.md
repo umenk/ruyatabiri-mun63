@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Team garchomp team zacian cp3213"
-date: "2023-06-14"
+description: "The beauty of uganda lies here"
+date: "2023-10-24"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://autoline.info/img/s/spare-part-cylinder-block-DEUTZ-F6L-413-R---1530278832088562009_big--18062916210252551400.jpg"
-featuredImage: "http://15172456.s21i.faiusr.com/4/ABUIABAEGAAgw8qk7gUosqnd6AYwpAU4ywM!600x600.png"
-featured_image: "https://i.ytimg.com/vi/HYLCwcE-Dgc/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYRSBHKGUwDw==&amp;rs=AOn4CLC_ulBvmvqa2cf2uT56Qfk3FCYaDA"
+- "https://i.ytimg.com/vi/HYLCwcE-Dgc/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYRSBHKGUwDw==&amp;rs=AOn4CLC_ulBvmvqa2cf2uT56Qfk3FCYaDA"
+featuredImage: "https://i.ytimg.com/vi/HYLCwcE-Dgc/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYRSBHKGUwDw==&amp;rs=AOn4CLC_ulBvmvqa2cf2uT56Qfk3FCYaDA"
+featured_image: "https://i.ytimg.com/vi/fCK2x4PEN38/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFMgXChlMA8=&amp;rs=AOn4CLC396z-9U6MhIawB-cmI8w3sFEZVQ"
 image: "https://i.ytimg.com/vi/H2fAEMesIjo/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXyhTMA8=&amp;rs=AOn4CLCJYSghky0o-ilndxvg6fCYAda1ug"
 ---
 

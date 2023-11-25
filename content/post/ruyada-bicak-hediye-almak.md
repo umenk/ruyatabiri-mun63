@@ -1,13 +1,13 @@
 ---
 title: "ruyada bicak hediye almak Rüyada kolye hediye almak"
-description: "Rüyada kolye hediye almak"
-date: "2023-08-08"
+description: "Rüyada hediye almak ne anlama gelir?"
+date: "2023-01-06"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
 - "http://ruyameali.com/wp-content/uploads/2060/06/ruyada-kolye-hediye-almak.jpg"
-featuredImage: "https://www.diyadinnet.com/d/ruya/ruyada-hediye-almak-ne-anlama-gelir-10488.jpg"
-featured_image: "http://ruyalardunyasi.com/wp-content/uploads/2019/12/ruyada-kol-saati-.jpg"
+featuredImage: "https://www.stabilhayat.com/wp-content/uploads/2020/12/ruyada-kol-saati-gormek-takmak-almak-bulmak.png"
+featured_image: "https://iasbh.tmgrup.com.tr/c107de/752/395/0/101/724/481?u=https://isbh.tmgrup.com.tr/sbh/2022/04/27/ruyada-hediye-almak-ne-anlama-gelir-ruyada-sevdigin-birinden-hediye-almak-ve-vermek-anlami-1651049307196.jpg"
 image: "http://ruyameali.com/wp-content/uploads/2060/06/ruyada-kolye-hediye-almak.jpg"
 ---
 

@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Orasını burasını çuvallar dolusu para i̇le sigortalatan 20 ünlü"
-date: "2023-02-06"
+description: "Miras kalan evde çanta dolusu para buldu"
+date: "2023-08-06"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://cdnuploads.aa.com.tr/uploads/Contents/2016/08/26/thumbs_b_c_676e01e9986127c3969d867ad28b7258.jpg"
-featuredImage: "https://motordestek.com/wp-content/uploads/2019/11/Araba-Alım-Satım-Dolandırıcılığı-3.jpg"
-featured_image: "https://i.ytimg.com/vi/JYU-VfJBU1c/maxresdefault.jpg"
+- "https://i.ytimg.com/vi/KZu-WSZuDCU/maxresdefault.jpg"
+featuredImage: "https://i.ytimg.com/vi/KZu-WSZuDCU/maxresdefault.jpg"
+featured_image: "https://www.timeturk.com/resim/detay/164/1647376.jpg"
 image: "https://www.airnewstimes.com/wp-content/uploads/2022/02/ucak-dolusu-para-768x348.jpg"
 ---
 

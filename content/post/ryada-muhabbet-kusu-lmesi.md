@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Muhabbet_kusu"
-date: "2023-04-02"
+description: "Muhabbet kuşu nasıl konuşturulur?"
+date: "2023-06-11"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
 - "https://i.ytimg.com/vi/wd4A6z0NhIg/maxresdefault.jpg"
-featuredImage: "https://www.miyhav.com/icerik/uploads/2018/02/muhabbet-kusu-2-1024x576.jpg"
+featuredImage: "https://i.ytimg.com/vi/0PNDYsYFvfg/hq2.jpg"
 featured_image: "https://i.ytimg.com/vi/Cs5ZZiY510U/maxresdefault.jpg"
-image: "https://i.ytimg.com/vi/Cs5ZZiY510U/maxresdefault.jpg"
+image: "https://i.ytimg.com/vi/0PNDYsYFvfg/hq2.jpg"
 ---
 
 If you are looking for Muhabbet Kuşu Nasıl Konuşturulur? you've visit to the right place. We have 9 Pics about Muhabbet Kuşu Nasıl Konuşturulur? like Muhabbet Kuşu Nasıl Konuşturulur?, Muhabbet Kuşları Hakkında Her Şey: Muhabbet Kuşu Irkları ve Çeşitleri and also Muhabbet Kuşu Nasıl Konuşturulur?. Here you go:

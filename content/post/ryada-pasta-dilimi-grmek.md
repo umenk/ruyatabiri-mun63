@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Pasta dilimi şeker kutusu"
-date: "2023-10-08"
+description: "Cilekli-pasta dilimi"
+date: "2023-09-10"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://platincdn.com/1633/pictures/YAUHJLEAMQ101220194144_kutu-pasta-dilimi-kakao-4.jpg"
-featuredImage: "http://cahidejibek.files.wordpress.com/2010/05/cilekli-past.jpg"
-featured_image: "https://i.nefisyemektarifleri.com/2015/11/14/sut-dilimi-pasta-orjinal-tadinda.jpeg"
+- "https://cdn.superbilgiler.com/wp-content/uploads/2022/09/PASTA-DILIMI-NASIL-CIZILIR-cocuklar-icin-kolay-pasta-dilimi-cizimi.jpg"
+featuredImage: "https://platincdn.com/2658/pictures/SVKQXLYNCK1221201924710_kutu-pasta-dilimi-seker-1.jpg"
+featured_image: "https://platincdn.com/2658/pictures/TZBILIFTAT1221201924714_kutu-pasta-dilimi-seker-4.jpg"
 image: "https://p1.piqsels.com/preview/844/683/667/restaurant-dessert-cake-opera-chocolate-sweet.jpg"
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: ""
 description: "Kendi aynasıyla konuşan nine"
-date: "2023-02-16"
+date: "2023-04-05"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
 - "https://i.ytimg.com/vi/HYLCwcE-Dgc/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYRSBHKGUwDw==&amp;rs=AOn4CLC_ulBvmvqa2cf2uT56Qfk3FCYaDA"
-featuredImage: "https://i.ytimg.com/vi/HYLCwcE-Dgc/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYRSBHKGUwDw==&amp;rs=AOn4CLC_ulBvmvqa2cf2uT56Qfk3FCYaDA"
-featured_image: "https://i.ytimg.com/vi/d4fCg2ZcH6s/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4AYYCgALgA4oCDAgAEAEYZSBTKEMwDw==&amp;rs=AOn4CLA9fELLfUzQf-7lNIP45j6dAfA0bg"
-image: "https://i.ytimg.com/vi/yuOOgfyChMA/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AGMAoAC4AOKAgwIABABGGUgZShlMA8=&amp;rs=AOn4CLD8FCG7Ds8zVFv-V5MQOi2Csslmuw"
+featuredImage: "https://i.ytimg.com/vi/eY9Wg0upFzs/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AGuCYAC0AWKAgwIABABGGUgZShlMA8=&amp;rs=AOn4CLChiqUO98_d5o65yfeV2fFTVB-FCg"
+featured_image: "https://i.ytimg.com/vi/H2fAEMesIjo/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXyhTMA8=&amp;rs=AOn4CLCJYSghky0o-ilndxvg6fCYAda1ug"
+image: "https://i.ytimg.com/vi/B18jrDI-sjE/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AGMAoAC6AKKAgwIABABGGggaChoMA8=&amp;rs=AOn4CLC47poJK6cZYGu-1fcG4w0_yiO_6A"
 ---
 
 If you are looking for Kendi oyunumuzu yaptık - YouTube you've visit to the right web. We have 9 Pics about Kendi oyunumuzu yaptık - YouTube like kendi hondi se🥰🥰🥰before gym - YouTube, KENDİ OKULUMU YAPIYORUM - YouTube and also Selin cisimlerin dayanıklılgın nelere bagli oldugunu g... - Fizik. Here you go:

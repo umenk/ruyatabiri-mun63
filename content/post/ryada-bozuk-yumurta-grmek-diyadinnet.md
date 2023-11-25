@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Bozuk yumurta nasıl anlaşılır?"
-date: "2023-07-09"
+description: "Bayat ve bozuk yumurta nasıl anlaşılır?"
+date: "2023-02-13"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://lezzet.blob.core.windows.net/images-xxlarge-secondary/taze-ve-bozuk-yumurta-nasil-anlasilir-a060acf9-0979-48a7-9faa-f964ce6dcdc3.jpg"
-featuredImage: "https://gazetekolektif.com/wp-content/uploads/2021/01/Bozuk-yumurta-nasil-anlasilir_.jpg"
-featured_image: "https://i2.milimaj.com/i/milliyet/75/0x410/5fe79a135542821884662812.jpg"
+- "https://img.chip.com.tr/rcman/Cw940h529q95gm/storage/files/images/2022/12/26/yumurtalarin-bozulmalari-nasil-anlasilir-Efm0.jpg"
+featuredImage: "https://i.nefisyemektarifleri.com/2022/09/19/bozuk-yumurta-nasil-anlasilir-4-basit-yontem-1.jpg"
+featured_image: "https://i.dha.com.tr/i/dha/75/0x410/63a07981470a9b6070db8f64.jpg"
 image: "https://lezzet.blob.core.windows.net/images-xxlarge-secondary/taze-ve-bozuk-yumurta-nasil-anlasilir-a060acf9-0979-48a7-9faa-f964ce6dcdc3.jpg"
 ---
 

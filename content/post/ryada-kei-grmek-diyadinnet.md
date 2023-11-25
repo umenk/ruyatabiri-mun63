@@ -1,12 +1,12 @@
 ---
 title: ""
-description: "Motorola e7i"
-date: "2022-12-14"
+description: "Kareena kapoor khan&#039;s tweet"
+date: "2023-02-24"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/hDiIUYzjXzw/maxresdefault.jpg"
-featuredImage: "https://i.ytimg.com/vi/cp3Yn4mAtGM/maxresdefault.jpg"
+- "https://i.ytimg.com/vi/wbjE14eTcQE/maxresdefault.jpg"
+featuredImage: "https://i.ytimg.com/vi/o0NUGf5ralU/maxresdefault.jpg"
 featured_image: "https://i.ytimg.com/vi/hDiIUYzjXzw/maxresdefault.jpg"
 image: "https://i.ytimg.com/vi/nUjWzIoWQ_c/maxresdefault.jpg"
 ---

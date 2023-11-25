@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Frene basmak dr. patricia o. quinn"
-date: "2023-05-11"
+description: "(pdf) klasik türk edebiyatında &quot;parmak basmak/ harfine parmak basmak"
+date: "2023-11-17"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
 - "https://i.ytimg.com/vi/Tv4R20rdJ-Q/maxresdefault.jpg"
-featuredImage: "https://i.ytimg.com/vi/Tv4R20rdJ-Q/maxresdefault.jpg"
-featured_image: "https://i.ytimg.com/vi/Tv4R20rdJ-Q/maxresdefault.jpg"
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfn2G9w_2av0cyLQGHTfPYYB4lkBzqAEgkee1yPlPMuJyfJkAmPD2KaF0fJm1jsjE2JZd6ik0qUilmoyTrF38LL2NPdz4owH9al9NexMJMnDIQgAQ6LmuBwHXqcqkRdQynhQcn5tl1DiwtahziPELFvZZH8BOmeur_FqYpgVJ2jGSHhMbzQ5jp3xX5MQ/w0/ayak basmak.jpg"
+featuredImage: "https://i.ytimg.com/vi/nVefjBOkJiw/maxresdefault.jpg"
+featured_image: "https://i1.rgstatic.net/publication/364926204_Klasik_Turk_Edebiyatinda_Parmak_Basmak_Harfine_Parmak_Basmak_Deyimleri_ve_Anlam_Cerceveleri/links/635e9ca86e0d367d91de4fc9/largepreview.png"
+image: "https://i.ytimg.com/vi/COBadA_9BU4/maxresdefault.jpg"
 ---
 
 If you are searching about Hava Muhalefeti – Dolar Basmak (Sinemalarda) - YouTube you've came to the right page. We have 9 Pics about Hava Muhalefeti – Dolar Basmak (Sinemalarda) - YouTube like ayak basmak - BilginCin, 10 DK'DA BARE BASMAK! (Gitarda Bare Akor Nasıl Basılır?) - YouTube and also ayak basmak - BilginCin. Here it is:

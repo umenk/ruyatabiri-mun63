@@ -1,13 +1,13 @@
 ---
 title: "islami ruya tabirleri i?hya İslami rüya tabirleri ansiklopedisi pdf i̇ndir"
 description: "Büyük i̇slami rüya tabirleri (necati bursalı)"
-date: "2023-05-14"
+date: "2023-07-01"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://pdfokuindir.com/wp-content/uploads/2022/10/Islami-Ruya-Tabirleri-Ansiklopedisi-PDF-Indir.jpeg"
-featuredImage: "https://www.muslumanlar.net/wp-content/uploads/2023/06/islami-Ruya-Tabirleri.png"
-featured_image: "https://demokrathaberorg.teimg.com/crop/1280x720/demokrathaber-org/images/haberler/islami_ruya_tabirleri_ile_ruyalarinizin_anlamlarini_ogrenin_h30472.jpg"
+- "https://puwiki.com/wp-content/uploads/2020/03/ruyada-denizde-yuzmek-islami-ruya-tabirleri-ruyada-ailece-denize-girmek.jpg"
+featuredImage: "https://i.pinimg.com/736x/43/7a/a8/437aa850cdf0e35e394178003579d953.jpg"
+featured_image: "https://cdn2.dokuzsoft.com/u/salihkitaplar/img/b/b/u/buyuk-islami-ruya-tabirleri-ansiklopedisie92f52bb2cc52bd06d1abeee173bcbeb.jpg"
 image: "https://www.muslumanlar.net/wp-content/uploads/2023/06/islami-Ruya-Tabirleri.png"
 ---
 

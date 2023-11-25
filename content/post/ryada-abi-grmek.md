@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "My biography by abi g"
-date: "2023-02-12"
+description: "Bolivia. ley que amplía área de cultivo de la coca es aprobada"
+date: "2022-12-12"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://online.anyflip.com/pfpbl/mlxq/files/shot.jpg"
-featuredImage: "https://0701.static.prezi.com/preview/v2/xbdazfruxhs3em6wq76kp3upzp6jc3sachvcdoaizecfr3dnitcq_3_0.png"
-featured_image: "https://0701.static.prezi.com/preview/v2/xbdazfruxhs3em6wq76kp3upzp6jc3sachvcdoaizecfr3dnitcq_3_0.png"
-image: "https://i.pinimg.com/736x/fe/9d/30/fe9d3008dd3d8f863f7ea28190462455.jpg"
+- "https://media.s-bol.com/RLJO00ElPGnV/550x823.jpg"
+featuredImage: "https://media.s-bol.com/RLJO00ElPGnV/550x823.jpg"
+featured_image: "https://headicon.trovo.live/user/r4ztsbqaaaaabxkgiynvgj45cy.jpeg?ext=jpeg&amp;t=60"
+image: "https://www.ihu.unisinos.br/images/ihu/2017/02/25-02-ABI-G-Jallasi.jpg"
 ---
 
 If you are looking for My biography by abi g you've visit to the right web. We have 9 Pics about My biography by abi g like Live-Room - ABI\_G, Pin de Abi G.C en Las estrelladas | Dibujos animados bonitos, Dibujos and also Abi G (@abigailgoddard) | Photos and Outfits on 21 Buttons. Here it is:

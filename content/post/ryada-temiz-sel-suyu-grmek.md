@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Taşkın sel suyu kanalları temizleniyor"
-date: "2023-09-19"
+description: "Pakistan’daki sel felaketleri unicef’in raporunda: yaklaşık 4 milyon"
+date: "2023-10-02"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://cdn.karar.com/news/1573721.jpg"
-featuredImage: "https://isbh.tmgrup.com.tr/sbh/2021/08/14/650x344/tunceliden-selden-etkilenen-kastamonu-ve-sinopa-3-1628954115107.jpg"
-featured_image: "https://cdn.yeniakit.com.tr/images/news/625/taskin-sel-suyu-kanallari-temizleniyor-1564734804.jpg"
-image: "https://pbs.twimg.com/media/Fx7cHhSXoAEOKR6.jpg"
+- "https://cdn.yeniakit.com.tr/images/news/625/taskin-sel-suyu-kanallari-temizleniyor-1564734804.jpg"
+featuredImage: "https://i.ytimg.com/vi/UBoYtEuofjc/hqdefault.jpg"
+featured_image: "https://i.ytimg.com/vi/mGoS9tlB6J0/maxresdefault.jpg"
+image: "https://images.ruyandagor.com/2017/04/sel-suyu-gormek-1913.jpg"
 ---
 
 If you are searching about Pakistan’daki sel felaketleri UNICEF’in raporunda: Yaklaşık 4 milyon you've came to the right page. We have 9 Pictures about Pakistan’daki sel felaketleri UNICEF’in raporunda: Yaklaşık 4 milyon like Rüyada Sel Suyu Görmek - ruyandagor.com, Barış Ayhan on Twitter: "İl genelinde aldığımız yoğun yağışla sel and also Barış Ayhan on Twitter: "İl genelinde aldığımız yoğun yağışla sel. Here it is:

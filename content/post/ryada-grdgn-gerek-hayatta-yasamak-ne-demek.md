@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Rüyada yılbaşı görmek, yeni yıl kutlamak, yılbaşı ağacı"
-date: "2023-09-08"
+description: "Yasamak ne demek"
+date: "2023-03-29"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/vx_YTnivQJQ/hqdefault.jpg"
-featuredImage: "https://i.ytimg.com/vi/fC6snswzTJM/maxresdefault.jpg"
-featured_image: "https://cdn.ntv.com.tr/img/ne-demek/yasamak_46686.jpg"
+- "https://1001ruyatabiri.com/wp-content/uploads/2020/04/ruyada-yilbasi-gormek-noel-gormek-yeni-yil-yasamak-eglenmek-ruyada-yilbasi-gecirmek-ne-demek-diyanet-1001ruyatabiri.jpg"
+featuredImage: "https://i.ytimg.com/vi/vx_YTnivQJQ/hqdefault.jpg"
+featured_image: "https://1001ruyatabiri.com/wp-content/uploads/2020/04/ruyada-yilbasi-gormek-noel-gormek-yeni-yil-yasamak-eglenmek-ruyada-yilbasi-gecirmek-ne-demek-diyanet-1001ruyatabiri.jpg"
 image: "https://m.media-amazon.com/images/M/MV5BMDRmYjhhM2UtNTFmZC00MmYwLWE1Y2QtZDI2MDc0MDkyOGFkXkEyXkFqcGdeQXVyNzE2MjU3Mzk@._V1_FMjpg_UX1000_.jpg"
 ---
 

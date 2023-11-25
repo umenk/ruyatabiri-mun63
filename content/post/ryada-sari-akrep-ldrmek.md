@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Türkiye&#039;deki akrepler"
-date: "2023-09-07"
+description: "Rüyada akrep görmek ne demek, ne anlama gelir?"
+date: "2023-01-29"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://www.nkfu.com/wp-content/uploads/2019/08/sari-akrep.jpg"
-featuredImage: "https://imgrosetta.mynet.com/file/10016882/640xauto.jpg"
-featured_image: "https://galeri12.uludagsozluk.com/599/sari-akrep_925565.jpg"
+- "https://kanalmarascom.teimg.com/kanalmaras-com/uploads/2023/05/sari-akrep-1.jpg"
+featuredImage: "https://icdn.tgrthaber.com.tr/static/haberler/22-11/02/sari-akrep-sokan-cocuk-7-kez-kalp-krizi-gecirdi-hayatini-kaybetti-1.jpg"
+featured_image: "https://www.nkfu.com/wp-content/uploads/2019/08/sari-akrep.jpg"
 image: "https://kanalmarascom.teimg.com/kanalmaras-com/uploads/2023/05/sari-akrep-1.jpg"
 ---
 

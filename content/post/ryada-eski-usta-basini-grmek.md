@@ -1,14 +1,14 @@
 ---
 title: ""
 description: "Türki̇ye&#039;ni̇n bu teknoloji̇si̇ abd&#039;yi̇ korkuttu..!! abd basini i̇ti̇raf etti̇"
-date: "2023-08-07"
+date: "2023-01-04"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/Si9A65jtDpo/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4Ae4BgAKqA4oCDAgAEAEYZSBOKD4wDw==&amp;rs=AOn4CLBLDD-jyyyoFxB1t2CpsvEcq7DP2A"
-featuredImage: "https://media.kunduz.com/media/question/seo/raw/20220512084103688651-4395817.jpg?h=512"
-featured_image: "https://i1.rgstatic.net/ii/profile.image/728429255196675-1550682476845_Q512/Giovanni-Basini-2.jpg"
-image: "https://i.ytimg.com/vi/mn8IqEH-UW4/hqdefault.jpg"
+- "https://fanlidla.pl/files/g/2_50987_Basini_Wisnie_w_120.jpg"
+featuredImage: "https://fanlidla.pl/files/g/2_50987_Basini_Wisnie_w_120.jpg"
+featured_image: "https://i.ytimg.com/vi/Si9A65jtDpo/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4Ae4BgAKqA4oCDAgAEAEYZSBOKD4wDw==&amp;rs=AOn4CLBLDD-jyyyoFxB1t2CpsvEcq7DP2A"
+image: "https://i.ytimg.com/vi/Si9A65jtDpo/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4Ae4BgAKqA4oCDAgAEAEYZSBOKD4wDw==&amp;rs=AOn4CLBLDD-jyyyoFxB1t2CpsvEcq7DP2A"
 ---
 
 If you are searching about TÜRKİYE'NİN BU TEKNOLOJİSİ ABD'Yİ KORKUTTU..!! ABD BASINI İTİRAF ETTİ you've visit to the right page. We have 9 Pics about TÜRKİYE'NİN BU TEKNOLOJİSİ ABD'Yİ KORKUTTU..!! ABD BASINI İTİRAF ETTİ like BU KEZ YEREL BASINI KONUŞTUK - YouTube, omon omon kurtce - YouTube and also TÜRKİYE'NİN BU TEKNOLOJİSİ ABD'Yİ KORKUTTU..!! ABD BASINI İTİRAF ETTİ. Here you go:

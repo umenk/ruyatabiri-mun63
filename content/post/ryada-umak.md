@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "R u r f"
-date: "2023-02-08"
+description: "How i learned to solve the rubik’s cube in 30 seconds – stayfree magazine"
+date: "2023-05-26"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/CICd7r_fCyA/maxresdefault.jpg"
-featuredImage: "https://lh6.googleusercontent.com/proxy/LCouOhu1yZxhxcCbRtsF3Hu0kNqsPNbywkzWkZ7rGXJ9EslOiRI58lvIoj75xkIS0ve7rQyOumrSasX9C4q00Mf53vqb-83k0PT7QsmZCyXRxneV=s0-d"
-featured_image: "https://i.ytimg.com/vi/Q8FW1v4FCyA/maxresdefault.jpg"
-image: "https://i.ytimg.com/vi/V9wh6cjYbfA/maxresdefault.jpg"
+- "https://lh6.googleusercontent.com/proxy/LCouOhu1yZxhxcCbRtsF3Hu0kNqsPNbywkzWkZ7rGXJ9EslOiRI58lvIoj75xkIS0ve7rQyOumrSasX9C4q00Mf53vqb-83k0PT7QsmZCyXRxneV=s0-d"
+featuredImage: "http://upload.wikimedia.org/wikipedia/commons/5/56/R.U.R._by_Karel_Čapek_1939.jpg"
+featured_image: "https://yt3.ggpht.com/a/AATXAJyVkUFJa7WmnWQig44oIdlMGy1Oy1GDnxc35yAf=s900-c-k-c0xffffffff-no-rj-mo"
+image: "https://lh6.googleusercontent.com/proxy/LCouOhu1yZxhxcCbRtsF3Hu0kNqsPNbywkzWkZ7rGXJ9EslOiRI58lvIoj75xkIS0ve7rQyOumrSasX9C4q00Mf53vqb-83k0PT7QsmZCyXRxneV=s0-d"
 ---
 
 If you are looking for How 'Why R U?' became the perfect Thai boy love drama for right now you've came to the right web. We have 9 Pics about How 'Why R U?' became the perfect Thai boy love drama for right now like Кончится лето | 7 дней лета OST | Бесконечное лето | Everlasting summer, How I Learned to Solve the Rubik’s Cube in 30 Seconds – StayFree Magazine and also U R - YouTube. Here you go:

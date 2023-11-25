@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Kazandiğin halde kaybetmek ?!! ulti̇mate team #17"
-date: "2023-09-19"
+description: "Limon sahibini kaybetmek ten korkuyor"
+date: "2023-09-01"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/J1wzBJMXNpk/maxresdefault.jpg"
-featuredImage: "https://i.dr.com.tr/cache/500x400-0/originals/0001798897001-1.jpg"
-featured_image: "https://i.dr.com.tr/cache/500x400-0/originals/0001798897001-1.jpg"
+- "https://i.ytimg.com/vi/NEl-L-LXCq4/maxresdefault.jpg"
+featuredImage: "https://i.pinimg.com/originals/0e/28/2e/0e282ea1bb11eb4ac96ae0e2a9754c8f.jpg"
+featured_image: "https://i.pinimg.com/originals/0e/28/2e/0e282ea1bb11eb4ac96ae0e2a9754c8f.jpg"
 image: "https://www.nedirvenasil.com/wp-content/uploads/2019/10/Rüyada-Çocuk-Kaybetmek-e1570549139972.jpg"
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: ""
 description: "Bu tari̇fle saç beyazlamasi derdi̇ne son"
-date: "2023-03-18"
+date: "2022-11-25"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/H2fAEMesIjo/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXyhTMA8=&amp;rs=AOn4CLCJYSghky0o-ilndxvg6fCYAda1ug"
-featuredImage: "https://soapcreative.co.uk/wp-content/uploads/2022/05/fcn-profile-1.png"
-featured_image: "https://live.staticflickr.com/65535/52310652475_96db5bb864_b.jpg"
-image: "https://i.ytimg.com/vi/H2fAEMesIjo/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXyhTMA8=&amp;rs=AOn4CLCJYSghky0o-ilndxvg6fCYAda1ug"
+- "https://www.designfootball.com/images/joomgallery/details/football_crests_8/01_20120323_1566464158.png"
+featuredImage: "https://i.ytimg.com/vi/HYLCwcE-Dgc/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYRSBHKGUwDw==&amp;rs=AOn4CLC_ulBvmvqa2cf2uT56Qfk3FCYaDA"
+featured_image: "https://i.ytimg.com/vi/HYLCwcE-Dgc/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYRSBHKGUwDw==&amp;rs=AOn4CLC_ulBvmvqa2cf2uT56Qfk3FCYaDA"
+image: "https://soapcreative.co.uk/wp-content/uploads/2022/05/fcn-profile-1.png"
 ---
 
 If you are searching about GitHub - daijifeng001/R-FCN: R-FCN: Object Detection via Region-based you've came to the right place. We have 9 Images about GitHub - daijifeng001/R-FCN: R-FCN: Object Detection via Region-based like FCN - Soap Creative, 1.FCN and also La ULTIMA PIEZA del ROMPECABEZAS 🎭😂🧘5,000 (a la chingada) - YouTube. Read more:

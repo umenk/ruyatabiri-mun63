@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Bi̇nance telefon numarasi deği̇şti̇rme"
-date: "2023-05-15"
+description: "Muğla telefon rehberi: muğla merkez bowling game center telefon"
+date: "2023-01-09"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://live.staticflickr.com/65535/51273037426_112d5fd7e2.jpg"
+- "https://i.ytimg.com/vi/mX73JAcMdfM/maxresdefault.jpg"
 featuredImage: "https://i.ytimg.com/vi/ZGmCW0tltlc/maxresdefault.jpg"
-featured_image: "https://i.ytimg.com/vi/08bSudlmajI/maxresdefault.jpg"
+featured_image: "https://i.ytimg.com/vi/DX1sAPVhRlM/maxresdefault.jpg"
 image: "https://i.ytimg.com/vi/sQ9JAGPVf2o/maxresdefault.jpg"
 ---
 

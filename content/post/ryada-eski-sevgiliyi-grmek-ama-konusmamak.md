@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Eski̇ sevgi̇li̇yi̇ geri̇ kazanma (i̇letişimi kes! ama nasıl?)"
-date: "2022-12-18"
+description: "Kendin olma cesareti̇ni̇ göstermelisin;ama ne zaman..?(eski sevgiliyi"
+date: "2023-01-02"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://images.ruyandagor.com/2017/05/eski-sevgiliyi-aramak-ama-bulamamak-1524.jpg"
-featuredImage: "https://static.fnac-static.com/multimedia/Images/FR/NR/e4/45/da/14304740/1507-1/tsp20220407210659/ESKI-SEVGILIYI-GERI-DONDURME-BUYULERI-VE-RITUELLERI-Evde-kolayca-yapabileceginiz-Rituller-Buyuler-ve-Tilsimlar.jpg"
-featured_image: "http://ruyameali.com/wp-content/uploads/2025/08/1-6-810x592.jpg"
+- "https://i.ytimg.com/vi/qyQep5Dp_bE/maxresdefault.jpg"
+featuredImage: "https://i.ytimg.com/vi/WTdjEeAPcrs/maxresdefault.jpg"
+featured_image: "https://static.fnac-static.com/multimedia/Images/FR/NR/e4/45/da/14304740/1507-1/tsp20220407210659/ESKI-SEVGILIYI-GERI-DONDURME-BUYULERI-VE-RITUELLERI-Evde-kolayca-yapabileceginiz-Rituller-Buyuler-ve-Tilsimlar.jpg"
 image: "https://1001ruya.com/wp-content/uploads/ruyada-eski-sevgili-gormek.jpg"
 ---
 

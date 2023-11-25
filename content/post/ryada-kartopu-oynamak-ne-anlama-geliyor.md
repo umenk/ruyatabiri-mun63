@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "1935 yılında i̇stanbul’da kartopu oynamak yasaklanmış"
-date: "2023-07-01"
+description: "Rüyada kartopu oynamak ne anlama gelir? neye yorumlanır, neye işarettir"
+date: "2022-12-17"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/EmZO-MmlHK0/maxresdefault.jpg"
-featuredImage: "https://i3.posta.com.tr/i/posta/75/0x0/62f8baeee4bfdd287c4e0aac.jpg"
-featured_image: "https://i.hbrcdn.com/haber/2019/10/23/ruyada-kar-gormek-ne-anlama-gelir-12556524_2130_m.jpg"
+- "https://i.hbrcdn.com/haber/2019/10/23/ruyada-kar-gormek-ne-anlama-gelir-12556524_2130_m.jpg"
+featuredImage: "https://i.ytimg.com/vi/EmZO-MmlHK0/maxresdefault.jpg"
+featured_image: "https://i.hbrcdn.com/haber/2019/10/23/ruyada-kar-gormek-ne-anlama-gelir-12556524_4088_m.jpg"
 image: "https://i.ytimg.com/vi/EmZO-MmlHK0/maxresdefault.jpg"
 ---
 

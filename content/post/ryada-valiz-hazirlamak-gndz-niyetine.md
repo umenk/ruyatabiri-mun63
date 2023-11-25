@@ -1,13 +1,13 @@
 ---
 title: ""
 description: "10 adımda kolay valiz hazırlama tüyoları"
-date: "2023-05-30"
+date: "2023-03-18"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/7h03Ql4nCmo/maxresdefault.jpg"
-featuredImage: "https://i.ytimg.com/vi/7h03Ql4nCmo/maxresdefault.jpg"
-featured_image: "https://www.neredekal.com/resimler/haber/9_fazladan_yer.jpg"
+- "https://www.neredekal.com/resimler/haber/7_az_oz.jpg"
+featuredImage: "https://www.neredekal.com/resimler/haber/7_az_oz.jpg"
+featured_image: "https://www.neredekal.com/resimler/haber/10_son_an.jpg"
 image: "https://i.hbrcdn.com/haber/2021/09/10/ruyada-valiz-gormek-ruyada-valiz-hazirlamak-14387079_1213_m.jpg"
 ---
 

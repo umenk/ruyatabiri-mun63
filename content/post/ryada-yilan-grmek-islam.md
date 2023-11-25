@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Rüyada gri yılan görmek, gri kedi görmek, gri renk görmek"
-date: "2023-08-16"
+description: "Rüyada yılan görmek"
+date: "2023-04-14"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://pbs.twimg.com/media/Fcyada8X0AANSFu.jpg"
-featuredImage: "https://islamvekuran.com/wp-content/uploads/2022/04/Ruyada-Yilan-Gormek-Ruya-Tabiri.png"
-featured_image: "https://pbs.twimg.com/media/Fcyada8X0AANSFu.jpg"
+- "https://profile-images.xing.com/images/57435ba38f9a18502c2f5c2b699d08a2-1/erhan-yilan.1024x1024.jpg"
+featuredImage: "https://4.bp.blogspot.com/-DN_TKm81DKY/UljeKj74hoI/AAAAAAAALxA/PhW9FHkAkwA/s1600/1384227_451973928252912_858183393_n.jpg"
+featured_image: "https://4.bp.blogspot.com/-DN_TKm81DKY/UljeKj74hoI/AAAAAAAALxA/PhW9FHkAkwA/s1600/1384227_451973928252912_858183393_n.jpg"
 image: "https://4.bp.blogspot.com/-DN_TKm81DKY/UljeKj74hoI/AAAAAAAALxA/PhW9FHkAkwA/s1600/1384227_451973928252912_858183393_n.jpg"
 ---
 

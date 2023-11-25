@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Ğ ne demek 2022"
-date: "2023-07-27"
+description: "G-string nedir, g-string ne demek"
+date: "2023-11-21"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/HYLCwcE-Dgc/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYRSBHKGUwDw==&amp;rs=AOn4CLC_ulBvmvqa2cf2uT56Qfk3FCYaDA"
-featuredImage: "https://kodmatik.net/wp-content/uploads/2023/01/g.jpg"
-featured_image: "https://i.ytimg.com/vi/dwqE1q867Dg/maxresdefault.jpg"
+- "https://kodmatik.net/wp-content/uploads/2023/01/g.jpg"
+featuredImage: "https://bedavainternet.com.tr/wp-content/uploads/2022/04/G-Ne-Demek.jpg"
+featured_image: "https://pbs.twimg.com/media/Fcyada8X0AANSFu.jpg"
 image: "https://i.ytimg.com/vi/HYLCwcE-Dgc/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYRSBHKGUwDw==&amp;rs=AOn4CLC_ulBvmvqa2cf2uT56Qfk3FCYaDA"
 ---
 

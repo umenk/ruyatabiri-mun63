@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "İş yerine silahla ateş açıldı"
-date: "2023-08-04"
+description: "Orman muhafaza aracına silahla ateş eden şahıs gözaltına alındı"
+date: "2023-05-06"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.hbrcdn.com/haber/2020/05/29/orman-muhafaza-aracina-silahla-ates-eden-sahi-13270016_amp.jpg"
-featuredImage: "https://i2.sdacdn.com/haber/2021/11/16/silahla-ates-etmek-isteyenlere-polis-gozetimi-14534276_amp.jpg"
-featured_image: "https://i2.sdacdn.com/haber/2021/11/16/silahla-ates-etmek-isteyenlere-polis-gozetimi-14534276_amp.jpg"
-image: "http://ruyameali.com/wp-content/uploads/2019/02/ruyada-havaya-ates-etmek.jpg"
+- "http://ruyameali.com/wp-content/uploads/2019/02/ruyada-havaya-ates-etmek.jpg"
+featuredImage: "https://images.ruyandagor.com/2017/05/uzun-namlulu-silahla-ates-etmek-1031.jpg"
+featured_image: "http://ruyameali.com/wp-content/uploads/2019/02/ruyada-havaya-ates-etmek.jpg"
+image: "https://static.birgun.net/resim/haber-detay-resim/2022/07/30/antep-te-rastgele-silahla-ates-eden-zanli-15-yasindaki-cocugun-olumune-neden-oldu-1046264-5.jpg"
 ---
 
 If you are searching about havaya ates etmek cinayettir bssah barzo olma | Türk kültürü… | Flickr you've came to the right place. We have 9 Images about havaya ates etmek cinayettir bssah barzo olma | Türk kültürü… | Flickr like Silahla ateş etmek isteyenlere polis gözetiminde poligonda atış, İş Yerine Silahla Ateş Açıldı | Gundemtube.com and also havaya ates etmek cinayettir bssah barzo olma | Türk kültürü… | Flickr. Here you go:

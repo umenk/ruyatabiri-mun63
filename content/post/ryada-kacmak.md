@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Rodos&#039;a kaçmak isterken yakalanan fetö zanlıları adliyeyede"
-date: "2023-09-27"
+description: "Muğla&#039;da yurt dışına kaçmak için türkiye&#039;ye gelen göçmenleri, kaçak"
+date: "2023-02-25"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/hwkVckzDrZk/maxresdefault.jpg"
-featuredImage: "https://pbs.twimg.com/media/Fcyada8X0AANSFu.jpg"
-featured_image: "https://i.ytimg.com/vi/H2fAEMesIjo/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXyhTMA8=&amp;rs=AOn4CLCJYSghky0o-ilndxvg6fCYAda1ug"
-image: "https://i.haberglobal.com.tr/storage/files/images/2022/10/14/muglada-yurt-disina-kacmak-icin-turkiyeye-gelen-gocmenleri-kacak-barindiran-sahislar-serbest-birakildi-3r8s.jpg"
+- "https://i.ytimg.com/vi/H2fAEMesIjo/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXyhTMA8=&amp;rs=AOn4CLCJYSghky0o-ilndxvg6fCYAda1ug"
+featuredImage: "https://i.ytimg.com/vi/HYLCwcE-Dgc/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYRSBHKGUwDw==&amp;rs=AOn4CLC_ulBvmvqa2cf2uT56Qfk3FCYaDA"
+featured_image: "https://i.ytimg.com/vi/hwkVckzDrZk/maxresdefault.jpg"
+image: "https://icdn.turkiyegazetesi.com.tr/images/haberler/2015_12/buyuk/-rejimden-kacmak-isteyen-askerler-zorla-savastiriliyor--1449918892.jpg"
 ---
 
 If you are looking for Kareena Kapoor Khan's tweet - "Ekta Kapoor to co-produce Rajesh you've visit to the right web. We have 9 Images about Kareena Kapoor Khan's tweet - "Ekta Kapoor to co-produce Rajesh like Kareena Kapoor Khan's tweet - "Ekta Kapoor to co-produce Rajesh, Muğla'da yurt dışına kaçmak için Türkiye'ye gelen göçmenleri, kaçak and also Kareena Kapoor Khan's tweet - "Ekta Kapoor to co-produce Rajesh. Here you go:

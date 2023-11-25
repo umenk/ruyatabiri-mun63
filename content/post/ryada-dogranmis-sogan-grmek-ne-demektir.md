@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "El acmasi kiymali borek. 1 su bardagi sut 1 su bardagi su 1 tatli"
-date: "2023-10-05"
+description: "Sogan sarmasi ~ h.g.&#039;s kitchen"
+date: "2022-12-04"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.pinimg.com/originals/36/f9/63/36f96329778b8a540daf059802588ad3.jpg"
-featuredImage: "https://4.bp.blogspot.com/-ReBRCTnfi7U/T_DiNX9aM4I/AAAAAAAAEio/J8FU-gz5_Qo/s1600/sogan_yarim_cucuk.jpg"
+- "https://i.ytimg.com/vi/2vq3sogan-g/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AGUA4AC0AWKAgwIABABGEQgSShlMA8=&amp;rs=AOn4CLDF1vXJE-NAfg_po2EKJEPOZzRC3w"
+featuredImage: "https://i.pinimg.com/originals/36/f9/63/36f96329778b8a540daf059802588ad3.jpg"
 featured_image: "https://4.bp.blogspot.com/-ReBRCTnfi7U/T_DiNX9aM4I/AAAAAAAAEio/J8FU-gz5_Qo/s1600/sogan_yarim_cucuk.jpg"
-image: "https://i.ytimg.com/vi/HYLCwcE-Dgc/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYRSBHKGUwDw==&amp;rs=AOn4CLC_ulBvmvqa2cf2uT56Qfk3FCYaDA"
+image: "https://i.ytimg.com/vi/2vq3sogan-g/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AGUA4AC0AWKAgwIABABGEQgSShlMA8=&amp;rs=AOn4CLDF1vXJE-NAfg_po2EKJEPOZzRC3w"
 ---
 
 If you are searching about Cücük nedir ne demektir? Anlamı - Laf Sözlük you've visit to the right place. We have 9 Images about Cücük nedir ne demektir? Anlamı - Laf Sözlük like SOGAN SARMASI ~ H.G.'s Kitchen, Doğranmış Soğanın Zararları? and also 初めての犬用ケーキ。よく分からないけど、パパにだけはあげたくないの。 - YouTube. Here you go:

@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Almanya&#039;da diyanet&#039;in camisindeki cenaze namazına katılan onlarca kişi"
-date: "2023-06-19"
+description: "Diyanet, almanya’da cenaze nakline yüzde 30 zam yaptı"
+date: "2023-07-20"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://diyanethabercomtr.teimg.com/crop/1280x720/diyanethaber-com-tr/images/haberler/2022/06/cenaze_namazi_nasil_kilinir_h25709_dead7.jpg"
-featuredImage: "https://i.sozcucdn.com/wp-content/uploads/2022/01/13/iecrop/cenaze-depophotos_16_9_1642050991.jpg?w=776&amp;h=436&amp;mode=crop"
-featured_image: "https://i.hbrcdn.com/haber/2022/02/21/cenaze-namazi-farz-mi-diyanet-fetvalari-14747571_505_amp.jpg"
-image: "https://cenaze.diyanet.dk/uploads/2022/03/cenaze-fonu-ic-sayfa_w850_h191.jpeg"
+- "https://i.sozcucdn.com/wp-content/uploads/2022/01/13/iecrop/cenaze-depophotos_16_9_1642050991.jpg?w=776&amp;h=436&amp;mode=crop"
+featuredImage: "https://cenaze.diyanet.dk/uploads/2022/03/cenaze-fonu-ic-sayfa_w850_h191.jpeg"
+featured_image: "https://iasbh.tmgrup.com.tr/cd7fe6/650/344/0/0/634/333?u=https://isbh.tmgrup.com.tr/sbh/2020/08/14/cenaze-namazi-nasil-kilinir-kac-rekattir-cenaze-namazi-kilinisi-tk1-1597407026869.jpg"
+image: "https://diyanethabercomtr.teimg.com/crop/1280x720/diyanethaber-com-tr/images/haberler/2022/06/almanya_da_cenaze_nakil_gorevlisi_dualarla_son_yolculuguna_ugurlandi_h25751_39251.jpg"
 ---
 
 If you are searching about Sahmaran Muzik Toplulugu - Vay Babo - YouTube you've came to the right place. We have 9 Pictures about Sahmaran Muzik Toplulugu - Vay Babo - YouTube like Almanya'da cenaze nakil görevlisi dualarla son yolculuğuna uğurlandı, Almanya'da Diyanet'in camisindeki cenaze namazına katılan onlarca kişi and also Almanya'da cenaze nakil görevlisi dualarla son yolculuğuna uğurlandı. Here it is:

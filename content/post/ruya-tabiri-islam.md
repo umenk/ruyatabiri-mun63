@@ -1,12 +1,12 @@
 ---
 title: "ruya tabiri islam Rüya tabirleri: a&#039;dan z&#039;ye i̇slami rüya tabirleri"
-description: "Rüyada ayak görmek"
-date: "2022-12-21"
+description: "Raki ruyada ruya icmek gormek sozlugu islami tabiri diyanet"
+date: "2023-05-19"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://1001ruyatabiri.com/wp-content/uploads/2018/02/ruyada-aday-gormek-ruyada-aday-olmak-ruyada-baskan-adayi-olmak-diyanet-ruya-tabiri-islami-ruya-tabiri-768x511.jpg"
-featuredImage: "https://gunceloku.com/uploads/islam-a-gore-ruya-tabiri-6140664a53794.jpg"
+- "https://islamvekuran.com/wp-content/uploads/2022/04/Ruyada-Altin-Gormek-Islami-Ruya-Tabiri.png"
+featuredImage: "https://1001ruyatabiri.com/wp-content/uploads/2018/02/ruyada-aday-gormek-ruyada-aday-olmak-ruyada-baskan-adayi-olmak-diyanet-ruya-tabiri-islami-ruya-tabiri-768x511.jpg"
 featured_image: "https://gunceloku.com/uploads/islam-a-gore-ruya-tabiri-6140664a53794.jpg"
 image: "https://kanalmarascom.teimg.com/crop/1280x720/kanalmaras-com/uploads/2022/01/ruyada-cis-yaptigini-gormek-ne-anlama-gelir-cis-yaptigini-gormenin-islami-ruya-tabiri.jpg"
 ---

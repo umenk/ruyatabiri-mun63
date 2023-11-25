@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Rüyada tanımadığın biriyle sevgili olmak ne anlama gelir? rüyanda"
-date: "2023-07-03"
+description: "Rüyada ünlü biriyle sevgili olmak ne anlama gelir?"
+date: "2023-11-15"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/YvQwVtk9dLE/maxresdefault.jpg"
+- "https://i.hbrcdn.com/haber/2023/02/22/ruyada-tanimadigin-biriyle-sevgili-olmak-ne-15652557_2846_m.jpg"
 featuredImage: "http://ruyameali.com/wp-content/uploads/2018/07/biriyle-sevgili-olmak-1024x640.jpg"
-featured_image: "https://i.ytimg.com/vi/i8-XKMEsqjY/maxresdefault.jpg"
+featured_image: "http://ruyameali.com/wp-content/uploads/2017/09/unlu-biriyle-sevgili-olmak.jpg"
 image: "http://ruyameali.com/wp-content/uploads/2017/09/unlu-biriyle-sevgili-olmak.jpg"
 ---
 

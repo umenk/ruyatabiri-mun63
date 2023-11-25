@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Noel babanin elini öptuk"
-date: "2023-07-04"
+description: "Afp foto muhabiri yaşamını yitiren kızının elini tutan babanın"
+date: "2022-12-02"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/HYLCwcE-Dgc/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYRSBHKGUwDw==&amp;rs=AOn4CLC_ulBvmvqa2cf2uT56Qfk3FCYaDA"
-featuredImage: "https://cdn.ankaramasasi.com/2023/2/6/afp-foto-muhabiri-yasamini-yitiren-kizinin-elini-tutan-babanin-fotografinin-hikayesini-anlatti-1u1tt3sr.jpg"
-featured_image: "https://i.ytimg.com/vi/RayxMy0zpnI/hqdefault.jpg"
-image: "https://i.ytimg.com/vi/0bNh5SgkQcs/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgWChMMA8=&amp;rs=AOn4CLAilv8FF7EzseC2dL0BSG5_4KOXxA"
+- "https://i.ytimg.com/vi/dc1P_vQrhPY/hqdefault.jpg"
+featuredImage: "https://i.ytimg.com/vi/RayxMy0zpnI/hqdefault.jpg"
+featured_image: "https://i.ytimg.com/vi/0bNh5SgkQcs/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgWChMMA8=&amp;rs=AOn4CLAilv8FF7EzseC2dL0BSG5_4KOXxA"
+image: "https://i.ytimg.com/vi/dc1P_vQrhPY/hqdefault.jpg"
 ---
 
 If you are searching about hayirli olsun | op kizim babanin elini :) | pinarcuneyt | Flickr you've visit to the right page. We have 9 Pictures about hayirli olsun | op kizim babanin elini :) | pinarcuneyt | Flickr like öp babanın elini - uludağ sözlük, hayirli olsun | op kizim babanin elini :) | pinarcuneyt | Flickr and also hayirli olsun | op kizim babanin elini :) | pinarcuneyt | Flickr. Read more:

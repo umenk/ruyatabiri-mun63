@@ -1,12 +1,12 @@
 ---
 title: ""
-description: "Misafir ne demek?"
-date: "2023-03-09"
+description: "Rüyada misafir görmek ne anlama gelir? rüyada kalabalık misafir görmek"
+date: "2023-01-12"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://www.islamveihsan.com/wp-content/uploads/2023/03/misafir-ne-demek-191021.jpg"
-featuredImage: "https://i.ytimg.com/vi/9i4-3hkiJLY/maxresdefault.jpg"
+- "https://cdn.ntv.com.tr/img/ne-demek/misafir-kismeti-ile-gelir_31491.jpg"
+featuredImage: "https://cdn.ntv.com.tr/img/ne-demek/misafir-kismeti-ile-gelir_31491.jpg"
 featured_image: "https://cdn.ntv.com.tr/img/ne-demek/misafir-kismeti-ile-gelir_31491.jpg"
 image: "https://i.ytimg.com/vi/9i4-3hkiJLY/maxresdefault.jpg"
 ---

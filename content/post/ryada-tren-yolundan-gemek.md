@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Adana haberleri adana’da tren yolundan karşıya geçmek isteyen gencin"
-date: "2023-07-29"
+description: "Ölümü göze alıp tren yolundan geçtiler"
+date: "2022-12-31"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i12.haber7.net/haber/haber7/photos/2023/04/adanada_tren_yolundan_karsiya_gecmek_isteyen_gencin_feci_olumu_1674541870_1075.jpg"
+- "https://i.ytimg.com/vi/a2zeZf9Pdv4/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYKSBXKHIwDw==&amp;rs=AOn4CLBOF8PDVWHJllsgOyHMC5Vnryz90Q"
 featuredImage: "https://iasbh.tmgrup.com.tr/b3f491/752/395/0/0/640/335?u=https://isbh.tmgrup.com.tr/sbh/2018/03/09/elazigda-tren-yolundan-ray-hirsizligi-1520596230678.jpg"
-featured_image: "https://i.ytimg.com/vi/uaxT8KWe1OA/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBgKEUwDw==&amp;rs=AOn4CLA2IlrMN6TUwoE8km4AJq1h0EVTHg"
+featured_image: "https://i.ytimg.com/vi/K0_zp3e8LCA/maxresdefault.jpg"
 image: "https://i.ytimg.com/vi/uaxT8KWe1OA/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBgKEUwDw==&amp;rs=AOn4CLA2IlrMN6TUwoE8km4AJq1h0EVTHg"
 ---
 

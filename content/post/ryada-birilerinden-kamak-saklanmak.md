@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Birilerinden kaçıyorum ?!?!?!!!"
-date: "2023-01-13"
+description: "Birilerinden i̇ntikam almak i̇stiyorum"
+date: "2023-03-13"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/nX71zkgGr3I/hqdefault.jpg"
+- "https://www.stabilhayat.com/wp-content/uploads/2020/08/ruyada-birilerinden-kacmak-birinden-korkup-kacmak.png"
 featuredImage: "https://i.ytimg.com/vi/jxfk1NvZRG4/maxresdefault.jpg"
-featured_image: "https://i.ytimg.com/vi/PDxvSUA9EWU/maxresdefault.jpg"
-image: "https://i.ytimg.com/vi/PDxvSUA9EWU/maxresdefault.jpg"
+featured_image: "https://i.ytimg.com/vi/jxfk1NvZRG4/maxresdefault.jpg"
+image: "https://www.stabilhayat.com/wp-content/uploads/2020/08/ruyada-birilerinden-kacmak-birinden-korkup-kacmak.png"
 ---
 
 If you are searching about Kareena Kapoor Khan's tweet - "Ekta Kapoor to co-produce Rajesh you've visit to the right page. We have 9 Pics about Kareena Kapoor Khan's tweet - "Ekta Kapoor to co-produce Rajesh like ARKADAŞLAR BU SORU ÇI KA CAKK 🔥 - YouTube, Birilerinden teb almak (verdimi ???????) - YouTube and also Bitli Artık Birilerinden Kurtuluyor ( Amca İğne mi O ) - YouTube. Here you go:

@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Terjemahan ihya ulumuddin 9 jilid"
-date: "2023-07-22"
+description: "Evlilik yolunda ilk adım"
+date: "2023-09-27"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4BHod8326o7rlC-72AAR3qE5gDlU-HZqJwXyoIMI2QxXeJI0tbac0Ln7EEv3DlqgKT9ABP7UyzMMVB1eJ5UCGva2du2h1zCdMdptOnbm4L8Fnxw-5SUgXt7u2uO5v5Mk1t_CcS-zyzawzmmXJ43nNZg5B1pMrisJmudErrcgXMH-cXU63MlZugRp_2g/s798/Terjemah Ihya&#039; Ulumiddin  9 Jilid.jpg"
-featuredImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4BHod8326o7rlC-72AAR3qE5gDlU-HZqJwXyoIMI2QxXeJI0tbac0Ln7EEv3DlqgKT9ABP7UyzMMVB1eJ5UCGva2du2h1zCdMdptOnbm4L8Fnxw-5SUgXt7u2uO5v5Mk1t_CcS-zyzawzmmXJ43nNZg5B1pMrisJmudErrcgXMH-cXU63MlZugRp_2g/s798/Terjemah Ihya&#039; Ulumiddin  9 Jilid.jpg"
-featured_image: "https://i.ytimg.com/vi/BF1XS_Bwe2I/maxresdefault.jpg"
+- "https://i.ytimg.com/vi/BF1XS_Bwe2I/maxresdefault.jpg"
+featuredImage: "https://irazzam.id/wp-content/uploads/2020/07/Ihya-R.-Azzam.jpg"
+featured_image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxgczjT3AdIkzjUvw83q9wxy2eEjR_NZHFm_Q1cIr3Wpuy_foEEQNp_rvBknT9RiP7ffmpjlA_ppWZyoNWS3Yl7rr68SpOBZY6G9MK06rzfTylY23TSoKZVqPjoeEcscgLuXGPRIFMehWD_yb0HbRmPdLELCDMd8oqchgIOdwqu5dUtdnl8pjV5N2-xw/s585/Terjemah Ihya&#039; Ulumiddin 1.jpg"
 image: "https://evlilik-sitesi.net/wp-content/uploads/2020/10/Sanliurfa-Evlilik-Sitesi-1024x471-1.jpg"
 ---
 

@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Rüyada büyük tuvaletini yapmak ne anlama gelir? rüyada büyük abdest"
-date: "2023-09-28"
+description: "Rüyada yufka görmek ne demek? yufka açmak, yufkadan ekmek yapmak ne"
+date: "2023-05-01"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
 - "https://foto.haberler.com/haber/2022/01/18/ruyada-tuvaletini-yapmak-ne-anlama-gelir-ruyada-14673108_4055_m.jpg"
-featuredImage: "https://iasbh.tmgrup.com.tr/b4cd59/650/344/0/101/724/481?u=https://isbh.tmgrup.com.tr/sbh/2022/04/20/ruyada-buyuk-tuvaletini-yapmak-ne-anlama-gelir-ruyada-buyuk-abdest-yapmak-ve-temizlemek-anlami-1650438870540.jpg"
-featured_image: "https://foto.haberler.com/haber/2022/01/18/ruyada-tuvaletini-yapmak-ne-anlama-gelir-ruyada-14673108_4055_m.jpg"
+featuredImage: "https://i2.milimaj.com/i/milliyet/75/0x0/5f05d0495542810d603b9ff6.jpg"
+featured_image: "https://i2.milimaj.com/i/milliyet/75/0x0/5f05d0495542810d603b9ff6.jpg"
 image: "https://www.mardinlife.com/uploads/2022/05/15/ruyada-tatli-yapmak-ne-anlama-gelir-ruyada-tatli-yaptigini-gormek-ne-demek-100196.png?234234.234234"
 ---
 

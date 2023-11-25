@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Rüyada hıçkırarak ağlamak ne anlama gelir?"
-date: "2023-11-02"
+description: "Rüyada at görmek ne anlama gelir? rüyada beyaz at görmek, rüyada siyah"
+date: "2023-09-28"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://www.duavekuran.com/wp-content/uploads/2020/06/Ruyada-Hickirarak-Aglamak-Ne-Anlama-Gelir.jpg"
-featuredImage: "https://www.duavekuran.com/wp-content/uploads/2020/06/Ruyada-Hickirarak-Aglamak-Ne-Anlama-Gelir.jpg"
-featured_image: "https://2.bp.blogspot.com/-pOxI32MXf1s/UcmTCU-2hxI/AAAAAAAAAL0/tTaoEUV03g0/s1600/Çoklu+Ortam+(Multimedya)+Nedir,+Ne+demektir,+Ne+anlama+gelir,+ne+işe+yarar.jpg"
+- "https://i.hbrcdn.com/haber/2020/10/21/ruyada-kertenkele-gormek-ne-anlama-gelir-ruyada-13681653_7166_amp.jpg"
+featuredImage: "https://www.gencplatform.com/asset/image/article/paper002.jpg"
+featured_image: "https://foto.haberler.com/haber/2019/10/30/ruyada-at-gormek-ne-anlama-gelir-12566959_7097_m.jpg"
 image: "https://www.gencplatform.com/asset/image/article/paper002.jpg"
 ---
 

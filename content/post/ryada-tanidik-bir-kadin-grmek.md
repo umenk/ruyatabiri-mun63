@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "4.li̇g&#039;den premi̇er li̇ge yolculuk // tanidik bi̇r yüzü transfer etti̇k"
-date: "2023-02-16"
+description: "Hero paketi̇nden tanidik bi̇r yüz! süper li̇g kadrosuna kri̇ti̇k takvi̇yeler"
+date: "2023-08-14"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
 - "https://i.ytimg.com/vi/4p8B7g_1sK8/maxresdefault.jpg"
-featuredImage: "https://i.ytimg.com/vi/Scdq7Tc2DKI/maxresdefault.jpg"
-featured_image: "https://oncevatancomtr.teimg.com/crop/1280x720/oncevatan-com-tr/images/haberler/2022/01/iki_kadin_sanatcidan_tanidik_cepheler_h179230_77a31.jpg"
-image: "https://i.ytimg.com/vi/m9Sx1vfyC_M/maxresdefault.jpg"
+featuredImage: "https://i.ytimg.com/vi/lVWntjz7EPs/maxresdefault.jpg"
+featured_image: "https://i.ytimg.com/vi/lVWntjz7EPs/maxresdefault.jpg"
+image: "https://oncevatancomtr.teimg.com/crop/1280x720/oncevatan-com-tr/images/haberler/2022/01/iki_kadin_sanatcidan_tanidik_cepheler_h179230_77a31.jpg"
 ---
 
 If you are searching about İKİ KADIN SANATÇIDAN ‘TANIDIK CEPHELER’ - Önce Vatan Gazetesi you've came to the right place. We have 9 Pictures about İKİ KADIN SANATÇIDAN ‘TANIDIK CEPHELER’ - Önce Vatan Gazetesi like OTORİTER ANNE (BU KADIN SİZE TANIDIK GELİYOR MU?) - YouTube, VLOG 63 - PARADISE LOST KONSERİ !!! / TALLINN'DE TANIDIK BİR YÜZ - YouTube and also HERO PAKETİNDEN TANIDIK BİR YÜZ! SÜPER LİG KADROSUNA KRİTİK TAKVİYELER. Here you go:

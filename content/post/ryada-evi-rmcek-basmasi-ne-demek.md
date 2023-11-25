@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Rüyada güneş varken kar yağması ne anlama gelir?"
-date: "2023-09-13"
+description: "Rüyada başkasının evini su bastığını görmek, mutfağın su basması neye"
+date: "2023-11-20"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/NnPZGw2X2zE/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC6AKKAgwIABABGBMgSCh_MA8=&amp;rs=AOn4CLAwxkG5g5vjb-C1OIWHQJ5TR_yo7Q"
-featuredImage: "https://i.ytimg.com/vi/NnPZGw2X2zE/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC6AKKAgwIABABGBMgSCh_MA8=&amp;rs=AOn4CLAwxkG5g5vjb-C1OIWHQJ5TR_yo7Q"
-featured_image: "https://okunacakdualar.net/wp-content/uploads/2023/06/Evi-Karinca-Basmasi-Neye-Isarettir-Diyanet-1024x576.jpg"
+- "https://i.hbrcdn.com/haber/2021/10/05/haberler-ruyada-evi-su-basmasi-ne-anlama-gelir-ruyada-evi-14440169_3611_amp.jpg"
+featuredImage: "https://okunacakdualar.net/wp-content/uploads/2023/06/Evi-Karinca-Basmasi-Neye-Isarettir-Diyanet-1024x576.jpg"
+featured_image: "https://www.stabilhayat.com/wp-content/uploads/2020/11/ruyada-evi-su-basmasi.png"
 image: "https://i.hbrcdn.com/haber/2021/10/05/haberler-ruyada-evi-su-basmasi-ne-anlama-gelir-ruyada-evi-14440169_6486_m.jpg"
 ---
 

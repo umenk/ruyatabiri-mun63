@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "6 maddede beyaz tüylü köpek irkları"
-date: "2023-09-08"
+description: "Beyaz geyme toz olur türkü sözü"
+date: "2023-06-03"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
 - "https://turkuseli.com/Content/Files/Notalar/beyaz-geyme-toz-olur-nota-1.jpg"
-featuredImage: "http://ruyameali.com/wp-content/uploads/2018/07/Beyaz-Yılan.jpg"
-featured_image: "http://ruyalardunyasi.com/wp-content/uploads/2018/11/ruyada-siyah-beyaz-yilan-.jpg"
+featuredImage: "https://st.myideasoft.com/idea/gq/21/myassets/products/532/100x400-parlak-beyaz-k-9-74-jpg.jpeg?revision=1608544858"
+featured_image: "https://i.ytimg.com/vi/cjW-gljH0Sk/maxresdefault.jpg"
 image: "https://blog.zoo.com.tr/wp-content/uploads/beyaz-tuylu-kopek-irklari.jpg"
 ---
 

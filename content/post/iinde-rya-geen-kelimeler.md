@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Agikgqmm2y46igvcppsbgtoe7jxidxcqolmmkrp_r-fcya=s900-c-k-c0x00ffffff-no-rj"
-date: "2023-07-17"
+description: "Eş anlamli keli̇meler tablosu"
+date: "2023-10-20"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/cV-CE87XDWw/maxresdefault.jpg"
-featuredImage: "https://i.ytimg.com/vi/8NM62XM0GE8/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&amp;rs=AOn4CLAhZwQirRfY0CIYkXdW91Dp_DldPQ"
-featured_image: "https://i.ytimg.com/vi/8NM62XM0GE8/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&amp;rs=AOn4CLAhZwQirRfY0CIYkXdW91Dp_DldPQ"
+- "https://s2.studylibtr.com/store/data/005911678_1-a8dcc0c7a7eec3b683f605d923ec2a90-768x994.png"
+featuredImage: "https://live.staticflickr.com/5097/5511654920_13edd2d1f9_b.jpg"
+featured_image: "https://live.staticflickr.com/5097/5511654920_13edd2d1f9_b.jpg"
 image: "https://i.ytimg.com/vi/8r_FcYa6CJg/maxresdefault.jpg"
 ---
 

@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Ev tekstil pazarı: bayram şekeri̇ taze mi̇?"
-date: "2023-11-19"
+description: "Rüyada bayram şekeri görmek » alışkanlık"
+date: "2023-03-29"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://icdn.turkiyegazetesi.com.tr/images/haberler/2016_06/buyuk/bayram-sekerleri-tezahlardaki-yerini-aldi-1467272090.gif"
-featuredImage: "https://icdn.turkiyegazetesi.com.tr/images/haberler/2016_06/buyuk/bayram-sekerleri-tezahlardaki-yerini-aldi-1467272090.gif"
-featured_image: "https://cdn.yeniakit.com.tr/images/news/625/bayram-sekeri-alirken-bunlara-dikkat-etmezseniz-hasta-olursunuz-h1528985317-250449.jpg"
+- "http://1.bp.blogspot.com/-C7cZISL4DkU/UgEVhixRO3I/AAAAAAAAAsc/r3OJlSDqSs8/s1600/2911588-bayram-sekeri.jpg"
+featuredImage: "https://aliskanlik.com/wp-content/uploads/2019/11/ruyada-bayram-sekeri-gormek.jpg"
+featured_image: "https://icdn.turkiyegazetesi.com.tr/images/haberler/2016_06/buyuk/bayram-sekerleri-tezahlardaki-yerini-aldi-1467272090.gif"
 image: "http://1.bp.blogspot.com/-C7cZISL4DkU/UgEVhixRO3I/AAAAAAAAAsc/r3OJlSDqSs8/s1600/2911588-bayram-sekeri.jpg"
 ---
 

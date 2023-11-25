@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Rüyada araba kazası yapmak ne anlama gelir?"
-date: "2023-04-28"
+description: "Rüyada trafik kazası görmek ne anlama gelir? rüyada zincirleme trafik"
+date: "2023-03-05"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/Zw411iq5plg/maxresdefault.jpg"
-featuredImage: "https://iasbh.tmgrup.com.tr/7174c3/752/395/16/0/824/424?u=https://isbh.tmgrup.com.tr/sbh/2021/09/13/ruyada-trafik-kazasi-gormek-ne-anlama-gelir-ruyada-trafik-kazasi-yapmak-ne-demek-1631518508475.jpg"
-featured_image: "https://i2.milimaj.com/i/milliyet/75/0x0/5fa281a85542821e18c01e20.jpg"
+- "https://cdn.yeniakit.com.tr/images/news/625/ruyada-araba-kazasi-gormek-ruyada-araba-kazasi-yapmak-ne-demek-h1612780639-370459.jpg"
+featuredImage: "https://i2.milimaj.com/i/milliyet/75/0x0/5fa281a85542821e18c01e20.jpg"
+featured_image: "https://i.ytimg.com/vi/Zw411iq5plg/maxresdefault.jpg"
 image: "https://cdn.yeniakit.com.tr/images/news/625/ruyada-araba-kazasi-gormek-ruyada-araba-kazasi-yapmak-ne-demek-h1612780639-370459.jpg"
 ---
 

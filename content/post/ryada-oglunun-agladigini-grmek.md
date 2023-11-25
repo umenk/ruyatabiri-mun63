@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Ni̇zi̇p i̇smai̇li̇n oglunun dügünü 2"
-date: "2023-08-24"
+description: "Rüyada oğlunun ağladığını görmek ne anlama gelir?"
+date: "2023-11-15"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/YLBtfwtyTQU/maxresdefault.jpg"
-featuredImage: "https://www.neoldu.com/d/other/ruyada-sevincten-agladigini-gormek.jpg"
-featured_image: "https://images.ruyandagor.com/2017/04/agladigini-gormek-2326.jpg"
+- "https://i.ytimg.com/vi/7nvslN6iXn4/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgTShEMA8=&amp;rs=AOn4CLAFcqXqcS94YUsvu_3ypstCZmhz8g"
+featuredImage: "http://ruyameali.com/wp-content/uploads/2019/01/mezarda-olunun-agladigini-gormek-1024x511.jpg"
+featured_image: "https://i.ytimg.com/vi/7nvslN6iXn4/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgTShEMA8=&amp;rs=AOn4CLAFcqXqcS94YUsvu_3ypstCZmhz8g"
 image: "https://images.ruyandagor.com/2017/04/agladigini-gormek-2326.jpg"
 ---
 

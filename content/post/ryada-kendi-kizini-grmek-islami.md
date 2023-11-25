@@ -1,14 +1,14 @@
 ---
 title: ""
 description: "8 aylik kizini yastikla boğmaya çalişti o anlari telefonuna..."
-date: "2023-10-06"
+date: "2023-11-07"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
 - "https://pbs.twimg.com/media/FgY87iQXkAA-iT0.jpg:large"
-featuredImage: "https://sonsoz.com.tr/wp-content/uploads/2021/08/eski-esini-oldurup-onun-erkek-arkadasi-ile-kendi-kizini-yaralayarak-intihara-kalkisti-2-yeniden_2a2b272.jpg"
-featured_image: "https://i.ytimg.com/vi/7-KQr6J9EtU/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgUyhMMA8=&amp;rs=AOn4CLAj_4d9KUfO8g0DXnBOYgXQJbrrsA"
-image: "https://pbs.twimg.com/media/FgY87iQXkAA-iT0.jpg:large"
+featuredImage: "https://i.ytimg.com/vi/e1KgVSzoVcY/maxresdefault.jpg"
+featured_image: "https://i.ytimg.com/vi/e1KgVSzoVcY/maxresdefault.jpg"
+image: "https://i.ytimg.com/vi/T1g5LcW6_lY/maxresdefault.jpg"
 ---
 
 If you are searching about KIZINI KURTARMAK İSTERKEN... - YouTube you've visit to the right web. We have 9 Images about KIZINI KURTARMAK İSTERKEN... - YouTube like Rüyada Kendi Kızını Görmek | ruyaevi.net | Rüya Tabirleri, KIZINI AYININ ÖNÜNE ATTI! - YouTube and also Yaa kendi kizini tanimadi🫣 - YouTube. Here it is:

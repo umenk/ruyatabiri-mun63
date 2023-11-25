@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Rüyada gelinlik giymek nedir? gelinlik görmek ne anlama gelir"
-date: "2023-06-17"
+description: "Rüyada gelinlik giymek neye yorumlanır?"
+date: "2023-09-14"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://www.diyadinnet.com/d/ruya/ruyada-gelinlik-giymek-nedir-gelinlik-gormek-ne-anlama-gelir-280.jpg"
-featuredImage: "https://i3.posta.com.tr/i/posta/75/0x0/630240b8e4bfdd21a8421ea3.jpg"
-featured_image: "https://img.internethaber.com/rcman/Cw1152h720q95gc/storage/files/images/2021/10/04/1e8f7bbccc6b61d2ab199290bf9bad2b-9Nbt_cover.jpg"
+- "https://images.ruyandagor.com/2017/04/eski-gelinlik-giymek-1554.jpg"
+featuredImage: "https://www.diyadinnet.com/d/ruya/ruyada-gelinlik-giymek-nedir-gelinlik-gormek-ne-anlama-gelir-280.jpg"
+featured_image: "https://i2.milimaj.com/i/milliyet/75/0x0/61a77aed86b24a0f203e89b0.jpg"
 image: "https://images.ruyandagor.com/2017/06/farkli-gelinlik-giymek-2243.jpg"
 ---
 

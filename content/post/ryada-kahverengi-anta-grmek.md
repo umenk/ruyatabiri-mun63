@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Rüyada kahverengi yılan görmek"
-date: "2023-06-17"
+description: "Kısa kumral saç rengi"
+date: "2022-12-28"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://4.bp.blogspot.com/-qJ-Aegm5Y14/UszzJ8fQXvI/AAAAAAAANLc/6E5Ye0SBsuE/s1600/4.JPG"
-featuredImage: "https://cdn.eperde.com/upload/prods/be847090ad384e88954c26253cc49c68.jpg?format=jpeg&amp;width=1024"
-featured_image: "https://cdn.eperde.com/upload/prods/be847090ad384e88954c26253cc49c68.jpg?format=jpeg&amp;width=1024"
+- "http://ruyameali.com/wp-content/uploads/2018/07/kahverengi-yilan-gormek-1140x713.jpg"
+featuredImage: "https://i.pinimg.com/originals/6b/2f/e7/6b2fe7d2f3a31b3c991dc2c510628ffc.jpg"
+featured_image: "http://ruyameali.com/wp-content/uploads/2018/07/kahverengi-yilan-gormek-1140x713.jpg"
 image: "https://cdn.eperde.com/upload/prods/be847090ad384e88954c26253cc49c68.jpg?format=jpeg&amp;width=1024"
 ---
 

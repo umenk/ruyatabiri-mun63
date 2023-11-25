@@ -1,14 +1,14 @@
 ---
 title: ""
 description: "Muvafakatname ne demek? muvafakatname anlamı ne?"
-date: "2023-01-20"
+date: "2023-08-16"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.hbrcdn.com/haber/2021/06/23/muvafakatname-ne-demek-muvafakatname-anlami-ne-14219584_4873_amp.jpg"
-featuredImage: "http://anlami-nedir.com/resimler/2/duruk.jpg"
-featured_image: "https://haber61net.teimg.com/haber61-net/images/haberler/2021/11/03/garabet_ne_demek_garabet_tdk_anlami_ne_h437710_c82df.webp"
-image: "https://haber61net.teimg.com/haber61-net/images/haberler/2021/11/03/garabet_ne_demek_garabet_tdk_anlami_ne_h437710_c82df.webp"
+- "https://i.hbrcdn.com/haber/2022/09/05/restorasyon-ne-demek-restorasyon-anlami-ne-15244801_3036_amp.jpg"
+featuredImage: "https://i.ytimg.com/vi/Ob_sRRhR2dI/maxresdefault.jpg"
+featured_image: "https://i.ytimg.com/vi/r63jYUuDP9A/maxresdefault.jpg"
+image: "https://i.hbrcdn.com/haber/2021/10/20/haberler-retro-ne-demek-retro-anlami-ne-14473644_4096_amp.jpg"
 ---
 
 If you are searching about Duruk ne demek? - anlami-nedir.com you've came to the right page. We have 9 Images about Duruk ne demek? - anlami-nedir.com like Muvafakatname ne demek? Muvafakatname anlamı ne? - Haberler, ERDOĞAN 2002’YE DÖNDÜ! ANLAMI NE? - YouTube and also Esek Hosaftan Ne Anlar Atasozu Anlami. Here you go:

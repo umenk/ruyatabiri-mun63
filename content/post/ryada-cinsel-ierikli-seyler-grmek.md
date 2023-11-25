@@ -1,12 +1,12 @@
 ---
 title: ""
-description: "Hoppe-seyler&#039;s zeitschrift für physiologische chemie. fortgeführt von a"
-date: "2023-05-14"
+description: "Vesvese nedir vesveseden nasil korunuruz seytan niçin vesvese verir"
+date: "2023-01-09"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/rt70LPQ9kLs/maxresdefault.jpg"
-featuredImage: "https://pictures.abebooks.com/inventory/30105294173.jpg"
+- "https://pictures.abebooks.com/inventory/30076821854.jpg"
+featuredImage: "https://i.ytimg.com/vi/rt70LPQ9kLs/maxresdefault.jpg"
 featured_image: "https://i.ytimg.com/vi/rt70LPQ9kLs/maxresdefault.jpg"
 image: "https://pictures.abebooks.com/inventory/30076821854.jpg"
 ---

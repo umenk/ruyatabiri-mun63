@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Dünyada gerçekleşmiş en büyük 10 doğal afet"
-date: "2023-02-10"
+description: "Doğal afet sürecinde ebeveynlere öneriler • psikolaj"
+date: "2023-07-31"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://cdn.webtekno.com/media/cache/content_detail_v2/article/116387/dogal-afet-riski-en-yuksek-ulkeler-aciklandi-turkiye-nin-durumunu-gorunce-gozlerinize-inanamayacaksiniz-1634824122.jpg"
-featuredImage: "https://psikolaj.com.tr/wp-content/uploads/2021/11/dogal-afet-sonrasi-cocuklarda-travma.jpg"
-featured_image: "https://psikolaj.com.tr/wp-content/uploads/2021/11/dogal-afet-sonrasi-cocuklarda-travma.jpg"
-image: "https://psikolaj.com.tr/wp-content/uploads/2020/11/dogal-afet-surecinde-ebeveynlere-oneriler.jpg"
+- "https://psikolaj.com.tr/wp-content/uploads/2021/11/dogal-afet-sonrasi-cocuklarda-travma.jpg"
+featuredImage: "https://gazeteyeniguncomtr.teimg.com/crop/1280x720/gazeteyenigun-com-tr/uploads/2023/05/yenigun-gazetesi-izmir-dogal-afet.png"
+featured_image: "https://psikolaj.com.tr/wp-content/uploads/2020/11/dogal-afet-surecinde-ebeveynlere-oneriler.jpg"
+image: "https://samsatiho.meb.k12.tr/meb_iys_dosyalar/02/07/712233/resimler/2021_01/k_18140640_dogal-afet-nedir-cesitleri-nelerdir-521.jpg"
 ---
 
 If you are looking for DOĞAL AFETLER - Büyükyoncalı 1 Kasım İlkokulu you've visit to the right place. We have 9 Images about DOĞAL AFETLER - Büyükyoncalı 1 Kasım İlkokulu like Doğal Afet 3 Oyunu - Türkçe Oyunlar, Doğal Afet Nedir, Çeşitleri Nelerdir? - Samsat İmam Hatip Ortaokulu and also Doğal Afet 3 Oyunu - Türkçe Oyunlar. Read more:

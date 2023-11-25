@@ -1,12 +1,12 @@
 ---
 title: ""
-description: "Doğum günümüz i̇çin hazırız"
-date: "2023-03-07"
+description: "Doğum sancısı nasıl olur? sancı geldiğinde ne yapılmalı?"
+date: "2023-03-21"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://www.cicicocuk.com/mi-photo/dogum-sancisi-nasil-olur.jpeg"
-featuredImage: "https://i.ytimg.com/vi/XozBXNwDUjM/maxresdefault.jpg"
+- "https://banuakcal.com/2023/01/caucasian-woman-with-pregnancy-having-painful-contractions-with-husband-holding-hand-african-american-nurse-giving-support-child-delivery-hospital-ward-couple-expecting-baby-800x600.jpg"
+featuredImage: "https://i.ytimg.com/vi/0cb3ujkiHkc/maxresdefault.jpg"
 featured_image: "https://annebebekkulubu.com/wp-content/uploads/2021/05/gercek-dogum-sancisi-nasil-anlasilir.jpg"
 image: "https://banuakcal.com/2023/01/caucasian-woman-with-pregnancy-having-painful-contractions-with-husband-holding-hand-african-american-nurse-giving-support-child-delivery-hospital-ward-couple-expecting-baby-800x600.jpg"
 ---

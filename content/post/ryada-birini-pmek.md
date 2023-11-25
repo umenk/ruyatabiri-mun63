@@ -1,13 +1,13 @@
 ---
 title: ""
 description: "Birini çok sevmek"
-date: "2023-04-07"
+date: "2023-03-05"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/exWw_bmleKs/maxresdefault.jpg"
+- "https://preview.redd.it/seç-birini-v0-ahj0q4ljg1mb1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5011f754f353b350fc999840eea85a32f1cbd642"
 featuredImage: "https://i.ytimg.com/vi/QrNB2cLoTXo/maxresdefault.jpg"
-featured_image: "https://i.ytimg.com/vi/exWw_bmleKs/maxresdefault.jpg"
+featured_image: "https://www.ruya.com/wp-content/uploads/rüyada-birini-gelinlikle-görmek.jpg"
 image: "http://ruyalardunyasi.com/wp-content/uploads/2019/12/ruyada-olmus-birini.jpg"
 ---
 

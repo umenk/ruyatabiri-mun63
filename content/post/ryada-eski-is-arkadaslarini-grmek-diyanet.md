@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Eski diyanet i̇şleri başkanı mehmet görmez&#039;in annesi koronadan hayatını"
-date: "2023-08-22"
+description: "Atatürk üzerinden algı operasyonu çöktü, diyanet yalanladı: “erbaş"
+date: "2023-07-24"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://media-cdn.t24.com.tr/media/library/2020/05/1588742481156-alibardakoglu.jpg"
-featuredImage: "https://iasbh.tmgrup.com.tr/f0d17e/0/0/0/0/0/0?u=https://isbh.tmgrup.com.tr/sbh/2022/03/20/ataturk-uzerinden-algi-operasyonu-coktu-diyanet-yalanladi-erbas-ataturk-ve-silah-arkadaslarini-anmistir-1647725612093.jpg&amp;mw=600"
-featured_image: "https://images.bursadabugun.com/haber/2020/07/13/1312514-diyanet-isleri-baskani-erbas-eski-kudus-muftusu-sabri-ile-gorustu-5f0ca4fda3a02.jpg"
-image: "https://iasbh.tmgrup.com.tr/f0d17e/0/0/0/0/0/0?u=https://isbh.tmgrup.com.tr/sbh/2022/03/20/ataturk-uzerinden-algi-operasyonu-coktu-diyanet-yalanladi-erbas-ataturk-ve-silah-arkadaslarini-anmistir-1647725612093.jpg&amp;mw=600"
+- "https://i.internethaber.com/storage/files/images/2020/04/20/mehmet-gormez-AzV0_cover.jpg"
+featuredImage: "https://iasbh.tmgrup.com.tr/0f438b/0/0/0/0/0/0?u=https://isbh.tmgrup.com.tr/sbh/2022/03/20/ataturk-uzerinden-algi-operasyonu-coktu-diyanet-yalanladi-erbas-ataturk-ve-silah-arkadaslarini-anmistir-1647725617360.jpg&amp;mw=600"
+featured_image: "https://media-cdn.t24.com.tr/media/library/2020/05/1588742481156-alibardakoglu.jpg"
+image: "https://www.gundemtube.com/wp-content/uploads/2022/02/diyanetten-29-ekim-bildirisi-cumhuriyetimizi-kuran-gazi-mustafa-kemal-ataturk-ve-silah-arkadaslarini-hurmet-ve-minnetle-yad-ediyoruz-xrP9YE79-768x432.jpg"
 ---
 
 If you are looking for Eski Diyanet İşleri Başkanı Mehmet Görmez'in annesi koronadan hayatını you've came to the right place. We have 9 Pictures about Eski Diyanet İşleri Başkanı Mehmet Görmez'in annesi koronadan hayatını like Görevden alınan eski Diyanet İşleri Başkanı: Koronavirüse karşı çareyi, Diyanet'ten 29 Ekim Bildirisi: Cumhuriyet'imizi Kuran Gazi Mustafa and also Eski Diyanet İşleri Başkanı Mehmet Görmez'in annesi koronadan hayatını. Read more:

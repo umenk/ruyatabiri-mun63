@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Baskasinin sozleriyle"
-date: "2023-07-08"
+description: "Baskasinin evini keşfediyoruz"
+date: "2023-11-17"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/e1KgVSzoVcY/maxresdefault.jpg"
-featuredImage: "https://i.ytimg.com/vi/_h4ACjtuK40/maxresdefault.jpg"
-featured_image: "https://i.ytimg.com/vi/T1g5LcW6_lY/maxresdefault.jpg"
+- "https://i.ytimg.com/vi/JXhwz5soDkQ/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgUShdMA8=&amp;rs=AOn4CLCPDwSdvRcORMR_zBvNLbRJqIGrlw"
+featuredImage: "https://i.ytimg.com/vi/T1g5LcW6_lY/maxresdefault.jpg"
+featured_image: "https://i.ytimg.com/vi/7-KQr6J9EtU/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgUyhMMA8=&amp;rs=AOn4CLAj_4d9KUfO8g0DXnBOYgXQJbrrsA"
 image: "https://cdn.ucankus.com/img/gxykhxgthy.jpg"
 ---
 

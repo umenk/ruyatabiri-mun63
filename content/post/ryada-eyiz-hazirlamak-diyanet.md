@@ -1,14 +1,14 @@
 ---
 title: ""
 description: "Setup ( kurulum ) dosyasi hazirlamak"
-date: "2023-02-04"
+date: "2023-05-18"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/PCZ8cm87-vU/maxresdefault.jpg"
-featuredImage: "https://i.ytimg.com/vi/H4aRz19xgFE/maxresdefault.jpg"
-featured_image: "https://i.ytimg.com/vi/PCZ8cm87-vU/maxresdefault.jpg"
-image: "https://i.ytimg.com/vi/HxkkP_ofdJM/maxresdefault.jpg"
+- "https://i.ytimg.com/vi/DaKqBiQj1UE/maxresdefault.jpg"
+featuredImage: "https://i.ytimg.com/vi/dmhmA32NB18/maxresdefault.jpg"
+featured_image: "https://i.ytimg.com/vi/dmhmA32NB18/maxresdefault.jpg"
+image: "https://i.ytimg.com/vi/H4aRz19xgFE/maxresdefault.jpg"
 ---
 
 If you are searching about SANALİKA'DA AFİŞ HAZIRLAMAK! - YouTube you've came to the right web. We have 9 Pics about SANALİKA'DA AFİŞ HAZIRLAMAK! - YouTube like Diyanet: Aşı olmamak kul hakkı - YouTube, MUTFAKTA 2 HAFTALIK YEMEK HAZIRLAMAK🥣TAM 10 FARKLI BUZLUK TARİFİ🌱 and also Diyanet: Aşı olmamak kul hakkı - YouTube. Here it is:

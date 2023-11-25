@@ -1,11 +1,11 @@
 ---
 title: ""
 description: "Valorant cypher karakter rehberi"
-date: "2023-09-13"
+date: "2023-06-02"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "http://ruyameali.com/wp-content/uploads/2017/04/yarasa.jpg"
+- "https://www.yarasa.net/attachments/1624181666916-png.1095/"
 featuredImage: "https://i.ytimg.com/vi/HYLCwcE-Dgc/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYRSBHKGUwDw==&amp;rs=AOn4CLC_ulBvmvqa2cf2uT56Qfk3FCYaDA"
 featured_image: "http://ruyameali.com/wp-content/uploads/2017/04/yarasa.jpg"
 image: "http://2.bp.blogspot.com/_6XdhcUmuFqQ/R9VIwG22VgI/AAAAAAAABeo/88jsCUyTXn4/s400/YARASA+KOL+YAPIMI.jpg"

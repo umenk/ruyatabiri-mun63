@@ -1,12 +1,12 @@
 ---
 title: ""
-description: "Team garchomp team zacian cp3213"
-date: "2023-08-30"
+description: "Kareena kapoor khan&#039;s tweet"
+date: "2023-10-01"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/HYLCwcE-Dgc/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYRSBHKGUwDw==&amp;rs=AOn4CLC_ulBvmvqa2cf2uT56Qfk3FCYaDA"
-featuredImage: "https://images.ruyandagor.com/2017/05/hamile-birinin-bayildigini-gormek-1208.jpg"
+- "https://iasbh.tmgrup.com.tr/412169/0/0/0/0/0/0?u=https://isbh.tmgrup.com.tr/sbh/2022/03/28/eda-evlinin-katil-itiraf-etti-alkolluydum-bayildigini-dusundum-1648454922220.jpg&amp;mw=650"
+featuredImage: "https://i.ytimg.com/vi/KdZ3OosEZ6s/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4Ad4EgAK4CIoCDAgAEAEYZSBMKGMwDw==&amp;rs=AOn4CLCfzFvJaPoNerKMbSKycXF-fCyaDA"
 featured_image: "http://ruyameali.com/wp-content/uploads/2019/01/ruyada-birinin-bayildigini-gormek--300x200.jpg"
 image: "https://pbs.twimg.com/media/Fcyada8X0AANSFu.jpg"
 ---

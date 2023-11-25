@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Eski vali mutlu&#039;nun yargılanmasına devam edildi"
-date: "2023-09-24"
+description: "Eski sevgilinin mutlu olmasını istemek"
+date: "2023-03-11"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://iasbh.tmgrup.com.tr/3222c9/752/395/0/35/800/455?u=https://isbh.tmgrup.com.tr/sbh/2020/03/11/eski-esini-mutlu-olmasini-hazmedemedigi-icin-oldurmus-1583937299879.jpg"
-featuredImage: "https://1001ruya.com/wp-content/uploads/ruyada-eski-sevgili-gormek.jpg"
-featured_image: "https://i.haberglobal.com.tr/storage/files/images/2021/10/29/cuneyt-arkin-eski-mutlu-gunler-notuyla-paylasti-DwpK.jpg"
-image: "https://iasbh.tmgrup.com.tr/3222c9/752/395/0/35/800/455?u=https://isbh.tmgrup.com.tr/sbh/2020/03/11/eski-esini-mutlu-olmasini-hazmedemedigi-icin-oldurmus-1583937299879.jpg"
+- "https://isbh.tmgrup.com.tr/sbh/2021/12/26/650x344/mhp-eski-grup-baskanvekili-ve-eski-ulastirma-bakan-1640518223384.jpg"
+featuredImage: "https://i20.haber7.net/resize/1280x720/haber/haber7/photos/2018/50/eski_vali_huseyin_avni_mutlu_tahliye_oldu_1544696225_8637.jpg"
+featured_image: "https://iasbh.tmgrup.com.tr/3222c9/752/395/0/35/800/455?u=https://isbh.tmgrup.com.tr/sbh/2020/03/11/eski-esini-mutlu-olmasini-hazmedemedigi-icin-oldurmus-1583937299879.jpg"
+image: "https://i20.haber7.net/resize/1280x720/haber/haber7/photos/2018/50/eski_vali_huseyin_avni_mutlu_tahliye_oldu_1544696225_8637.jpg"
 ---
 
 If you are searching about Eski Vali Mutlu'nun yargılanmasına devam edildi - Haberler you've visit to the right page. We have 9 Images about Eski Vali Mutlu'nun yargılanmasına devam edildi - Haberler like Eski Ulaştırma Bakanı Oktay Vural’ın mutlu günü - Karabük Haberleri, Cüneyt Arkın, "Eski mutlu günler" notuyla paylaştı and also Eski Ulaştırma Bakanı Oktay Vural’ın mutlu günü - Karabük Haberleri. Here it is:

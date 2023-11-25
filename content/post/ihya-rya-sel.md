@@ -1,13 +1,13 @@
 ---
 title: ""
 description: "Gratis download kitab ihya&#039; ulumuddin lil imam al ghazali r.a ~ asrama"
-date: "2023-06-24"
+date: "2023-07-12"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://miro.medium.com/max/2400/1*CqsUCQ5rzT_MO_PSU9XPTw.jpeg"
-featuredImage: "https://i.ytimg.com/vi/EmnGMIJCpnY/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AZQDgALQBYoCDAgAEAEYfyAmKBwwDw==&amp;rs=AOn4CLDP-kSHrFjtubbdVwtR_Qb5r_fcyA"
-featured_image: "https://yt3.googleusercontent.com/rsOgHvGr4ckmpCOrakk1PGM6JPc_LL92j6rN0jodmRklLn7mAAneARoLYrGdI7XEfErpFHeX=s900-c-k-c0x00ffffff-no-rj"
+- "https://i.ytimg.com/vi/m0r-FcYa-Z0/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBfKCgwDw==&amp;rs=AOn4CLARGiQtdtLXqEDmc4Tb0hax5NY8Jg"
+featuredImage: "https://miro.medium.com/max/2400/1*CqsUCQ5rzT_MO_PSU9XPTw.jpeg"
+featured_image: "https://irazzam.id/wp-content/uploads/2020/07/Ihya-R.-Azzam.jpg"
 image: "https://i.ytimg.com/vi/fywL3SeL0Us/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgZShlMA8=&amp;rs=AOn4CLAHVIvirtTTPbPvBELaMDX1A13rkg"
 ---
 

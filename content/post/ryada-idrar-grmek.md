@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "İdrar yolu i̇ltihapı nedir?"
-date: "2023-05-31"
+description: "İdrar yolu enfeksiyonu (i̇ye) nedir?"
+date: "2023-05-22"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://madicanacdnstorage.blob.core.windows.net/main/Assets/photo/r/ust-idrar-yollari-kanseri-87940_b.jpg"
+- "https://hastalarsoruyor.com/uploads/posts/280x_idrar-yolu-enfeksiyonu.jpg"
 featuredImage: "https://www.saglikplatformu.com/wp-content/uploads/2022/06/idrar_yolu_enfeksiyonu.jpg"
 featured_image: "https://www.acilcalisanlari.com/wp-content/uploads/2022/03/Tam-İdrar-Tetkiki-Görünüm.jpg"
-image: "https://konakhastanesi.com.tr/ajan360-content/uploads/2022/02/urinary-tract-infection.jpg"
+image: "https://i01.sozcucdn.com/wp-content/uploads/2016/11/bobrek.jpg"
 ---
 
 If you are looking for İdrar Yolu İltihapı Nedir? - Konak Hastanesi - Konak Hospital you've visit to the right web. We have 9 Images about İdrar Yolu İltihapı Nedir? - Konak Hastanesi - Konak Hospital like İdrar Yolu Enfeksiyonu Belirtileri, 5 Farklı Tedavi Yöntemi, İdrar Yolu İltihapı Nedir? - Konak Hastanesi - Konak Hospital and also Erkeklerde İdrar Yolu Enfeksiyonu Sebepleri Nelerdir? - Sağlık Platformu. Here it is:

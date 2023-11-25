@@ -1,14 +1,14 @@
 ---
 title: ""
 description: "Biga denizati sitesi"
-date: "2022-12-21"
+date: "2023-01-04"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/20/4e/f0/de/denizati-holiday-village.jpg?w=1400&amp;h=-1&amp;s=1"
-featuredImage: "https://i.ytimg.com/vi/wBj2bZSqPDA/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgUihBMA8=&amp;rs=AOn4CLB1ExmYqY05p64arkgkVVoub2EQIw"
-featured_image: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/6a/af/72/denizati-plus-hotel.jpg?w=1100&amp;h=-1&amp;s=1"
-image: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/6a/af/72/denizati-plus-hotel.jpg?w=1100&amp;h=-1&amp;s=1"
+- "https://i.ytimg.com/vi/Dcgg2XyiukU/maxresdefault.jpg"
+featuredImage: "https://i.ytimg.com/vi/SQgRgi6StPg/maxresdefault.jpg"
+featured_image: "https://i.ytimg.com/vi/SQgRgi6StPg/maxresdefault.jpg"
+image: "https://i.ytimg.com/vi/wBj2bZSqPDA/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgUihBMA8=&amp;rs=AOn4CLB1ExmYqY05p64arkgkVVoub2EQIw"
 ---
 
 If you are searching about Denizati Okullari Müzik Gecesi 2022- “Ceviz Ağacı” - YouTube you've visit to the right place. We have 9 Images about Denizati Okullari Müzik Gecesi 2022- “Ceviz Ağacı” - YouTube like DENIZATI HOLIDAY VILLAGE: Bewertungen &amp; Fotos (Gumuldur, Türkei, DENIZATI HOLIDAY VILLAGE: Bewertungen &amp; Fotos (Gumuldur, Türkei and also DENİZATI HAKKINDA İLGİNÇ BİLGİLER - YouTube. Here it is:

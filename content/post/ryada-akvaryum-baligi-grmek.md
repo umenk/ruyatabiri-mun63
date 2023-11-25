@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Hangi akvaryum balığı beslemeliyim?"
-date: "2023-02-15"
+description: "Discus balığı"
+date: "2023-04-01"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://cdn.bilgibaba.com/resimler/akvaryum-baligi-turleri-ve-ozellikleri-nelerdir-buyuk-6.jpg"
-featuredImage: "https://www.akvaryum.market/wp-content/uploads/2016/11/discus-baligi-1.jpg"
-featured_image: "https://www.sarrafoglu.com/wp-content/uploads/2017/02/akvaryum2.jpg"
-image: "https://images.ruyandagor.com/2017/05/olmus-akvaryum-baligi-gormek-2245.jpg"
+- "https://www.sarrafoglu.com/wp-content/uploads/2017/02/akvaryum2.jpg"
+featuredImage: "https://i.ytimg.com/vi/pwvlebeW8yo/maxresdefault.jpg"
+featured_image: "https://bitkibalik.com/wp-content/uploads/2020/12/Akvaryum-Discus-Baligi-1024x684.jpg"
+image: "https://www.sarrafoglu.com/wp-content/uploads/2017/02/akvaryum2.jpg"
 ---
 
 If you are searching about Akvaryum Balık Çeşitleri ve İsimleri - BitkiBalik.Com - Özellikleri you've visit to the right page. We have 9 Pics about Akvaryum Balık Çeşitleri ve İsimleri - BitkiBalik.Com - Özellikleri like Tuzlu Su Akvaryum Balığı Bakımı - PETDOSY, Akvaryum baligi - YouTube and also Discus Balığı | akvaryum market. Read more:

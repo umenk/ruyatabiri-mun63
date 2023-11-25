@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Altin kaplama hislon marka kol saati̇"
-date: "2023-06-08"
+description: "Altin kaplama zentra marka kurmali anti̇ka kol saati̇"
+date: "2023-05-06"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://www.bayrakmuzayede.com/uploads/900/product/2021/02/20/tissot-altin-kol-saati_16138249079.jpg"
-featuredImage: "https://www.bayrakmuzayede.com/uploads/900/product/2022/09/10/altin-kaplama-longines-marka-erkek-kol-saati_16627992202.jpg"
-featured_image: "https://www.bayrakmuzayede.com/uploads/900/product/2021/01/02/altin-kaplama-hislon-marka-kol-saati_16095975555.jpg"
+- "https://www.bayrakmuzayede.com/uploads/900/product/2020/08/09/revue-marka-altin-kaplama-bayan-kol-saati_15969858995.jpg"
+featuredImage: "https://www.bayrakmuzayede.com/uploads/900/product/2021/06/15/altin-kaplama-bayan-kol-saati_1623781935.jpg"
+featured_image: "https://www.bayrakmuzayede.com/uploads/900/product/2021/02/20/tissot-altin-kol-saati_16138249079.jpg"
 image: "https://i.hbrcdn.com/haber/2020/10/21/ruyada-saat-gormek-ne-anlama-gelir-ruyada-altin-13682859_1095_amp.jpg"
 ---
 

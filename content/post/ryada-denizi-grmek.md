@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Als hastası gürbüz&#039;ün denizi görme isteği yerine getirildi"
-date: "2023-02-15"
+description: "Mavi okyanus altında balina ve kaplumbağa ile dünya denizi günü kavramı"
+date: "2023-11-02"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://media.istockphoto.com/id/924935996/tr/fotoğraf/doğu-denizi-güney-korede-plajda-mavi-deniz-dalgası.jpg?s=612x612&amp;w=is&amp;k=20&amp;c=gZIloy2c4aSRTB-M_7i3Z1nIdp_hPwSXiNV-yVF5fQQ="
-featuredImage: "https://media.istockphoto.com/id/1308038690/tr/fotoğraf/tiflis-rezervuarı-veya-tiflis-denizi-güzel-manzara.jpg?s=612x612&amp;w=is&amp;k=20&amp;c=YibkL7asRfbiLMa_KM37LiPDMGOS6Vx4_LmppQa80Fw="
-featured_image: "https://media.istockphoto.com/id/1314325841/tr/fotoğraf/pembe-ve-mavi-adriyatik-denizi-gün-batımı.jpg?s=612x612&amp;w=is&amp;k=20&amp;c=jcid-U3jRIbOUZPU-SpEcbSszDsbGJoIigWDNpSJgQc="
+- "https://media.istockphoto.com/id/1308038690/tr/fotoğraf/tiflis-rezervuarı-veya-tiflis-denizi-güzel-manzara.jpg?s=612x612&amp;w=is&amp;k=20&amp;c=YibkL7asRfbiLMa_KM37LiPDMGOS6Vx4_LmppQa80Fw="
+featuredImage: "https://media.istockphoto.com/id/1070156498/tr/fotoğraf/kohtuotsa-platformu-tallinn-eski-şehir-baltık-denizi-görüntüleyin.jpg?s=612x612&amp;w=is&amp;k=20&amp;c=Cd7fMmqqoAB8J4hX3-2_EgXV5fVk6-qjkuWizYN4ZUE="
+featured_image: "https://media.istockphoto.com/id/924935996/tr/fotoğraf/doğu-denizi-güney-korede-plajda-mavi-deniz-dalgası.jpg?s=612x612&amp;w=is&amp;k=20&amp;c=gZIloy2c4aSRTB-M_7i3Z1nIdp_hPwSXiNV-yVF5fQQ="
 image: "https://media.istockphoto.com/id/1070156498/tr/fotoğraf/kohtuotsa-platformu-tallinn-eski-şehir-baltık-denizi-görüntüleyin.jpg?s=612x612&amp;w=is&amp;k=20&amp;c=Cd7fMmqqoAB8J4hX3-2_EgXV5fVk6-qjkuWizYN4ZUE="
 ---
 

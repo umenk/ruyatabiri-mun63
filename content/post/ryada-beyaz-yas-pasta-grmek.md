@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Resimli 1 yaş pastaları"
-date: "2022-12-26"
+description: "Beyaz çikolatalı pasta tarifi"
+date: "2023-02-09"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://karamel.gen.tr/images/Karamelli-Yas-Pasta-48.jpg"
-featuredImage: "https://st1.myideasoft.com/idea/ig/68/myassets/products/568/beyaz-patus-yas-pasta.jpg?revision=1624261038"
-featured_image: "https://st1.myideasoft.com/idea/ig/68/myassets/products/568/beyaz-patus-yas-pasta.jpg?revision=1624261038"
-image: "https://www.bezmialempastanesi.com/Uploads/UrunResimleri/thumb/beyaz-meyveli-yas-pasta-4150-9.jpg"
+- "https://2.bp.blogspot.com/-CaBAXgNv6mo/XD-KInkjyAI/AAAAAAAAIwU/unUaIAueNQEi0nbg2opgUuer12t9pGaCgCLcBGAs/s1600/beyaz%2Bmuhallebili%2Bya%25C5%259F%2Bpasta.jpg"
+featuredImage: "https://lh5.googleusercontent.com/-_CTAuNykC0c/UrNvj7iaFAI/AAAAAAAABCI/aHGL9JQyebk/s640/blogger-image-542809255.jpg"
+featured_image: "https://i.ytimg.com/vi/IOdJSZTHrM4/maxresdefault.jpg"
+image: "https://lh5.googleusercontent.com/-_CTAuNykC0c/UrNvj7iaFAI/AAAAAAAABCI/aHGL9JQyebk/s640/blogger-image-542809255.jpg"
 ---
 
 If you are looking for Beyaz Çikolatalı Pasta Tarifi | Doğum Günü Pastası - YouTube you've visit to the right web. We have 9 Pictures about Beyaz Çikolatalı Pasta Tarifi | Doğum Günü Pastası - YouTube like Beyaz Meyveli Yaş Pasta, Resimli 1 Yaş Pastaları and also Ayşe'nin Mutfağından Nefis Yemek Tarifleri: Beyaz muhallebili yas pasta. Here it is:

@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Evde-bakim-maasi-2022-ocak-zammi-ne-kadar-oldu-kisi.jpg"
-date: "2023-09-17"
+description: "Saç neden koparak dökülür, güçlü saçlara nasıl sahip olunur?"
+date: "2023-06-25"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
 - "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AASTfSv.jpeg"
-featuredImage: "https://www.istanbulmedicalcenter.com/wp-content/uploads/2016/05/evde-saglik-bakim-hizmetleri.jpg"
-featured_image: "https://2.bp.blogspot.com/-4_alHzx3OuA/T56uBwwF5_I/AAAAAAAAAEk/cpnbV0H2Xz0/s320/victoria_moda_bikini_jpg.jpg"
+featuredImage: "https://cf.kizlarsoruyor.com/q19635716/7d31b2c7-8ef4-4542-907a-6f06a442ba50.jpg"
+featured_image: "https://i.hbrcdn.com/haber/2019/04/06/kayalarin-koparak-yola-dustugu-dag-tehlike-sa-11922712_amp.jpg"
 image: "https://media.kunduz.com/media/question/seo/raw/20220429090803210153-4137039_BtdUUJ1LU.jpg?h=512"
 ---
 

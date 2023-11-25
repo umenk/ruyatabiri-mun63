@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Beyaz-dis-cekim-elbise-modelleri4.jpg – alımlı kadın"
-date: "2023-03-05"
+description: "Beyaz dis pdf"
+date: "2022-12-14"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "http://static.idefix.com/cache/0/270/204565"
-featuredImage: "http://www.kitapveyorum.com/wp-content/uploads/2016/04/beyaz-dis-jack-london.jpg"
-featured_image: "https://www.disbakimi.gen.tr/images/beyaz-dis.jpg"
+- "http://www.birazoku.com/wp-content/uploads/2011/05/beyaz-dis.jpg"
+featuredImage: "http://www.birazoku.com/wp-content/uploads/2011/05/beyaz-dis.jpg"
+featured_image: "https://libribook.com/Images/beyaz-di-pdf.jpg"
 image: "https://www.disbakimi.gen.tr/images/beyaz-dis.jpg"
 ---
 

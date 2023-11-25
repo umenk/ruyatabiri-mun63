@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Hindistan kahvesiyle imtihanım! aeropress ile güney hindistan tarzı"
-date: "2023-06-11"
+description: "Çay ti̇ryaki̇leri̇ne özel (i̇yi çay demlemek i̇çin ne gerekir?) #çay #"
+date: "2023-08-13"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/rkNHde3jpvY/maxresdefault.jpg"
-featuredImage: "https://i.ytimg.com/vi/ih7QTNsXDhU/maxresdefault.jpg"
-featured_image: "https://i.ytimg.com/vi/ih7QTNsXDhU/maxresdefault.jpg"
-image: "https://i.ytimg.com/vi/MIX1GeADymU/maxresdefault.jpg"
+- "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/344000/345001.jpg"
+featuredImage: "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/344000/345001.jpg"
+featured_image: "https://i.ytimg.com/vi/MIX1GeADymU/maxresdefault.jpg"
+image: "https://i.ytimg.com/vi/OzlumW8uoA0/maxresdefault.jpg"
 ---
 
 If you are looking for Bol köpüklü Türk kahvesi demlemek için ezber bozan yöntem I Barista you've visit to the right web. We have 9 Pictures about Bol köpüklü Türk kahvesi demlemek için ezber bozan yöntem I Barista like Çay Demlemek - YouTube, Bol köpüklü Türk kahvesi demlemek için ezber bozan yöntem I Barista and also 5 Adımda Lezzetli Bir Çay Demlemek - YouTube. Here it is:

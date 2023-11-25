@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "100 araç archives"
-date: "2023-06-15"
+description: "Gökhan yangin"
+date: "2023-06-17"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/KdZ3OosEZ6s/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4Ad4EgAK4CIoCDAgAEAEYZSBMKGMwDw==&amp;rs=AOn4CLCfzFvJaPoNerKMbSKycXF-fCyaDA"
-featuredImage: "https://www.denizcilikdergisi.com/wp-content/uploads/2019/09/bae_yangin_g_1.jpg"
-featured_image: "https://i.ytimg.com/vi/HYLCwcE-Dgc/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYRSBHKGUwDw==&amp;rs=AOn4CLC_ulBvmvqa2cf2uT56Qfk3FCYaDA"
+- "https://www.denizcilikdergisi.com/wp-content/uploads/2019/09/bae_yangin_g_1.jpg"
+featuredImage: "https://ilarge.lisimg.com/image/27540599/740full-yangin-günleri-independenta-poster.jpg"
+featured_image: "https://i.ytimg.com/vi/fCK2x4PEN38/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFMgXChlMA8=&amp;rs=AOn4CLC396z-9U6MhIawB-cmI8w3sFEZVQ"
 image: "https://ilarge.lisimg.com/image/27540599/740full-yangin-günleri-independenta-poster.jpg"
 ---
 

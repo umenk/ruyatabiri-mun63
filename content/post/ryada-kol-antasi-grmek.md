@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Emrah kol"
-date: "2023-08-22"
+description: "Kol böreği nedir ne demektir?"
+date: "2023-02-23"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/HYLCwcE-Dgc/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYRSBHKGUwDw==&amp;rs=AOn4CLC_ulBvmvqa2cf2uT56Qfk3FCYaDA"
-featuredImage: "https://profile-images.xing.com/images/ef78c8b3714c9d0889cf218f38b599e1-1/emrah-kol.1024x1024.jpg"
-featured_image: "https://www.turkischegerichte.com/wp-content/uploads/2018/05/borek-mit-hackfleisch-kiymali-kol-boregi.jpg"
-image: "http://1.bp.blogspot.com/-r8i6NM0tT7U/VDzl85ae9wI/AAAAAAAALb0/BaGcXMQX2XU/s1600/The-Originals-.png"
+- "https://www.turkischegerichte.com/wp-content/uploads/2018/05/borek-mit-hackfleisch-kiymali-kol-boregi.jpg"
+featuredImage: "https://i.ytimg.com/vi/KdZ3OosEZ6s/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4Ad4EgAK4CIoCDAgAEAEYZSBMKGMwDw==&amp;rs=AOn4CLCfzFvJaPoNerKMbSKycXF-fCyaDA"
+featured_image: "https://pbs.twimg.com/media/Fcyada8X0AANSFu.jpg"
+image: "https://3.bp.blogspot.com/-R43ubfyPOpk/U45W2TfsihI/AAAAAAAARVs/ybxST6R6KZg/s1600/kol_boregi.jpg"
 ---
 
 If you are looking for Kareena Kapoor Khan's tweet - "Ekta Kapoor to co-produce Rajesh you've visit to the right page. We have 9 Pictures about Kareena Kapoor Khan's tweet - "Ekta Kapoor to co-produce Rajesh like EMRAH KOL - OP.DR. - KADIKÖY ŞİFA HASTANESİ | XING, Kol böreği nedir ne demektir? - Laf Sözlük and also Kol böreği nedir ne demektir? - Laf Sözlük. Here it is:

@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Patlican mücveri̇"
-date: "2023-05-10"
+description: "Aubergine patlican bitki eggplant rehberi auberginen"
+date: "2023-06-07"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "http://2.bp.blogspot.com/_g9kyPW7j_I4/R2JeAAyRqcI/AAAAAAAAAB0/nA6iVxpFZ2U/w1200-h630-p-k-no-nu/KURU+PATLICAN+DOLMASI.JPG"
-featuredImage: "http://www.acm-shop.de/shop/images/product_images/popup_images/Aubergine (Patlican).jpg"
-featured_image: "http://www.acm-shop.de/shop/images/product_images/popup_images/Aubergine (Patlican).jpg"
-image: "https://i.ytimg.com/vi/FjJJM0BhC1g/maxresdefault.jpg"
+- "https://www.supermarktaanbiedingen.com/public/images/product/2017/28/0-408061-sera-kozlenmis-patlican.jpg"
+featuredImage: "https://3.bp.blogspot.com/-WKa3fft9G4Q/T1ABWe1vzTI/AAAAAAAAAJ4/n_v2uSHc460/s1600/IMG_1599.JPG"
+featured_image: "http://2.bp.blogspot.com/_g9kyPW7j_I4/R2JeAAyRqcI/AAAAAAAAAB0/nA6iVxpFZ2U/w1200-h630-p-k-no-nu/KURU+PATLICAN+DOLMASI.JPG"
+image: "https://www.supermarktaanbiedingen.com/public/images/product/2017/28/0-408061-sera-kozlenmis-patlican.jpg"
 ---
 
 If you are looking for Sera Kozlenmis patlican, product en prijs van 650 g - pot à 650 gram you've came to the right place. We have 9 Pics about Sera Kozlenmis patlican, product en prijs van 650 g - pot à 650 gram like PATLICAN MÜCVERİ - YouTube, Keyf-i Mutfak on Instagram: “Kuru Biber, Patlican Dolması Malzemeler 📌 and also Team Garchomp Team Zacian CP3213 - YouTube. Here it is:

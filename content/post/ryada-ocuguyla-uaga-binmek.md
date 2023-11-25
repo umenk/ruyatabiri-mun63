@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "D on twitter: &quot;attan inip eşeğe binmek adlı. https://t.co/fnfo9s0qiz"
-date: "2023-08-03"
+description: "Küplere binmek deyiminin anlamı nedir? tdk açıklaması ve cümle i̇çinde"
+date: "2023-10-08"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://iasbh.tmgrup.com.tr/c5bf4e/752/395/0/56/724/436?u=https://isbh.tmgrup.com.tr/sbh/2021/08/24/ruyada-arabaya-binmek-ne-anlama-gelir-ruyada-arabaya-binmek-ve-gezmek-anlami-nedir-1629812779279.jpg"
-featuredImage: "https://www.ruyatabirleri.blog/wp-content/uploads/2018/03/a2-16.jpg"
-featured_image: "https://pbs.twimg.com/media/Fcyada8X0AANSFu.jpg"
+- "https://www.ruyatabirleri.blog/wp-content/uploads/2018/03/a2-16.jpg"
+featuredImage: "https://1.bp.blogspot.com/-U36hK-fmo18/WOzDj4eAxuI/AAAAAAAAAu4/3WUYnfkBYmwlQ-_F5ns0w1U8U44l_c3lwCLcB/s1600/Spor-Bisiklete-Binmek.jpg"
+featured_image: "https://profile-images.xing.com/images/245cba6e1adf6f9d010e47f061d9df92-168/senem-dogan.1024x1024.jpg"
 image: "https://iasbh.tmgrup.com.tr/c5bf4e/752/395/0/56/724/436?u=https://isbh.tmgrup.com.tr/sbh/2021/08/24/ruyada-arabaya-binmek-ne-anlama-gelir-ruyada-arabaya-binmek-ve-gezmek-anlami-nedir-1629812779279.jpg"
 ---
 

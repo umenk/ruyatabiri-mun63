@@ -1,13 +1,13 @@
 ---
 title: "ruya tabiri tren Rüya tabiri"
 description: "Rüyada bülbül görmek ne anlama gelir? rüya tabiri nedir?"
-date: "2023-08-17"
+date: "2023-06-27"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://fikirsaati.com/wp-content/uploads/2021/09/ruyada-yilan-gormek-en-detayli-ruya-tabiri-yorumu.jpg"
-featuredImage: "https://www.mardinlife.com/uploads/2021/12/ruyada-asi-olmak-ne-demek-asi-olmak-asi-yapmak-igne-yapildigini-gormek-ruya-tabiri-nedir-108684.png?234234.234234"
-featured_image: "https://www.ruyaanlami.com/images/dream/content/12/ruyada-anneye-ruya-anlatmak.webp"
+- "https://www.ruyaanlami.com/images/dream/content/12/ruyada-anneye-ruya-anlatmak.webp"
+featuredImage: "https://www.ruyaanlami.com/images/dream/content/12/ruyada-anneye-ruya-anlatmak.webp"
+featured_image: "https://www.mardinlife.com/uploads/2021/12/ruyada-asi-olmak-ne-demek-asi-olmak-asi-yapmak-igne-yapildigini-gormek-ruya-tabiri-nedir-108684.png?234234.234234"
 image: "http://www.denkbilgi.com/wp-content/uploads/ruya-tabiri1.jpg"
 ---
 

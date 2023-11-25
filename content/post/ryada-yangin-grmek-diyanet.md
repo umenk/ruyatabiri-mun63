@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Diyanet, yangın hidrantlarını &quot;tahrik edici&quot; bulduğu için yeniden"
-date: "2023-11-05"
+description: "Diyanet’ten 6 çocuğun ölümünden sorumlu kuran hocasına atama – sendika.org"
+date: "2023-07-10"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.sozcucdn.com/wp-content/uploads/2021/11/11/iecrop/yangin-iha2_16_9_1636663569-670x371.jpg?w=1200&amp;h=675&amp;mode=crop"
-featuredImage: "https://61saatcom.teimg.com/crop/1280x720/61saat-com/images/haberler/2021/08/turkiye_diyanet_vakfindan_yangin_bolgelerinde_yardim_seferberligi.jpg"
-featured_image: "https://61saatcom.teimg.com/crop/1280x720/61saat-com/images/haberler/2021/08/turkiye_diyanet_vakfindan_yangin_bolgelerinde_yardim_seferberligi.jpg"
-image: "https://61saatcom.teimg.com/crop/1280x720/61saat-com/images/haberler/2021/08/turkiye_diyanet_vakfindan_yangin_bolgelerinde_yardim_seferberligi.jpg"
+- "https://www.toplumsal.com.tr/images/haberler/2021/08/yangin_bolgesine_yagmur_yagdiran_isimler_belli_oldu_adana_muftusu_ve_diyanet_in_genel_muduru_h63962_9ca7a.PNG"
+featuredImage: "https://www.toplumsal.com.tr/images/haberler/2021/08/yangin_bolgesine_yagmur_yagdiran_isimler_belli_oldu_adana_muftusu_ve_diyanet_in_genel_muduru_h63962_9ca7a.PNG"
+featured_image: "https://yildiztek.com.tr/wp-content/uploads/2021/09/YANGIN-SONDURME-CIHAZLARI.jpg"
+image: "https://www.toplumsal.com.tr/images/haberler/2021/08/yangin_bolgesine_yagmur_yagdiran_isimler_belli_oldu_adana_muftusu_ve_diyanet_in_genel_muduru_h63962_9ca7a.PNG"
 ---
 
 If you are searching about Esrarengiz ev için Diyanet’ten yardım istediler: 16 günde 17 kez yandı you've visit to the right place. We have 9 Pics about Esrarengiz ev için Diyanet’ten yardım istediler: 16 günde 17 kez yandı like Diyanet, Yangın Hidrantlarını "Tahrik Edici" Bulduğu için Yeniden, Türkiye Diyanet Vakfı'ndan yangın bölgelerine destek and also Esrarengiz ev için Diyanet’ten yardım istediler: 16 günde 17 kez yandı. Here you go:

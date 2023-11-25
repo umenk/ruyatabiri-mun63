@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Köpeğin isırması nasıl engellenir? havlayan ve isıran köpek i̇çin"
-date: "2022-12-04"
+description: "Kedinin isirmasi"
+date: "2023-03-21"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/rXRGkKlPatw/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHKAYAC6AKKAgwIABABGGUgVShSMA8=&amp;rs=AOn4CLCVikB5KPSl58onQ-5OeWPgfVg6qA"
-featuredImage: "https://i.ytimg.com/vi/BrdZNKAcQHc/maxresdefault.jpg"
-featured_image: "https://i.ytimg.com/vi/dblcsaUWRGo/maxresdefault.jpg"
-image: "https://pbs.twimg.com/media/Fcyada8X0AANSFu.jpg"
+- "https://i.ytimg.com/vi/BEvCKmo6QtM/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHIAYAC6AKKAgwIABABGGUgVyhIMA8=&amp;rs=AOn4CLCUKoxFAmZs34L7M1fgCAB-aFF1pw"
+featuredImage: "https://images.ruyandagor.com/2017/04/fare-isirmasi-gormek-1608.jpg"
+featured_image: "https://rotanikesfet.com/wp-content/uploads/2021/11/kopegin-isirmasi-nasil-engellenir-havlayan-ve-isiran-kopek-icin-alinacak-onlemler-UinjRKiy.jpg"
+image: "https://i.ytimg.com/vi/rXRGkKlPatw/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHKAYAC6AKKAgwIABABGGUgVShSMA8=&amp;rs=AOn4CLCVikB5KPSl58onQ-5OeWPgfVg6qA"
 ---
 
 If you are searching about Kareena Kapoor Khan's tweet - "Ekta Kapoor to co-produce Rajesh you've visit to the right web. We have 9 Images about Kareena Kapoor Khan's tweet - "Ekta Kapoor to co-produce Rajesh like KOYUNLAR ÖLÜYOR !!! KENE ISIRMASI SONUCUNDA KOYUNLARI ÖLDÜRÜYOR, Rüyada Fare Isırması Görmek - ruyandagor.com and also Köpeğin Isırması Nasıl Engellenir? Havlayan ve Isıran Köpek İçin. Here it is:

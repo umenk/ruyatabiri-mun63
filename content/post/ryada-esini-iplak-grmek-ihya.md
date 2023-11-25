@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Tekirdağ&#039;da tartıştığı eşini bıçakladı"
-date: "2023-03-30"
+description: "Team garchomp team zacian cp3213"
+date: "2023-07-06"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://www.konyapostasi.com.tr/images/haberler/2022/05/eski-esini-bicaklayarak-oldurdu-1651536042.jpg"
-featuredImage: "https://i.ytimg.com/vi/HYLCwcE-Dgc/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYRSBHKGUwDw==&amp;rs=AOn4CLC_ulBvmvqa2cf2uT56Qfk3FCYaDA"
-featured_image: "https://i.ytimg.com/vi/H2fAEMesIjo/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXyhTMA8=&amp;rs=AOn4CLCJYSghky0o-ilndxvg6fCYAda1ug"
-image: "https://i.ytimg.com/vi/obJA8JeJyhQ/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgYShZMA8=&amp;rs=AOn4CLBjU3VbiLUk-N6uVGMUhw-6G1n03g"
+- "https://images.bursadabugun.com/haber/2022/08/29/1540220-tekirdag-da-tartistigi-esini-bicakladi-630cfd9c774b1.jpg"
+featuredImage: "https://i.sdacdn.com/haber/2015/01/20/ogretmen-koca-ogrencisiyle-yakaladigi-esini-t-6884906_x_osd.jpg"
+featured_image: "https://i.ytimg.com/vi/HJN3x2ESInI/maxresdefault.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYKyAoKH8wDw==&amp;rs=AOn4CLB7zIHOGV8Y13GRTF4r9rAsP88t7g"
+image: "https://i.ytimg.com/vi/HJN3x2ESInI/maxresdefault.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYKyAoKH8wDw==&amp;rs=AOn4CLB7zIHOGV8Y13GRTF4r9rAsP88t7g"
 ---
 
 If you are searching about Kareena Kapoor Khan's tweet - "Ekta Kapoor to co-produce Rajesh you've came to the right place. We have 9 Pictures about Kareena Kapoor Khan's tweet - "Ekta Kapoor to co-produce Rajesh like Kareena Kapoor Khan's tweet - "Ekta Kapoor to co-produce Rajesh, AA 20220530 28022695 28022691 KOCAELI SILAHLA ESINI OLDURUP KIZINI and also Tekirdağ'da tartıştığı eşini bıçakladı - Güncel Haberler - Bursadabugun.com. Here it is:

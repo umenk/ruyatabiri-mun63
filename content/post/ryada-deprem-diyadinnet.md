@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Deprem bölgesindeki hayvanların yaralarına merhem oldular"
-date: "2023-05-13"
+description: "Rüyada deprem olduğunu görmek ne demektir? rüyada deprem görmenin"
+date: "2023-10-20"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.hbrcdn.com/haber/2020/08/05/ruyada-deprem-oldugunu-gormek-ne-demektir-ruyada-13481291_3443_amp.jpg"
-featuredImage: "https://www.diyadinnet.com/d/news/deprem-yaban-kecilerini-de-urkuttu-22953.jpg"
-featured_image: "https://www.diyadinnet.com/d/news/afad-ekipleri-deprem-bolgesine-sevk-edildi-24944.jpg"
-image: "https://www.diyadinnet.com/img/2023/02/bitlis-ten-deprem-bolgelerine-gorevlendirilen-polisler-depremzedelerin-yarasini-sariyor.jpg"
+- "https://www.diyadinnet.com/img/2023/04/malatya-deprem-bolgesinden-istanbul-a-donerken-kazada-olen-cocugun-adini-tiyatrocular-yasatacak.jpg"
+featuredImage: "https://www.diyadinnet.com/bigimages/haber/2021/01/119872.jpg"
+featured_image: "https://www.diyadinnet.com/d/news/91-komando-deprem-afet-bolgesine-ugurlandi-24356.jpg"
+image: "https://www.diyadinnet.com/bigimages/haber/2021/01/119872.jpg"
 ---
 
 If you are looking for Bitlis'ten deprem bölgelerine görevlendirilen polisler depremzedelerin you've came to the right page. We have 9 Pics about Bitlis'ten deprem bölgelerine görevlendirilen polisler depremzedelerin like Erzurum deprem Haber, Erzurum deprem Son Dakika, Erzurum deprem, Deprem yaban keçilerini de ürküttü - Malatya Haber Haberleri - Diyadinnet and also Deprem bölgesindeki hayvanların yaralarına merhem oldular - Malatya. Here it is:

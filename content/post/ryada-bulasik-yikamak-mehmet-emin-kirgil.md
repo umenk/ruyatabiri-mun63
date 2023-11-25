@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Rüyada cenaze görmek"
-date: "2023-08-01"
+description: "Recep tayyi̇p erdoğanin cumhurbaşkani olacağini rüyasinda gördü"
+date: "2022-12-12"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/2L1Wj1ard4g/maxresdefault.jpg"
+- "https://ekitapyeri.com/wp-content/uploads/2020/06/Mehmet-Emin-Kirgil-Ile-Ruyalara-Cevaplar-kitabini-indir-PDF-ve.jpeg"
 featuredImage: "https://i.ytimg.com/vi/9LU-di7-0G4/maxresdefault.jpg"
-featured_image: "https://www.kimnereli.net/wp-content/uploads/2018/02/Mehmet-Emin-Kirgil.jpg"
+featured_image: "https://www.bizdekalmasin.com/wp-content/uploads/2023/02/Ruyada-Deprem-Oldugunu-Gormek-Mehmet-Emin-Kirgil.jpg"
 image: "https://www.kimnereli.net/wp-content/uploads/2018/02/Mehmet-Emin-Kirgil.jpg"
 ---
 

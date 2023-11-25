@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Yani iyi bok yediniz"
-date: "2023-08-08"
+description: "Müjde! bok altin oldu"
+date: "2023-06-16"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://pbs.twimg.com/media/Fzfe04WXwAIu6FP.jpg"
-featuredImage: "https://pbs.twimg.com/media/Fzfe04WXwAIu6FP.jpg"
-featured_image: "https://img.fruugo.com/product/6/40/205985406_max.jpg"
-image: "https://pbs.twimg.com/media/FRaZ05QXsAEdO4u?format=jpg&amp;name=large"
+- "https://i.ytimg.com/vi/6X2TkuRLqIo/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AZQDgALQBYoCDAgAEAEYZSBlKGUwDw==&amp;rs=AOn4CLB9Z2sIFRu698AbsH9AGFQftA27ow"
+featuredImage: "https://pbs.twimg.com/media/Fhh5LAKXgAAC86Y?format=jpg&amp;name=large"
+featured_image: "https://pbs.twimg.com/media/FpjyTz3WcAA7wIC.jpg"
+image: "https://pbs.twimg.com/media/E03yo6CWEAQDy2j.jpg"
 ---
 
 If you are looking for yani iyi bok yediniz - YouTube you've visit to the right place. We have 9 Images about yani iyi bok yediniz - YouTube like Mehtap Evli on Twitter: "taytım iyi mi ya", MÜJDE! BOK ALTIN OLDU | MODERNİTE Sizce İyi mi? - YouTube and also E. on Twitter: "İyi bok yedin Emre dediğinizi duyar gibiyim https://t. Here you go:

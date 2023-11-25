@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Fetooş açıklıyor neler yaptigini"
-date: "2023-11-03"
+description: "Fck kicker"
+date: "2023-10-28"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/H2fAEMesIjo/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXyhTMA8=&amp;rs=AOn4CLCJYSghky0o-ilndxvg6fCYAda1ug"
+- "https://www.der-betze-brennt.de/images/news/2021-10-20-rangelei-fck-fcs--eibner.jpg"
 featuredImage: "https://i.ytimg.com/vi/ihTK7g5YuGE/hq2.jpg"
-featured_image: "https://i.ytimg.com/vi/HYLCwcE-Dgc/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYRSBHKGUwDw==&amp;rs=AOn4CLC_ulBvmvqa2cf2uT56Qfk3FCYaDA"
-image: "https://i.ytimg.com/vi/H2fAEMesIjo/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXyhTMA8=&amp;rs=AOn4CLCJYSghky0o-ilndxvg6fCYAda1ug"
+featured_image: "https://derivates.kicker.de/image/upload/x_196,y_0,w_2823,h_1587,c_crop/w_1000,h_563,q_auto/ujwgbvw0ivrksp5bw7mm.jpg"
+image: "https://www.der-betze-brennt.de/images/news/2021-11-08-derby-jubel-fcs-fck.jpg"
 ---
 
 If you are looking for FCS-FCK: Entscheidung über Verlegung Ende der Woche | Der Betze brennt you've came to the right page. We have 9 Pics about FCS-FCK: Entscheidung über Verlegung Ende der Woche | Der Betze brennt like Saarbrücken-Fans Pyro Gegen FCK | FC Saarbrücken - FC Kaiserslautern 06, Team Garchomp Team Zacian CP3213 - YouTube and also Team Garchomp Team Zacian CP3213 - YouTube. Here it is:

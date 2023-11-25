@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Rüyada araba sürmek ne anlama gelir? rüyada araba kullanmak hakkında"
-date: "2023-07-21"
+description: "Rüyada karda araba kullanmak ne anlama gelir?"
+date: "2023-06-11"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://iasbh.tmgrup.com.tr/0f557c/650/344/0/0/800/419?u=https://isbh.tmgrup.com.tr/sbh/2020/01/11/ruyada-araba-surmek-ne-anlama-gelir-ruyada-araba-surmek-ile-ilgili-yorum-1578690608054.jpg"
+- "https://i.ytimg.com/vi/rd7hYM_J8xU/maxresdefault.jpg"
 featuredImage: "https://gunceloku.com/uploads/ruyada-karda-araba-kullanmak-ne-anlama-gelir-622afa948e797.jpg"
-featured_image: "https://i.ytimg.com/vi/qnTe5b4_dHc/maxresdefault.jpg"
+featured_image: "https://gunceloku.com/uploads/ruyada-karda-araba-kullanmak-ne-anlama-gelir-622afa948e797.jpg"
 image: "https://i.cnnturk.com/i/cnnturk/75/740x416/60f8a2fb5cf3b014e4147d19.jpg"
 ---
 

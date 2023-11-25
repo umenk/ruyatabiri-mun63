@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Aracının sele kapıldığını gören kadın, gözyaşlarına boğuldu"
-date: "2022-12-08"
+description: "Suudi arabistan&#039;da sele kapılan 2 kişiden birinin cansız bedenine"
+date: "2023-09-13"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://61saatcom.teimg.com/crop/1280x720/61saat-com/images/haberler/2021/08/aracinin_sele_kapildigini_goren_kadin_gozyaslarina_boguldu.jpg"
+- "https://i2.sdacdn.com/haber/2022/12/16/suudi-arabistan-da-sele-kapilan-2-kisiden-bir-15498703_local_sd.jpg"
 featuredImage: "https://iasbh.tmgrup.com.tr/e19378/640/314/0/0/752/640?u=https://isbh.tmgrup.com.tr/sbh/2021/08/28/aracinin-sele-kapildigini-goren-kadin-gozyaslarina-boguldu-1630156806661.jpg&amp;bg=1"
-featured_image: "https://61saatcom.teimg.com/crop/1280x720/61saat-com/images/haberler/2021/08/aracinin_sele_kapildigini_goren_kadin_gozyaslarina_boguldu.jpg"
-image: "https://cdn.yeniakit.com.tr/images/news/625/milletvekili-ve-jandarmanin-sakinlestirmeye-calistigi-kadin-esinin-sele-kapildigini-dusundu-h1628708572-008788.png"
+featured_image: "https://i.hbrcdn.com/haber/2021/08/28/aracinin-sele-kapildigini-goren-kadin-gozyasl-14360497_amp.jpg"
+image: "https://i2.sdacdn.com/haber/2022/12/16/suudi-arabistan-da-sele-kapilan-2-kisiden-bir-15498703_local_sd.jpg"
 ---
 
 If you are searching about Son Dakika! İzmir'in Menderes ilçesinde sele kapılan iki kişinin cansız you've visit to the right web. We have 9 Images about Son Dakika! İzmir'in Menderes ilçesinde sele kapılan iki kişinin cansız like Son dakika haberleri! Aracının sele kapıldığını gören kadın, Aracının sele kapıldığını gören kadın, gözyaşlarına boğuldu - TRABZON and also Son dakika haberleri! Aracının sele kapıldığını gören kadın. Read more:

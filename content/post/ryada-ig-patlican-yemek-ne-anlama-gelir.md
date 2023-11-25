@@ -1,13 +1,13 @@
 ---
 title: ""
 description: "Rüyada çiğ et yemek ne anlama gelir?"
-date: "2023-04-10"
+date: "2023-11-16"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://kofdy.com/wp-content/uploads/2022/08/ruyada-patlican-gormek-ne-anlama-gelir-7834-1024x536.jpg"
-featuredImage: "https://iasbh.tmgrup.com.tr/598ff8/650/344/0/101/724/481?u=https://isbh.tmgrup.com.tr/sbh/2021/11/03/ruyada-bal-yemek-ne-anlama-gelir-ruyada-petek-bal-yemek-ne-demek-1635919986178.jpg"
-featured_image: "https://i20.haber7.net/resize/1280x720/haber/haber7/photos/2021/46/ruyada_et_gormek_ne_anlama_gelir_ruyada_cig_et_gormek_iyiye_mi_kotuye_mi_isaret_eder_1636985861_5885.jpg"
+- "https://i.hbrcdn.com/haber/2021/03/30/ruyada-mantar-toplamak-ne-demek-diyanet-ruyada-14030005_2795_amp.jpg"
+featuredImage: "https://i20.haber7.net/resize/1280x720/haber/haber7/photos/2022/06/ruyada_bal_yemek_ne_demektir_ruyada_kasikla_bal_yemek_ne_anlama_gelir_1644388937_3805.jpg"
+featured_image: "https://gunceloku.com/uploads/ruyada-cig-et-yemek-ne-anlama-gelir-629f245cad292.jpg"
 image: "https://i20.haber7.net/resize/1280x720/haber/haber7/photos/2021/46/ruyada_et_gormek_ne_anlama_gelir_ruyada_cig_et_gormek_iyiye_mi_kotuye_mi_isaret_eder_1636985861_5885.jpg"
 ---
 

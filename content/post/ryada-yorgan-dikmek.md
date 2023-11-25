@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Rüyada yorgan görmek ne anlama gelir? rüyada yorgan dikmek ve taşımak"
-date: "2023-07-10"
+description: "Rüyada yorgan görmek ne anlama gelir? ruyada yorgan dikmek? rüyada"
+date: "2022-12-13"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://images.ruyandagor.com/2017/05/mavi-yorgan-dikmek-2148.jpg"
-featuredImage: "https://media.istockphoto.com/id/517273168/tr/vektör/tailors-table.jpg?s=612x612&amp;w=is&amp;k=20&amp;c=swIqjAdgMLjmcllWYRR5051ldhi7Ogu-aP7sXmCSC2s="
-featured_image: "https://www.aydinpost.com/images/haberler/2020/03/ruyada-yorgan-gormek-ne-anlama-gelir-ruyada-yorgan-dikmek-ve-tasimak-anlami_CCHr91qrrx.jpg"
+- "https://i.pinimg.com/originals/02/2f/df/022fdff9035a5446497614435dcdb073.jpg"
+featuredImage: "https://www.aydinpost.com/images/haberler/2020/03/ruyada-yorgan-gormek-ne-anlama-gelir-ruyada-yorgan-dikmek-ve-tasimak-anlami_CCHr91qrrx.jpg"
+featured_image: "https://media.istockphoto.com/id/517273168/tr/vektör/tailors-table.jpg?s=612x612&amp;w=is&amp;k=20&amp;c=swIqjAdgMLjmcllWYRR5051ldhi7Ogu-aP7sXmCSC2s="
 image: "https://images.ruyandagor.com/2017/05/kirmizi-yorgan-dikmek-1927.jpg"
 ---
 

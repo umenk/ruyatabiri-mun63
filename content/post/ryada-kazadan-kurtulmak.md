@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Hayabusa ile kazadan kurtulmak."
-date: "2023-09-08"
+description: "Yamaha mt09 fethiye/i̇nlice yolu&amp;kazadan kurtulmak akrapoviç exhaust #"
+date: "2022-11-29"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/REeEMnNs7N4/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBOKD4wDw==&amp;rs=AOn4CLDDK4WdQkuqWrURG_LB8LYmAYTPmA"
-featuredImage: "https://i.ytimg.com/vi/RfIl3JSgjgY/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYYiBiKGIwDw==&amp;rs=AOn4CLDpz2GFLn4tgImzjleRgiwnRAchlw"
-featured_image: "https://i.ytimg.com/vi/Cznq4dib0ZE/hqdefault.jpg"
+- "https://i.ytimg.com/vi/hhxSp1X6c3E/maxresdefault.jpg"
+featuredImage: "https://i.ytimg.com/vi/mx5yjM_5A1k/hqdefault.jpg"
+featured_image: "https://i.ytimg.com/vi/As_CnJxJMAU/maxresdefault.jpg"
 image: "https://i.ytimg.com/vi/REeEMnNs7N4/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBOKD4wDw==&amp;rs=AOn4CLDDK4WdQkuqWrURG_LB8LYmAYTPmA"
 ---
 

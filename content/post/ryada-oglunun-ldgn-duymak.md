@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Resad samaxilinin oglunun toyu (1) vasif ezimov 2015"
-date: "2023-02-20"
+description: "🤡sevmek zorunda deği̇lsi̇n ama saygi duymak zorundasin!!1!1🤡"
+date: "2022-12-01"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/BI_s2qbaWvQ/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgWShVMA8=&amp;rs=AOn4CLDH4MHBmUW80r7kEIMqDRwEhklUXw"
-featuredImage: "https://i.ytimg.com/vi/0L5YN-oY0Fc/maxresdefault.jpg"
-featured_image: "https://pbs.twimg.com/media/Fcyada8X0AANSFu.jpg"
+- "https://i.ytimg.com/vi/0L5YN-oY0Fc/maxresdefault.jpg"
+featuredImage: "https://i.ytimg.com/vi/RCB2dr7w1R4/maxresdefault.jpg"
+featured_image: "https://i.ytimg.com/vi/DmxbqgKdMsc/maxresdefault.jpg"
 image: "https://i.ytimg.com/vi/0L5YN-oY0Fc/maxresdefault.jpg"
 ---
 

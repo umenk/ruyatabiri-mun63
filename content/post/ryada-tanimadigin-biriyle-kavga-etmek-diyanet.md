@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Rüyada küs olduğun biriyle kavga etmek"
-date: "2023-01-30"
+description: "Rüyada biriyle kavga etmek neye yorumlanır?"
+date: "2022-12-11"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://images.ruyandagor.com/2017/04/kus-oldugun-biriyle-kavga-etmek-1221.jpg"
-featuredImage: "https://1001ruya.com/wp-content/uploads/Ruyada-Kavga-Etmek-Kavga-Gormek-Biriyle-Kavga-Ettigini-Gormek-sevgiliyle-babayla-anneyle-kardesle-ne-demek-diyanet-768x432.jpg"
-featured_image: "https://images.ruyandagor.com/2017/04/sevdigin-biriyle-kavga-etmek-1707.jpg"
+- "https://image.posta.com.tr/i/posta/75/0x0/62fa3f3be4bfdd1ebc3f1cf2.jpg"
+featuredImage: "https://images.ruyandagor.com/2017/04/babayla-kavga-etmek-0214.jpg"
+featured_image: "http://ruyalardunyasi.com/wp-content/uploads/2019/08/okulda-sevmedigin-biriyle-kavga-etmek.jpg"
 image: "http://ruyalardunyasi.com/wp-content/uploads/2019/08/ruyada-sevmedigin-biriyle-kavga-etmek-1024x682.jpg"
 ---
 

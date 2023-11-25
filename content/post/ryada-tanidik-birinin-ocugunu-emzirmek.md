@@ -1,13 +1,13 @@
 ---
 title: ""
 description: "39. bir üçgenin ağırlık merkezinin kenarlarına uzak..."
-date: "2023-01-19"
+date: "2023-05-01"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://images.ruyandagor.com/2017/06/tanidik-birinin-damdan-dustugunu-gormek-0143.jpg"
-featuredImage: "http://ruyameali.com/wp-content/uploads/2018/04/bebek3-1.jpg"
-featured_image: "https://images.ruyandagor.com/2017/05/tanidik-birinin-para-vermesi-1534.jpg"
+- "http://ruyameali.com/wp-content/uploads/2018/04/bebek3-1.jpg"
+featuredImage: "https://i.ytimg.com/vi/4p8B7g_1sK8/maxresdefault.jpg"
+featured_image: "https://media.kunduz.com/media/question/seo/raw/20220520062701550807-410936.jpeg?h=512"
 image: "https://media.kunduz.com/media/question/seo/raw/20220520062701550807-410936.jpeg?h=512"
 ---
 

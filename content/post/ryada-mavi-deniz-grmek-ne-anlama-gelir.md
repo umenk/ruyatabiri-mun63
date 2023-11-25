@@ -1,13 +1,13 @@
 ---
 title: ""
 description: "Rüyada deniz görmek ne anlama gelir? deniz nasıl yorumlanır?"
-date: "2023-07-20"
+date: "2022-12-05"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://abcgazetesi.com/d/news/50450.jpg"
-featuredImage: "https://abcgazetesi.com/d/news/50450.jpg"
-featured_image: "https://www.uyan32.com/wp-content/uploads/2020/05/ruyada-deniz-gormek-ne-anlama-gelir.jpg"
+- "https://i.cnnturk.com/i/cnnturk/75/740x416/6104e887bf21441690169189.jpg"
+featuredImage: "https://i.hbrcdn.com/haber/2021/06/21/falda-deniz-kizi-gormek-ne-anlama-gelir-falda-14215578_5512_amp.jpg"
+featured_image: "https://www.nkfu.com/wp-content/uploads/2017/08/mavi-deniz-702x336.jpg"
 image: "https://www.nkfu.com/wp-content/uploads/2017/08/mavi-deniz-702x336.jpg"
 ---
 

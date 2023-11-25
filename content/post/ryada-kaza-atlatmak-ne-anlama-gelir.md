@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Rüyada kaza görmek ne anlama gelir"
-date: "2023-08-24"
+description: "Rüyada kaza görmek ne anlama gelir? rüyada araba, motor, tren kazası"
+date: "2023-06-12"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/hvNKqyjtpnM/maxresdefault.jpg"
+- "https://www.mardinlife.com/uploads/2021/07/ruyada-araba-kazasi-gormek-ne-demek-ruyada-kaza-yapmak-kazada-olmek-kazadan-kurtulmak-ne-anlama-gelir-68556.png?234234.234234"
 featuredImage: "https://i.ytimg.com/vi/hvNKqyjtpnM/maxresdefault.jpg"
-featured_image: "https://iasbh.tmgrup.com.tr/91f5cd/650/344/0/83/1264/746?u=https://isbh.tmgrup.com.tr/sbh/2019/12/10/ruyada-kaza-gormek-ne-anlama-gelir-ruyada-kaza-yapmak-nasil-yorumlanir-1575933165305.jpg"
+featured_image: "https://www.mardinlife.com/uploads/2021/07/ruyada-araba-kazasi-gormek-ne-demek-ruyada-kaza-yapmak-kazada-olmek-kazadan-kurtulmak-ne-anlama-gelir-68556.png?234234.234234"
 image: "https://i2.milimaj.com/i/milliyet/75/0x0/6464cb6e86b2472340470ccf.jpg"
 ---
 

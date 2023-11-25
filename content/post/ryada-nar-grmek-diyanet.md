@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Ankara il müftümüz dr.hasan çınar çamlıdere çamkoru gençlik çadır"
-date: "2023-06-24"
+description: "Ankara&#039;da il müftümüz dr.hasan çınar akyurt ilçesinde ki ermetal"
+date: "2023-05-01"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://www.muftulukhaberler.com/images/haberler/ysa/l-mfts-ltf-mamolu-nar-lesine-ziyaret-gerekletirdi-.jpg"
-featuredImage: "https://www.muftulukhaberler.com/images/haberler/ysa/ankara-l-mftmz-drhasan-nar-amldere-amkoru-genlik-adr-kampn-ziyaret-etti-.jpg"
-featured_image: "https://www.muftulukhaberler.com/images/haberler/ysa/ankara-l-mftmz-drhasan-nar-amldere-amkoru-genlik-adr-kampn-ziyaret-etti-.jpg"
+- "https://www.muftulukhaberler.com/images/haberler/ysa/ankara-mfts-dr-hasan-nar-15-temmuz-ehitlerini-anma-programlar-kapsamnda-ileri-bakanl-diyanet-leri-bakanl-ve-ankara-valiliince-organize-edilen-programlarda-ehitlerimiz-iin-dua-etti-.jpg"
+featuredImage: "https://resim.diyanetvakfiyayin.com.tr/8712079055219/8712079055219/kucuk/talens-guaj-boya-16-ml-yellow-ochre-sari-hardal-227-86ee122acc.jpg"
+featured_image: "https://resim.diyanetvakfiyayin.com.tr/8712079055219/8712079055219/kucuk/talens-guaj-boya-16-ml-yellow-ochre-sari-hardal-227-86ee122acc.jpg"
 image: "https://www.muftulukhaberler.com/images/haberler/ysa/ankara-mfts-dr-hasan-nar-15-temmuz-ehitlerini-anma-programlar-kapsamnda-ileri-bakanl-diyanet-leri-bakanl-ve-ankara-valiliince-organize-edilen-programlarda-ehitlerimiz-iin-dua-etti-.jpg"
 ---
 

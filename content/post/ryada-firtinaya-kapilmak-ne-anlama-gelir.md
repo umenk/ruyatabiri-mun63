@@ -1,12 +1,12 @@
 ---
 title: ""
-description: "Güneş di̇ye taşindik firtinaya tutulduk!! bi̇r pazar günü ne yapiyoruz"
-date: "2023-03-13"
+description: "Karvanla firtinaya yakalandim (arsiyan,boğa gölleri)"
+date: "2023-02-15"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/ccBO8QzJFfc/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgTShEMA8=&amp;rs=AOn4CLC-YFiwKowQ8Ec90Zs8S1p3Yu_l6A"
-featuredImage: "https://i.ytimg.com/vi/Lx8l15dO1G4/maxresdefault.jpg"
+- "https://i.ytimg.com/vi/Lx8l15dO1G4/maxresdefault.jpg"
+featuredImage: "https://foto.haberler.com/haber/2019/10/30/ruyada-at-gormek-ne-anlama-gelir-12566959_7097_m.jpg"
 featured_image: "https://i.ytimg.com/vi/Lx8l15dO1G4/maxresdefault.jpg"
 image: "https://i.ytimg.com/vi/ccBO8QzJFfc/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgTShEMA8=&amp;rs=AOn4CLC-YFiwKowQ8Ec90Zs8S1p3Yu_l6A"
 ---

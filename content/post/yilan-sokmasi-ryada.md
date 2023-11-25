@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "How effects of snake venom of blood?"
-date: "2023-02-07"
+description: "Snakes deadliest effects blood antidotes harmless petsoid"
+date: "2023-05-27"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://www.ulkumenrodoplu.com/wp-content/uploads/2017/03/Yilan-sokmasi-300x224.jpg"
-featuredImage: "https://images.ruyandagor.com/2017/04/yilan-sokmasi-ve-acimasi-1656.jpg"
-featured_image: "https://www.ulkumenrodoplu.com/wp-content/uploads/2017/03/Yilan-sokmasi-300x224.jpg"
+- "https://www.outdoorhaber.com/wp-content/uploads/2019/04/yilan-sokmasi-tedavisi.jpg"
+featuredImage: "https://iasbh.tmgrup.com.tr/4f0410/650/344/0/0/752/395?u=https://isbh.tmgrup.com.tr/sbh/2020/03/20/ruya-yilan-gormek-neye-isarettir-ne-anlama-gelir-ruyada-yilan-sokmasi-yilan-isirmasi-yilan-yakalamak-ile-ilgili-ruya-tabirleri-1584713385035.jpg"
+featured_image: "https://www.lifefunfacts.com/wp-content/uploads/2021/03/616x321-yilan-zehri-belirtileri-nelerdir-yilan-sokmasi-nasil-tedavi-edilir-kobra-zehri-oldurur-mu-yilan-zehrinin-panzehiri-nedir-1531729937125.jpeg"
 image: "https://www.lifefunfacts.com/wp-content/uploads/2021/03/616x321-yilan-zehri-belirtileri-nelerdir-yilan-sokmasi-nasil-tedavi-edilir-kobra-zehri-oldurur-mu-yilan-zehrinin-panzehiri-nedir-1531729937125.jpeg"
 ---
 

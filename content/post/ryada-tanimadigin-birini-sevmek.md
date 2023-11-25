@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Rüyada tanımadığın birini sevmek"
-date: "2023-07-08"
+description: "Sen birini sevmek nedir bilir misin?"
+date: "2023-02-02"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
 - "https://instela-static.info/m/birini-sevmek--i782585-600.jpg"
-featuredImage: "https://i.pinimg.com/originals/ba/d1/c1/bad1c1d342a9cb0bb5d6c504625f7cbf.jpg"
+featuredImage: "https://i.ytimg.com/vi/1pazMnQ0b4c/maxresdefault.jpg"
 featured_image: "https://i.pinimg.com/originals/ba/d1/c1/bad1c1d342a9cb0bb5d6c504625f7cbf.jpg"
-image: "https://www.pelikankitabevi.com.tr/u/pelikankitabevi/img/b/b/o/borderline-kisilik-bozuklugu-olan-birini-sevmek8fc7433c0cc28d3d0d737942865f8c4c-1-1590744500.jpg"
+image: "https://galeri3.uludagsozluk.com/144/kilometrelerce-uzaktaki-birini-sevmek_227744.jpg"
 ---
 
 If you are looking for Birini Çok Sevmek - YouTube you've visit to the right page. We have 9 Images about Birini Çok Sevmek - YouTube like kilometrelerce uzaktaki birini sevmek - uludağ sözlük, “Sevmek, birini bulmak veya kazanmak değil… Bir başkasında kendini and also Borderline Kişilik Bozukluğu Olan Birini Sevmek Shari Y. Manning. Read more:

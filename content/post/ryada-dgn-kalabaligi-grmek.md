@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Istanbul kalabaligi"
-date: "2023-05-24"
+description: "İstanbul’daki metro kalabalığı isyan ettirdi: ‘her şey çok güzel oluyor"
+date: "2023-03-31"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i20.haber7.net/resize/1280x720/fotogaleri/haber7/album/ofkeli_kalabaligi_durduran_ana_askeri_taslatmadi_1419836179_0388.jpg"
-featuredImage: "https://images.bursadabugun.com/haber/2021/02/28/1389379-taciz-iddiasini-duyan-koyluler-toplandi-kalabaligi-jandarma-dagitti-603be8ef81d3c.jpg"
+- "https://www.anadolunettv.com/d/r/2022/12/sezonu-acan-erciyeste-hafta-sonu-kalabaligi.jpg"
+featuredImage: "https://i.pinimg.com/736x/d1/4b/b6/d14bb6ef5e355209c71f74e84c009b2b--turkish-delight-istanbul.jpg"
 featured_image: "https://cdn.yeniakit.com.tr/images/news/625/istanbuldaki-metro-kalabaligi-isyan-ettirdi-her-sey-cok-guzel-oluyor-mu-h1664877328-379e7b.png"
-image: "https://images.bursadabugun.com/haber/2021/02/28/1389379-taciz-iddiasini-duyan-koyluler-toplandi-kalabaligi-jandarma-dagitti-603be8ef81d3c.jpg"
+image: "https://i20.haber7.net/resize/1280x720/fotogaleri/haber7/album/ofkeli_kalabaligi_durduran_ana_askeri_taslatmadi_1419836179_0388.jpg"
 ---
 
 If you are searching about Istanbul kalabaligi you've came to the right place. We have 9 Images about Istanbul kalabaligi like Istanbul kalabaligi, Öfkeli kalabalığı durduran ana, askeri taşlatmadı! - Resim 1 and also Istanbul kalabaligi. Here you go:

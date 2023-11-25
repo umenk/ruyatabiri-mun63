@@ -1,12 +1,12 @@
 ---
 title: ""
-description: "Deutz f6l 413 r (5 8865514) cylinder block for deutz f6l 413 r truck"
-date: "2023-11-20"
+description: "Gülşen ve ozan çolakoğlu eti̇ler&#039;de"
+date: "2023-03-10"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.pinimg.com/originals/9b/cf/01/9bcf0108bbdbbe1d6fcbe60d41fc630b.jpg"
-featuredImage: "https://www.hondacengkareng.com/wp-content/uploads/2016/03/SPARK-PLUG-U22FSU-DS.jpg"
+- "https://i2.milimaj.com/i/milliyet/75/0x0/61263c7b86b247254c83614e.jpg"
+featuredImage: "https://i2.milimaj.com/i/milliyet/75/0x0/61263c7b86b247254c83614e.jpg"
 featured_image: "https://i2.milimaj.com/i/milliyet/75/0x0/61263c7b86b247254c83614e.jpg"
 image: "https://cdn.ucankus.com/img/fotogaleri/gulsen-sli2.jpg"
 ---

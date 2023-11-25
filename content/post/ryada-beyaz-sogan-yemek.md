@@ -1,9 +1,9 @@
 ---
 title: ""
-description: "Sogan yemek maraqli video😂😂"
-date: "2022-12-08"
+description: "Aci sogan yemek cezali (gulmeme challenge)"
+date: "2023-08-03"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
 - "https://www.gurmeninsepeti.com/Uploads/UrunResimleri/buyuk/beyaz-gumus-sogan-kg--a632-.jpg"
 featuredImage: "https://st2.myideasoft.com/idea/ge/77/myassets/products/270/beyaz-sogan-tohumu.jpg?revision=1591133462"

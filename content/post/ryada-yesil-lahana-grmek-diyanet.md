@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Yeşil mercimekli lahana sarması tarifi, nasıl yapılır?"
-date: "2023-02-02"
+description: "1 büyük yaprak yeşil lahana kaç kalori?"
+date: "2023-01-03"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://www.intfarming.com/blog/wp-content/uploads/2021/01/beyaz-lahana-yetistiriciligi.jpg"
-featuredImage: "https://www.yesilrehber.com/wp-content/uploads/2021/09/lahana-tursusunun-faydalari-nelerdir.jpg"
-featured_image: "https://i.ytimg.com/vi/iAiwZ_8jcgY/maxresdefault.jpg"
-image: "https://i.ytimg.com/vi/iAiwZ_8jcgY/maxresdefault.jpg"
+- "https://www.kackalori.com.tr/Uploads/Kaloriler/1-kase-kiyilmis-yesil-lahana.jpg"
+featuredImage: "http://www.kackalori.com.tr/Uploads/Kaloriler/1-buyuk-yaprak-yesil-lahana.jpg"
+featured_image: "http://www.kackalori.com.tr/Uploads/Kaloriler/1-buyuk-yaprak-yesil-lahana.jpg"
+image: "https://flashresim.com/blog/wp-content/uploads/2020/07/Beyaz-Lahananın-Faydası.jpg"
 ---
 
 If you are looking for Lahana Turşusunun Faydaları Nelerdir? - Yesil Rehber you've came to the right page. We have 9 Pics about Lahana Turşusunun Faydaları Nelerdir? - Yesil Rehber like Beyaz Lahana Tohumu Hangi Ayda Ekilmelidir. Kesin Çözümü Sitemizde., Yeşil Mercimekli Lahana Sarması Tarifi, Nasıl Yapılır? - Yemek.com and also Lahana Turşusunun Faydaları Nelerdir? - Yesil Rehber. Read more:

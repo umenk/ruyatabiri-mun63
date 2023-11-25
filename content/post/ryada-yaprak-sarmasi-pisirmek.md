@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Yaprak turkish stuffed kitchen leaves grape olive oil rice vine"
-date: "2023-10-23"
+description: "Lezzetli sanatlar: zeyti̇nyağli yaprak sarmasi"
+date: "2023-10-17"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "http://4.bp.blogspot.com/-ttf2jIMFqEo/URQNpA2QPtI/AAAAAAAAEOQ/vmCJcbpbSDU/s1600/DSC03789kopya.jpg"
-featuredImage: "https://1.bp.blogspot.com/-KiPqJOq4Xcs/URT0euHe3BI/AAAAAAAAHTw/LQQLOj40XYY/s1600/IMG_5545.JPG"
-featured_image: "https://3.bp.blogspot.com/-N6aBFp-Yxfc/WQXG4kvTlwI/AAAAAAAAEHg/xEVvYskclykJTjVoFHjGFJaQ631qG9dZACLcB/s1600/Yaprak%2Bsarmasi%2B%25288-04%2529%2B2.jpg"
-image: "https://1.bp.blogspot.com/-KiPqJOq4Xcs/URT0euHe3BI/AAAAAAAAHTw/LQQLOj40XYY/s1600/IMG_5545.JPG"
+- "https://1.bp.blogspot.com/_MqeaOOMVJZI/S3Ft9vl3h2I/AAAAAAAAA5M/3OuSqJQmRC0/s640/sarma5.jpg"
+featuredImage: "https://i.ytimg.com/vi/LcRNRueqHpY/maxresdefault.jpg"
+featured_image: "http://4.bp.blogspot.com/-ttf2jIMFqEo/URQNpA2QPtI/AAAAAAAAEOQ/vmCJcbpbSDU/s1600/DSC03789kopya.jpg"
+image: "https://i.pinimg.com/originals/ad/24/77/ad247714d504a8332be680b661eb4ea6.jpg"
 ---
 
 If you are searching about ZEYTİNYAĞLI YAPRAK SARMASI - YouTube you've came to the right web. We have 9 Pics about ZEYTİNYAĞLI YAPRAK SARMASI - YouTube like NURLUMUTFAKTA !!!: ZEYTİNYAĞLI YAPRAK SARMASI, Zeytinyağlı Yaprak Sarması Tarifi - PembeSoğan - Yemek Tarifleri and also Zeytinyağli Yaprak sarmasi..... - YouTube. Read more:

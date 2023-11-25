@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Eli̇mi̇ isirmaya çalişiyor yaramaz 😁😁😁#shorts"
-date: "2023-05-22"
+description: "Team garchomp team zacian cp3213"
+date: "2022-12-28"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/TNZU5fEG6nY/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4AYgCgALgA4oCDAgAEAEYZSBlKGUwDw==&amp;rs=AOn4CLBLQ8u2Kg81oa1_i_C3Ngqyx4L3Vw"
-featuredImage: "https://pbs.twimg.com/media/FxzBh6uXsAI7qHQ.jpg"
-featured_image: "https://i.ytimg.com/vi/a5xT4tkQX-Y/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBgKEkwDw==&amp;rs=AOn4CLDGFxqQRvJpIAytH9tizHCpX96lxg"
+- "https://media.kunduz.com/media/question/seo/raw/20220331133147051417-4486360_sWeZIDSFi.jpg?h=512"
+featuredImage: "https://i.ytimg.com/vi/Qx9GBryN25Q/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYFyBeKH8wDw==&amp;rs=AOn4CLBA-BTB1h8V8v7o6Ol_UJx7GHSy1w"
+featured_image: "https://i.ytimg.com/vi/H2fAEMesIjo/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXyhTMA8=&amp;rs=AOn4CLCJYSghky0o-ilndxvg6fCYAda1ug"
 image: "https://media.kunduz.com/media/question/seo/raw/20220331133147051417-4486360_sWeZIDSFi.jpg?h=512"
 ---
 

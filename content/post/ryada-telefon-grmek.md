@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "G-shock outdoor-telefon: design ist für weicheier"
-date: "2023-01-18"
+description: "Team garchomp team zacian cp3213"
+date: "2023-06-15"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://www.kath-winterthur.ch/sites/default/files/styles/galerie_gross/public/personen/Cornelia_Schnydrig.jpg?itok=etMPdnFF"
-featuredImage: "https://www.kath-winterthur.ch/sites/default/files/styles/galerie_gross/public/personen/Cornelia_Schnydrig.jpg?itok=etMPdnFF"
-featured_image: "https://www.kath-winterthur.ch/sites/default/files/styles/galerie_gross/public/personen/Cornelia_Schnydrig.jpg?itok=etMPdnFF"
+- "https://s13emagst.akamaized.net/products/28028/28027043/images/res_ceb0a002f8e509c9eb6e73872124bfb7.jpg"
+featuredImage: "https://i.ebayimg.com/images/g/ExYAAOSwoZJb29yC/s-l400.jpg"
+featured_image: "https://i.ebayimg.com/images/g/ExYAAOSwoZJb29yC/s-l400.jpg"
 image: "https://i.ebayimg.com/images/g/ExYAAOSwoZJb29yC/s-l400.jpg"
 ---
 

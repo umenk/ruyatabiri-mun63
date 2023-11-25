@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Uncharted 4: bi̇r hirsizin sonu"
-date: "2023-02-08"
+description: "Uncharted 4 fi̇nal bi̇r hirsizin sonu"
+date: "2023-05-01"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/lteqO5FztNc/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gQSgvMA8=&amp;rs=AOn4CLC_0Wl91sty8tp7fcz8kkfrJ1E6kA"
-featuredImage: "https://i.ytimg.com/vi/qQbPR3SKuIk/maxresdefault.jpg"
-featured_image: "https://i.ytimg.com/vi/g3fDZIyxyxg/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFMgZShCMA8=&amp;rs=AOn4CLDOLV6GtPHgejKWN8JOw2Gk15wFcQ"
-image: "https://i.ytimg.com/vi/lteqO5FztNc/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gQSgvMA8=&amp;rs=AOn4CLC_0Wl91sty8tp7fcz8kkfrJ1E6kA"
+- "https://i.ytimg.com/vi/g08T-86uml4/maxresdefault.jpg"
+featuredImage: "https://pbs.twimg.com/media/Fcyada8X0AANSFu.jpg"
+featured_image: "https://i.ytimg.com/vi/qQbPR3SKuIk/maxresdefault.jpg"
+image: "https://i.ytimg.com/vi/fHjNRxR8U4g/maxresdefault.jpg"
 ---
 
 If you are searching about UNCHARTED 4: BİR HIRSIZIN SONU | BÖLÜM #7 | GÖZE GÖRÜNMEZ AMA GÖZ you've visit to the right place. We have 9 Images about UNCHARTED 4: BİR HIRSIZIN SONU | BÖLÜM #7 | GÖZE GÖRÜNMEZ AMA GÖZ like HIRSIZIN ARKASINDAN BAKAKALDILAR! - YouTube, HIRSIZIN ÜZERİNE ATLADI! - YouTube and also BİR HIRSIZIN SONU! | Uncharted 4: 6.Bölüm (Hırsızlığı bir kez yapan. Read more:

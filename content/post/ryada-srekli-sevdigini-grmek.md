@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Beni̇ sevdi̇gi̇ni̇ söyledi̇gi̇ anda verdi̇gi̇m tepki̇i̇ #shorts jalebi baby gene"
-date: "2023-06-24"
+description: "Emojilerle bni ne kadar sevdigini anlat-z #keşfet #eating"
+date: "2023-01-01"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/IT25I81jSNM/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4Ad4DgALgA4oCDAgAEAEYZSBRKEAwDw==&amp;rs=AOn4CLBBDsOwXPUToQmHgrLXzg9zxEcm5g"
-featuredImage: "https://i.ytimg.com/vi/IT25I81jSNM/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4Ad4DgALgA4oCDAgAEAEYZSBRKEAwDw==&amp;rs=AOn4CLBBDsOwXPUToQmHgrLXzg9zxEcm5g"
-featured_image: "https://i.ytimg.com/vi/nwvuAgcJH3g/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AZQDgALQBYoCDAgAEAEYZSBcKFAwDw==&amp;rs=AOn4CLBOdW5FRzlfQD5g6ziVAIgB_OmwTA"
-image: "https://i.ytimg.com/vi/nwvuAgcJH3g/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AZQDgALQBYoCDAgAEAEYZSBcKFAwDw==&amp;rs=AOn4CLBOdW5FRzlfQD5g6ziVAIgB_OmwTA"
+- "https://i.ytimg.com/vi/TqzoiYTGB0s/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgWShNMA8=&amp;rs=AOn4CLA5fEFLcANM5AS4QK6fPQ1ksenmAw"
+featuredImage: "https://pbs.twimg.com/media/Fcyada8X0AANSFu.jpg"
+featured_image: "https://i.ytimg.com/vi/VxYYqTBgA5k/maxresdefault.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBZKEowDw==&amp;rs=AOn4CLAeWCTtzMKBwflksFc39-kbyfqp5g"
+image: "https://i.ytimg.com/vi/VxYYqTBgA5k/maxresdefault.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBZKEowDw==&amp;rs=AOn4CLAeWCTtzMKBwflksFc39-kbyfqp5g"
 ---
 
 If you are looking for BENİ SEVDİGİNİ SÖYLEDİGİ ANDA VERDİGİM TEPKİİ #shorts Jalebi Baby Gene you've visit to the right page. We have 9 Pics about BENİ SEVDİGİNİ SÖYLEDİGİ ANDA VERDİGİM TEPKİİ #shorts Jalebi Baby Gene like aglayan Göz sevdigini ister - YouTube, Kareena Kapoor Khan's tweet - "Ekta Kapoor to co-produce Rajesh and also Kareena Kapoor Khan's tweet - "Ekta Kapoor to co-produce Rajesh. Here it is:

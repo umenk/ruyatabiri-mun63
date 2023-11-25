@@ -1,14 +1,14 @@
 ---
 title: ""
 description: "Mevsimsiz kar"
-date: "2023-04-01"
+date: "2022-11-28"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
 - "https://i.ytimg.com/vi/w8QAHqyt56o/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHIAYAC6AKKAgwIABABGGUgXShNMA8=&amp;rs=AOn4CLDX6yLOYaZOlfVxHrS6AqfprrqTgg"
-featuredImage: "https://i.ytimg.com/vi/G5uJy4uZQkk/maxresdefault.jpg"
+featuredImage: "https://i.ytimg.com/vi/lEKfMIL0f64/maxresdefault.jpg"
 featured_image: "https://i.ytimg.com/vi/4oqxeGA2h80/maxresdefault.jpg"
-image: "https://i.ytimg.com/vi/aDj-qlzT7eE/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgVShHMA8=&amp;rs=AOn4CLDZegLgW9LNnCdIk5zywK8U-AUC9A"
+image: "https://i.ytimg.com/vi/y_SkL25fZKQ/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHEBoAC4AOKAgwIABABGEIgWShyMA8=&amp;rs=AOn4CLAsPNpo2LuBu9ddGalIzl0L1G3Heg"
 ---
 
 If you are looking for Mevsimsiz Kar - YouTube you've visit to the right page. We have 9 Pics about Mevsimsiz Kar - YouTube like Mevsimsiz Kar - YouTube, Mevsimsiz Kar - Ali Bülent - YouTube and also mevsimsiz kar yağar - YouTube. Here it is:

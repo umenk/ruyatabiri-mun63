@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Kıyamet alametleri nelerdir? diyanet kıyametin tüm alametleri: deccal"
-date: "2023-02-26"
+description: "Kıyametin kopacağını bilseniz bile elinizdeki fidanı dikiniz"
+date: "2023-09-21"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/QWC1xwf4yAk/maxresdefault.jpg"
-featuredImage: "https://i.ytimg.com/vi/ZQQLCz6huMc/maxresdefault.jpg"
-featured_image: "https://i.ytimg.com/vi/VFM8K0UKE_A/maxresdefault.jpg"
+- "https://i.medyafaresi.com/2/630/354/files/2020/11/1/951024/diyanet-isleri-baskani-erbas-ey-insanlar-olume-hazir-olun-deprem-kiyametin-alistirmasidir_j9rY.jpg"
+featuredImage: "https://diyanethabercomtr.teimg.com/diyanethaber-com-tr/images/haberler/2018/12/kiyametin_tellallari_h2950_ff05b.jpg"
+featured_image: "https://i.ytimg.com/vi/ZQQLCz6huMc/maxresdefault.jpg"
 image: "https://i.ytimg.com/vi/EadieKuPF6s/maxresdefault.jpg"
 ---
 

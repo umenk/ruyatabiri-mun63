@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Tikali tuvalet klozet nasil açilir?"
-date: "2023-04-08"
+description: "İzmir tesisatçı 0555 865 61 12: tikali klozet açma"
+date: "2022-12-11"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/GJqklBbDHzk/maxresdefault.jpg"
-featuredImage: "https://i.ytimg.com/vi/GJqklBbDHzk/maxresdefault.jpg"
-featured_image: "https://www.canaltyapitesisat.com/wp-content/uploads/2022/09/WhatsApp-Image-2022-09-25-at-23.38.22-225x300.jpeg"
+- "https://www.canaltyapitesisat.com/wp-content/uploads/2022/09/WhatsApp-Image-2022-09-13-at-14.48.49-1-768x554.jpeg"
+featuredImage: "https://www.canaltyapitesisat.com/wp-content/uploads/2022/09/WhatsApp-Image-2022-09-13-at-14.48.49-1-768x554.jpeg"
+featured_image: "https://i.ytimg.com/vi/iUaBPHilMVA/maxresdefault.jpg"
 image: "https://i.ytimg.com/vi/GJqklBbDHzk/maxresdefault.jpg"
 ---
 

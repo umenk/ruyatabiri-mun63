@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Kayısı toplamak için çıktığı ağaçtan düşerek öldü"
-date: "2023-05-31"
+description: "Rüyada asma yaprağı görmek, toplamak, yemek"
+date: "2023-02-03"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/_rZ0Nevl1Og/maxresdefault.jpg"
-featuredImage: "https://i12.haber7.net/haber/haber7/photos/2022/27/kayisi_toplamak_isterken_canindan_oldu_1657283991_7779.jpg"
-featured_image: "https://i.ytimg.com/vi/0QcoDHcgu6E/maxresdefault.jpg"
+- "https://i.ytimg.com/vi/0QcoDHcgu6E/maxresdefault.jpg"
+featuredImage: "https://1001ruya.com/wp-content/uploads/Ruyada-cilek-Gormek-Ruyada-cilek-Yemek-cilek-Toplamak-ne-demek-diyanet-1024x576.jpg"
+featured_image: "https://i12.haber7.net/haber/haber7/photos/2022/27/kayisi_toplamak_isterken_canindan_oldu_1657283991_7779.jpg"
 image: "http://www.gunhaber.com.tr/haber_resim/Kayisi-toplamak-icin-ciktigi-agactan-duserek-oldu-504211.jpg"
 ---
 

@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Fcs フィン交換 fcs k-3 performancecore"
-date: "2022-12-07"
+description: "Fcs k5400"
+date: "2022-12-25"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://stat.ameba.jp/user_images/20110210/16/earlygirl/77/54/j/o0600039911038963424.jpg?caw=800"
+- "https://www.yavuzmakina.com/plugins/plg_watermark/view.php?t=p&amp;img=28820fcs-k5400-11kf----4-covers.jpg"
 featuredImage: "https://www.yavuzmakina.com/plugins/plg_watermark/view.php?t=p&amp;img=28820fcs-k5400-11kf----4-covers.jpg"
-featured_image: "https://i.ytimg.com/vi/HYLCwcE-Dgc/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYRSBHKGUwDw==&amp;rs=AOn4CLC_ulBvmvqa2cf2uT56Qfk3FCYaDA"
+featured_image: "https://pbs.twimg.com/media/Fcyada8X0AANSFu.jpg"
 image: "https://i.ytimg.com/vi/HYLCwcE-Dgc/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYRSBHKGUwDw==&amp;rs=AOn4CLC_ulBvmvqa2cf2uT56Qfk3FCYaDA"
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Van&#039;da fotoğraf sergisi"
-date: "2022-12-31"
+description: "Fü fotoğraf yarışmasının sonuçları açıklandı"
+date: "2023-02-10"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://www.diyadinnet.com/img/2021/10/van-fotograf-sanatcisi-10-yil-onceki-kareleriyle-depremzedeleri-duygulandirdi.jpg"
-featuredImage: "https://www.diyadinnet.com/img/2022/05/mus-a-gelen-fotograf-tutkunlari-kentin-guzelliklerini-goruntuledi.jpg"
-featured_image: "https://www.diyadinnet.com/img/2022/02/van-da-fotograf-sergisi.jpg"
-image: "https://www.diyadinnet.com/img/2022/05/mus-a-gelen-fotograf-tutkunlari-kentin-guzelliklerini-goruntuledi.jpg"
+- "https://www.diyadinnet.com/img/2022/02/van-da-fotograf-sergisi.jpg"
+featuredImage: "https://www.diyadinnet.com/d/news/fu-fotograf-yarismasinin-sonuclari-aciklandi-54074.jpg"
+featured_image: "https://www.diyadinnet.com/d/news/fu-fotograf-yarismasinin-sonuclari-aciklandi-54074.jpg"
+image: "https://www.diyadinnet.com/img/2022/02/van-da-fotograf-sergisi.jpg"
 ---
 
 If you are searching about Elazığ'da "tarım orman ve i̇nsan" fotoğraf sergisi açıldı | Elazığ you've came to the right web. We have 9 Pictures about Elazığ'da "tarım orman ve i̇nsan" fotoğraf sergisi açıldı | Elazığ like Muş'a gelen fotoğraf tutkunları kentin güzelliklerini görüntüledi | Muş, Tunceli'nin karla kaplı zirveleri trekking ve fotoğraf tutkunlarını and also Fotoğraf sanatçısı 10 yıl önceki kareleriyle depremzedeleri. Read more:

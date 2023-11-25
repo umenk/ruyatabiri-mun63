@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Uyuyan nakliyeci"
-date: "2023-05-20"
+description: "Dolandırıcıların kıskacındaki nakliyeci esnafı çözüm bekliyor"
+date: "2023-07-04"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/g-t07lKjQA4/maxresdefault.jpg"
-featuredImage: "https://cdn.emlakkulisi.com/resim/orjinal/MTU2MDY2OT-sultangazide-ev-sahibi-ve-nakliyeci-arasinda-kavga-cikti.jpg"
-featured_image: "https://i.ytimg.com/vi/g-t07lKjQA4/maxresdefault.jpg"
-image: "https://apollo-ireland.akamaized.net/v1/files/2kdycx3sci4g1-OLXAUTOTR/image"
+- "https://cdn.emlakkulisi.com/resim/orjinal/MTU2MDY2OT-sultangazide-ev-sahibi-ve-nakliyeci-arasinda-kavga-cikti.jpg"
+featuredImage: "https://apollo-ireland.akamaized.net/v1/files/vxjs4g3s97ng3-OLXAUTOTR/image"
+featured_image: "https://apollo-ireland.akamaized.net/v1/files/2kdycx3sci4g1-OLXAUTOTR/image"
+image: "https://apollo-ireland.akamaized.net/v1/files/vxjs4g3s97ng3-OLXAUTOTR/image"
 ---
 
 If you are searching about Polat Nakliyeci Sefer'i Öldürüyor - Kurtlar Vadisi - YouTube you've came to the right place. We have 9 Pics about Polat Nakliyeci Sefer'i Öldürüyor - Kurtlar Vadisi - YouTube like Nakliyeci - Mobilya - 1624271472, Kurtlar Vadisi / Polat Nakliyeci Sefer'i Öldürüyor - 13.Bölüm / Full HD and also Dolandırıcıların kıskacındaki nakliyeci esnafı çözüm bekliyor - YouTube. Here you go:

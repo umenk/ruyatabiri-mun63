@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Rüyada ölüden bir şey almak veya vermek ne demek? diyanet tabiri"
-date: "2023-05-24"
+description: "Türkiye diyanet vakfı on twitter: &quot;“müslüman, dilinden ve elinden diğer"
+date: "2023-08-26"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/_tfr0xPn7xo/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgVihMMA8=&amp;rs=AOn4CLCFUAxvs5ZKP7JIhBdrKAMOgZxr3g"
-featuredImage: "https://i.ytimg.com/vi/9tFEptF9EPk/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYICBAKH8wDw==&amp;rs=AOn4CLAGLUr4unoEp1qFQcLGqS1G8gIYtQ"
-featured_image: "https://pbs.twimg.com/media/DvIDF7hWoAAxQEi.jpg:large"
+- "https://1001ruyatabiri.com/wp-content/uploads/2019/11/ruyada-olu-gormek-ruyada-olum-gormek-oldugunu-gormek-olunun-dirilmesi-olmus-birini-gormek-oldugunu-gormek-annenin-babanin-cocugunun.jpg"
+featuredImage: "https://pbs.twimg.com/media/Fcyada8X0AANSFu.jpg"
+featured_image: "https://static.daktilo.com/sites/230/uploads/2022/02/01/attachment-46425-0-a8932e1c930f13e6d57ad91789a7fc24-1643748994-1643759100.jpeg"
 image: "https://1001ruyatabiri.com/wp-content/uploads/2019/06/Ruyada-yilan-Gormek-Ne-Demek-Diyanet-Ruya-Tabirleri-dini-islami-diyanet-ruya-tabirleri-sozlugu-ansiklopedisi.jpg?v=1576778791"
 ---
 

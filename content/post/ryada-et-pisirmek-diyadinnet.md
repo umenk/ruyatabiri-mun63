@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Saray&#039;da selden etkilenen mahallelerde çalışmalar sürüyor"
-date: "2023-06-19"
+description: "Van&#039;da selden etkilenen mahallelerde çalışmalar sürüyor"
+date: "2023-04-30"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://www.diyadinnet.com/img/2021/08/gurpinar-da-selden-etkilenen-mahallelerde-calismalar-suruyor.jpg"
-featuredImage: "https://www.diyadinnet.com/img/2021/08/saray-da-selden-etkilenen-mahallelerde-calismalar-suruyor.jpg"
-featured_image: "https://www.diyadinnet.com/img/2021/08/gurpinar-da-selden-etkilenen-mahallelerde-calismalar-suruyor.jpg"
-image: "https://i.ytimg.com/vi/O9JnRetd4_U/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AGGAoAC4AOKAgwIABABGGUgXShRMA8=&amp;rs=AOn4CLDKt2fXpCsbZV2mI8ik0DYSR7sIOQ"
+- "https://www.diyadinnet.com/img/2021/07/van-buyuksehir-belediyesi-selden-etkilenen-mahallelerde-calismalarini-surduruyor.jpg"
+featuredImage: "https://i.ytimg.com/vi/AFLJxTPKnPU/hqdefault.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYfyAhKBMwDw==&amp;rs=AOn4CLCbKlCsrK_RglEK9ed9-0ogE0RYyw"
+featured_image: "https://i.pinimg.com/736x/2c/21/7f/2c217fc9cbb5331595ba56c189e7e921.jpg"
+image: "https://www.diyadinnet.com/img/2021/08/saray-da-selden-etkilenen-mahallelerde-calismalar-suruyor.jpg"
 ---
 
 If you are searching about Gürpınar'da selden etkilenen mahallelerde çalışmalar sürüyor - Van you've came to the right web. We have 9 Pics about Gürpınar'da selden etkilenen mahallelerde çalışmalar sürüyor - Van like Rüyada Kabak Yemek, Pişirmek Ne Demek, Neye yorumlanır? | Diyadinnet, toprak testide et pisirmek / cooking meat in a clay vase 🥩 #natural and also Rüyada Kabak Yemek, Pişirmek Ne Demek, Neye yorumlanır? | Diyadinnet. Read more:

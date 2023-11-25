@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Papagan wallpaper by brf14"
-date: "2023-04-25"
+description: "2 tane sultan papagan"
+date: "2022-12-30"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://nettepet.com/uploads/ajax/2022/12/27/20221227_200538-63AB3BCBA5A5F.jpg"
-featuredImage: "https://fsb.zobj.net/crop.php?r=Yc-GkBmN8sZFXbUQEhq6FF9gQNW6NqBWB0iNKNilwAbqLqmqrNcg6lZT0tUVAGRqygb64x3aAmsdKoazsvgm8Zgr2-2Rl55clUh_BB3K3g5x4QeepaF5fz33RmX1DWeLjl9k4HfDCwDuh5A5XwuBIZp8GIeHyecA6FPiZZ71MHNeOWqVqOWLxTw7bAC9-O4Bt05LLQUet9gDMzJj"
-featured_image: "https://i.ytimg.com/vi/gVMb2efoLtI/maxresdefault.jpg"
-image: "https://i.ytimg.com/vi/euhP2aWMV4k/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4Ad4EgAK4CIoCDAgAEAEYZSBlKGUwDw==&amp;rs=AOn4CLCfnuiU-8_xGXp4g5a3GS8_ILmesg"
+- "https://i.ytimg.com/vi/MFEDduiDbrE/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYZSBlKGUwDw==&amp;rs=AOn4CLBx2lSUBxniR3B9ie13yfu8620p4g"
+featuredImage: "https://i.ytimg.com/vi/YUwhdD5SCG0/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYciBdKEYwDw==&amp;rs=AOn4CLA98uDfcQbuOrkktCyn773PUjG--g"
+featured_image: "https://i.ytimg.com/vi/MFEDduiDbrE/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYZSBlKGUwDw==&amp;rs=AOn4CLBx2lSUBxniR3B9ie13yfu8620p4g"
+image: "http://static.memnuniyet.net/Content/Images/Big/7e77ced8bf704c65afad020963cdf4a0.jpeg"
 ---
 
 If you are looking for Papagan Cekirdekleri - cemkubat papağan kuruyemiş yorumu - Memnuniyet.net you've came to the right page. We have 9 Pictures about Papagan Cekirdekleri - cemkubat papağan kuruyemiş yorumu - Memnuniyet.net like 500 tane mucevher baligi yavrusu, papagan baligi - YouTube, 2 tane sultan papagan - Nettepet.com and also Arroyo Profiles - Adam Papagan &amp; Charles Winners - March 2019 - YouTube. Here you go:

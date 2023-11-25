@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Hostel&#039;de tanıştığım yerli kadin beni evine davet etti!!"
-date: "2023-10-17"
+description: "Misafir dizisi 2. bölüm yayınlandı: misafir 2. bölüm izle"
+date: "2023-06-07"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://cdn.haberlerankara.com/gallery/2021/11/8098422/eve-misafir-gelmesi-3-1635925560.jpg"
-featuredImage: "https://cdn.haberlerankara.com/gallery/2021/11/8098422/eve-misafir-gelmesi-3-1635925560.jpg"
-featured_image: "https://i.ytimg.com/vi/4GpZijK1ssA/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgQShYMA8=&amp;rs=AOn4CLAacJiREYWShUP-Fz-idrNKiiJD9A"
+- "https://www.modafirsat.com.tr/Uploads/UrunResimleri/siyah-cini-kadin-ev-terligi-kislik-kap-5a-876.jpg"
+featuredImage: "https://cdn.haberlerankara.com/gallery/2021/11/8098422/eve-misafir-gelmesi-2-1635925553.jpg"
+featured_image: "https://cdn.haberlerankara.com/gallery/2021/11/8098422/eve-misafir-gelmesi-4.jpg"
 image: "https://i.ytimg.com/vi/4GpZijK1ssA/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgQShYMA8=&amp;rs=AOn4CLAacJiREYWShUP-Fz-idrNKiiJD9A"
 ---
 

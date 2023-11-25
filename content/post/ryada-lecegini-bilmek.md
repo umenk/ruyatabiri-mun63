@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Haddini bilmek"
-date: "2023-08-06"
+description: "Bilmek i̇le i̇lgili sözler"
+date: "2023-01-02"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
 - "https://live.staticflickr.com/1917/30213169737_e69ed89812.jpg"
-featuredImage: "https://live.staticflickr.com/1917/30213169737_e69ed89812.jpg"
-featured_image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9cEmAUxYKvnDmax7GjGcSRn1_LZkUHYTXVSXLkcnG298xB6rYPEMzsAh-tZd0r7TNVf5QjnIL52OdUuA9aIolb-uRAhP43J4OKKDTdtAAggNpQkR_bXWxQqdcfUb26UH4VUveTBwbUoJ48QpomFXM5ri669u-U0cOSAwKY-76dmlKtXg9FxMvkpVIog/s601/sihhat-afiyet.png"
+featuredImage: "https://i.ytimg.com/vi/_n6ZkTLWL5U/maxresdefault.jpg"
+featured_image: "https://i.ytimg.com/vi/aAo4vxMrgOA/maxresdefault.jpg"
 image: "https://i.ytimg.com/vi/aAo4vxMrgOA/maxresdefault.jpg"
 ---
 

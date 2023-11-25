@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Eski diyanet i̇şleri başkanı: dinin gündemde olması dindar toplum"
-date: "2022-12-13"
+description: "Eski diyanet başkanı görmez: siyasetin günahları, cinsel bütün"
+date: "2023-01-22"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/XP7_KxZi0sw/maxresdefault.jpg"
-featuredImage: "https://i.internethaber.com/2/1280/800/storage/files/images/2020/04/20/mehmet-gormez-AzV0_cover.jpg"
-featured_image: "https://tevfikileriihl.meb.k12.tr/meb_iys_dosyalar/06/25/123264/resimler/2022_06/k_14195947_PHOTO-2022-06-13-22-31-30.jpg"
-image: "https://jurnalci.com/wp-content/uploads/2021/07/eski-diyanetisleri-bskani-17.07.2021-jurnalci.com_.png"
+- "https://tevfikileriihl.meb.k12.tr/meb_iys_dosyalar/06/25/123264/resimler/2022_06/k_14195947_PHOTO-2022-06-13-22-31-30.jpg"
+featuredImage: "https://images.bursadabugun.com/haber/2020/07/13/1312514-diyanet-isleri-baskani-erbas-eski-kudus-muftusu-sabri-ile-gorustu-5f0ca4fda3a02.jpg"
+featured_image: "https://tele1.com.tr/wp-content/uploads/2020/05/Untitled-1-59.jpg"
+image: "https://tele1.com.tr/wp-content/uploads/2020/05/Untitled-1-59.jpg"
 ---
 
 If you are searching about Eski Diyanet İşleri Başkanı: Dinin Gündemde Olması Dindar Toplum you've visit to the right place. We have 9 Pictures about Eski Diyanet İşleri Başkanı: Dinin Gündemde Olması Dindar Toplum like Görevden alınan eski Diyanet İşleri Başkanı: Koronavirüse karşı çareyi, Eski Diyanet İşleri Başkanı'ndan ramazan tavsiyeleri and also Disleri gedik kaynanayi bide boyle dinleyin - YouTube. Here it is:

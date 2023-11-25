@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Begüm birgören evlenenler kervanına katıldı gelinlikle poz verdi! eşi"
-date: "2022-12-22"
+description: "Rüyada arkadaşını gelinlikle görmek ne anlama gelir?"
+date: "2023-02-21"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://www.ruya.com/wp-content/uploads/rüyada-birini-gelinlikle-görmek.jpg"
-featuredImage: "https://www.diyadinnet.com/d/ruya/ruyada-arkadasini-gelinlikle-gormek-ne-anlama-gelir-432.jpg"
-featured_image: "https://i.pinimg.com/736x/bb/12/8b/bb128bf0b272168b3c6dff0e716fc5fc.jpg"
+- "https://i.ytimg.com/vi/36_sft8gBmM/maxresdefault.jpg"
+featuredImage: "https://i.ytimg.com/vi/p3G-reOd2hA/maxresdefault.jpg"
+featured_image: "https://i.internethaber.com/storage/files/images/2020/10/18/begumbirgoren-37819823-266966270761-TpbE.jpg"
 image: "https://i.internethaber.com/storage/files/images/2020/10/18/begumbirgoren-81245777-176841416996-V7bf.jpg"
 ---
 

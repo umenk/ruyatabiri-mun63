@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Söz konusu dolar olunca diyanet bile erdoğan&#039;a karşı..."
-date: "2023-09-25"
+description: "Hac fiyatları 2022 diyanet kişi başı kaç tl, dolar, riyal ne kadar oldu"
+date: "2022-12-26"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://abcgazetesi.com/d/news/106963.jpg"
-featuredImage: "https://bedirhaber.com/wp-content/uploads/2022/04/arabistn.jpg"
-featured_image: "https://i.sacitaslan.com/2/1280/720/storage/old/newsFiles/2015/3/10/230251/230251.jpg"
-image: "https://i.sonhaberler.com/storage/files/images/2022/06/02/annenin-sirridir-cocuk-2-GtHd.jpg"
+- "https://img.medyafaresi.com/rcman/Cw940h529q95gc/storage/old/files/2022/5/8/988402/diyanet-vakfi-dolar-saciyor-yurt-disi-temsilciliklerine-938-bin-dolar_MTFk.jpg"
+featuredImage: "https://bedavainternet.com.tr/wp-content/uploads/2022/04/Diyanet-Hac-Fiyati-Kac-Dolar.jpg"
+featured_image: "https://img.medyafaresi.com/rcman/Cw940h529q95gc/storage/old/files/2022/5/8/988402/diyanet-vakfi-dolar-saciyor-yurt-disi-temsilciliklerine-938-bin-dolar_MTFk.jpg"
+image: "https://i.medyafaresi.com/2/1280/720/storage/old/files/2021/12/27/978324/fatih-altayli-5-milyon-dolar-icin-diyanet-isleri-baskanimizi-korkutmayalim_G321.jpg"
 ---
 
 If you are searching about Diyanet Vakfı Dolar Saçıyor: Yurt Dışı Temsilciliklerine 938 Bin Dolar you've visit to the right place. We have 9 Pics about Diyanet Vakfı Dolar Saçıyor: Yurt Dışı Temsilciliklerine 938 Bin Dolar like Diyanet Hac Fiyatı Kaç Dolar - Diyanet, Diyanet Vakfı Dolar Saçıyor: Yurt Dışı Temsilciliklerine 938 Bin Dolar and also Fatih Altaylı: 5 Milyon Dolar İçin Diyanet İşleri Başkanımızı. Here it is:

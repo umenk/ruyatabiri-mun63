@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Zonguldak boş valiz, bompa paniğine neden oldu"
-date: "2023-03-09"
+description: "Boş valiz mahalleyi ayağa kaldırdı"
+date: "2023-05-12"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://takagazetecomtr.teimg.com/crop/1280x720/takagazete-com-tr/images/haberler/2017/10/bos_valiz_korku_yaratti_h169854_1fbe1.jpg"
-featuredImage: "https://i.haberler.com/haber/2011/03/07/konya-yol-kenarina-birakilan-bos-valiz-panik_amp.jpg"
-featured_image: "https://i.hbrcdn.com/haber/2013/03/06/funyeyle-patlatilan-valiz-bos-cikti-4396338_amp.jpg"
-image: "https://i.hbrcdn.com/haber/2014/11/14/bos-valiz-bompa-panigine-neden-oldu-6687654_x_amp.webp"
+- "https://i.haberler.com/haber/2011/03/07/konya-yol-kenarina-birakilan-bos-valiz-panik_amp.jpg"
+featuredImage: "https://i.hbrcdn.com/haber/2014/09/23/bos-valiz-bomba-panigi-yasatti-6514124_amp.jpg"
+featured_image: "https://i.hbrcdn.com/haber/2014/11/14/bos-valiz-bompa-panigine-neden-oldu-6687654_x_amp.webp"
+image: "https://hukukihabernet.teimg.com/hukukihaber-net/images/haberler/2019/02/supheli_valiz_bos_cikti.jpg"
 ---
 
 If you are looking for Boş Valiz, Bompa Paniğine Neden Oldu - Haberler you've visit to the right web. We have 9 Images about Boş Valiz, Bompa Paniğine Neden Oldu - Haberler like Boş Valiz, Bompa Paniğine Neden Oldu - Haberler, BOŞ VALİZ KORKU YARATTI - Taka Gazete - Trabzon Haber - Karadeniz Haber and also Fünyeyle Patlatılan Valiz Boş Çıktı - Haberler. Read more:

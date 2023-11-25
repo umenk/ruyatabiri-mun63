@@ -1,13 +1,13 @@
 ---
 title: ""
 description: "Seftali ( peach )"
-date: "2023-11-22"
+date: "2023-09-19"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/pkSvrrC4-VI/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBEgcig_MA8=&amp;rs=AOn4CLCqOnoxV_Bd6XXG0E3D0rvdaDwa9g"
-featuredImage: "http://farm5.static.flickr.com/4131/4836345749_56f79c94f7.jpg"
-featured_image: "https://www.bakkal.ae/Uploads/UrunResimleri/seftali-peach-500-gr--b1b1-.png"
+- "https://i.ytimg.com/vi/fslHEtImhEE/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gWSgqMA8=&amp;rs=AOn4CLDZiILb_rGjqNGVPrwwrWfpMmFLng"
+featuredImage: "https://www.bakkal.ae/Uploads/UrunResimleri/seftali-peach-500-gr--b1b1-.png"
+featured_image: "https://i.ytimg.com/vi/6fRdzk48L4g/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH0CYAC0AWKAgwIABABGGUgVihcMA8=&amp;rs=AOn4CLAnPH0168ixsf31akraePAZNyaH6g"
 image: "http://ruyameali.com/wp-content/uploads/2019/04/ruyada-seftali-almak.jpg"
 ---
 

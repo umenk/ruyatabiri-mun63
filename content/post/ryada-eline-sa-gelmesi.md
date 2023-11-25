@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Team garchomp team zacian cp3213"
-date: "2022-12-06"
+description: "Eline gelmesi gerekiyodu yanlis olmus #blackpink #fypシ #midzy #lisa #"
+date: "2023-05-06"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/HYLCwcE-Dgc/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYRSBHKGUwDw==&amp;rs=AOn4CLC_ulBvmvqa2cf2uT56Qfk3FCYaDA"
-featuredImage: "https://i.ytimg.com/vi/aBtBPkDZ0xQ/maxresdefault.jpg"
-featured_image: "https://i.ytimg.com/vi/aBtBPkDZ0xQ/maxresdefault.jpg"
+- "https://i.ytimg.com/vi/d1ApxWSkDI0/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AZQDgALQBYoCDAgAEAEYRSBFKGUwDw==&amp;rs=AOn4CLBhN9AY5hdHGq0JvNpdK0099egdSA"
+featuredImage: "https://i.ytimg.com/vi/wu9C9cmFXxU/maxresdefault.jpg"
+featured_image: "https://i.ytimg.com/vi/ppmCesDART4/hqdefault.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYfyAtKHswDw==&amp;rs=AOn4CLAWjMmbKo-OqEcVNlG3rtwXpSRoyg"
 image: "https://i.ytimg.com/vi/wu9C9cmFXxU/maxresdefault.jpg"
 ---
 

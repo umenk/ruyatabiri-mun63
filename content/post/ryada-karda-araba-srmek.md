@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Karda kayan araba kazalari // fren tutmaz buz yollar // beamng.drive"
-date: "2023-01-18"
+description: "Karda poşetle kayan kadınlara araba çarptı"
+date: "2023-06-27"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.internethaber.com/images/gallery/2683/4.jpg"
-featuredImage: "https://iasbh.tmgrup.com.tr/0edcc0/0/0/0/0/0/0?u=http://i.sabah.com.tr/sb/galeri/yasam/3571/83311.jpg&amp;mw=752&amp;mh=700"
-featured_image: "https://i.ytimg.com/vi/tXL_jDLnoyQ/maxresdefault.jpg"
-image: "https://i.internethaber.com/images/gallery/2683/4.jpg"
+- "https://i.ytimg.com/vi/tXL_jDLnoyQ/maxresdefault.jpg"
+featuredImage: "https://cdn.veryansintv.com/2023/02/04/kar1.jpg"
+featured_image: "https://i.ytimg.com/vi/MRCBNu_etaE/maxresdefault.jpg"
+image: "https://icdn.turkiyegazetesi.com.tr/images/haberler/2022_01/buyuk/karda-araba-itmek-kalp-krizi-sebebi-1643069963.jpg"
 ---
 
 If you are searching about Dikkat ! Karda nasıl araba kullanılır ? - Basgann you've visit to the right place. We have 9 Pics about Dikkat ! Karda nasıl araba kullanılır ? - Basgann like Karda Nasıl Araba Kullanılır?, KARDA KAYAN ARABA KAZALARI :D // BMW PERT OLDU // GTA 5 - YouTube and also Karda araba itmek kalp krizi sebebi - Türkiye Gazetesi. Here you go:

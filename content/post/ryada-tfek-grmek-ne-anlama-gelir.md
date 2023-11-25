@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Low code ne anlama gelir? : gencplatform.com"
-date: "2023-08-24"
+description: "Rüyada fil görmek ne anlama gelir"
+date: "2023-09-29"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://www.ilahirahmet.com/wp-content/uploads/2015/11/Rüyada-Asker-Görmek-Ne-Anlama-Gelir.jpg"
-featuredImage: "https://www.ilahirahmet.com/wp-content/uploads/2015/12/Rüyada-Fil-Görmek-Ne-Anlama-Gelir.jpg"
-featured_image: "https://i.ytimg.com/vi/GLt1g-FcFek/maxresdefault.jpg"
+- "https://2.bp.blogspot.com/-pOxI32MXf1s/UcmTCU-2hxI/AAAAAAAAAL0/tTaoEUV03g0/s1600/Çoklu+Ortam+(Multimedya)+Nedir,+Ne+demektir,+Ne+anlama+gelir,+ne+işe+yarar.jpg"
+featuredImage: "https://www.ilahirahmet.com/wp-content/uploads/2015/11/Rüyada-Bebek-Görmek-Ne-Anlama-Gelir.jpg"
+featured_image: "https://www.ilahirahmet.com/wp-content/uploads/2015/12/Rüyada-Fil-Görmek-Ne-Anlama-Gelir.jpg"
 image: "https://www.duavekuran.com/wp-content/uploads/2020/06/Ruyada-Hickirarak-Aglamak-Ne-Anlama-Gelir.jpg"
 ---
 

@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Ne anlama geldiğini bilmediğiniz 7 i̇şaret"
-date: "2023-01-10"
+description: "Trafik i̇şaretlerinin ne anlama geldiğini bilebilecek misin?"
+date: "2023-09-26"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://haber46comtr.teimg.com/haber46-com-tr/images/haberler/devlete_ulasamamanin_ne_anlama_geldigini_iyi_bilirim_diyen_kaymakam_numarasini_paylasti.jpg"
-featuredImage: "https://kamuisilanlari.net/wp-content/uploads/2022/10/Kurtler-bu-yasanin-ne-anlama-geldigini-cok-iyi-biliyorlar-780x470.jpg"
-featured_image: "https://iasbh.tmgrup.com.tr/3742a8/650/344/0/0/512/268?u=https://isbh.tmgrup.com.tr/sbh/2021/08/20/ruyada-eski-esini-gormek-ne-anlama-gelir-ruyada-eski-esinin-eve-geldigini-gormek-anlami-nedir-1629460059438.jpg"
+- "https://resim.teknolojihbr.com/teknodisk/trafik-isaretlerinin-ne-anlama-geldigini-bilebilecek-misin-KXMwswLs.jpg"
+featuredImage: "https://i.ytimg.com/vi/mQny46lcuI0/maxresdefault.jpg"
+featured_image: "https://i.ytimg.com/vi/oN7gyp2T-bM/maxresdefault.jpg"
 image: "https://i.ytimg.com/vi/oN7gyp2T-bM/maxresdefault.jpg"
 ---
 

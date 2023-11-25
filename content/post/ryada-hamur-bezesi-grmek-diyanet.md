@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Yağ bezesi tedavisi &amp; yağ bezesi aldırma"
-date: "2023-02-23"
+description: "Rüyada hamur bezesi görmek ne anlama gelir? rüyada başkasının hamur"
+date: "2023-06-18"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/YEr8GhDEeC8/maxresdefault.jpg"
-featuredImage: "https://i.ytimg.com/vi/YEr8GhDEeC8/maxresdefault.jpg"
-featured_image: "https://i.ytimg.com/vi/9_KBsjpLaUM/maxresdefault.jpg"
+- "https://tugbadindar.com/yuklemeler/tedavi-gorselleri/yag-bezesi-tedavisi.jpg"
+featuredImage: "https://tugbadindar.com/yuklemeler/tedavi-gorselleri/yag-bezesi-tedavisi.jpg"
+featured_image: "https://i.ytimg.com/vi/p34CRAdzUzY/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYXSBlKFUwDw==&amp;rs=AOn4CLAu8TP02Fu9Nv2I1yIXnjEOp_30IQ"
 image: "https://www.nedir.org/resim-ekle/eimg/49705_gozcevresindeyaybezesi.jpg"
 ---
 

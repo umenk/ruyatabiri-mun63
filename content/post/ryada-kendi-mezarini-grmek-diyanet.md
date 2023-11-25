@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Kendi̇ kendi̇mi̇zi̇n mezarini kaziyoruz.."
-date: "2023-09-19"
+description: "‘oğlu yalnız kalmasın’ diye yanına kendi mezarını yaptırdı"
+date: "2023-03-06"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://iatkv.tmgrup.com.tr/0bebb2/0/0/0/0/0/0?u=https:%2f%2fitkv.tmgrup.com.tr%2falbum%2f2022%2f04%2f01%2fruyada-kendi-mezarini-gormek-ne-anlama-gelir-neye-isarettir-ruyada-kendi-mezarini-hazirlamanin-anlami-ve-yorum-1648816857339.jpeg&amp;mw=1100&amp;l=1"
-featuredImage: "https://static.daktilo.com/sites/983/uploads/2022/02/16/dw-diyanet.jpg"
-featured_image: "https://ilkha.com/img_lg/yemenli-aktivist-arabistan-kendi-mezarini-kaziyored6682f2754f22b31355.jpg"
-image: "https://iasbh.tmgrup.com.tr/a42896/0/0/0/0/0/0?u=https://isbh.tmgrup.com.tr/sbh/2022/05/08/oglu-yalniz-kalmasin-diye-yanina-kendi-mezarini-yaptirdi-1651990986710.jpg&amp;mw=600"
+- "https://i.ytimg.com/vi/HWHUngG9nWM/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXyhKMA8=&amp;rs=AOn4CLBmdcYOTUVhkphoaMnSlbBtiqV1mg"
+featuredImage: "https://ilkha.com/img_lg/yemenli-aktivist-arabistan-kendi-mezarini-kaziyored6682f2754f22b31355.jpg"
+featured_image: "https://d.haberciniz.biz/other/2020/12/15/olum-korkusu-ile-kendi-mezarini-kendi-kazdi-001.jpg"
+image: "https://i.haberglobal.com.tr/storage/haber/2020/12/15/trabzon-da-ilginc-olay-salgin-var-olebilirim-diyerek-kendi-mezarini-kazdi_1608013569.jpg"
 ---
 
 If you are searching about KENDİ KENDİMİZİN MEZARINI KAZIYORUZ.. - YouTube you've visit to the right place. We have 9 Pics about KENDİ KENDİMİZİN MEZARINI KAZIYORUZ.. - YouTube like Paraklētos on Twitter: "Cuma hutbesi Diyanet'in kendi yayınlarına, Koronavirüs bunuda yaptırdı, ölüm korkusu ile kendi mezarını kendi kazdı and also Yemenli aktivist: Arabistan kendi mezarını kazıyor Foto Galeri - İlke. Read more:

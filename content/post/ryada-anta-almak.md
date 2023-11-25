@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Parildayan çi̇çek: yaş almak"
-date: "2023-07-26"
+description: "Rüyada yeni doğmuş bebek kucağa almak"
+date: "2023-08-08"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://3.bp.blogspot.com/-XQ9P2VfzjVo/Uu17BATdBmI/AAAAAAAABvE/Al3nYboRwI8/s1600/Görüntü004.jpg"
-featuredImage: "https://www.top-trapezbleche.de/wp-content/uploads/2019/04/IMG_3796-1024x768.jpg"
-featured_image: "https://i.pinimg.com/originals/0e/28/2e/0e282ea1bb11eb4ac96ae0e2a9754c8f.jpg"
+- "https://www.top-trapezbleche.de/wp-content/uploads/2019/04/IMG_3796-1024x768.jpg"
+featuredImage: "https://3.bp.blogspot.com/-XQ9P2VfzjVo/Uu17BATdBmI/AAAAAAAABvE/Al3nYboRwI8/s1600/Görüntü004.jpg"
+featured_image: "https://www.top-trapezbleche.de/wp-content/uploads/2019/04/IMG_3796-1024x768.jpg"
 image: "https://www.pharmatutor.org/sites/default/files/styles/amp_1200x675_16_9/public/2021-05/qc-rd-production-jobs-at-almak-staffing-solutions.jpg?itok=o3rty4Z0"
 ---
 

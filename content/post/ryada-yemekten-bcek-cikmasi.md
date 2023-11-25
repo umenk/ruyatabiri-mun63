@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Rüyada yemekten saç çıkması"
-date: "2023-06-18"
+description: "Yemek duaları"
+date: "2023-01-15"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://media.kunduz.com/media/question/seo/raw/20220426095902595365-658365_R0sosEgHg.jpg?h=512"
-featuredImage: "https://galeri13.uludagsozluk.com/603/sevilen-yemekten-sac-cikmasi_2297237.jpg"
-featured_image: "http://ruyalardunyasi.com/wp-content/uploads/2019/06/ruyada-yemekten-sac-kil-cikmasi-1024x576.jpg"
+- "http://ruyalardunyasi.com/wp-content/uploads/2019/06/ruyada-yemekten-sac-kil-cikmasi-1024x576.jpg"
+featuredImage: "https://media.kunduz.com/media/question/seo/raw/20220426095902595365-658365_R0sosEgHg.jpg?h=512"
+featured_image: "https://media.kunduz.com/media/question/seo/raw/20220426095902595365-658365_R0sosEgHg.jpg?h=512"
 image: "https://i.ytimg.com/vi/NtDSCF37arU/maxresdefault.jpg"
 ---
 

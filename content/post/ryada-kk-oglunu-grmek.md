@@ -1,12 +1,12 @@
 ---
 title: ""
-description: "Son dakika haber"
-date: "2023-05-02"
+description: "Babası oğlunu odasında ölü buldu"
+date: "2023-07-03"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://kocaelizirve.com/i/dosya/haber/mehmet-kaya-oglunu-evlendiriyo_1648115125_0v6g7k.jpg/jpg-100-1280-720"
-featuredImage: "https://kocaelizirve.com/i/dosya/haber/mehmet-kaya-oglunu-evlendiriyo_1648115125_0v6g7k.jpg/jpg-100-1280-720"
+- "https://haber61net.teimg.com/haber61-net/images/haberler/2019/02/27/oglunu_olduren_baba_hakim_karsisina_cikti_h301872_f4fc0.jpg"
+featuredImage: "https://i.ytimg.com/vi/fCK2x4PEN38/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFMgXChlMA8=&amp;rs=AOn4CLC396z-9U6MhIawB-cmI8w3sFEZVQ"
 featured_image: "https://kocaelizirve.com/i/dosya/haber/mehmet-kaya-oglunu-evlendiriyo_1648115125_0v6g7k.jpg/jpg-100-1280-720"
 image: "https://haber61net.teimg.com/haber61-net/images/haberler/2019/02/27/oglunu_olduren_baba_hakim_karsisina_cikti_h301872_f4fc0.jpg"
 ---

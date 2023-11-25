@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Beyaz kaz tüyü ve aşağı yorgan tog değeri 7.5 ilkbahar ve sonbahar 250"
-date: "2022-12-03"
+description: "Rüyada kaz görmek"
+date: "2023-01-15"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://foto.haberler.com/haber/2021/11/30/ruyada-fare-gormek-ne-anlama-gelir-ruyada-beyaz-14565946_8833_amp.jpg"
+- "https://ae01.alicdn.com/kf/HTB1ipnZJVXXXXarXpXXq6xXFXXXG/Beyaz-Kaz-T-y-ve-a-a-yorgan-tog-de-eri-7-5-ilkbahar-ve-sonbahar.jpg"
 featuredImage: "https://i.hbrcdn.com/haber/2021/06/21/ruyada-ordek-gormek-ne-anlama-gelir-ruyada-beyaz-14214777_1972_amp.jpg"
-featured_image: "https://foto.haberler.com/haber/2021/11/30/ruyada-fare-gormek-ne-anlama-gelir-ruyada-beyaz-14565946_8833_amp.jpg"
+featured_image: "https://images.ruyandagor.com/2017/04/kaz-gormek-0121.jpg"
 image: "https://boyamaonline.com/images/imgcolor/beyaz-kaz.jpg"
 ---
 

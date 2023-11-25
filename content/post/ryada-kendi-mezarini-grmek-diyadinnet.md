@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Kendi̇ kendi̇mi̇zi̇n mezarini kaziyoruz.."
-date: "2023-09-02"
+description: "Ölmeden kendi mezarını yaptırdı"
+date: "2022-12-20"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://media-cdn.t24.com.tr/media/stories/2012/06/raw_kendi-mezarini-kaziyor_546831072.jpg"
-featuredImage: "http://www.superfirsatlar.com/wp-content/uploads/2020/10/ruyada-kendi-mezarini-gormeik-696x392.jpg"
-featured_image: "https://media-cdn.t24.com.tr/media/stories/2012/06/raw_kendi-mezarini-kaziyor_546831072.jpg"
-image: "https://media-cdn.t24.com.tr/media/stories/2012/06/raw_kendi-mezarini-kaziyor_546831072.jpg"
+- "https://i.ytimg.com/vi/SdtM3dvUqa4/maxresdefault.jpg"
+featuredImage: "https://i.ytimg.com/vi/HWHUngG9nWM/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXyhKMA8=&amp;rs=AOn4CLBmdcYOTUVhkphoaMnSlbBtiqV1mg"
+featured_image: "https://img.gercekgundem.com/rcman/Cw1280h720q95gc/storage/files/images/2023/01/10/kendi-mezarini-yapti-uzerinde-yatip-dua-okuyor-ap9z.jpg"
+image: "https://i.hbrcdn.com/haber/2014/07/06/ozel-haber-olmeden-kendi-mezarini-yaptirdi-6229574_amp.jpg"
 ---
 
 If you are looking for Kendi mezarını kazıyor you've visit to the right page. We have 9 Pics about Kendi mezarını kazıyor like Yemenli aktivist: Arabistan kendi mezarını kazıyor Foto Galeri - İlke, kendi-mezarini-lanetlemistir - dergiCE.com and also KENDİ KENDİMİZİN MEZARINI KAZIYORUZ.. - YouTube. Here it is:

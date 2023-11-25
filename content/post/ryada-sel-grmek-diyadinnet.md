@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Malatya&#039;da karla mücadele çalışmaları sürüyor"
-date: "2023-01-24"
+description: "Kareena kapoor khan&#039;s tweet"
+date: "2023-04-28"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
 - "https://www.diyadinnet.com/img/2022/04/kars-ta-sel-nedeniyle-iki-koy-yolu-ulasima-kapandi.jpg"
-featuredImage: "https://www.diyadinnet.com/resim/hayvanlar/kuslar/papagan0.jpg"
+featuredImage: "https://www.diyadinnet.com/img/2022/09/5g-hazirliklarini-hizlandiran-vodafone-turkiye-ihale-tarihini-bekliyor.jpg"
 featured_image: "https://www.diyadinnet.com/img/2022/04/kars-ta-sel-nedeniyle-iki-koy-yolu-ulasima-kapandi.jpg"
-image: "https://www.diyadinnet.com/bigimages/haber/2022/02/70909.jpg"
+image: "https://www.diyadinnet.com/img/2022/09/5g-hazirliklarini-hizlandiran-vodafone-turkiye-ihale-tarihini-bekliyor.jpg"
 ---
 
 If you are searching about Malatya'da karla mücadele çalışmaları sürüyor | Malatya Haber Haberleri you've came to the right place. We have 9 Pics about Malatya'da karla mücadele çalışmaları sürüyor | Malatya Haber Haberleri like Kars'ta sel nedeniyle iki köy yolu ulaşıma kapandı - Kars Haber Haberleri, Sel - Yararlı Bilgiler and also Malatya'da karla mücadele çalışmaları sürüyor | Malatya Haber Haberleri. Here you go:

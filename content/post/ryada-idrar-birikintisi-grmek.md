@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "İdrar yolu enfeksiyonu (i̇ye) nedir?"
-date: "2023-06-22"
+description: "Üst i̇drar yolları kanseri"
+date: "2023-10-05"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://media.istockphoto.com/id/1321696274/tr/vektör/sarı-su-birikintisi-vektörü-izole-edilmiş-yağ-bal-idrar.jpg?s=612x612&amp;w=is&amp;k=20&amp;c=ByyiJ7ZUBhd3ispeawsjhUfhikr0R-fMsX6R3_qn72M="
-featuredImage: "https://madicanacdnstorage.blob.core.windows.net/main/Assets/photo/r/ust-idrar-yollari-kanseri-87940_b.jpg"
-featured_image: "https://drahmethakan.com/wp-content/uploads/2021/10/idrar-yolu-enfeksiyonu.jpg"
-image: "https://i.ytimg.com/vi/yN0yo0pahB4/maxresdefault.jpg"
+- "https://hastalarsoruyor.com/uploads/posts/280x_idrar-yolu-enfeksiyonu.jpg"
+featuredImage: "https://media.kunduz.com/media/question/seo/raw/20220407114211312677-3695766_mmVrTPxaJ.jpg?h=512"
+featured_image: "https://i.ytimg.com/vi/yN0yo0pahB4/maxresdefault.jpg"
+image: "https://media.istockphoto.com/id/1321696274/tr/vektör/sarı-su-birikintisi-vektörü-izole-edilmiş-yağ-bal-idrar.jpg?s=612x612&amp;w=is&amp;k=20&amp;c=ByyiJ7ZUBhd3ispeawsjhUfhikr0R-fMsX6R3_qn72M="
 ---
 
 If you are searching about Sarı Su Birikintisi Vektörü Izole Edilmiş Yağ Bal Idrar Stok Vektör you've came to the right place. We have 9 Pics about Sarı Su Birikintisi Vektörü Izole Edilmiş Yağ Bal Idrar Stok Vektör like İdrar Yolu Enfeksiyonu Belirtileri, 5 Farklı Tedavi Yöntemi, İdrar Yolu Enfeksiyonu (İye) Nedir? | Tetra Tıp Laboratuvarı and also İdrar Yolu Enfeksiyonu Belirtileri, 5 Farklı Tedavi Yöntemi. Here it is:

@@ -1,12 +1,12 @@
 ---
 title: ""
 description: "26. oç su deposunda biriken kirli sular,"
-date: "2023-06-10"
+date: "2023-11-11"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://images.ruyandagor.com/2017/04/kirli-su-gormek-1215.jpg"
-featuredImage: "https://www.yeniisfikirleri.net/wp-content/uploads/2017/07/kirli-su-temizleme-cihazi.jpg"
+- "http://evapompa.com/wp-content/uploads/2021/02/drenaj-tip-dalgic-pompalar-kirli-su-drenaj-pompasi-urun5-600x776.jpg"
+featuredImage: "https://images.ruyandagor.com/2017/04/kirli-su-gormek-1215.jpg"
 featured_image: "https://media.kunduz.com/media/question/seo/raw/20220303155311279924-4364317_3IrjOQ72M.jpg?h=512"
 image: "https://www.servisparca.com/image/cache/catalog/Halı yıkama/IMG_20160618_150610-500x500.jpg"
 ---

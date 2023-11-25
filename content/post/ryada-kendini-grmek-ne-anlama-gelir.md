@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Rüyada kendini sporcu görmek ne anlama gelir?"
-date: "2023-10-28"
+description: "Rüyada bebek görmek ne anlama gelir? anlamı nedir?"
+date: "2023-01-22"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://foto.haberler.com/haber/2019/10/30/ruyada-at-gormek-ne-anlama-gelir-12566959_7097_m.jpg"
-featuredImage: "https://i.hbrcdn.com/haber/2016/07/21/ruyada-kendini-ciplak-gormek-ne-anlama-gelir-8631586_amp.jpg"
-featured_image: "https://www.nkfu.com/wp-content/uploads/2020/04/ruyada-kendini-olmus.jpg"
+- "https://www.ilahirahmet.com/wp-content/uploads/2015/11/Rüyada-Bebek-Görmek-Ne-Anlama-Gelir.jpg"
+featuredImage: "https://d.neoldu.com/news/21532.jpg"
+featured_image: "https://gunceloku.com/uploads/ruyada-kendini-sporcu-gormek-ne-anlama-gelir-6392351b60d80.jpg"
 image: "https://i.hbrcdn.com/haber/2016/07/21/ruyada-kendini-ciplak-gormek-ne-anlama-gelir-8631586_amp.jpg"
 ---
 

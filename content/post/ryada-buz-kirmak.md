@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Buz kirmak 1. bölüm"
-date: "2023-07-07"
+description: "Buz yapi kirmak"
+date: "2023-07-03"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
 - "https://i.ytimg.com/vi/upngDnXa-QI/maxresdefault.jpg"
-featuredImage: "https://i.ytimg.com/vi/dghv1lVHjDU/maxresdefault.jpg"
-featured_image: "https://i.ytimg.com/vi/7KKUxkZcr1s/hqdefault.jpg"
-image: "https://i.ytimg.com/vi/i8Noz57UsTM/hqdefault.jpg"
+featuredImage: "https://i.ytimg.com/vi/upngDnXa-QI/maxresdefault.jpg"
+featured_image: "https://i.ytimg.com/vi/dghv1lVHjDU/maxresdefault.jpg"
+image: "https://i.ytimg.com/vi/U--dyoKY0Ww/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYSSBiKGUwDw==&amp;rs=AOn4CLAwrMEK2BhkxJzWsGKg-xi-jRs4jw"
 ---
 
 If you are looking for TELEFONUMU KIRMAK ZORUNDAYIM 😑 #LazBunuYap Brawl Stars - YouTube you've visit to the right place. We have 9 Pictures about TELEFONUMU KIRMAK ZORUNDAYIM 😑 #LazBunuYap Brawl Stars - YouTube like BUZ DİYARINI ÇIKARTMAK İÇİN MÜHRÜ KIRMAK:D - YouTube, BUZ KIRMAK 1. BÖLÜM - YouTube and also Bir catalla buz kirmak - YouTube. Here you go:

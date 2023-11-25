@@ -1,13 +1,13 @@
 ---
 title: ""
 description: "Misafirlikte rüyalanırsak ne yapmalıyız"
-date: "2023-08-01"
+date: "2023-11-06"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://islamipaylasimlar.com/wp-content/uploads/2022/09/Uyumak-Icin-Yataga-Yatinca-Okunacak-Dua-Kayip-Dualar.jpg"
-featuredImage: "https://i.ytimg.com/vi/GdLxkzE65qo/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgVShXMA8=&amp;rs=AOn4CLCW04m7furdAzbjxvajwf6kVe_lKQ"
-featured_image: "https://i.ytimg.com/vi/Inz0IZcwo1c/maxresdefault.jpg"
+- "https://i.ytimg.com/vi/gGteS2wQhW4/maxresdefault.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYfyAVKBswDw==&amp;rs=AOn4CLANQy8xZDYLnYB_D_XqC91K4PD9hg"
+featuredImage: "https://i.ytimg.com/vi/gGteS2wQhW4/maxresdefault.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYfyAVKBswDw==&amp;rs=AOn4CLANQy8xZDYLnYB_D_XqC91K4PD9hg"
+featured_image: "https://islamipaylasimlar.com/wp-content/uploads/2022/09/Uyumak-Icin-Yataga-Yatinca-Okunacak-Dua-Kayip-Dualar.jpg"
 image: "https://i.ytimg.com/vi/5Ll7S0jBqgo/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4AZQDgALQBYoCDAgAEAEYaCBoKGgwDw==&amp;rs=AOn4CLAVUjxRBVGYGvC55r7QWNQGzneyiQ"
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Aglayan göz sevdigini ister"
-date: "2023-04-07"
+description: "Sizde yoruma en sevdigini oyunu yazın"
+date: "2023-06-29"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/R8zNCOSqAPs/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYaCBoKGgwDw==&amp;rs=AOn4CLCqwF2Gy0FQw95imTC5WKWE5CLrSQ"
-featuredImage: "https://i.ytimg.com/vi/bExMmQCexdw/maxresdefault.jpg"
-featured_image: "https://i.ytimg.com/vi/TM9tS6UhUp8/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBPKEEwDw==&amp;rs=AOn4CLBZdFiR5wWEfVc7sQH8S-2Q5Ggg2g"
-image: "https://i.ytimg.com/vi/TM9tS6UhUp8/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBPKEEwDw==&amp;rs=AOn4CLBZdFiR5wWEfVc7sQH8S-2Q5Ggg2g"
+- "https://3.bp.blogspot.com/-45X_CMjNChs/W9wyh5jO5nI/AAAAAAAAbcw/Na65qv9dvQw0dRc5pc3FKh_dB7NoD8g-gCLcBGAs/w1200-h630-p-k-no-nu/sevdigini_kendine_asik_etme_1.jpg"
+featuredImage: "https://i.ytimg.com/vi/IT25I81jSNM/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4Ad4DgALgA4oCDAgAEAEYZSBRKEAwDw==&amp;rs=AOn4CLBBDsOwXPUToQmHgrLXzg9zxEcm5g"
+featured_image: "https://3.bp.blogspot.com/-45X_CMjNChs/W9wyh5jO5nI/AAAAAAAAbcw/Na65qv9dvQw0dRc5pc3FKh_dB7NoD8g-gCLcBGAs/w1200-h630-p-k-no-nu/sevdigini_kendine_asik_etme_1.jpg"
+image: "https://i.ytimg.com/vi/bExMmQCexdw/maxresdefault.jpg"
 ---
 
 If you are searching about Oysa herkes oldurur sevdigini.. - YouTube you've came to the right web. We have 9 Images about Oysa herkes oldurur sevdigini.. - YouTube like BENİ SEVDİGİNİ SÖYLEDİGİ ANDA VERDİGİM TEPKİİ #shorts Jalebi Baby Gene, Bana Sevdigini Fısılda Wattpad - YouTube and also aglayan Göz sevdigini ister - YouTube. Read more:

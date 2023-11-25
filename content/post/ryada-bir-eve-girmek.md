@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Niğde&#039;de eve girmek isteyen kedinin yaptıkları şaşırttı"
-date: "2023-05-21"
+description: "Ağrı&#039;da bir eve hapsedilmiş 250 kaçak göçmen yakalandı, 10 şüpheli"
+date: "2023-08-10"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i2.milimaj.com/i/milliyet/75/0x410/60b2ddfd5542833af892173c.jpg"
-featuredImage: "https://i2.milimaj.com/i/milliyet/75/0x410/60b2ddfd5542833af892173c.jpg"
+- "https://pbs.twimg.com/media/Fbe1Is4XkAAi2K5?format=jpg&amp;name=large"
+featuredImage: "https://www.filmler.com/wp-content/uploads/2022/01/yilbasi-gecesi-scaled.jpg"
 featured_image: "https://foto.haberler.com/haber/2018/10/02/agri-da-bir-eve-hapsedilmis-250-kacak-gocmen-11289999_amp.jpg"
-image: "https://www.filmler.com/wp-content/uploads/2022/01/yilbasi-gecesi-scaled.jpg"
+image: "https://i.ytimg.com/vi/jJ1i0F30Aa4/hq2.jpg"
 ---
 
 If you are searching about Yılbaşı Gecesi (New Year's Eve) filmi, oyuncuları, konusu, yönetmeni you've came to the right page. We have 9 Pictures about Yılbaşı Gecesi (New Year's Eve) filmi, oyuncuları, konusu, yönetmeni like Ağrı'da Bir Eve Hapsedilmiş 250 Kaçak Göçmen Yakalandı, 10 Şüpheli, Elazığ'da bir eve yapılan uyuşturucu operasyonunun görüntüleri and also Ağrı'da Bir Eve Hapsedilmiş 250 Kaçak Göçmen Yakalandı, 10 Şüpheli. Read more:

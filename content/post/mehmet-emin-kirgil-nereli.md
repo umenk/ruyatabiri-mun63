@@ -1,13 +1,13 @@
 ---
 title: "mehmet emin kirgil nereli Mehmet emin kırgil i̇le rüyalara cevaplar kitabını indir [pdf ve epub"
 description: "Amlnzu_pyr5txop9a5wuhqrhvn-y61vxydvwaopb-wng7a=s900-c-k-c0x00ffffff-no-rj"
-date: "2023-04-05"
+date: "2023-05-28"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/9LU-di7-0G4/maxresdefault.jpg"
-featuredImage: "https://www.kimnereli.net/wp-content/uploads/2018/02/Mehmet-Emin-Kirgil.jpg"
-featured_image: "https://yt3.ggpht.com/ytc/AMLnZu_pyR5txop9A5WUHqrhvN-y61vxYdvWAopB-WNG7A=s900-c-k-c0x00ffffff-no-rj"
+- "https://ekitapyeri.com/wp-content/uploads/2020/06/Mehmet-Emin-Kirgil-Ile-Ruyalara-Cevaplar-kitabini-indir-PDF-ve.jpeg"
+featuredImage: "https://www.kimnereli.net/wp-content/uploads/2018/02/Mehmet-Emin-Kirgil3.jpg"
+featured_image: "https://ekitapyeri.com/wp-content/uploads/2020/06/Mehmet-Emin-Kirgil-Ile-Ruyalara-Cevaplar-kitabini-indir-PDF-ve.jpeg"
 image: "https://www.kimnereli.net/wp-content/uploads/2018/02/Mehmet-Emin-Kirgil.jpg"
 ---
 

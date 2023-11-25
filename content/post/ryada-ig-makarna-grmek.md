@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Migros sanal market: online market alışverişi"
-date: "2023-04-09"
+description: "Kremasız körili tavuklu makarna"
+date: "2023-11-04"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
 - "https://images.migrosone.com/sanalmarket/product/05030217/nuh-un-ankara-bukle-makarna-500-gr-8e6de7-1650x1650.jpg"
-featuredImage: "https://ayb.akinoncdn.com/products/2021/11/07/81292/61d5a9cb-0ae0-40ba-b468-ba4a799f9fd3_size780x780_quality60_cropCenter.jpg"
-featured_image: "https://www.tasomarket.com/files/products/filiz-tam-bugday-makarna-spagetti-350-g-18934.jpg"
+featuredImage: "https://cdn.dsmcdn.com/ty12/product/media/images/20200918/14/11113930/83178338/1/1_org_zoom.jpg"
+featured_image: "https://i.ytimg.com/vi/G6LmKNs8b6A/maxresdefault.jpg"
 image: "https://cdn.dsmcdn.com/ty12/product/media/images/20200918/14/11113930/83178338/1/1_org_zoom.jpg"
 ---
 

@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Sinema oyuncusu göbeklitepe’yi beyaz perdeye taşımak için destek"
-date: "2023-04-19"
+description: "Crochet clutch pattern, crochet case, crochet poncho free pattern, easy"
+date: "2023-03-03"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/p4xfEPXxfsM/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AGUA4AC0AWKAgwIABABGH8gJygpMA8=&amp;rs=AOn4CLBg0lD0jl557r-exCvuSEnF5ZjDsw"
-featuredImage: "https://www.murekkephaber.com/images/haberler/2023/01/ferman-akgul-asik-veysel-ile-dedemin-hikayesini-beyaz-perdeye-tasimak-istiyorum-5282.jpeg"
-featured_image: "https://www.murekkephaber.com/images/haberler/2023/01/ferman-akgul-asik-veysel-ile-dedemin-hikayesini-beyaz-perdeye-tasimak-istiyorum-5282.jpeg"
+- "https://www.murekkephaber.com/images/haberler/2023/01/ferman-akgul-asik-veysel-ile-dedemin-hikayesini-beyaz-perdeye-tasimak-istiyorum-5282.jpeg"
+featuredImage: "https://www.parlamentohaber.com/wp-content/uploads/2017/09/yilmaz-vural-hayatini-beyaz-perdeye-tasimak-istiyor.jpg"
+featured_image: "https://i.hbrcdn.com/haber/2017/10/24/kentin-tarihini-beyaz-perdeye-tasimak-icin-eg-10165802_amp.jpg"
 image: "https://www.sanliurfagazetesi.com/images/haberler/2019/12/sinema-oyuncusu-gobeklitepe-yi-beyaz-perdeye-tasimak-icin-destek-bekliyor.jpg"
 ---
 

@@ -1,12 +1,12 @@
 ---
 title: ""
-description: "Rüyada erik toplamak ne anlama gelir? rüyada erik toplamanın anlamı ve"
-date: "2023-06-25"
+description: "Rüyada bavul görmek ne anlama gelir? rüyada bavul hazırlamak, kaybetmek"
+date: "2023-05-27"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
 - "https://iasbh.tmgrup.com.tr/11c606/752/395/0/101/724/482?u=https://isbh.tmgrup.com.tr/sbh/2021/08/31/ruyada-yesil-fasulye-gormek-ne-anlama-gelir-ruyada-yesil-fasulye-toplamak-ne-demek-1630409802830.jpg"
-featuredImage: "https://iasbh.tmgrup.com.tr/1d8187/752/395/0/101/724/481?u=https://isbh.tmgrup.com.tr/sbh/2021/10/08/ruyada-findik-toplamak-ne-anlama-gelir-ruyada-yesil-findik-toplamak-ne-demek-1633692212991.jpg"
+featuredImage: "https://iasbh.tmgrup.com.tr/59e92d/752/395/0/73/724/453?u=https://isbh.tmgrup.com.tr/sbh/2021/08/31/ruyada-havuc-gormek-ne-anlama-gelir-ruyada-havuc-yemek-ne-demek-1630388822058.jpg"
 featured_image: "https://iasbh.tmgrup.com.tr/7aeba8/752/395/0/33/724/413?u=https://isbh.tmgrup.com.tr/sbh/2022/04/22/ruyada-kiraz-gormek-ne-anlama-gelir-ruyada-kiraz-agaci-gormek-dalindan-toplamak-yemek-anlami-1650638049766.jpg"
 image: "https://iasbh.tmgrup.com.tr/1d8187/752/395/0/101/724/481?u=https://isbh.tmgrup.com.tr/sbh/2021/10/08/ruyada-findik-toplamak-ne-anlama-gelir-ruyada-yesil-findik-toplamak-ne-demek-1633692212991.jpg"
 ---

@@ -1,12 +1,12 @@
 ---
 title: ""
-description: "Rüyada el öpmek"
-date: "2023-05-16"
+description: "Rüyada solucan görmek esved dini rüya tabirleri ve yorumu rüya tabiri"
+date: "2023-01-23"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/0M30PPjGeHs/maxresdefault.jpg"
-featuredImage: "https://i.ytimg.com/vi/yUiP1tFBzp0/maxresdefault.jpg"
+- "https://i.ytimg.com/vi/tN0MqSAzGNk/maxresdefault.jpg"
+featuredImage: "https://i.ytimg.com/vi/tN0MqSAzGNk/maxresdefault.jpg"
 featured_image: "https://i.ytimg.com/vi/0M30PPjGeHs/maxresdefault.jpg"
 image: "https://i.ytimg.com/vi/0M30PPjGeHs/maxresdefault.jpg"
 ---

@@ -1,13 +1,13 @@
 ---
 title: ""
 description: "معلومات وحقائق عن كان بطل مسلسل وقت الحب sevmek zamanı"
-date: "2022-12-16"
+date: "2023-11-12"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/8S-RtNPcbn0/maxresdefault.jpg"
-featuredImage: "https://i.zqwqz.org/export/1280/720/IeoIqsUTqsA.jpg"
-featured_image: "https://i.pinimg.com/originals/8e/0c/8d/8e0c8dc1145c91699ae01c910b3a7d75.jpg"
+- "https://i.pinimg.com/originals/8e/0c/8d/8e0c8dc1145c91699ae01c910b3a7d75.jpg"
+featuredImage: "https://3.bp.blogspot.com/-RDBgtOMxEgc/WOX0gGjoOhI/AAAAAAAAdgQ/sYmqVBFdxa4R7If-GiqHUzGRljd3U0FLwCLcB/s1600/bb80ea5cdd32f50c0636977be6324cde.jpg"
+featured_image: "https://turkuseli.com/Content/Files/TSM/ask-nedir-sevda-nedir-sevmek-nedir-nota-1.jpg"
 image: "https://3.bp.blogspot.com/-RDBgtOMxEgc/WOX0gGjoOhI/AAAAAAAAdgQ/sYmqVBFdxa4R7If-GiqHUzGRljd3U0FLwCLcB/s1600/bb80ea5cdd32f50c0636977be6324cde.jpg"
 ---
 

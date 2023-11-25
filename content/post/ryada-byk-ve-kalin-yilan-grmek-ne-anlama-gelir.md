@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Rüyada yılan görmek ne anlama gelir? rüyada siyah, yeşil, sarı, beyaz"
-date: "2023-04-24"
+description: "Rüyada yılan öldürmek ne anlama gelir? rüyada siyah yılan öldürmek"
+date: "2023-06-13"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://1001ruyatabiri.com/wp-content/uploads/2020/12/ruyada-yilan-gormek-ne-anlama-gelir-ruyada-siyah-beyaz-yesil-ve-sari-yilan-gormenin-diyanet-tabiri-768x432.jpg"
-featuredImage: "https://www.diyadinnet.com/d/ruya/ruyada-yilan-ve-fare-gormek-ne-anlama-gelir-345.jpg"
-featured_image: "https://i.haberglobal.com.tr/storage/files/images/2022/02/23/ruyada-yilan-gormek-ne-anlama-gelir-ruyada-siyah-yesil-sari-beyaz-kirmizi-ve-mavi-evde-yilan-gormek-ne-demek-IJYp.jpg"
+- "https://iatkv.tmgrup.com.tr/74ed80/600/314/0/176/780/585?u=https:%2f%2fitkv.tmgrup.com.tr%2falbum%2f2022%2f03%2f30%2fruyada-kahverengi-yilan-gormek-ne-anlama-gelir-neye-isarettir-ruyada-evde-kahverengi-yilan-gormenin-anlami-ve-1648629801075.jpg"
+featuredImage: "https://i.haberglobal.com.tr/storage/files/images/2022/02/23/ruyada-yilan-gormek-ne-anlama-gelir-ruyada-siyah-yesil-sari-beyaz-kirmizi-ve-mavi-evde-yilan-gormek-ne-demek-IJYp.jpg"
+featured_image: "https://i.hbrcdn.com/haber/2021/09/28/ruyada-yilan-gormek-nedir-ruyada-yilan-gormek-ne-14424405_3505_amp.jpg"
 image: "https://i.haberglobal.com.tr/storage/haber/2020/06/02/ruyada-yilan-gormek-ne-anlama-gelir-ruya-tabirleri-ruyada-yilan-oldurmek_1591104675.jpg"
 ---
 

@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Rüyada yabancı bir erkekle halay çekmek ne anlama gelir?"
-date: "2023-01-03"
+description: "Rüyada tanımadığın biriyle sevgili olmak ne anlama gelir? rüyanda"
+date: "2023-03-12"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.hbrcdn.com/haber/2020/10/20/ruyada-sevismek-ne-anlama-gelir-ruyada-cinsel-13680363_3616_m.jpg"
-featuredImage: "https://i2.milimaj.com/i/milliyet/75/0x0/649d3bdd86b24461a85d6345.jpg"
-featured_image: "https://i.nothaber.com/storage/files/images/2021/10/22/ruyada-esinin-baska-bir-erkekle-ilgilenmesi-ne-anlama-gelir-617284b6c291a.jpg"
+- "https://i.hbrcdn.com/haber/2023/02/22/ruyada-tanimadigin-biriyle-sevgili-olmak-ne-15652557_2846_m.jpg"
+featuredImage: "https://gunceloku.com/uploads/ruyada-yabanci-bir-erkekle-halay-cekmek-ne-anlama-gelir-640f3003d4b6c.jpeg"
+featured_image: "https://gunceloku.com/uploads/ruyada-yabanci-bir-erkekle-halay-cekmek-ne-anlama-gelir-640f3003d4b6c.jpeg"
 image: "https://www.okuhaber.com/wp-content/uploads/2022/03/ruyada-sevismek5-1607342010.jpg"
 ---
 

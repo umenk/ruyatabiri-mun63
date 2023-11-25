@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Yagmurda... by fiyonk14 on deviantart"
-date: "2023-03-17"
+description: "Yağmurda kontrolden çıkan otomobil yayaya çarptı"
+date: "2023-01-14"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/86159717-f221-4efe-abf8-1cf5b166615b/d2e4q3y-31aa3704-18e7-4676-9726-33520c3b8036.jpg/v1/fill/w_600,h_800,q_75,strp/yagmurda____by_fiyonk14_d2e4q3y-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODAwIiwicGF0aCI6IlwvZlwvODYxNTk3MTctZjIyMS00ZWZlLWFiZjgtMWNmNWIxNjY2MTViXC9kMmU0cTN5LTMxYWEzNzA0LTE4ZTctNDY3Ni05NzI2LTMzNTIwYzNiODAzNi5qcGciLCJ3aWR0aCI6Ijw9NjAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.PfZK3tgHvfhQhjub94Tiuwy67GLQsr-FKMJMNjFBnr0"
-featuredImage: "https://i.ytimg.com/vi/yq9IYzYsikw/maxresdefault.jpg"
+- "https://i.ytimg.com/vi/nXobeD0ZNrM/maxresdefault.jpg"
+featuredImage: "https://cdn.yeniakit.com.tr/images/news/625/yagmurda-kontrolden-cikan-otomobil-yayaya-carpti-1566055113.jpg"
 featured_image: "https://i.ytimg.com/vi/yq9IYzYsikw/maxresdefault.jpg"
-image: "https://i.ytimg.com/vi/yq9IYzYsikw/maxresdefault.jpg"
+image: "https://i.ytimg.com/vi/yZGlXa63Ukk/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBaKE8wDw==&amp;rs=AOn4CLAgqGiOBTdPcAD0Y2dUOj0-pmi2ZQ"
 ---
 
 If you are looking for POV Yagmurda drift + R8 Gazlama | cars and coffee’ye gittik . - YouTube you've visit to the right page. We have 9 Pictures about POV Yagmurda drift + R8 Gazlama | cars and coffee’ye gittik . - YouTube like Essa 🍭 on Twitter: "RT @moonwliay: Yagmurda yuzlesme sahnesi ️‍🔥🤤 Bu, 1of1! AIMING FOR 1000HP - 2018 AUDI RS7 PERFORMANCE - One of a kind and also Yagmurda canlı balık pişirmek 🤤 #keşfet #fyp #fishing #yemek - YouTube. Read more:

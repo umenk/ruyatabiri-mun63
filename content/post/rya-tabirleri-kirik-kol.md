@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Kisa kol gömlek ekru /kirik beyaz"
-date: "2023-01-21"
+description: "Rüyada kol çantası görmek"
+date: "2023-05-21"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://pitbus.ru/wp-content/uploads/2020/02/niguliste.jpg"
-featuredImage: "https://img5.lalafo.com/i/posters/original/ac/b5/9b/942f405d79244d9ff0f52d9c88.jpeg"
-featured_image: "https://i.ytimg.com/vi/LVwEXxntJ4Y/hqdefault.jpg"
+- "https://4.bp.blogspot.com/_eToNqeBXYUA/S-f_sCGCS3I/AAAAAAAAADo/yHo-zKuVmGM/s1600/aras+4.ayresimler+142.JPG"
+featuredImage: "https://pitbus.ru/wp-content/uploads/2020/02/niguliste.jpg"
+featured_image: "https://i.ytimg.com/vi/HH3AAk9NQ-A/maxresdefault.jpg"
 image: "https://i.ytimg.com/vi/rTNbit0Bj_Y/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4AYwDgALQBYoCDAgAEAEYZSBlKGUwDw==&amp;rs=AOn4CLDsnIOBgo9dOGo31mn7sDlo-Qk6Iw"
 ---
 

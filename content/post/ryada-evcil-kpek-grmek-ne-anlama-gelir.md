@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Skalk çeşitli arkadaş beden listesi faiz sahil manevi"
-date: "2023-03-04"
+description: "Rüyada şeytan görmek ne anlama geliyor?"
+date: "2023-11-24"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "http://cdn.shopify.com/s/files/1/0715/4441/files/tru._size_chart_1024x1024.png?v=1585473568"
-featuredImage: "https://i.ytimg.com/vi/jZjbSWvPm9g/maxresdefault.jpg"
-featured_image: "https://i.ytimg.com/vi/7a4g9rZI3Vo/maxresdefault.jpg"
+- "https://kuzeyeksprescomtr.teimg.com/kuzeyekspres-com-tr/uploads/2023/06/666-ne-anlama-gelir.jpg"
+featuredImage: "https://foto.haberler.com/haber/2019/10/30/ruyada-at-gormek-ne-anlama-gelir-12566959_7097_m.jpg"
+featured_image: "https://blog.falbahcem.com/wp-content/uploads/2020/02/Rüyada-İncir-Ağacı-Görmek-Ne-Anlama-Gelir.jpg"
 image: "https://i.ytimg.com/vi/7a4g9rZI3Vo/maxresdefault.jpg"
 ---
 

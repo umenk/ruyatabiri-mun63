@@ -1,13 +1,13 @@
 ---
 title: ""
 description: "Kanatli karinca"
-date: "2023-11-19"
+date: "2023-10-16"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i0.wp.com/api.fmanager.net/files/fossils/alive/AI_53_hymenoptera_ant.jpg"
-featuredImage: "https://i0.wp.com/api.fmanager.net/files/fossils/alive/AI_53_hymenoptera_ant.jpg"
-featured_image: "https://i.ytimg.com/vi/sWAxhs39pJ0/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYZSBfKFYwDw==&amp;rs=AOn4CLDX4VbJ3E51VRvp3fU74SosTndd-w"
+- "https://i0.wp.com/api.fmanager.net/files/fossils/alive/AI_53_formicidae.jpg"
+featuredImage: "https://i0.wp.com/api.fmanager.net/files/fossils/alive/AI_56_271_formicidae_ant.jpg"
+featured_image: "https://i0.wp.com/api.fmanager.net/files/fossils/alive/AI_53_formicidae.jpg"
 image: "https://i0.wp.com/api.fmanager.net/files/fossils/AI0271_formicidae.jpg"
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "😧mai 😊kisi ke liye🙏🏻"
-date: "2023-07-01"
+description: "Kisi rah me kisi mod par instrument"
+date: "2023-04-23"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/R-21tz3fCN0/maxresdefault.jpg"
-featuredImage: "https://dewanguru.com/wp-content/uploads/2022/02/Kisi-kisi-Seni-Budaya-SMP-MTs-Kelas-8-Semester-2-Kurikulum-2013.jpg"
-featured_image: "https://dewanguru.com/wp-content/uploads/2022/02/Kisi-kisi-Seni-Budaya-SMP-MTs-Kelas-8-Semester-2-Kurikulum-2013.jpg"
-image: "https://i.ytimg.com/vi/4v1fxm8vClg/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgWChOMA8=&amp;rs=AOn4CLA3Vpwmxe_B37Fcn9ED9bt1_IHN5A"
+- "https://dewanguru.com/wp-content/uploads/2022/02/Kisi-kisi-Seni-Budaya-SMP-MTs-Kelas-8-Semester-2-Kurikulum-2013.jpg"
+featuredImage: "https://i.ytimg.com/vi/0Fcn5-YRihM/maxresdefault.jpg"
+featured_image: "https://i.ytimg.com/vi/R-21tz3fCN0/maxresdefault.jpg"
+image: "https://i.ytimg.com/vi/eoCF5Ozmh9Y/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYVCBCKH8wDw==&amp;rs=AOn4CLAB7fcn20g-KkH33lDYt8a-L__ZrA"
 ---
 
 If you are looking for Kisi Rah Me Kisi Mod Par Instrument - YouTube you've visit to the right web. We have 9 Images about Kisi Rah Me Kisi Mod Par Instrument - YouTube like Kisi-kisi Seni Budaya SMP/MTs Kelas 8 Semester 2 Kurikulum 2013, Kisi-kisi Seni Budaya SMP MTs Kelas 7 Semester 2 Kurikulum 2013 and also umid toda hai kisi ne - YouTube. Here it is:

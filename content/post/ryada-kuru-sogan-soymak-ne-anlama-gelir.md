@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Rüyada yeşil soğan görmek ne anlama gelir? rüyada soğan görmek, rüyada"
-date: "2023-04-22"
+description: "Rüyada rüyada sarımsak görmek ne anlama gelir? rüyada sarımsak soymak"
+date: "2023-11-17"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.hbrcdn.com/haber/2020/09/10/ruyada-sogan-gormek-ne-anlama-gelir-ruyada-yesil-13588434_1766_m.jpg"
-featuredImage: "https://i.hbrcdn.com/haber/2020/09/10/ruyada-sogan-gormek-ne-anlama-gelir-ruyada-yesil-13588434_1766_m.jpg"
-featured_image: "https://iasbh.tmgrup.com.tr/a02784/752/395/0/44/723/424?u=https://isbh.tmgrup.com.tr/sbh/2022/05/26/ruyada-mandalina-gormek-ne-anlama-gelir-ruyada-mandalina-yemek-toplamak-soymak-anlami-1653565435823.jpg"
+- "https://i.hbrcdn.com/haber/2021/02/24/ruyada-sogan-gormek-ne-anlama-geliyor-ruyada-13948731_3744_amp.jpg"
+featuredImage: "https://iasbh.tmgrup.com.tr/b02160/752/395/0/0/724/380?u=https://isbh.tmgrup.com.tr/sbh/2022/04/27/ruyada-sogan-gormek-ne-anlama-gelir-ruyada-taze-kuru-ve-yesil-sogan-dogradigini-ve-yedigini-gormek-anlami-1651067471875.jpg"
+featured_image: "https://i.hbrcdn.com/haber/2020/09/10/ruyada-sogan-gormek-ne-anlama-gelir-ruyada-yesil-13588434_2525_amp.jpg"
 image: "https://iasbh.tmgrup.com.tr/b02160/752/395/0/0/724/380?u=https://isbh.tmgrup.com.tr/sbh/2022/04/27/ruyada-sogan-gormek-ne-anlama-gelir-ruyada-taze-kuru-ve-yesil-sogan-dogradigini-ve-yedigini-gormek-anlami-1651067471875.jpg"
 ---
 

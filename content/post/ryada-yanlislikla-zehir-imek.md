@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Tuğba zehir"
-date: "2022-12-20"
+description: "Yanlislikla yukledim"
+date: "2023-02-08"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i1.rgstatic.net/ii/profile.image/1116671192371200-1643246567610_Q512/Tugba-Zehir.jpg"
-featuredImage: "http://i.dr.com.tr/cache/600x600-0/originals/0000000406783-1.jpg"
-featured_image: "https://i.ytimg.com/vi/quuApquRQ7U/maxresdefault.jpg"
+- "http://i.dr.com.tr/cache/600x600-0/originals/0000000406783-1.jpg"
+featuredImage: "https://media-cdn.t24.com.tr/media/stories/2015/09/raw_yanlislikla-meksikali-turistler-olduruldu_300036740.jpg"
+featured_image: "https://i.ytimg.com/vi/sxSqdUSXcFs/maxresdefault.jpg"
 image: "https://www.acilcalisanlari.com/wp-content/uploads/2022/04/Antidot-Çizelgesi.jpg"
 ---
 

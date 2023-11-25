@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Kareena kapoor khan&#039;s tweet"
-date: "2023-09-08"
+description: "Osmangazi&#039;de merdiven altı tatlıcıya şok baskın"
+date: "2023-06-19"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/O4pC3HIi4cU/maxresdefault.jpg"
-featuredImage: "https://tokathabercomtr.teimg.com/crop/1280x720/tokathaber-com-tr/uploads/2023/09/agency/iha/isadami-seyhmus-tatliciya-cinsel-saldiri-davasinda-5-yildan-10-yila-kadar-hapis-talebi.jpg"
-featured_image: "https://www.gazetedemokrat.com/images/haberler/vitesi-bosalip-tatliciya-giren-pikabi-vinc-cikardi.jpg"
-image: "https://pbs.twimg.com/media/Fcyada8X0AANSFu.jpg"
+- "https://www.gazetedemokrat.com/images/haberler/vitesi-bosalip-tatliciya-giren-pikabi-vinc-cikardi.jpg"
+featuredImage: "https://www.gazetedemokrat.com/images/haberler/vitesi-bosalip-tatliciya-giren-pikabi-vinc-cikardi.jpg"
+featured_image: "https://i.ytimg.com/vi/O4pC3HIi4cU/maxresdefault.jpg"
+image: "https://iasbh.tmgrup.com.tr/fe1699/650/344/0/57/618/381?u=https://isbh.tmgrup.com.tr/sbh/2018/07/06/unlu-tatliciya-silahli-saldiri-1530909810510.jpeg"
 ---
 
 If you are searching about 85 YILLIK TATLICIYA GELDİM. - YouTube you've came to the right place. We have 9 Images about 85 YILLIK TATLICIYA GELDİM. - YouTube like NABZA GÖRE ŞERBET ARAYAN TATLICIYA GİTSİN KÖYDE BU GÜN - YouTube, Osmangazi'de merdiven altı tatlıcıya şok baskın - Haberler and also İşadamı Şeyhmus Tatlıcı’ya "cinsel saldırı" davasında 5 yıldan 10 yıla. Here it is:

@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Depremden sağ kurtulan aile keşan&#039;a geldi"
-date: "2023-11-14"
+description: "Engelli̇ çi̇ft, namaza kalkinca depremden sağ kurtuldu"
+date: "2023-02-23"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://www.woowasistan.com/wp-content/uploads/2023/02/engelli-ccedilift-namaza-kalkinca-depremden-sag-kurtuldu.jpeg"
-featuredImage: "https://i.hbrcdn.com/haber/2023/02/11/depremden-sag-olarak-kurtulan-ali-hizmetci-o-15626182_amp.jpg"
-featured_image: "https://muhabiragricom.teimg.com/muhabiragri-com/uploads/2023/02/agency/igf/depremden-sag-kurtulan-aile-kesana-geldi.jpg"
-image: "https://i.hbrcdn.com/haber/2023/02/11/depremden-sag-olarak-kurtulan-ali-hizmetci-o-15626182_amp.jpg"
+- "https://gundemebakiscom.teimg.com/gundemebakis-com/uploads/2023/02/depremden-sag-kurtulan-vatandas-disariya-cikmaya-calistik-bizi-duvardan-duvara-firlatti-6328-dhaphoto1.jpg"
+featuredImage: "https://gundemebakiscom.teimg.com/gundemebakis-com/uploads/2023/02/depremden-sag-kurtulan-vatandas-disariya-cikmaya-calistik-bizi-duvardan-duvara-firlatti-6328-dhaphoto1.jpg"
+featured_image: "https://img.gercekgundem.com/rcman/Cw1280h720q95gc/storage/files/images/2023/03/05/depremden-sag-kurtulan-tarihi-uzun-carsi-esnafi-simdi-urunlerini-kurtarmaya-calisiyor-WpTe.jpg"
+image: "https://i.haberglobal.com.tr/storage/files/images/2023/07/05/depremden-sag-kurtuldular-para-kazanmak-icin-geldikleri-marmariste-sokakta-kaldilar-3OS1.jpg"
 ---
 
 If you are looking for ENGELLİ ÇİFT, NAMAZA KALKINCA DEPREMDEN SAĞ KURTULDU | WoowAsistan you've came to the right web. We have 9 Pictures about ENGELLİ ÇİFT, NAMAZA KALKINCA DEPREMDEN SAĞ KURTULDU | WoowAsistan like MUĞLA - Hatay'daki depremden sağ kurtulan çift Datça'da evlendi - Özgür, Depremden sağ kurtulan aile Keşan'a geldi - Muhabir Ağrı-Ağrı haberleri and also Depremden sağ olarak kurtulan Ali Hizmetçi: "O dramı anlatmaya. Here it is:

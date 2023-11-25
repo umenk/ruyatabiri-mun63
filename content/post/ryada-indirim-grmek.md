@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Migros i̇ndirim günleri: şubat 2013"
-date: "2023-09-09"
+description: "Migros i̇ndirim günleri: migros indirim günleri,i̇çecekler-2(3-16 temmuz"
+date: "2022-12-04"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://pbs.twimg.com/media/Fcyada8X0AANSFu.jpg"
-featuredImage: "https://1.bp.blogspot.com/-q17a6rwHscE/UR9ERSbBGyI/AAAAAAAAALA/VUWmNqeLrjs/s1600/Migros+indirim+günleri,şarküteri+ürünleri(14-27+Şubat+2013).PNG"
-featured_image: "https://3.bp.blogspot.com/-foduQN5w1xY/UdRn6KybQGI/AAAAAAAAAaw/Ls5FhyNE1Xk/s459/Migros+indirim+günleri,gıda+ürünleri(4-17+Temmuz+2013).PNG"
+- "https://1.bp.blogspot.com/-q17a6rwHscE/UR9ERSbBGyI/AAAAAAAAALA/VUWmNqeLrjs/s1600/Migros+indirim+günleri,şarküteri+ürünleri(14-27+Şubat+2013).PNG"
+featuredImage: "http://4.bp.blogspot.com/-9MfSVDKX1s8/UwDIi1WSPmI/AAAAAAAAAgk/ZSQZl0UzoNE/s1600/Migros+indirim+günleri,Migros+Ürünleri(13-26+Şubat+2014).JPG"
+featured_image: "http://1.bp.blogspot.com/-RX_HiM-1QYk/UUCotvwiJ8I/AAAAAAAAANo/pMjJq5o3yKI/s320/Migros+indirim+günleri,et+ürünleri(14-27+Mart+2013).PNG"
 image: "https://3.bp.blogspot.com/-foduQN5w1xY/UdRn6KybQGI/AAAAAAAAAaw/Ls5FhyNE1Xk/s459/Migros+indirim+günleri,gıda+ürünleri(4-17+Temmuz+2013).PNG"
 ---
 

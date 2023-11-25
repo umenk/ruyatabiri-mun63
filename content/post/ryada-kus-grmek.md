@@ -1,13 +1,13 @@
 ---
 title: ""
 description: "De kus g. klimt – blauwkruikje"
-date: "2023-09-19"
+date: "2023-08-21"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://voda.tzb-info.cz/docu/zpravy/0195/019508o1.jpg"
-featuredImage: "https://i.ytimg.com/vi/pG-hxhOCQA8/maxresdefault.jpg"
-featured_image: "https://eshop.jtg-hydrasteel.sk/app/uploads/2015/05/20151221_102421.jpg"
+- "https://www.kaloricketabulky.cz/file/image/foodstuff/0ae7cd37d81f411aba8e4272c1331f83/702d35b3750d443ea83cec33414c352c"
+featuredImage: "https://st.myideasoft.com/idea/ga/54/myassets/products/050/meyve-aromali-kus-lokumu1.jpg?revision=1646140745"
+featured_image: "https://i.ytimg.com/vi/pG-hxhOCQA8/maxresdefault.jpg"
 image: "https://i.ytimg.com/vi/Ei3s-jfScAU/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4Ac4FgALQBYoCDAgAEAEYciBaKBEwDw==&amp;rs=AOn4CLAIfcLsTcylk3ZS6bdCSFwVel8mGg"
 ---
 

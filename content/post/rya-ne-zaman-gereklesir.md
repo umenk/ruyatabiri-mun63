@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Kurban bayramı ne zaman 2021 ramazan bayramı ne zaman, hangi gün"
-date: "2023-02-17"
+description: "Ne zaman baba ne zaman : r/nsfw_kgbtr"
+date: "2023-11-04"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://static.daktilo.com/sites/805/uploads/2021/04/15/kurban-bayram-ne-zaman-2021-ramazan-bayrami-ne-zaman-hangi-gun.jpg"
-featuredImage: "https://64.media.tumblr.com/08473f3c7ff40844f628006739ea26e9/47f0fd949eda0cb5-71/s540x810/f029e500c3c6b723afa7e0287ee568ef886d57bb.jpg"
-featured_image: "https://external-preview.redd.it/qQ5ZCemqjK-Z1uZJyKpnC6L_4_EiAnxaS8TDhBqOrGw.png?blur=40&amp;format=pjpg&amp;auto=webp&amp;s=5006208c517d71b7523a36fd29bc5763bd1cd959"
+- "https://www.bilimgemisi.com/wp-content/uploads/2020/02/betelgeuse-yildizi-gunes-karsilastirmasi.jpg"
+featuredImage: "https://www.bilimgemisi.com/wp-content/uploads/2020/02/betelgeuse-yildizi-gunes-karsilastirmasi.jpg"
+featured_image: "https://cdn.ankaramasasi.com/2023/4/8/one-punh-man-3-sezon-ne-zaman-5d5y3ogz.jpg"
 image: "https://iasbh.tmgrup.com.tr/907703/0/0/0/0/0/0?u=https://isbh.tmgrup.com.tr/sb/album/2023/08/20/yks-universite-kayit-tarihleri-ve-e-devlet-ekrani-2023-2024-universite-elektronik-kayit-tarihleri-ne-zaman-ger-1692520252128.jpg"
 ---
 

@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Abdullah gündüz ⛷📚 on twitter: &quot;@evrenemerak @belgeseidunyasi evet"
-date: "2023-10-02"
+description: "Team garchomp team zacian cp3213"
+date: "2023-06-08"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/HYLCwcE-Dgc/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYRSBHKGUwDw==&amp;rs=AOn4CLC_ulBvmvqa2cf2uT56Qfk3FCYaDA"
-featuredImage: "https://images.ruyandagor.com/2017/04/unlu-gormek-ve-konusmak-1231.jpg"
-featured_image: "https://im.haberturk.com/l/2022/12/23/ver1671804270/3550077/jpg/1920x1080"
+- "https://images.ruyandagor.com/2017/04/unlu-gormek-ve-konusmak-1231.jpg"
+featuredImage: "http://ruyalardunyasi.com/wp-content/uploads/2019/07/ruyada-olunun-dirilmesi-ve-konusmasi-1024x580.jpg"
+featured_image: "https://images.ruyandagor.com/2017/04/arkadasini-gormek-ve-konusmak-2104.jpg"
 image: "https://iasbh.tmgrup.com.tr/f2911f/752/395/142/0/1487/706?u=https://isbh.tmgrup.com.tr/sbh/2021/08/27/ruyada-eski-sevdigini-gormek-ne-anlama-gelir-ruyada-eski-sevdigin-kisiyi-gormek-ve-onunla-konusmak-anlami-nedir-1630045828452.jpg"
 ---
 

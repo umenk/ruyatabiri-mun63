@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Kareena kapoor khan&#039;s tweet"
-date: "2023-02-26"
+description: "The geyik on twitter: &quot;i̇sterse hava 60 derece olsun o siyah tisort"
+date: "2023-07-13"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://pbs.twimg.com/media/Fcyada8X0AANSFu.jpg"
-featuredImage: "https://pbs.twimg.com/profile_images/1400515256355598344/cnauwx5y_400x400.jpg"
-featured_image: "https://i.ytimg.com/vi/H2fAEMesIjo/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXyhTMA8=&amp;rs=AOn4CLCJYSghky0o-ilndxvg6fCYAda1ug"
-image: "https://i.pinimg.com/originals/d5/ed/d4/d5edd4b7a1e8fbcf278cc67a420dcd66.png"
+- "https://i.ytimg.com/vi/HYLCwcE-Dgc/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYRSBHKGUwDw==&amp;rs=AOn4CLC_ulBvmvqa2cf2uT56Qfk3FCYaDA"
+featuredImage: "https://pbs.twimg.com/media/Fcyada8X0AANSFu.jpg"
+featured_image: "https://i.pinimg.com/originals/f1/b7/f4/f1b7f47cf0c6c76da56e9961604097b5.png"
+image: "https://i.ytimg.com/vi/HYLCwcE-Dgc/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYRSBHKGUwDw==&amp;rs=AOn4CLC_ulBvmvqa2cf2uT56Qfk3FCYaDA"
 ---
 
 If you are searching about Kareena Kapoor Khan's tweet - "Ekta Kapoor to co-produce Rajesh you've visit to the right web. We have 9 Pictures about Kareena Kapoor Khan's tweet - "Ekta Kapoor to co-produce Rajesh like Kareena Kapoor Khan's tweet - "Ekta Kapoor to co-produce Rajesh, Team Garchomp Team Zacian CP3213 - YouTube and also La ULTIMA PIEZA del ROMPECABEZAS 🎭😂🧘5,000 (a la chingada) - YouTube. Here you go:

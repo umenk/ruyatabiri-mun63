@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Telli̇oğullari: 6 &amp; kasirga fc: 2 (2021)"
-date: "2023-01-04"
+description: "Kasırga tr 300"
+date: "2022-11-29"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/g-U8bml6UfU/maxresdefault.jpg"
-featuredImage: "https://i.ytimg.com/vi/GLHAVNQ539g/maxresdefault.jpg"
-featured_image: "https://i.ytimg.com/vi/GLHAVNQ539g/maxresdefault.jpg"
+- "https://i.ytimg.com/vi/GLHAVNQ539g/maxresdefault.jpg"
+featuredImage: "https://i.ytimg.com/vi/gM4gxQWWbSg/maxresdefault.jpg"
+featured_image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipiDUeDqFPSmeiU5KbfEKAzOZ6XFx9XQh2UZ1SNF3IysdOWm1TB3JOvHM-SnX05c4vqyFb1eh6HZVNOoW_AdHaJ-e69G8EZvIgUZphm1tl3xf6ZslorvkGN4kJydthF04X_EyzkEeFm4JoGSL4RwtRV0FAgLzLiuoZmnZLGrTB9q-f4OKL3w0N9jzdXw/w1289-h811/kasirgagif.gif"
 image: "https://i.ytimg.com/vi/g-U8bml6UfU/maxresdefault.jpg"
 ---
 

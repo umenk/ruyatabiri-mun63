@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "O sunucu kadinlara ci̇nsel organini yolladi i̇şi̇nden oldu!"
-date: "2023-07-14"
+description: "Sevgilisine ilgi gösteren arkadaşını öldürüp cinsel organını kesti"
+date: "2023-07-26"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://pamukkalehabercom.teimg.com/pamukkalehaber-com/images/haberler/2019/06/denizlide-feci-olay-cinsel-organini-kesti_a932c.jpg"
-featuredImage: "https://cdn.ucankus.com/img/gbrytrnyr.jpg"
-featured_image: "https://i.hbrcdn.com/haber/2022/01/29/son-dakika-haberi-kiskanclik-yuzunden-14700288_1665_m.jpg"
-image: "https://cdn.ucankus.com/img/chris-evans-yanlislikla-cinsel-organini-paylasti-4703377.jpg"
+- "https://i.hbrcdn.com/haber/2023/07/05/iliski-teklifini-reddetti-tehdit-edilince-erkek-16087945_9894_m.jpg"
+featuredImage: "https://i.hbrcdn.com/haber/2023/07/05/iliski-teklifini-reddetti-tehdit-edilince-erkek-16087945_4650_m.jpg"
+featured_image: "https://iasbh.tmgrup.com.tr/fa37d2/0/0/0/0/0/0?u=https://isbh.tmgrup.com.tr/sbh/2022/06/12/hemsirelere-cirkin-taciz-cinsel-organini-gosterip-1655009136790.jpg&amp;mw=600"
+image: "https://i.hbrcdn.com/haber/2023/07/05/iliski-teklifini-reddetti-tehdit-edilince-erkek-16087945_9894_m.jpg"
 ---
 
 If you are searching about İlişki teklifini reddetti! Tehdit edilince erkek arkadaşının cinsel you've came to the right page. We have 9 Images about İlişki teklifini reddetti! Tehdit edilince erkek arkadaşının cinsel like DENİZLİ’DE FECİ OLAY; CİNSEL ORGANINI KESTİ - Pamukkale Haber | Denizli, İlişki teklifini reddetti! Tehdit edilince erkek arkadaşının cinsel and also Sevgilisine ilgi gösteren arkadaşını öldürüp cinsel organını kesti. Here it is:

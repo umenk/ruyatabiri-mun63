@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Rüyada tavşan görmek ne anlama gelir? rüyada tavşan yakalamak"
-date: "2023-07-20"
+description: "Rüyada ördek görmek ne anlama gelir? rüyada beyaz ördek görmek, uçan"
+date: "2023-10-10"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i20.haber7.net/resize/1280x720/haber/haber7/photos/2022/25/ruyada_tavsan_gormek_ne_anlama_gelir_ruyada_tavsan_yakalamak_1655965334_2276.jpg"
-featuredImage: "https://foto.haberler.com/haber/2021/11/30/ruyada-fare-gormek-ne-anlama-gelir-ruyada-beyaz-14565946_8833_amp.jpg"
-featured_image: "https://im.haberturk.com/l/2022/11/26/ver1685629685/3542299/jpg/1920x1080"
+- "https://iasbh.tmgrup.com.tr/26139c/650/344/0/0/724/380?u=https://isbh.tmgrup.com.tr/sbh/2022/07/05/ruyada-eve-giren-hirsizi-yakalamak-ne-anlama-gelir-ruyada-eve-giren-hirsizi-yakalamanin-anlami-1657000414287.jpg"
+featuredImage: "https://i20.haber7.net/resize/1280x720/haber/haber7/photos/2022/25/ruyada_tavsan_gormek_ne_anlama_gelir_ruyada_tavsan_yakalamak_1655965334_2276.jpg"
+featured_image: "https://i20.haber7.net/resize/1280x720/haber/haber7/photos/2022/25/ruyada_tavsan_gormek_ne_anlama_gelir_ruyada_tavsan_yakalamak_1655965334_2276.jpg"
 image: "https://i.hbrcdn.com/haber/2021/06/21/ruyada-ordek-gormek-ne-anlama-gelir-ruyada-beyaz-14214777_1972_amp.jpg"
 ---
 

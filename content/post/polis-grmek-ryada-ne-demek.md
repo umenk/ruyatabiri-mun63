@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Polis greci antica civilta acropoli poleis agorà delle elementare nascita secolo storico didattico dove"
-date: "2023-05-08"
+description: "La polis"
+date: "2023-04-28"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "http://www.blogdidattico.it/wp-content/uploads/2020/02/ACROPOLI.jpg"
-featuredImage: "https://i.pinimg.com/originals/ae/06/b2/ae06b2b090c5478ffcd9ab1f39c78fe3.jpg"
-featured_image: "http://www.blogdidattico.it/wp-content/uploads/2020/02/ACROPOLI.jpg"
+- "https://i.ytimg.com/vi/HYLCwcE-Dgc/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYRSBHKGUwDw==&amp;rs=AOn4CLC_ulBvmvqa2cf2uT56Qfk3FCYaDA"
+featuredImage: "https://3.bp.blogspot.com/-ILvCKrUrphg/V1U83NhKdDI/AAAAAAAAACk/xFBUlv1lik8QMzARqvfO4Bb5r2f8-SjZACLcB/s1600/tumblr_o6ypjmMSN41rnx42io1_500.jpg"
+featured_image: "https://image.isu.pub/190616044833-bdd00a1b2f3723328970140be45ea269/jpg/page_1.jpg"
 image: "https://i2.wp.com/i.ytimg.com/vi/B91aZtHZCL8/maxresdefault.jpg"
 ---
 

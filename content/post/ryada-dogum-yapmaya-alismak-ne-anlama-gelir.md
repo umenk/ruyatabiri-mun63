@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Komşumun koyunlar dogum yapmaya başladı kuzucuklar çok tatlı maşallah"
-date: "2023-04-29"
+description: "Rüyada doğum yaptığını görmek ne anlama gelir? diyanete göre rüyada"
+date: "2023-07-27"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
 - "https://icdn.tgrthaber.com.tr/images/haberler/23-03/02/hakkadogum-ne-demek_-hakka-dogum-ne-anlama-geliyor_-hakka-dogum-anlami-1677738020.jpg"
-featuredImage: "https://iasbh.tmgrup.com.tr/8744a1/650/344/0/0/800/420?u=https://isbh.tmgrup.com.tr/sbh/2019/10/20/ruyada-pasta-gormek-ne-anlama-gelir-ruyada-pasta-veya-dogum-gunu-pastasi-gormek-1571581605256.jpg"
-featured_image: "https://www.bizdekalmasin.com/wp-content/uploads/2023/03/Eve-Kelebek-Girmesi-Dinen-Ne-Anlama-Gelir-scaled.jpg"
+featuredImage: "https://icdn.tgrthaber.com.tr/images/haberler/23-03/02/hakkadogum-ne-demek_-hakka-dogum-ne-anlama-geliyor_-hakka-dogum-anlami-1677738020.jpg"
+featured_image: "https://iasbh.tmgrup.com.tr/31ed44/752/395/0/73/724/453?u=https://isbh.tmgrup.com.tr/sbh/2019/10/16/1571237749877.jpg"
 image: "https://iasbh.tmgrup.com.tr/dd6625/650/344/0/62/723/441?u=https://isbh.tmgrup.com.tr/sbh/2022/06/27/ruyada-erkegin-dogum-yaptigini-gormek-ne-anlama-gelir-ruyada-erkegin-dogum-yapmasinin-anlami-1656315167819.jpg"
 ---
 

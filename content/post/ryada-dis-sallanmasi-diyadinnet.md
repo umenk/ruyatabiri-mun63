@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Van&#039;da &quot;dünya diş sağlığı günü &quot;etkinliği düzenlendi"
-date: "2023-09-18"
+description: "Malatya&#039;da emekli polis memuru diş kliniğinde hayatını kaybetti"
+date: "2023-06-10"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://www.diyadinnet.com/img/2021/08/elazig-fu-dis-hekimligi-fakultesi-ve-dis-hastanesi-binasinin-temeli-atildi.jpg"
-featuredImage: "https://www.diyadinnet.com/img/2022/02/malatya-emekli-polis-memuru-dis-kliniginde-hayatini-kaybetti.jpg"
-featured_image: "https://www.diyadinnet.com/img/2022/03/van-da-dunya-dis-sagligi-gunu-etkinligi-duzenlendi.jpg"
-image: "https://www.diyadinnet.com/img/2022/02/malatya-emekli-polis-memuru-dis-kliniginde-hayatini-kaybetti.jpg"
+- "https://www.diyadinnet.com/img/2023/02/malatya-takma-dis-ikinci-depremde-enkaz-altinda-kalmaktan-kurtardi.jpg"
+featuredImage: "https://www.diyadinnet.com/img/2022/03/van-da-dunya-dis-sagligi-gunu-etkinligi-duzenlendi.jpg"
+featured_image: "https://www.diyadinnet.com/d/news/dis-hekimlerinde-mezuniyet-heyecani-51063.jpg"
+image: "https://www.diyadinnet.com/img/2023/02/malatya-takma-dis-ikinci-depremde-enkaz-altinda-kalmaktan-kurtardi.jpg"
 ---
 
 If you are looking for Van'da diş hekimliği fakültesi öğrencileri "beyaz önlük" giydi | Van you've came to the right page. We have 9 Images about Van'da diş hekimliği fakültesi öğrencileri "beyaz önlük" giydi | Van like Van'da engelli hastalara "özel diş tedavisi" hizmeti | Van Haber, Diş hekimlerinde mezuniyet heyecanı - Malatya Haberleri - Diyadinnet and also Geleceğin diş hekimleri çocukların sağlığı için köyleri geziyor | Kars. Here it is:

@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Sürekli birisini düşünmek ne anlama gelir?"
-date: "2023-06-29"
+description: "Rüyada babaya sarılmak ne anlama gelir? rüyada babaya sarılmanın anlamı"
+date: "2023-08-30"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://iasbh.tmgrup.com.tr/258197/752/395/0/24/723/403?u=https://isbh.tmgrup.com.tr/sbh/2022/07/21/ruyada-babaya-sarilmak-ne-anlama-gelir-ruyada-babaya-sarilmanin-anlami-1658386112334.jpg"
-featuredImage: "https://iasbh.tmgrup.com.tr/68e714/752/395/0/10/724/390?u=https://isbh.tmgrup.com.tr/sbh/2021/08/31/ruyada-olmus-dedeyi-gormek-ne-anlama-gelir-ruyada-olmus-dedeye-sarilmak-ne-demek-1630406524496.jpg"
-featured_image: "https://www.nkfu.com/wp-content/uploads/2015/03/ruyada-sarilmak.jpg"
+- "https://iasbh.tmgrup.com.tr/ef1f1d/752/395/0/62/724/442?u=https://isbh.tmgrup.com.tr/sbh/2022/06/30/ruyada-oluye-sarilmak-ne-anlama-gelir-ruyada-oluye-sarilmanin-anlami-1656586913888.jpg"
+featuredImage: "https://i.hbrcdn.com/haber/2021/12/02/ruyada-sarilmak-ne-anlama-gelir-ruyada-eski-14571251_9835_amp.jpg"
+featured_image: "https://i.hbrcdn.com/haber/2020/08/25/ruyada-olmus-birini-gormek-ne-anlama-gelir-12587181_6251_m.jpg"
 image: "https://www.nkfu.com/wp-content/uploads/2015/03/ruyada-sarilmak.jpg"
 ---
 

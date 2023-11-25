@@ -1,12 +1,12 @@
 ---
 title: ""
-description: "Rüyada erkek çocuğu görmek islami tabiri ne anlama gelir"
-date: "2023-06-24"
+description: "Rüyada erkek görmek ne anlama gelir? rüyada genç, yaşlı erkek görmek"
+date: "2022-12-07"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
 - "https://puwiki.com/wp-content/uploads/2020/03/ruyada-erkek-cocugu-gormek-islami-tabiri-ne-anlama-gelir.jpg"
-featuredImage: "https://i.hbrcdn.com/haber/2021/12/07/ruyada-cocuk-gormek-ne-anlama-gelir-ruyada-kiz-14581485_6514_amp.jpg"
+featuredImage: "https://www.zkadin.com/wp-content/uploads/2021/04/ruyada-erkek-bebek-gormek-ne-anlama-gelir-ruyada-erkek-bebek-dogurdugunu-gormek-ne-demek-4-OZbBN1x8.jpg"
 featured_image: "https://puwiki.com/wp-content/uploads/2020/03/ruyada-erkek-cocugu-gormek-islami-tabiri-ne-anlama-gelir.jpg"
 image: "https://gunceloku.com/uploads/kahve-falinda-araba-gormek-ne-anlama-gelir-63e9f610e0973.jpeg"
 ---

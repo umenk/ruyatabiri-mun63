@@ -1,13 +1,13 @@
 ---
 title: ""
 description: "Evini bastığı eski sevgilisi ve arkadaşlarını döven üniversiteli"
-date: "2023-05-19"
+date: "2023-05-31"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i2.sdacdn.com/haber/2019/05/11/evini-bastigi-eski-sevgilisi-ve-arkadaslarini-12038158_amp.jpg"
-featuredImage: "https://www.bursahakimiyet.com.tr/static/28/283438-eski-muhtarin-kardesi-ve-arkadaslarini-dovduler-5cb2ee477a688-x750.jpg"
-featured_image: "https://iatkv.tmgrup.com.tr/3823f2/0/0/0/0/0/0?u=https:%2f%2fitkv.tmgrup.com.tr%2falbum%2f2022%2f02%2f23%2fruyada-eski-okul-arkadaslarini-gormek-ne-anlama-gelir-ruyada-eski-okul-arkadaslarini-gormek-neye-isarettir-anl-1645617784983.jpg&amp;mw=1100&amp;l=1"
+- "https://iatkv.tmgrup.com.tr/3823f2/0/0/0/0/0/0?u=https:%2f%2fitkv.tmgrup.com.tr%2falbum%2f2022%2f02%2f23%2fruyada-eski-okul-arkadaslarini-gormek-ne-anlama-gelir-ruyada-eski-okul-arkadaslarini-gormek-neye-isarettir-anl-1645617784983.jpg&amp;mw=1100&amp;l=1"
+featuredImage: "https://pbs.twimg.com/media/FqXJZOGXgAEamTz.jpg"
+featured_image: "https://www.bursahakimiyet.com.tr/static/28/283438-eski-muhtarin-kardesi-ve-arkadaslarini-dovduler-5cb2ee477a688-x750.jpg"
 image: "https://huzurkapisi.com/wp-content/uploads/2019/05/ruyada-eski-arkadaslarini-gormek.jpg"
 ---
 

@@ -1,13 +1,13 @@
 ---
 title: ""
 description: "Doğu&#039;da kar, tipi"
-date: "2023-02-15"
+date: "2023-05-17"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://61saatcom.teimg.com/crop/1280x720/61saat-com/images/haberler/2021/03/bitliste_kar_tipi_ve_firtina.jpg"
-featuredImage: "https://i.ytimg.com/vi/HYLCwcE-Dgc/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYRSBHKGUwDw==&amp;rs=AOn4CLC_ulBvmvqa2cf2uT56Qfk3FCYaDA"
-featured_image: "https://i.hbrcdn.com/haber/2023/01/30/dogu-anadolu-da-kar-tipi-ve-soguk-hava-etkili-15593824_amp.jpg"
+- "https://www.bremabuzmakinesi.com/wp-content/uploads/2017/03/brema-gb902-300x214.jpg"
+featuredImage: "https://i.hbrcdn.com/haber/2023/01/30/dogu-anadolu-da-kar-tipi-ve-soguk-hava-etkili-15593824_amp.jpg"
+featured_image: "https://foto.haberler.com/haber/2018/11/17/dogu-da-kar-tipi-11445923_amp.jpg"
 image: "https://61saatcom.teimg.com/crop/1280x720/61saat-com/images/haberler/2021/03/bitliste_kar_tipi_ve_firtina.jpg"
 ---
 

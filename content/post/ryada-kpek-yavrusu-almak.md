@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Sıpa nedir ne demektir? anlamı"
-date: "2023-06-26"
+description: "Hqdefault.jpg?sqp=-oaymwewckgbef5iwvkriqkdcqgbfqaaieiyaq==&amp;rs"
+date: "2022-12-11"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/zDYJhJbSE9k/hqdefault.jpg"
-featuredImage: "https://3.bp.blogspot.com/-r68cFh7vipU/WlCJrUIWhyI/AAAAAAAAAAo/tld-O5PsHjk6jGGqhPZbDOfSV9Y6TbUoACLcBGAs/s1600/17796614_1931033903841793_3794438199056648080_n.jpg"
-featured_image: "https://sevimliyavru.com/public/resimupload/birben/pigallery/files/AdobeStock_195276899-1644352461-156.jpeg"
+- "https://i.ytimg.com/vi/MxtyyIdGDVQ/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&amp;amp;rs=AOn4CLB5qzqlz1wRAWfKOmrZvjG4ZQCMXQ&amp;amp;days_since_epoch=19123"
+featuredImage: "https://i.ytimg.com/vi/zDYJhJbSE9k/hqdefault.jpg"
+featured_image: "https://i.ytimg.com/vi/MxtyyIdGDVQ/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&amp;amp;rs=AOn4CLB5qzqlz1wRAWfKOmrZvjG4ZQCMXQ&amp;amp;days_since_epoch=19123"
 image: "https://kangalyavrusu58.com/wp-content/uploads/2019/12/7-kangal-yavrusu-fiyatları.jpg"
 ---
 

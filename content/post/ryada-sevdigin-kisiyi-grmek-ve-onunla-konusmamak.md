@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Rüyada eski sevdiğini görmek ne anlama gelir? rüyada eski sevdiğin"
-date: "2023-10-01"
+description: "Takip etmeyi ve beğenmeyi unutmayiniz 👈 @inciperisii 😊 sevdigin bir"
+date: "2023-10-08"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://pbs.twimg.com/ext_tw_video_thumb/1670998573276700672/pu/img/HU7oDYX-kS2S9l8I.jpg"
-featuredImage: "https://www.habernediyor.com/images/haberler/2022/05/sislide_vahset_eski_sevgilisini_ve_onunla_yasayan_kisiyi_katletti_h79873_47802.jpg"
-featured_image: "https://i.pinimg.com/originals/ed/4a/78/ed4a7804cfff804966c05a0bbeba5af5.jpg"
+- "https://media.kunduz.com/media/question/seo/raw/20220608163339190069-942668.jpg?h=512"
+featuredImage: "https://i.pinimg.com/originals/d7/50/d3/d750d35df9844d8ac701f8aa97782019.jpg"
+featured_image: "https://i.pinimg.com/originals/de/ee/b7/deeeb738d81c029009730f1b01a5c664.jpg"
 image: "https://iasbh.tmgrup.com.tr/7cbd2e/650/344/142/0/1487/706?u=https://isbh.tmgrup.com.tr/sbh/2021/08/27/ruyada-eski-sevdigini-gormek-ne-anlama-gelir-ruyada-eski-sevdigin-kisiyi-gormek-ve-onunla-konusmak-anlami-nedir-1630045828452.jpg"
 ---
 

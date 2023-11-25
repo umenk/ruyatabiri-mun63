@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Japon balığı (goldfish) bakımı ve beslenmesi"
-date: "2023-07-30"
+description: "Japon balığı"
+date: "2022-12-10"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://blog.juenpetmarket.com/wp-content/uploads/2019/10/japon-baligi-yemi-nasil-olmalidir.jpg"
-featuredImage: "https://blog.juenpetmarket.com/wp-content/uploads/2019/10/japon-baligi-yemi-nasil-olmalidir.jpg"
-featured_image: "https://blog.juenpetmarket.com/wp-content/uploads/2020/10/japon-baligi-goldfish-bakimi-ve-beslenmesi.jpg"
+- "https://blog.juenpetmarket.com/wp-content/uploads/2020/10/japon-baligi-goldfish-bakimi-ve-beslenmesi.jpg"
+featuredImage: "https://i.pinimg.com/originals/5a/41/c8/5a41c888c4082475a3d3db8a334e38b1.jpg"
+featured_image: "https://bitkibalik.com/wp-content/uploads/2019/09/Japon-Balığı-e1632477102533.jpg"
 image: "https://www.evcilhayvan.market/wp-content/uploads/2018/11/panda-japon-baligi.jpg"
 ---
 

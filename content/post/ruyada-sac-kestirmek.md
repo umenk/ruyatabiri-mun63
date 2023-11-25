@@ -1,13 +1,13 @@
 ---
 title: "ruyada sac kestirmek Rüyada kuaföre gitmek nedir? rüyada saç kestirmek, saç boyatmak, makyaj"
-description: "Rüyada saç kestirmek ne demek?"
-date: "2023-02-11"
+description: "Rüyada kuaföre gitmek nedir? rüyada saç kestirmek, saç boyatmak, makyaj"
+date: "2023-06-07"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.hbrcdn.com/haber/2022/12/15/ruyada-kuafore-gitmek-nedir-ruyada-sac-kestirmek-15497029_6304_amp.jpg"
-featuredImage: "https://i.hbrcdn.com/haber/2022/12/15/ruyada-kuafore-gitmek-nedir-ruyada-sac-kestirmek-15497029_6304_amp.jpg"
-featured_image: "https://images.ruyandagor.com/2017/04/sac-kestirmek-ve-boyatmak-2144.jpg"
+- "https://i.haberglobal.com.tr/storage/files/images/2022/02/25/ruyada-sac-gormek-nasil-yorumlanir-ruyada-sac-kestirmek-ne-anlama-gelir-XybD.jpg"
+featuredImage: "https://images.ruyandagor.com/2017/04/sac-kestirmek-ve-begenmemek-1325.jpg"
+featured_image: "https://i.haberglobal.com.tr/storage/files/images/2022/02/25/ruyada-sac-gormek-nasil-yorumlanir-ruyada-sac-kestirmek-ne-anlama-gelir-XybD.jpg"
 image: "http://www.ruya.com/wp-content/uploads/14.jpg"
 ---
 

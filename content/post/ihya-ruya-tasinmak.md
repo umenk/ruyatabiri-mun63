@@ -1,11 +1,11 @@
 ---
 title: "ihya ruya tasinmak Rüyada yaprak görmek, diyanet rüyada yaprak görmenin tabiri, yorumu"
-description: "Rüyada yaprak görmek, diyanet rüyada yaprak görmenin tabiri, yorumu"
-date: "2023-11-04"
+description: "Rüyada gözleme görmek ihya"
+date: "2023-07-23"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://www.aciz.net/rsm/sub/zehirliok/ihya-ruya-tabirleri.jpg"
+- "https://ruya.ihya.org/kapak/bolum5.jpg"
 featuredImage: "https://www.sahihruyalar.com/wp-content/uploads/ruya-1005.jpg"
 featured_image: "https://ruya.ihya.org/kapak/bolum4.jpg"
 image: "https://ruya.ihya.org/kapak/bolum5.jpg"

@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Bozuk et nasıl anlaşılır?"
-date: "2023-09-22"
+description: "Başı bozuk"
+date: "2023-10-06"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://img.memurlar.net/galeri/17181/9427cffc-cbb2-e911-80ef-a0369f7d1486.jpg"
-featuredImage: "https://iasbh.tmgrup.com.tr/744ee5/752/395/0/0/650/341?u=https://isbh.tmgrup.com.tr/sbh/2019/02/01/fransada-bozuk-et-alarmi-1549020356863.jpg"
-featured_image: "https://img.memurlar.net/galeri/17181/9427cffc-cbb2-e911-80ef-a0369f7d1486.jpg"
+- "https://de-academic.com/pictures/dewiki/71/Gérôme-Black_Bashi-Bazouk-c._1869.jpg"
+featuredImage: "https://img.memurlar.net/galeri/17181/9427cffc-cbb2-e911-80ef-a0369f7d1486.jpg"
+featured_image: "https://i.internethaber.com/files/2017/5/26/1780307/1780307-ONM9VA.jpg"
 image: "https://canimanne.com/wp-content/uploads/2017/08/Bozuk-Et-Nasil-Anlasilir-2-375x276.jpg"
 ---
 

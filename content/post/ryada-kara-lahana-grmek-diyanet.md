@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Ayli̇n&#039;i̇n anisina: kara lahana dolmasi *** karadeni̇z"
-date: "2023-04-08"
+description: "Kara lahana yemeği (lahana hulyası)"
+date: "2023-08-29"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://www.fafuly.net/storage/2020/11/Fafuly_Kara_lahana_Sarma.jpg"
-featuredImage: "https://i.nefisyemektarifleri.com/2021/06/16/kara-lahana-yemegi-lahana-hulyasi-3.jpg"
-featured_image: "https://i.nefisyemektarifleri.com/2021/06/16/kara-lahana-yemegi-lahana-hulyasi-3.jpg"
-image: "https://gaiadergi.com/wp-content/uploads/2015/08/Kara-Lahana-1.jpg"
+- "https://cdn.yemek.com/mnresize/1250/833/uploads/2022/05/sera-akgun-kara-lahana-sarmasi.jpg"
+featuredImage: "https://1.bp.blogspot.com/-JBLH9qdUs3U/YY1i911w9YI/AAAAAAAAJcc/K_J1V1kLCc0tJ8Ec1S5msjjYGjX22ME8QCLcBGAsYHQ/s2048/Karalahana%2Bsarmasi%2B1.jpg"
+featured_image: "https://www.fafuly.net/storage/2020/11/Fafuly_Kara_lahana_Sarma.jpg"
+image: "https://www.fafuly.net/storage/2020/11/Fafuly_Kara_lahana_Sarma.jpg"
 ---
 
 If you are searching about Etli Kara Lahana Sarması | Çinili Mutfak you've came to the right page. We have 9 Pics about Etli Kara Lahana Sarması | Çinili Mutfak like AYLİN'İN ANISINA: KARA LAHANA DOLMASI \*\*\* KARADENİZ, Kara Lahananın Faydaları Nelerdir? - Kivi Tadında and also Kara Lahananın Faydaları Nelerdir? - Kivi Tadında. Here it is:

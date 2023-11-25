@@ -1,12 +1,12 @@
 ---
 title: ""
-description: "Rüyada kavga etmek ne demektir? kavga görmek ne anlama gelir"
-date: "2023-01-19"
+description: "Rüyada kavga ve cenk etmek"
+date: "2023-11-16"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
 - "http://www.wired.com/wp-content/uploads/blogs/wiredenterprise/wp-content/uploads/2012/10/robot-fight.jpg"
-featuredImage: "https://images.ruyandagor.com/2017/04/mudurle-kavga-etmek-1907.jpg"
+featuredImage: "https://galeri12.uludagsozluk.com/584/kavga-etmek_840662.jpg"
 featured_image: "https://i.cnnturk.com/i/cnnturk/75/740x416/62ed12a2d265a20a14241fd7.jpg"
 image: "https://galeri12.uludagsozluk.com/584/kavga-etmek_840662.jpg"
 ---

@@ -1,14 +1,14 @@
 ---
 title: ""
 description: "Ağrı&#039;da devrilen hafif ticari araçtaki 1 çocuk öldü, 6 kişi yaralandı"
-date: "2022-12-29"
+date: "2022-12-09"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://www.diyadinnet.com/img/2023/06/agri-da-devrilen-hafif-ticari-aractaki-1-cocuk-oldu-6-kisi-yaralandi.jpg"
+- "https://www.diyadinnet.com/img/2022/01/van-da-ambulans-devrildi-5-kisi-yaralandi.jpg"
 featuredImage: "https://yt3.googleusercontent.com/fcyaDA5O30TMPBIz59_uMrboorAIbkKWVRXykhX5jylI_mHsQMtKYRKrSU6WFKQalZc67BxTzAc=s900-c-k-c0x00ffffff-no-rj"
-featured_image: "https://www.diyadinnet.com/resim/hayvanlar/kuslar/papagan0.jpg"
-image: "https://pbs.twimg.com/media/Fcyada8X0AANSFu.jpg"
+featured_image: "https://www.diyadinnet.com/bigimages/haber/2022/02/70909.jpg"
+image: "https://i.ytimg.com/vi/H2fAEMesIjo/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXyhTMA8=&amp;rs=AOn4CLCJYSghky0o-ilndxvg6fCYAda1ug"
 ---
 
 If you are searching about fcyaDA5O30TMPBIz59\_uMrboorAIbkKWVRXykhX5jylI you've visit to the right web. We have 9 Images about fcyaDA5O30TMPBIz59\_uMrboorAIbkKWVRXykhX5jylI like Ardahan'da çeşitli suçlardan aranan hükümlü yakalandı - Ardahan, Van'da ambulans devrildi, 5 kişi yaralandı | Van Haber Haberleri and also Team Garchomp Team Zacian CP3213 - YouTube. Here you go:

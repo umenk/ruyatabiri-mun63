@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Allahin bir oldugunu gosteren ayetlerden biri!!"
-date: "2023-11-16"
+description: "Arkasinda ayna oldugunu unutan 8 rezil insan"
+date: "2023-11-20"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://pbs.twimg.com/media/FwrDRCDXoAAb3g9.jpg"
-featuredImage: "https://i.ytimg.com/vi/iuxkACbpj48/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHIAYAC6AKKAgwIABABGH8gOCg3MA8=&amp;rs=AOn4CLAk2S2fNslxjxbdQu76Gu6yTKkh9g"
-featured_image: "https://i.ytimg.com/vi/g-xSWoQel1Y/maxresdefault.jpg"
-image: "https://i.ytimg.com/vi/n_vZRynJ_LY/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gKigaMA8=&amp;rs=AOn4CLCKmz8W6-XREgYTS-VVg3Ypsgyb5g"
+- "https://i.ytimg.com/vi/g-xSWoQel1Y/maxresdefault.jpg"
+featuredImage: "https://i.ytimg.com/vi/pcIeG6W1G-w/maxresdefault.jpg"
+featured_image: "https://i.ytimg.com/vi/n_vZRynJ_LY/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gKigaMA8=&amp;rs=AOn4CLCKmz8W6-XREgYTS-VVg3Ypsgyb5g"
+image: "https://i.ytimg.com/vi/HYLCwcE-Dgc/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYRSBHKGUwDw==&amp;rs=AOn4CLC_ulBvmvqa2cf2uT56Qfk3FCYaDA"
 ---
 
 If you are looking for medyablok on Twitter: "Altı aylık erkek arkadaşının kadın olduğunu you've visit to the right web. We have 9 Images about medyablok on Twitter: "Altı aylık erkek arkadaşının kadın olduğunu like Team Garchomp Team Zacian CP3213 - YouTube, lessmou🫶🏻 on Twitter: "10 dkdir dinleyip eski oldugunu anlamayan ben" and also Team Garchomp Team Zacian CP3213 - YouTube. Here it is:

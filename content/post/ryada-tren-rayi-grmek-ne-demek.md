@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Kırklareli’de tren rayı kesilerek çalındı"
-date: "2023-09-26"
+description: "Tren rayı çalmaya çalışırken yakalandılar"
+date: "2023-10-21"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
 - "https://www.diken.com.tr/wp-content/uploads/2021/12/20211215-tren-rayi-pixabay.jpg"
-featuredImage: "https://i.ytimg.com/vi/8wPQf9flCIs/maxresdefault.jpg"
-featured_image: "https://i.ytimg.com/vi/qkaUSyi71-Q/maxresdefault.jpg"
+featuredImage: "https://www.diken.com.tr/wp-content/uploads/2021/12/20211215-tren-rayi-pixabay.jpg"
+featured_image: "https://i.hbrcdn.com/haber/2022/05/12/tren-rayi-calmaya-calisirken-yakalandilar-14935539_amp.jpg"
 image: "https://www.diken.com.tr/wp-content/uploads/2021/12/20211215-tren-rayi-pixabay.jpg"
 ---
 

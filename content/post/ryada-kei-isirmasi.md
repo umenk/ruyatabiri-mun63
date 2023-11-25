@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Engerek isirdi beni̇ yilan isirmasi"
-date: "2023-01-17"
+description: "Rüyada hamam böceği̇ni̇n isirmasi"
+date: "2023-07-25"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/uTGZTFkQHcQ/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHeA4AC0AWKAgwIABABGHIgXCg9MA8=&amp;rs=AOn4CLAQqJfiF9JjV4E08xmND9hw9adWPQ"
-featuredImage: "https://i.ytimg.com/vi/dooTPWc7wAM/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-DoACuAiKAgwIABABGGUgZShlMA8=&amp;rs=AOn4CLCAOWdMGwzDKxNzsZkn8byTlwpA8A"
-featured_image: "https://i.ytimg.com/vi/BrdZNKAcQHc/maxresdefault.jpg"
-image: "https://i.ytimg.com/vi/jfuhARzho0g/maxresdefault.jpg"
+- "https://i.ytimg.com/vi/rXRGkKlPatw/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHKAYAC6AKKAgwIABABGGUgVShSMA8=&amp;rs=AOn4CLCVikB5KPSl58onQ-5OeWPgfVg6qA"
+featuredImage: "https://i.ytimg.com/vi/jfuhARzho0g/maxresdefault.jpg"
+featured_image: "https://i.ytimg.com/vi/dooTPWc7wAM/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-DoACuAiKAgwIABABGGUgZShlMA8=&amp;rs=AOn4CLCAOWdMGwzDKxNzsZkn8byTlwpA8A"
+image: "https://i.ytimg.com/vi/BrdZNKAcQHc/maxresdefault.jpg"
 ---
 
 If you are searching about Kedinin isirmasi - YouTube you've visit to the right page. We have 9 Pics about Kedinin isirmasi - YouTube like KOYUNLAR ÖLÜYOR !!! KENE ISIRMASI SONUCUNDA KOYUNLARI ÖLDÜRÜYOR, Kedinin isirmasi - YouTube and also Kedinin isirmasi - YouTube. Here you go:

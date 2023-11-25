@@ -1,13 +1,13 @@
 ---
 title: "sorun anlamina gelen kelimeler Eş anlamlı kelimeler sözlüğü"
-description: "İsmin yerine kullanılan kelimeler"
-date: "2023-11-07"
+description: "Yeniden doğuş anlamına gelen isimler"
+date: "2023-01-27"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://pixselle.com/wp-content/uploads/2020/04/eski-turkce-kelimeler-anlamlari.jpg"
-featuredImage: "https://img.paratic.com/dosya/2017/03/efsunkar-eski-turkce-kelimeler.jpg"
-featured_image: "https://i.ytimg.com/vi/NJN7Md8wC_w/maxresdefault.jpg"
+- "https://i.ytimg.com/vi/NJN7Md8wC_w/maxresdefault.jpg"
+featuredImage: "https://img.paratic.com/dosya/2017/03/feristah-eski-turkce-kelimeler.jpg"
+featured_image: "https://iasbh.tmgrup.com.tr/31509a/0/0/0/0/0/0?u=https://isbh.tmgrup.com.tr/sb/album/2022/01/24/es-anlamli-kelimeler-listesi-adan-zye-es-anlamli-kelimeler-sozlugu-e1-1643023645165.jpg&amp;mw=752&amp;mh=700&amp;l=1"
 image: "https://guezelsoezler.com/wp-content/uploads/2022/07/Es-Anlamli-Kelimeler-Sozlugu-768x432.jpg"
 ---
 

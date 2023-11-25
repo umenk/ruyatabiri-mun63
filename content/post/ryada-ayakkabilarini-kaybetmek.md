@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Si̇may parkta ayakkabilarini çikardi! park vi̇deosu"
-date: "2023-05-19"
+description: "Ey habi̇bi̇m🌹ayakkabi̇lari̇ni̇ ci̇karma 🌹"
+date: "2023-06-20"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/mpqQh1YRuzo/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&amp;rs=AOn4CLCBi4gLXvOhSkl4tTIN_32Kp8ZAdQ"
+- "https://i.ytimg.com/vi/UJJFJTqEnwI/maxresdefault.jpg"
 featuredImage: "https://i.ytimg.com/vi/jvNvCYv2gVc/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgUihJMA8=&amp;rs=AOn4CLDT39yTjTv8fKqPuA7Cl6-0ubKbHQ"
-featured_image: "https://i.ytimg.com/vi/mpqQh1YRuzo/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&amp;rs=AOn4CLCBi4gLXvOhSkl4tTIN_32Kp8ZAdQ"
-image: "https://i.haberglobal.com.tr/storage/files/images/2022/12/22/kobra-murat-13-yasina-kadar-olulerin-ayakkabilarini-giydim-ALNw.jpg"
+featured_image: "https://i.haberglobal.com.tr/storage/files/images/2022/12/22/kobra-murat-13-yasina-kadar-olulerin-ayakkabilarini-giydim-ALNw.jpg"
+image: "https://pbs.twimg.com/media/DttjehnWsAEJuqW?format=jpg&amp;name=large"
 ---
 
 If you are searching about Kobra Murat: 13 yaşına kadar ölülerin ayakkabılarını giydim you've visit to the right web. We have 9 Pics about Kobra Murat: 13 yaşına kadar ölülerin ayakkabılarını giydim like Kaybetmek (Mirza Tazegül) - Fiyat &amp; Satın Al | D&amp;R, Kobra Murat: 13 yaşına kadar ölülerin ayakkabılarını giydim and also CİCİ KIZ YENİ ALDIĞI AYAKKABILARINI GÖSTERİYOR - YouTube. Here it is:

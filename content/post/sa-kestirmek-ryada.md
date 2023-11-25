@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Saçını kestirmek ne hissettirir"
-date: "2023-03-25"
+description: "Rüyada saçını kestirmek tabiri ve yorumu"
+date: "2023-07-11"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/NKTsTF2m4_s/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGFUgXyhlMA8=&amp;rs=AOn4CLADlhn6lXC4B3QRBC1VbHPJhtteww"
-featuredImage: "https://i.ytimg.com/vi/0Mv6lUDnH2A/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEggWChlMA8=&amp;rs=AOn4CLB4mYBFfE4Q4L89VTGu3I34LY23pQ"
-featured_image: "https://i.ytimg.com/vi/ky6lAgQPL5E/maxresdefault.jpg"
+- "https://i.ytimg.com/vi/BbaBkCxzar0/maxresdefault.jpg"
+featuredImage: "https://i.ytimg.com/vi/9-KYF0rQKIQ/maxresdefault.jpg"
+featured_image: "https://i.ytimg.com/vi/alsfR1vPSNc/maxresdefault.jpg"
 image: "https://i.ytimg.com/vi/WhuxGdME9_g/maxresdefault.jpg"
 ---
 

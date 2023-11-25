@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Nurcan ustabasi dugun(2)"
-date: "2023-06-30"
+description: "The celtic lockdown podcast: jonathan ustabasi"
+date: "2023-11-12"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/vr6q8OJ5it0/maxresdefault.jpg"
-featuredImage: "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=423397768134144"
-featured_image: "https://i.ytimg.com/vi/vr6q8OJ5it0/maxresdefault.jpg"
-image: "https://i.ytimg.com/vi/Na916BckeMo/maxresdefault.jpg"
+- "https://media-exp1.licdn.com/dms/image/C4D03AQGTWmad-eOhXA/profile-displayphoto-shrink_800_800/0/1595998161398?e=2147483647&amp;v=beta&amp;t=eYJ9nOrUVQsHoEEGTWfTUApTg2YPdKTl6ZnQrUEYF_g"
+featuredImage: "https://i.ytimg.com/vi/Na916BckeMo/maxresdefault.jpg"
+featured_image: "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=423397768134144"
+image: "https://i.ytimg.com/vi/gnYodQrDmAQ/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHeA4AC4AOKAgwIABABGGUgWShdMA8=&amp;rs=AOn4CLAq_y57_YZSbgHYnS_GJKWpD5jt_w"
 ---
 
 If you are looking for Erol Turkyilmaz - ustabasi - sisecam | LinkedIn you've came to the right page. We have 9 Pictures about Erol Turkyilmaz - ustabasi - sisecam | LinkedIn like Ahmet Timurcuoglu - ustabasi - serbestt | XING, Nurcan Ustabasi Dugun(2) - YouTube and also The Celtic Lockdown Podcast: Jonathan Ustabasi - YouTube. Read more:

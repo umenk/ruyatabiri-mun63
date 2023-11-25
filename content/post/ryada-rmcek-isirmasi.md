@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Kedinin isirmasi"
-date: "2023-11-07"
+description: "Rüyada yilan isirmasi"
+date: "2023-03-24"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/rXRGkKlPatw/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHKAYAC6AKKAgwIABABGGUgVShSMA8=&amp;rs=AOn4CLCVikB5KPSl58onQ-5OeWPgfVg6qA"
-featuredImage: "https://i.ytimg.com/vi/BcodFL9glpk/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXyhVMA8=&amp;rs=AOn4CLCEXoHu2uuVBF8r5rvI_rFuUzVDBA"
-featured_image: "https://i.ytimg.com/vi/dooTPWc7wAM/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-DoACuAiKAgwIABABGGUgZShlMA8=&amp;rs=AOn4CLCAOWdMGwzDKxNzsZkn8byTlwpA8A"
+- "https://i.ytimg.com/vi/BcodFL9glpk/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXyhVMA8=&amp;rs=AOn4CLCEXoHu2uuVBF8r5rvI_rFuUzVDBA"
+featuredImage: "https://i.ytimg.com/vi/jfuhARzho0g/maxresdefault.jpg"
+featured_image: "https://i.ytimg.com/vi/BEvCKmo6QtM/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHIAYAC6AKKAgwIABABGGUgVyhIMA8=&amp;rs=AOn4CLCUKoxFAmZs34L7M1fgCAB-aFF1pw"
 image: "https://i.ytimg.com/vi/jfuhARzho0g/maxresdefault.jpg"
 ---
 

@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Balık dilbilgisi ince erkek beden tablosu"
-date: "2023-07-04"
+description: "Rüyada erkek çocuğu görmek islami tabiri ne anlama gelir"
+date: "2023-04-20"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "http://cdn.shopify.com/s/files/1/0715/4441/files/tru._size_chart_1024x1024.png?v=1585473568"
-featuredImage: "https://www.zkadin.com/wp-content/uploads/2021/04/ruyada-erkek-bebek-gormek-ne-anlama-gelir-ruyada-erkek-bebek-dogurdugunu-gormek-ne-demek-4-OZbBN1x8.jpg"
-featured_image: "http://cdn.shopify.com/s/files/1/0715/4441/files/tru._size_chart_1024x1024.png?v=1585473568"
+- "https://i.hbrcdn.com/haber/2021/12/07/ruyada-cocuk-gormek-ne-anlama-gelir-ruyada-kiz-14581485_6514_amp.jpg"
+featuredImage: "https://i.hbrcdn.com/haber/2022/11/18/ruyada-erkek-gormek-ne-anlama-gelir-ruyada-genc-15437793_476_amp.jpg"
+featured_image: "https://i.hbrcdn.com/haber/2020/09/15/alfa-ne-demek-alfa-kelime-anlami-nedir-tdk-ya-13601048_3645_amp.jpg"
 image: "https://www.zkadin.com/wp-content/uploads/2021/04/ruyada-erkek-bebek-gormek-ne-anlama-gelir-ruyada-erkek-bebek-dogurdugunu-gormek-ne-demek-4-OZbBN1x8.jpg"
 ---
 

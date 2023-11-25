@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Rüyada tavşan görmek ne anlama gelir? rüyada beyaz tavşan görmek"
-date: "2023-03-06"
+description: "[new] the 10 best home decor (with pictures)"
+date: "2023-11-03"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
 - "https://www.afixgroup.com/media/2028/serdar-tavsan-desk.jpg"
-featuredImage: "https://i12.haber7.net/haber/haber7/og_image/2022/25/ruyada_tavsan_gormek_ne_anlama_gelir_ruyada_tavsan_yakalamak_1655965334_2276.jpg"
-featured_image: "https://i.ytimg.com/vi/xHdYJsrCk4U/hq2.jpg"
+featuredImage: "https://i.pinimg.com/originals/ba/a2/7c/baa27c8809de56638dca8c7be6064a91.jpg"
+featured_image: "https://www.afixgroup.com/media/2028/serdar-tavsan-desk.jpg"
 image: "https://i.hbrcdn.com/haber/2020/09/07/ruyada-tavsan-gormek-ne-anlama-gelir-ruyada-13578018_9313_amp.jpg"
 ---
 

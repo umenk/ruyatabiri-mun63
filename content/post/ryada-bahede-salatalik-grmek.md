@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Salatalik turşusu"
-date: "2023-02-28"
+description: "Salatalik &#039;tan basi̇t kuş yapimi."
+date: "2022-12-23"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/mfPcDwQkFDg/maxresdefault.jpg"
-featuredImage: "https://i.ytimg.com/vi/UvityjO2kQc/maxresdefault.jpg"
-featured_image: "https://cdn.tragate.com/items/3-no-kornison-salatalik-tursu-145531-159757.jpg"
-image: "https://cdn.tragate.com/items/3-no-kornison-salatalik-tursu-145531-159757.jpg"
+- "https://i.ytimg.com/vi/kNvYOQgNb2g/maxresdefault.jpg"
+featuredImage: "https://i.ytimg.com/vi/5g2Nk8qEGEA/maxresdefault.jpg"
+featured_image: "https://i.ytimg.com/vi/yfoZDnwOE80/maxresdefault.jpg"
+image: "https://i.ytimg.com/vi/UvityjO2kQc/maxresdefault.jpg"
 ---
 
 If you are searching about SALATALIK 'TAN BASİT KUŞ YAPIMI. - YouTube you've came to the right page. We have 9 Pics about SALATALIK 'TAN BASİT KUŞ YAPIMI. - YouTube like SALATALIK 🥒 BUZLUKTA NASIL SAKLANIR ‼️BUZLUKTA CACIKLIK SALATALIK👌💯, DONDURUCUYA SALATALIK NASIL KONULUR? YEMEK TARİFLERİ 👌💯 - YouTube and also SALATALIK 'TAN BASİT KUŞ YAPIMI. - YouTube. Read more:

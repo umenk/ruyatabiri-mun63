@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Misafir ağırlamak nasıl yazılır? -ntv haber"
-date: "2023-10-05"
+description: "Açılabilir yemek masası ile misafir ağırlamak artık daha da keyifli"
+date: "2022-12-15"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://cdn.ntv.com.tr/img/ne-demek/misafir-agirlamak_31487.jpg"
+- "https://www.karabukhaber.com.tr/wp-content/uploads/2020/11/misafir-agirlamak-yasak.jpg"
 featuredImage: "https://cdn.ikea.com.tr/Ideas/Home3-acilabilir-yemek-masasi-ile-misafir-agirlamak/yemek-masasi-01.jpg"
-featured_image: "https://cdn.ikea.com.tr/Ideas/Home3-acilabilir-yemek-masasi-ile-misafir-agirlamak/yemek-masasi-02.jpg"
+featured_image: "https://www.karabukhaber.com.tr/wp-content/uploads/2020/11/misafir-agirlamak-yasak.jpg"
 image: "https://cdn.ikea.com.tr/Ideas/Home3-acilabilir-yemek-masasi-ile-misafir-agirlamak/yemek-masasi-01.jpg"
 ---
 

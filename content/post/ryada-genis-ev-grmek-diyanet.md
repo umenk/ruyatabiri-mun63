@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Senedli, genis ev satilir mastagada munasib qiymete 0775301216"
-date: "2023-09-15"
+description: "Cübbeli ahmet hoca,diyanet&#039;in kredili ev almak için faiz"
+date: "2023-04-26"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/W7A-t3Bad-Y/maxresdefault.jpg"
-featuredImage: "https://i.ytimg.com/vi/W7A-t3Bad-Y/maxresdefault.jpg"
-featured_image: "https://i.ytimg.com/vi/NyECPyWl8y4/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYVSBdKGUwDw==&amp;rs=AOn4CLDGHwZPtktnQaPqMDN-MpJ9hPUA8w"
+- "https://ai.dimaster.io/assets/cache/1920/x/media/Artikel/211005 GV60/595066.jpg"
+featuredImage: "https://images.ruyandagor.com/2017/05/buyuk-ve-genis-ev-gormek-1800.jpg"
+featured_image: "https://i.hbrcdn.com/haber/2022/09/14/toki-den-ev-almak-caiz-mi-diyanet-e-gore-toki-15274637_6076_amp.jpg"
 image: "https://i.ytimg.com/vi/W7A-t3Bad-Y/maxresdefault.jpg"
 ---
 

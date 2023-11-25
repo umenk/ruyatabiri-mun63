@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Ben bu mahkemeyi̇ bi̇r yerden hatirliyorum!"
-date: "2022-12-02"
+description: "Bir yerden bir yere #4"
+date: "2023-10-12"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/iUCrctbuSus/maxresdefault.jpg"
-featuredImage: "https://i.ytimg.com/vi/iUCrctbuSus/maxresdefault.jpg"
-featured_image: "https://i.ytimg.com/vi/IXa_kfiTNn8/maxresdefault.jpg"
+- "https://media.kunduz.com/media/question/seo/raw/20220516120922084893-4453040.jpeg?h=512"
+featuredImage: "https://i.ytimg.com/vi/bU2sn0kq-GE/maxresdefault.jpg"
+featured_image: "https://i.ytimg.com/vi/bU2sn0kq-GE/maxresdefault.jpg"
 image: "https://i.ytimg.com/vi/IXa_kfiTNn8/maxresdefault.jpg"
 ---
 

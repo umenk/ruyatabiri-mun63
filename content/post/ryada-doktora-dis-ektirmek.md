@@ -1,13 +1,13 @@
 ---
 title: ""
 description: "Rp clinic"
-date: "2023-10-08"
+date: "2023-05-03"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://iasbh.tmgrup.com.tr/9da143/650/344/0/94/724/474?u=https://isbh.tmgrup.com.tr/sbh/2022/04/29/ruyada-dis-cektirmek-ne-anlama-gelir-ruyada-doktora-curuk-saglam-ve-azi-disini-cektirmek-anlami-1651229971710.jpg"
-featuredImage: "https://iasbh.tmgrup.com.tr/9da143/650/344/0/94/724/474?u=https://isbh.tmgrup.com.tr/sbh/2022/04/29/ruyada-dis-cektirmek-ne-anlama-gelir-ruyada-doktora-curuk-saglam-ve-azi-disini-cektirmek-anlami-1651229971710.jpg"
-featured_image: "https://i.ytimg.com/vi/RVGawP7rFg8/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-DoACuAiKAgwIABABGGUgUihAMA8=&amp;rs=AOn4CLA80KZT9HZ23whlNDELLxkdv_t9jQ"
+- "https://www.disagrisi.net/wp-content/uploads/2023/04/doktora-gitmeden-dis-agrisi-scaled.jpg"
+featuredImage: "https://okandis.com/upload/doktor/dr-ogr-uyesi-gozde-yilmaz_20210618164548.jpg"
+featured_image: "https://www.disagrisi.net/wp-content/uploads/2023/04/doktora-gitmeden-dis-agrisi-scaled.jpg"
 image: "https://i.ytimg.com/vi/TtOd916Fc9U/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYSSBfKGUwDw==&amp;rs=AOn4CLBZsQzdUjSbG0r3km9eWZYktAlgfw"
 ---
 

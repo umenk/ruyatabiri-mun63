@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Dostlar group"
-date: "2022-12-02"
+description: "Yufka authentic recipe"
+date: "2023-02-07"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
 - "https://cdn.tasteatlas.com/Images/Dishes/f1a5d23f726f405c95d99dd4ca5350b9.jpg?mw=1300"
-featuredImage: "https://www.daskochrezept.de/sites/daskochrezept.de/files/styles/full_width_tablet_4_3/public/stockfood/stockfood-00696710.jpg?h=56ef42fc&amp;itok=X3NMXBxd"
-featured_image: "https://firechefs.de/wp-content/uploads/2020/06/IMG_5186-scaled.jpg"
-image: "https://sultankebab.sk/wp-content/uploads/2016/10/produkt5-yufka.png"
+featuredImage: "https://c1.staticflickr.com/9/8333/8139606939_80a9167b7f_z.jpg"
+featured_image: "https://1.bp.blogspot.com/-teBYLoqsR5U/YC_KsS_qXPI/AAAAAAAAIA4/TW7opkkzWN4oRd3E6Dyx4FIkYs6UowQAACLcBGAsYHQ/s1983/BEFD8320-3BFC-48DD-B78B-4A7348B293C0.jpeg"
+image: "https://www.daskochrezept.de/sites/daskochrezept.de/files/styles/full_width_tablet_4_3/public/stockfood/stockfood-00696710.jpg?h=56ef42fc&amp;itok=X3NMXBxd"
 ---
 
 If you are searching about Yufka Mantısı you've came to the right page. We have 9 Pics about Yufka Mantısı like Yufka-Dürüm – einfach &amp; schnell | DasKochrezept.de, Dostlar Group - Yufka Döner (Dürüm) and also Yufka Mantısı. Read more:

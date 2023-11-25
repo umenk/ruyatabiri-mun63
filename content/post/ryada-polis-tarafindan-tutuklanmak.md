@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Tutuklanmak için polis otolarına zarar verdi"
-date: "2022-12-26"
+description: "Polis tarafından 3 kurşunla vurulmuş"
+date: "2023-09-08"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://www.gundemtube.com/wp-content/uploads/2022/02/polis-tarafindan-oldurulen-hakk-ri-vilayet-emniyet-mudur-yardimcisi-cevhere-yonelik-taarruzla-ilgili-40-polise-sorusturma-8i-aciga-alindi-YpkY1jgm.jpg"
-featuredImage: "https://images.ruyandagor.com/2017/04/polis-tarafindan-aranmak-1252.jpg"
-featured_image: "https://i20.haber7.net/resize/1280x720/haber/haber7/photos/2021/02/tutuklanmak_icin_polis_otolarina_saldirdi_1610607082_0038.jpg"
-image: "https://i.haberler.com/galeri/2012/08/13/polis-tarafindan-3-kursunla-vurulmus_42879_b.jpg"
+- "https://s1.dmcdn.net/v/SmDZS1W8nPOtl37Ib/x1080"
+featuredImage: "https://s1.dmcdn.net/v/SmDZS1W8nPOtl37Ib/x1080"
+featured_image: "https://i.haberler.com/galeri/2012/08/13/polis-tarafindan-3-kursunla-vurulmus_42879_b.jpg"
+image: "https://iasbh.tmgrup.com.tr/fd1e7d/752/395/0/241/600/556?u=https://isbh.tmgrup.com.tr/sbh/2021/01/14/tutuklanmak-icin-polis-otolarina-zarar-verdi-1610605045614.jpeg"
 ---
 
 If you are looking for Polis Tarafından 3 Kurşunla Vurulmuş - Haberler you've visit to the right place. We have 9 Images about Polis Tarafından 3 Kurşunla Vurulmuş - Haberler like Tutuklanmak için polis otolarına zarar verdi - Yaşam Haberleri, Polis Tarafından 3 Kurşunla Vurulmuş - Haberler and also Polis Tarafından 3 Kurşunla Vurulmuş - Haberler. Here you go:

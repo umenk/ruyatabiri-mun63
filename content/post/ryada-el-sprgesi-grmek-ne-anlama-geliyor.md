@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Göz göze gelmek ne anlama geliyor?"
-date: "2023-07-12"
+description: "Adalet simgesi ne anlama geliyor"
+date: "2023-11-24"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/Ob_sRRhR2dI/maxresdefault.jpg"
-featuredImage: "http://www.goynukluler.com/wp-content/uploads/2017/06/adalet-simgesi-chp.jpg"
-featured_image: "https://www.aktuelbilgiler.com/d/news/5415.jpg"
+- "https://img-s2.onedio.com/id-61c76ff7223f74010a25d727/rev-0/w-1200/h-668/f-jpg/s-eb64b8ed2077ea60c6fc1742484f0f422ad72ddb.jpg"
+featuredImage: "https://d.siyasetcafe.com/news/95674.jpg"
+featured_image: "https://img3.aksam.com.tr/imgsdisk/2020/04/08/t25_080420205eca15ca.jpg"
 image: "https://img-s2.onedio.com/id-61c76ff7223f74010a25d727/rev-0/w-1200/h-668/f-jpg/s-eb64b8ed2077ea60c6fc1742484f0f422ad72ddb.jpg"
 ---
 

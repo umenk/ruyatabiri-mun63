@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Karikatür: var midir"
-date: "2023-05-19"
+description: "Varlik; var midir?"
+date: "2023-04-17"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/1Gb-JO2gB_A/maxresdefault.jpg"
-featuredImage: "https://i.ytimg.com/vi/i740jn_wWcE/maxresdefault.jpg"
-featured_image: "https://2.bp.blogspot.com/-CohVgTmTook/TzbgcR33YYI/AAAAAAAAAGs/rmjAeim90D0/s1600/399828_10150528465207091_269123197090_9351037_329715811_n.jpg"
-image: "https://1.bp.blogspot.com/-ipBS6MmGNys/UDgK52f_ZBI/AAAAAAAAAPI/ejSehhdeRkM/s1600/DSC08593.JPG"
+- "https://1.bp.blogspot.com/-ipBS6MmGNys/UDgK52f_ZBI/AAAAAAAAAPI/ejSehhdeRkM/s1600/DSC08593.JPG"
+featuredImage: "http://www.kitaphaber.com.tr/assets/uploads/images/content/content_varlik-var-midir_q6o56.jpg"
+featured_image: "https://i.ytimg.com/vi/1Gb-JO2gB_A/maxresdefault.jpg"
+image: "https://i.ytimg.com/vi/i740jn_wWcE/maxresdefault.jpg"
 ---
 
 If you are searching about HER SUÇUN MAĞDURU VAR MIDIR? - YouTube you've came to the right page. We have 9 Pics about HER SUÇUN MAĞDURU VAR MIDIR? - YouTube like HER SUÇUN MAĞDURU VAR MIDIR? - YouTube, Arsiv Blog: BİTKİLERİN DUYGULARI VAR MIDIR? and also YILDIZNAME VAR MIDIR? - YouTube. Here it is:

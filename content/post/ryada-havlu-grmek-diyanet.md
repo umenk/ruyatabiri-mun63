@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Modelleri kenarı havlu"
-date: "2023-08-11"
+description: "268 havlu kenarı yapımı"
+date: "2023-02-25"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.pinimg.com/originals/c1/51/bf/c151bfd66e35e69514fc5b5feb9ab823.jpg"
-featuredImage: "https://i.ytimg.com/vi/gZDUvjWc2Ak/hqdefault.jpg"
-featured_image: "https://i.ytimg.com/vi/R2ZrG4XEAaw/hqdefault.jpg"
-image: "https://i.ytimg.com/vi/AwTam6mSKv8/maxresdefault.jpg"
+- "https://i.ytimg.com/vi/gZDUvjWc2Ak/hqdefault.jpg"
+featuredImage: "https://i.ytimg.com/vi/KzMu4baZuHQ/maxresdefault.jpg"
+featured_image: "https://i.ytimg.com/vi/s3dcimunVNw/maxresdefault.jpg"
+image: "https://i.ytimg.com/vi/R2ZrG4XEAaw/hqdefault.jpg"
 ---
 
 If you are looking for Havlu kenarları için şık dantel süslemeler | Örme kenar süsleri you've visit to the right place. We have 9 Images about Havlu kenarları için şık dantel süslemeler | Örme kenar süsleri like 1173 Kolay Havlu Kenarı Yapımı - YouTube, Havlu kenarları için şık dantel süslemeler | Örme kenar süsleri and also Havlu Kenarı Modelleri, Tığişi Örgü Çeyizlik Modeller &amp; Crochet - YouTube. Read more:

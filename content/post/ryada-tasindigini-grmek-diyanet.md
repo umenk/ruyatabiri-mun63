@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Team garchomp team zacian cp3213"
-date: "2023-11-01"
+description: "Di̇yanet eli̇f cüzü 3. ders 11 kasım 2022"
+date: "2023-04-11"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://static.daktilo.com/sites/989/uploads/2022/09/07/l-1662559992.png"
-featuredImage: "https://images.ruyandagor.com/2017/04/baska-sehre-tasindigini-gormek-1630.jpg"
-featured_image: "https://i.ytimg.com/vi/KdZ3OosEZ6s/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4Ad4EgAK4CIoCDAgAEAEYZSBMKGMwDw==&amp;rs=AOn4CLCfzFvJaPoNerKMbSKycXF-fCyaDA"
+- "https://i.ytimg.com/vi/_tfr0xPn7xo/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgVihMMA8=&amp;rs=AOn4CLCFUAxvs5ZKP7JIhBdrKAMOgZxr3g"
+featuredImage: "https://static.daktilo.com/sites/989/uploads/2022/09/07/l-1662559992.png"
+featured_image: "https://tr.canlitvizle.mobi/kanallar/ogimagediyanet-tv-canli-yayin.jpg"
 image: "https://cdn.kadin.com/images/posts/1/8/1/ruyada-tasindigini-gormek-ne-anlama-gelir-1582654189.png"
 ---
 

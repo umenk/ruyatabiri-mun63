@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "8 en i̇yi rüya tabiri sitesi [rüya tabircilerinden tabirler]"
-date: "2023-07-18"
+description: "En iyi rгјya tabirleri kitabд± pdf wincapr"
+date: "2023-06-28"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://d.neoldu.com/news/73723.jpg"
-featuredImage: "https://www.kisacevaplar.com/wp-content/uploads/2022/05/En-iyi-ruya-tabirleri-sitesi-hangisi-512x420.jpg"
-featured_image: "https://images.bursadabugun.com/galeriler/2016/11/02/36716-son-donemlerin-en-iyi-komedi-filmleri-5819f32fe0e7a.jpg"
+- "https://i.pinimg.com/originals/4a/1f/cc/4a1fcc884e86ce0f7e35c1da23539c59.jpg"
+featuredImage: "https://www.kisacevaplar.com/wp-content/uploads/2022/05/en-iyi-ruya-tabiri-siteleri.jpg"
+featured_image: "https://www.kanalbilgi.net/wp-content/uploads/2019/12/En-Doğru-Rüya-Tabirleri.jpg"
 image: "https://www.sonbilge.net/wp-content/uploads/2021/09/dinir-uya-tabirleri.jpg"
 ---
 

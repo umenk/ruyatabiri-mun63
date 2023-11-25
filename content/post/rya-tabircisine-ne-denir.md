@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Arabanın arka tarafına ne denir?"
-date: "2023-01-21"
+description: "Bunu yapana ne denir?"
+date: "2023-01-29"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/BfS8ODAMDTM/maxresdefault.jpg"
-featuredImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUteThDertkEZ_OdbVyAASuhAbgwLBU9iyU4ru2QjmBFKt-AgtlX-RLD8o1PyYSqcpkrZI4sdWNIn7fIjbvQz7dOmxjGzQTogMJ5L5TiiX-wxOn9ecbjDB9bHbcGekLLiDyoUqusIIbTzcvXhcRAmLC3WYAjYlx8EQES-AsAOxJ1VkUNJ4kYqVodXQ/s16000/umreye gidene.jpg"
-featured_image: "https://i.ytimg.com/vi/BfS8ODAMDTM/maxresdefault.jpg"
-image: "https://i.ytimg.com/vi/BfS8ODAMDTM/maxresdefault.jpg"
+- "https://3.bp.blogspot.com/-Is4CV_dkueI/WCDM-uqrlXI/AAAAAAAABcU/R2EevDI5GN0xbf4VtUlqqFJ35gFyiSVJACLcB/s1600/as.png"
+featuredImage: "https://3.bp.blogspot.com/-Is4CV_dkueI/WCDM-uqrlXI/AAAAAAAABcU/R2EevDI5GN0xbf4VtUlqqFJ35gFyiSVJACLcB/s1600/as.png"
+featured_image: "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/438000/438992_4.jpg"
+image: "https://lh3.googleusercontent.com/-M05TK8FPjzA/Vsoh5HUXtWI/AAAAAAAAH4c/uxY722YFBvQ/s640/blogger-image--984908448.jpg"
 ---
 
 If you are searching about Umreye Gidene Ne Denir you've came to the right page. We have 9 Pics about Umreye Gidene Ne Denir like Şuşu'dan fısıltılar: Ne denir şimdi O'nlara, Doğru söze ne denir? - ekşi up and also Bunu yapana ne denir?. Read more:

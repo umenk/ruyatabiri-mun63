@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "2023 ngpc blythe grand prix"
-date: "2023-04-14"
+description: "Reading a digestive system book!"
+date: "2023-10-14"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/FcZEL5u3ps4/maxresdefault.jpg"
-featuredImage: "https://i.ytimg.com/vi/FcZEL5u3ps4/maxresdefault.jpg"
-featured_image: "https://i.ytimg.com/vi/fCzeL05v2NU/maxresdefault.jpg"
+- "https://i.ytimg.com/vi/r17xnZDizfs/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AZQDgALQBYoCDAgAEAEYZSBZKFMwDw==&amp;rs=AOn4CLCwHQkKE8FcZEl-AQqHipJPNqEtZw"
+featuredImage: "https://i.ytimg.com/vi/EKm7xXcYkUU/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gFSgdMA8=&amp;rs=AOn4CLDfXORM7fCZEl8Uca9WZmPhf20RRA"
+featured_image: "https://i.ytimg.com/vi/FczEl1w6DPM/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AGUA4AC0AWKAgwIABABGGUgUyhNMA8=&amp;rs=AOn4CLBzHO92RZGi-H3mMwFOvRq3JMEqCA"
 image: "https://i.ytimg.com/vi/D2_FCZEl71U/maxresdefault.jpg"
 ---
 

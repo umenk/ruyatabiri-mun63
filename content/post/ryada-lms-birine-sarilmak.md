@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Rüyada ağlayıp birine sarılmak"
-date: "2023-07-02"
+description: "Rüyada ölmüş birine canlı sarılmak"
+date: "2023-02-16"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://iasbh.tmgrup.com.tr/d53c80/650/344/0/88/724/468?u=https://isbh.tmgrup.com.tr/sbh/2021/09/21/1632208446230.jpg"
-featuredImage: "https://images.ruyandagor.com/2017/04/aglayan-birine-sarilmak-1216.jpg"
-featured_image: "https://images.ruyandagor.com/2017/05/olmus-birine-canli-sarilmak-1519.jpg"
-image: "https://images.ruyandagor.com/2017/05/olmus-birine-canli-sarilmak-1519.jpg"
+- "https://images.ruyandagor.com/2017/04/aglayan-birine-sarilmak-1216.jpg"
+featuredImage: "https://gunceloku.com/uploads/ruyada-unlu-birine-sarilmak-ne-anlama-gelir-6414699bcbd36.jpg"
+featured_image: "https://i.ytimg.com/vi/AiM-lPFu21c/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgTyhUMA8=&amp;rs=AOn4CLAHp89NBall5i2uNiM5zFt2TFdVHA"
+image: "https://iasbh.tmgrup.com.tr/d53c80/650/344/0/88/724/468?u=https://isbh.tmgrup.com.tr/sbh/2021/09/21/1632208446230.jpg"
 ---
 
 If you are looking for Rüyada Ağlayıp Birine Sarılmak - ruyandagor.com you've visit to the right place. We have 9 Pictures about Rüyada Ağlayıp Birine Sarılmak - ruyandagor.com like Rüyada Ağlayıp Birine Sarılmak - ruyandagor.com, Rüyada Ağlayan Birine Sarılmak - ruyandagor.com and also Rüyada Birine Sarılmak Ve Öpmek - ruyandagor.com. Here it is:

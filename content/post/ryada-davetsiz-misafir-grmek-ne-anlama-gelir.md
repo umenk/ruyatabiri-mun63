@@ -1,11 +1,11 @@
 ---
 title: ""
-description: "Davetsiz misafir"
-date: "2023-09-03"
+description: "Büyükşehir meclisi’ne davetsiz misafir!"
+date: "2023-04-12"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.pinimg.com/736x/5b/91/2c/5b912cb0cbfb603beb6bf0ed9283279a.jpg"
+- "http://www.gercekizmir.com/haber_resim/Buyuksehir-Meclisine-davetsiz-misafir-82619.jpg"
 featuredImage: "http://www.gercekizmir.com/haber_resim/Buyuksehir-Meclisine-davetsiz-misafir-82619.jpg"
 featured_image: "https://i.ytimg.com/vi/g0xgZi2jJaY/maxresdefault.jpg"
 image: "https://i.ytimg.com/vi/g0xgZi2jJaY/maxresdefault.jpg"

@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Ruyada ucak bileti aldim."
-date: "2023-02-16"
+description: "Rüyada beyaz koç görmek"
+date: "2023-08-24"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "http://ruyameali.com/wp-content/uploads/2019/04/ruyada-beyaz-koc-gormek.png"
-featuredImage: "https://habilyashardotcom.files.wordpress.com/2011/09/ruyada-tabut-gormek.jpg?w=300&amp;h=270"
-featured_image: "https://www.ruyatabirleri.blog/wp-content/uploads/2018/03/a1-12.jpg"
+- "https://i.ytimg.com/vi/bi6snzuP58I/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGBMgTyh_MA8=&amp;rs=AOn4CLDDN0Y_8rF9bJZ8MkoNU8oxhPSI2Q"
+featuredImage: "https://i.ytimg.com/vi/U2NOEfzDcW4/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGB0gZihyMA8=&amp;rs=AOn4CLALyhUc690DuUK4jjEsSH0Bi4e5jg"
+featured_image: "https://i.ytimg.com/vi/oG4gaIcuGiU/maxresdefault.jpg"
 image: "http://ruyameali.com/wp-content/uploads/2019/04/ruyada-beyaz-koc-gormek.png"
 ---
 

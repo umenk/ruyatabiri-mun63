@@ -1,14 +1,14 @@
 ---
 title: ""
-description: "Permainan dhingklik oglak aglik"
-date: "2023-07-16"
+description: "Permainan tradisional dhingklik oglak aglik"
+date: "2023-10-30"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/9F88YXQb4S4/maxresdefault.jpg"
-featuredImage: "https://i.ytimg.com/vi/9zCPAURoDWs/maxresdefault.jpg"
+- "https://i.ytimg.com/vi/yf60PycSjrw/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXShQMA8=&amp;rs=AOn4CLAH-a5ecsrab5mKILn3GVOJZcIASA"
+featuredImage: "https://i.ytimg.com/vi/9F88YXQb4S4/maxresdefault.jpg"
 featured_image: "https://i.ytimg.com/vi/9F88YXQb4S4/maxresdefault.jpg"
-image: "https://i.ytimg.com/vi/3UtwKH2pFGM/maxresdefault.jpg"
+image: "https://i.ytimg.com/vi/w4lzImXvo-g/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXyhSMA8=&amp;rs=AOn4CLBz13UHUF4Xbx8vxhTQ0aO7OmALQg"
 ---
 
 If you are looking for Permainan Tradisional Dhingklik Oglak Aglik - YouTube you've visit to the right web. We have 9 Images about Permainan Tradisional Dhingklik Oglak Aglik - YouTube like ♑♑♑OGLAK BURCU -- 2022 #oglakburcu2022#oglakfali#taleler#kader#öngörü #, pasang dhingklik oglak-aglik - YouTube and also Permainan - Dhingklik oglak-aglik - YouTube. Read more:

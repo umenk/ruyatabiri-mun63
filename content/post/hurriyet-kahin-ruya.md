@@ -1,14 +1,14 @@
 ---
 title: "hurriyet kahin ruya Nostradamus: kahin mi, şarlatan mı?"
-description: "Kahin, rüyalarınızı canlı canlı yorumluyor!"
-date: "2023-07-21"
+description: "Kahin bu sefer en güçlü ekonomistleri sıraladı"
+date: "2022-12-24"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://image.hurimg.com/i/hurriyet/75/750x422/5efd198945d2a04258b78754.jpg"
-featuredImage: "https://i4.hurimg.com/i/hurriyet/75/750x422/55eb6320f018fbb8f8bdd75c.jpg"
-featured_image: "https://i4.hurimg.com/i/hurriyet/75/750x422/55eb4534f018fbb8f8b65758.jpg"
-image: "https://i4.hurimg.com/i/hurriyet/75/1200x675/55eab351f018fbb8f89128c4.jpg"
+- "https://i4.hurimg.com/i/hurriyet/75/1200x675/55eab351f018fbb8f89128c4.jpg"
+featuredImage: "https://i4.hurimg.com/i/hurriyet/75/1200x675/55eab351f018fbb8f89128c4.jpg"
+featured_image: "https://image.hurimg.com/i/hurriyet/75/750x422/5efd198945d2a04258b78754.jpg"
+image: "https://i4.hurimg.com/i/hurriyet/75/750x422/55eb6320f018fbb8f8bdd75c.jpg"
 ---
 
 If you are searching about Kelebek Magazin on Twitter: "Rüya evlilik 8 ay sürdü...Tek cesede bitti you've visit to the right place. We have 9 Pictures about Kelebek Magazin on Twitter: "Rüya evlilik 8 ay sürdü...Tek cesede bitti like Hurriyet Abo – Hurriyet Zeitung im Abonnement, Kahin, rüyalarınızı canlı canlı yorumluyor! and also Kahin bu sefer en güçlü ekonomistleri sıraladı - Son Dakika Haberleri. Read more:

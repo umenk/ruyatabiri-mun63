@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Başkasının evini kiraya çıkarıp kapora aldı"
-date: "2023-10-08"
+description: "Baskasinin evini keşfediyoruz"
+date: "2023-01-07"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://iaahbr.tmgrup.com.tr/6a1786/729/434/0/0/729/434?u=https://iahbr.tmgrup.com.tr/2022/06/10/baskasinin-evini-kiraya-cikarip-kapora-aldi-kayiplara-karisti-1654892461049.jpg"
-featuredImage: "https://img.aydinlik.com.tr/rcman/Cw1280h720q95gc/storage/files/images/2022/06/10/baskasinin-evini-kiraya-cikarip-kapora-aldi-PpMO.jpg"
-featured_image: "https://images.ruyandagor.com/2017/05/baskasinin-evini-kalabalik-gormek-0011.jpg"
+- "https://images.ruyandagor.com/2017/05/baskasinin-evini-kalabalik-gormek-0011.jpg"
+featuredImage: "https://images.ruyandagor.com/2017/04/baskasinin-evini-temizledigini-gormek-0134.jpg"
+featured_image: "https://i.ytimg.com/vi/JXhwz5soDkQ/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgUShdMA8=&amp;rs=AOn4CLCPDwSdvRcORMR_zBvNLbRJqIGrlw"
 image: "https://images.ruyandagor.com/2017/04/baskasinin-evini-temizledigini-gormek-0134.jpg"
 ---
 

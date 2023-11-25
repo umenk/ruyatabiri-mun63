@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Kareena kapoor khan&#039;s tweet"
-date: "2023-11-18"
+description: "Altin fi̇yatlari"
+date: "2023-10-18"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://i.ytimg.com/vi/4B9Z0_-xF_Q/maxresdefault.jpg"
-featuredImage: "https://grafik.altin.in/grafik/uyeler/209267/209267_GR2020330fxq.jpg"
-featured_image: "https://images.ruyandagor.com/2017/04/hirsizin-altin-calmasi-2023.jpg"
+- "https://grafik.altin.in/grafik/uyeler/209267/209267_GR2020330fxq.jpg"
+featuredImage: "https://i.ytimg.com/vi/SvZA2eTIT54/maxresdefault.jpg"
+featured_image: "https://i.ytimg.com/vi/ZYl-aLMY2_Q/maxresdefault.jpg"
 image: "https://i4.hurimg.com/i/hurriyet/75/0x0/633a697c4e3fe10ea8aebf7d.jpg"
 ---
 

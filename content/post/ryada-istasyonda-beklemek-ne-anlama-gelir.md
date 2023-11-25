@@ -1,12 +1,12 @@
 ---
 title: ""
-description: "Rüyada alışveriş sırasında beklemek ne anlama gelir?"
-date: "2023-09-29"
+description: "Rüyada otobüs beklemek ne anlama gelir? rüyada karanlıkta, otogarda ve"
+date: "2023-03-16"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://www.nkfu.com/wp-content/uploads/2015/05/ruyada-beklemek.jpg"
-featuredImage: "https://gunceloku.com/uploads/ruyada-cenaze-beklemek-ne-anlama-gelir-6269d07356ba8.jpg"
+- "https://gunceloku.com/uploads/ruyada-firtina-beklemek-ne-anlama-gelir-63cee3d01dafb.jpg"
+featuredImage: "https://image.hurimg.com/i/hurriyet/75/750x422/615f0c244e3fe11b083826e2.jpg"
 featured_image: "https://gunceloku.com/uploads/ruyada-firtina-beklemek-ne-anlama-gelir-63cee3d01dafb.jpg"
 image: "https://gunceloku.com/uploads/ruyada-yogun-bakim-kapisinda-beklemek-ne-anlama-gelir-633a9146286a7.jpg"
 ---

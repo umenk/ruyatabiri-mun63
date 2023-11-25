@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Hem yalanci hem de saldirgan"
-date: "2023-11-17"
+description: "Balık dilbilgisi ince erkek beden tablosu"
+date: "2022-12-14"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://kuzeyeksprescomtr.teimg.com/kuzeyekspres-com-tr/uploads/2023/06/666-ne-anlama-gelir.jpg"
-featuredImage: "https://i.ytimg.com/vi/7a4g9rZI3Vo/maxresdefault.jpg"
-featured_image: "https://kuzeyeksprescomtr.teimg.com/kuzeyekspres-com-tr/uploads/2023/06/666-ne-anlama-gelir.jpg"
+- "https://aliskanlik.com/wp-content/uploads/2022/04/Ruyada-Gunes-Ne-Anlama-Gelir.jpeg"
+featuredImage: "https://aliskanlik.com/wp-content/uploads/2022/04/Ruyada-Gunes-Ne-Anlama-Gelir.jpeg"
+featured_image: "https://i.ytimg.com/vi/k4nwSNjw4SU/maxresdefault.jpg"
 image: "https://i.ytimg.com/vi/k4nwSNjw4SU/maxresdefault.jpg"
 ---
 

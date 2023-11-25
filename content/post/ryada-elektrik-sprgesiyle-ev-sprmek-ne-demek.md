@@ -1,13 +1,13 @@
 ---
 title: ""
 description: "Sprayer elektrik tipe 3"
-date: "2023-11-24"
+date: "2023-03-21"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://www.dekorgetir.com/wp-content/uploads/3-arti-1-ev-ne-demek.jpeg"
-featuredImage: "https://i.pinimg.com/originals/19/09/4b/19094b99fac1e2fc738ad437b3d27075.jpg"
-featured_image: "https://katalogcba.com/wp-content/uploads/2022/09/Brosur-CBA-sprayer-Tipe-3.jpg"
+- "https://www.dekorgetir.com/wp-content/uploads/daire-tipleri.jpeg"
+featuredImage: "https://katalogcba.com/wp-content/uploads/2022/09/Brosur-CBA-sprayer-Tipe-3.jpg"
+featured_image: "https://www.birevim.com/blog/wp-content/uploads/2021/09/mustakil-ev.jpg"
 image: "https://katalogcba.com/wp-content/uploads/2021/06/sprayer-tipe-3-cover.jpg"
 ---
 

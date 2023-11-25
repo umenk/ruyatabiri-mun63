@@ -1,13 +1,13 @@
 ---
 title: ""
-description: "Yeşi̇l fasulye ve patlican sevmi̇yene sevdi̇ren tari̇f çok güzel bi̇r i̇ki̇li̇"
-date: "2022-12-26"
+description: "Taze patlıcan dolması tarifi"
+date: "2023-02-09"
 categories:
-- "Uncategorized"
+- "Ruya Tabiri"
 images:
-- "https://cdn.ye-mek.com/img/f/etli-taze-patlican-dolmasi.jpg"
+- "https://i.nefisyemektarifleri.com/2014/09/taze-patlican-dolmasi-tarifi-foto.jpg"
 featuredImage: "https://www.nkfu.com/wp-content/uploads/2014/12/ruyada-patlican.jpg"
-featured_image: "https://i.ytimg.com/vi/8lKTZJ02SuA/maxresdefault.jpg"
+featured_image: "https://i.ytimg.com/vi/LWY375Z-TRU/maxresdefault.jpg"
 image: "https://cdn.ye-mek.net/App_UI/Img/out/650/2014/09/etli-taze-patlican-dolmasi-resimli-yemek-tarifi(7).jpg"
 ---
 
