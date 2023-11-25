@@ -1,6 +1,6 @@
 
-title = "mockuphaven"
-baseurl = "https://mockuphaven.netlify.app"
+title = "Ruya Tabiri"
+baseurl = "https://ruyatabiri-3zm.pages.dev"
 MetaDataFormat = "yaml"
 themesDir = "themes"
 theme = "mundanem"
@@ -36,7 +36,7 @@ buildFuture = true
    hold = "/img/placeholder.svg"
    logo = "/logo.png"
    description = "Fuel your creativity and streamline your workflow with Get Mockup"
-   copyright = "Copyright 2023 [mockuphaven.netlify.app](https://mockuphaven.netlify.app)"
+   copyright = "Copyright 2023 [ruyatabiri-3zm.pages.dev](https://ruyatabiri-3zm.pages.dev)"
 
 [permalinks]
   "post" = "/:filename"
